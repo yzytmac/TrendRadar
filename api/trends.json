@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-12T18:30:48.945606+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2025-11-12T19:23:31.206835+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时30分 ~ 17时30分]"
-        },
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
           "url": "https://wallstreetcn.com/articles/3759159",
@@ -28,8 +17,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时30分 ~ 18时30分]"
+          "appearance_count": 9,
+          "time_info": "[14时30分 ~ 19时23分]"
+        },
+        {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时30分 ~ 17时30分]"
         },
         {
           "title": "硅谷AI“地震”：从债券市场开始？",
@@ -53,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时30分 ~ 18时30分]"
+          "appearance_count": 7,
+          "time_info": "[14时30分 ~ 19时23分]"
         },
         {
           "title": "机构：维持对软银的“持有”评级 公司债或面临AI估值波动风险",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "工信部就《人工智能 安全治理 安全威胁情报共享技术要求》等325项行业标准、22项行业标准外文版、55项推荐性国家标准和3项推荐性国家标准外文版计划项目公开征集意见。",
+          "url": "https://wallstreetcn.com/livenews/3003388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
@@ -229,7 +240,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -306,7 +317,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -372,7 +383,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         }
@@ -380,7 +391,7 @@
     },
     {
       "keyword_group": "电力 能源",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "国家能源局称「负电价」有可能会更频繁出现，它是如何产生的？对电力市场、电厂收益等有何影响？",
@@ -394,8 +405,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时30分 ~ 18时30分]"
+          "appearance_count": 9,
+          "time_info": "[14时30分 ~ 19时23分]"
         },
         {
           "title": "国家能源局：积极推动新能源与新兴产业融合互促发展",
@@ -407,8 +418,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时30分]"
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 19时23分]"
+        },
+        {
+          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
+          "url": "https://www.zhihu.com/question/1971857868463502728",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 19时23分]"
         },
         {
           "title": "11月11日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -433,19 +457,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时30分 ~ 14时58分]"
-        },
-        {
-          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
-          "url": "https://www.zhihu.com/question/1971857868463502728",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时30分]"
         },
         {
           "title": "【国家能源局：研究通过地方政府专项债对符合条件的新能源集成融合项目予以支持】国家能源局发布关于促进新能源集成融合发展的指导意见。其中提到，优化新能源集成融合项目核准（备案）、电网接入、电力业务许可证办理等相关流程，鼓励实现项目整体一站式办理相关手续。鼓励地方结合实际研究新能源与产业集成融合项目的多方合作机制。研究通过地方政府专项债对符合条件的新能源集成融合项目予以支持。",
@@ -506,6 +517,17 @@
           "time_info": "15时26分"
         },
         {
+          "title": "保加利亚能源部长否认该国燃料储备短缺",
+          "url": "https://wallstreetcn.com/livenews/3003366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "国际能源署（IEA）在最新重点报告中重新提出了乐观的原油需求增长情景。",
           "url": "https://wallstreetcn.com/livenews/3003175",
           "source": "华尔街见闻-快讯",
@@ -520,7 +542,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
@@ -555,8 +577,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 18时30分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 19时23分]"
+        },
+        {
+          "title": "以色列总统办公室：赫尔佐格总统收到美国总统特朗普的来信，信中呼吁他考虑赦免总理内塔尼亚胡。",
+          "url": "https://flash.jin10.com/detail/20251112184110534800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-12）",
@@ -565,7 +598,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -598,7 +631,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -612,6 +645,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 a股 港股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
+          "url": "https://www.cls.cn/detail/2197739",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 14时58分]"
+        },
+        {
+          "title": "一图看懂 | 新一轮A股“红包雨”来了，分红“大户”都有谁？",
+          "url": "https://www.cls.cn/detail/2198414",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 19时23分]"
+        },
+        {
+          "title": "港股收盘，恒生指数收涨0.85%，恒生科技指数收涨0.16%。新消费概念股走强，沪上阿姨涨近29%，毛戈平、蜜雪集团涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3003288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时30分]"
+        },
+        {
+          "title": "美联股份港股发行上市及境内未上市股份“全流通”获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3003379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "中际旭创据悉正考虑在港股上市，拟募资至少30亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3003280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "港股沪上阿姨尾盘冲高，一度涨超30%，成交额超2亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3003277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "中国证监会：境外投资者持有A股市值超3.5万亿元",
+          "url": "https://wallstreetcn.com/livenews/3003371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         }
       ]
     },
@@ -676,69 +794,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时57分 ~ 14时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 a股 港股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
-          "url": "https://www.cls.cn/detail/2197739",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时30分 ~ 14时58分]"
-        },
-        {
-          "title": "一图看懂 | 新一轮A股“红包雨”来了，分红“大户”都有谁？",
-          "url": "https://www.cls.cn/detail/2198414",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 18时30分]"
-        },
-        {
-          "title": "港股收盘，恒生指数收涨0.85%，恒生科技指数收涨0.16%。新消费概念股走强，沪上阿姨涨近29%，毛戈平、蜜雪集团涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3003288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时30分]"
-        },
-        {
-          "title": "中际旭创据悉正考虑在港股上市，拟募资至少30亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3003280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "港股沪上阿姨尾盘冲高，一度涨超30%，成交额超2亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3003277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         }
       ]
     }
