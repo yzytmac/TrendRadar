@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T19:24:22.318966+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2025-11-13T20:56:00.169337+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时26分 ~ 19时24分]"
+          "appearance_count": 25,
+          "time_info": "[01时26分 ~ 20时56分]"
         },
         {
           "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
@@ -63,6 +63,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时38分 ~ 19时24分]"
+        },
+        {
+          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时30分 ~ 20时56分]"
         },
         {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
@@ -102,6 +114,17 @@
           "time_info": "[15时25分 ~ 17时29分]"
         },
         {
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 20时56分]"
+        },
+        {
           "title": "特朗普送叙政权领导人自产香水",
           "url": "https://www.toutiao.com/trending/7572030694445272627/",
           "source": "今日头条",
@@ -113,17 +136,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时32分 ~ 18时30分]"
-        },
-        {
-          "title": "特朗普：美政府停摆损失1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 19时24分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -172,17 +184,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时25分 ~ 17时29分]"
-        },
-        {
-          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时30分 ~ 19时24分]"
         },
         {
           "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
@@ -319,7 +320,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -624,7 +625,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -690,6 +691,17 @@
           "time_info": "[12时32分 ~ 17时29分]"
         },
         {
+          "title": "AI造世界的时代来了",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.1",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
           "source": "bilibili 热搜",
@@ -713,6 +725,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "新加坡金管局提案 金融机构需明确AI风险管理责任",
+          "url": "https://flash.jin10.com/detail/20251113204011304800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "深度思维正式推出“数学做题家AI”，其在奥赛中取得相当于银牌的成绩",
@@ -832,6 +855,17 @@
           "time_info": "[11时21分 ~ 13时27分]"
         },
         {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
           "url": "https://wallstreetcn.com/livenews/3003648",
           "source": "华尔街见闻-快讯",
@@ -891,6 +925,17 @@
           "time_info": "[10时00分 ~ 10时01分]"
         },
         {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
           "title": "AI教母”李飞飞发布首款商用世界模型",
           "url": "https://wallstreetcn.com/livenews/3003769",
           "source": "华尔街见闻-快讯",
@@ -922,6 +967,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
+        },
+        {
+          "title": "AI编程初创公司Cursor融资23亿美元，估值达293亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3004181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -999,6 +1055,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "据华尔街日报：人工智能编码初创公司Cursor融资23亿美元，估值293亿美元。",
+          "url": "https://flash.jin10.com/detail/20251113200430334800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "“纸片人”风生水起，AI撬动，漫剧产业规模狂飙",
@@ -1103,7 +1170,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
@@ -1130,6 +1197,20 @@
           "time_info": "[00时35分 ~ 06时25分]"
         },
         {
+          "title": "哪些原因促成了今天A股的爆发",
+          "url": "https://www.toutiao.com/trending/7572112952220732954/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            1,
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 20时56分]"
+        },
+        {
           "title": "A股全线收跌，光伏领跌，医药、银行集体拉升，港股全线上涨，新消费延续涨势，农行AH再创新高，市值突破3万亿元",
           "url": "https://wallstreetcn.com/articles/3759183",
           "source": "华尔街见闻",
@@ -1143,19 +1224,6 @@
           "time_info": "[10时00分 ~ 16时35分]"
         },
         {
-          "title": "哪些原因促成了今天A股的爆发",
-          "url": "https://www.toutiao.com/trending/7572112952220732954/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 19时24分]"
-        },
-        {
           "title": "A股收盘：沪指涨0.73%刷新十年新高",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.73%25%E5%88%B7%E6%96%B0%E5%8D%81%E5%B9%B4%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -1163,8 +1231,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时25分 ~ 19时24分]"
+          "appearance_count": 9,
+          "time_info": "[15时25分 ~ 20时56分]"
+        },
+        {
+          "title": "一图看懂 | 锂电池红遍A股，产业链上市公司全梳理",
+          "url": "https://www.cls.cn/detail/2199850",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 20时56分]"
         },
         {
           "title": "恒生科技指数转涨，阿里巴巴港股直线拉升，现涨1%，消息称阿里秘密启动“千问”项目，全面对标ChatGPT。",
@@ -1250,6 +1330,18 @@
           "time_info": "[17时29分 ~ 19时24分]"
         },
         {
+          "title": "久违再现“百股涨停”！A股涨停数创2个月新高，这三大板块占比均超一成",
+          "url": "https://www.cls.cn/detail/2199818",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 20时56分]"
+        },
+        {
           "title": "明天A股将怎么走",
           "url": "https://www.toutiao.com/trending/7572102588787592746/",
           "source": "今日头条",
@@ -1263,17 +1355,6 @@
           "time_info": "[16时35分 ~ 18时30分]"
         },
         {
-          "title": "一图看懂 | 锂电池红遍A股，产业链上市公司全梳理",
-          "url": "https://www.cls.cn/detail/2199850",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
-        },
-        {
           "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
           "url": "https://wallstreetcn.com/livenews/3003643",
           "source": "华尔街见闻-快讯",
@@ -1284,17 +1365,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
-        },
-        {
-          "title": "久违再现“百股涨停”！A股涨停数创2个月新高，这三大板块占比均超一成",
-          "url": "https://www.cls.cn/detail/2199818",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）热门中概股行情一览（美股收盘）",
@@ -1317,6 +1387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "美股小型股有望跑赢大盘 盈利增长更快估值更具吸引力",
+          "url": "https://flash.jin10.com/detail/20251113202452131800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "展望A股2026年行情，三大投资主线获券商青睐",
@@ -1432,7 +1513,7 @@
     },
     {
       "keyword_group": "电力 能源",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
@@ -1477,6 +1558,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时35分 ~ 07时25分]"
+        },
+        {
+          "title": "国家能源局监管总监黄学农：统筹推进小型堆、四代堆、可控核聚变等新一代技术研发",
+          "url": "https://wallstreetcn.com/livenews/3004192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美国能源部宣布已授予合同，为战略石油储备采购约100万桶原油。",
@@ -1592,6 +1684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "国家能源局：鼓励符合条件的社会资本参与油气储备库、液化天然气接收站等投资建设",
+          "url": "https://wallstreetcn.com/livenews/3004178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "航空业ETF收涨约3.1%，领跑美股行业ETF，标普能源板块涨超1.4%",
