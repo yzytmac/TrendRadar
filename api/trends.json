@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T10:01:11.635645+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2025-11-13T11:21:55.436570+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 10时01分]"
+          "appearance_count": 12,
+          "time_info": "[01时26分 ~ 11时21分]"
         },
         {
           "title": "特朗普罕见为中国留学生辩护",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 11时21分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -138,7 +138,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -152,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "特朗普签署法案 美国政府停摆宣告结束",
+          "url": "https://flash.jin10.com/detail/20251113104453356800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "美国财长贝森特：选民们授权总统特朗普让美国恢复经济承受能力。 巩固国债市场是这个使命的一部分。 在2025年的发达国家市场，美债表现最佳。 美债的日常现金交易大约1万亿美元。 将继续考虑改善美债回购计划。 投资者对美债需求是如此的强烈，将继续监控投资者的需求。 不会改变债务发行的整体协议。 维持债市健康是我的头等大事。",
@@ -344,7 +355,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -380,8 +391,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 10时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 11时21分]"
         },
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -392,20 +403,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 10时01分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.1",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 11时21分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -419,6 +418,19 @@
           "time_info": "05时24分"
         },
         {
+          "title": "OpenAI发布GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 11时21分]"
+        },
+        {
           "title": "深度思维正式推出“数学做题家AI”，其在奥赛中取得相当于银牌的成绩",
           "url": "https://wallstreetcn.com/livenews/3003674",
           "source": "华尔街见闻-快讯",
@@ -428,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "五年五芯，百度宣布打造最硬AI云",
+          "url": "https://wallstreetcn.com/livenews/3003829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：AI正提高工人和企业的生产力。 AI生产力可能有助于解释高估值。",
@@ -518,7 +541,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -556,6 +579,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
+          "url": "https://www.zhihu.com/question/1972154575545955995",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "思科(CSCO.O)CEO：预计2026财年将从超大规模企业获得约30亿美元的人工智能基础设施收入。",
           "url": "https://flash.jin10.com/detail/20251113053804104800",
           "source": "金十数据",
@@ -589,6 +623,28 @@
           "time_info": "07时25分"
         },
         {
+          "title": "李彦宏：AI产业结构正从不健康的“正金字塔”转变为健康的“倒金字塔”",
+          "url": "https://wallstreetcn.com/livenews/3003794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "百度李彦宏回应AI泡沫争议",
+          "url": "https://wallstreetcn.com/livenews/3003791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "Anthropic承诺斥资500亿美元，在美国建设AI数据中心",
           "url": "https://wallstreetcn.com/livenews/3003511",
           "source": "华尔街见闻-快讯",
@@ -603,7 +659,7 @@
     },
     {
       "keyword_group": "电力 能源",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "国家能源局称「负电价」有可能会更频繁出现，它是如何产生的？对电力市场、电厂收益等有何影响？",
@@ -622,6 +678,18 @@
           "time_info": "[00时35分 ~ 07时25分]"
         },
         {
+          "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
+          "url": "https://www.cls.cn/detail/2199005",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 11时21分]"
+        },
+        {
           "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
           "url": "https://www.zhihu.com/question/1971857868463502728",
           "source": "知乎",
@@ -638,29 +706,6 @@
           "time_info": "[00时35分 ~ 07时25分]"
         },
         {
-          "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
-          "url": "https://www.cls.cn/detail/2199005",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 10时01分]"
-        },
-        {
-          "title": "内蒙古：到2027年新增汽车（不含货车）中新能源汽车占比达到35%",
-          "url": "https://wallstreetcn.com/livenews/3003775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
           "title": "美国能源部宣布已授予合同，为战略石油储备采购约100万桶原油。",
           "url": "https://flash.jin10.com/detail/20251113050532042800",
           "source": "金十数据",
@@ -670,6 +715,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "内蒙古：到2027年新增汽车（不含货车）中新能源汽车占比达到35%",
+          "url": "https://wallstreetcn.com/livenews/3003775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 11时21分]"
         },
         {
           "title": "美国能源部维持今年布油价格预期不变，将明年预期上调3美元",
@@ -693,6 +750,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 00时36分]"
+        },
+        {
+          "title": "工信部：编制“十五五”智能网联新能源汽车、新型电池产业发展规划",
+          "url": "https://wallstreetcn.com/livenews/3003822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：（就乌克兰能源腐败丑闻表示）这极其不幸。腐败没有容身之地，尤其是在当下。",
@@ -824,17 +892,6 @@
           "time_info": "[00时35分 ~ 06时25分]"
         },
         {
-          "title": "A股三大指数全线翻红，沪指上涨0.02%，深证成指上涨0.46%，创业板指上涨0.41%。",
-          "url": "https://wallstreetcn.com/livenews/3003777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251113050551816800",
           "source": "金十数据",
@@ -844,6 +901,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "A股三大指数全线翻红，沪指上涨0.02%，深证成指上涨0.46%，创业板指上涨0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3003777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 11时21分]"
         },
         {
           "title": "港股基金规模超万亿元，科技板块成聚集地",
@@ -931,7 +1000,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -950,7 +1019,7 @@
     },
     {
       "keyword_group": "芯片 科创",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "存储芯片涨价风暴前所未有！大摩上调三星、SK海力士目标价",
@@ -972,9 +1041,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "百度发布两款昆仑芯芯片及两款超节点方案",
+          "url": "https://wallstreetcn.com/livenews/3003815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "上证指数开盘报3996.51点，跌0.09%。 深证成指开盘报13228.50点，跌0.09%。 创业板指开盘报3119.09点，跌0.09%。 沪深300开盘报4643.79点，跌0.05%。 科创50开盘报1376.37点，跌0.22%。 中证500开盘报7243.64点，涨0.01%。 中证1000开盘报7483.66点，跌0.04%。",
@@ -983,7 +1063,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
