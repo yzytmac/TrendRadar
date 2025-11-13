@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T22:25:53.563094+08:00",
-  "total_titles_processed": 2046,
+  "generated_at": "2025-11-13T23:29:04.130828+08:00",
+  "total_titles_processed": 2132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 54,
+      "match_count": 57,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -44,6 +44,18 @@
           "time_info": "[00时35分 ~ 07时25分]"
         },
         {
+          "title": "AI造世界的时代来了",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时55分 ~ 23时29分]"
+        },
+        {
           "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
           "url": "https://www.cls.cn/detail/2198795",
           "source": "财联社热门",
@@ -58,17 +70,6 @@
           "time_info": "[00时35分 ~ 12时32分]"
         },
         {
-          "title": "AI造世界的时代来了",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时55分 ~ 22时25分]"
-        },
-        {
           "title": "AI争霸已切换至“能源战场”，大摩预测2028年美国电力缺口达20%！",
           "url": "https://www.cls.cn/detail/2199055",
           "source": "财联社热门",
@@ -80,6 +81,30 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时32分 ~ 17时29分]"
+        },
+        {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时55分 ~ 23时29分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时55分 ~ 23时29分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -129,18 +154,6 @@
           "time_info": "21时38分"
         },
         {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时55分 ~ 22时25分]"
-        },
-        {
           "title": "深度思维正式推出“数学做题家AI”，其在奥赛中取得相当于银牌的成绩",
           "url": "https://wallstreetcn.com/livenews/3003674",
           "source": "华尔街见闻-快讯",
@@ -158,21 +171,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时55分 ~ 22时25分]"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：AI正提高工人和企业的生产力。 AI生产力可能有助于解释高估值。",
@@ -246,6 +247,18 @@
           "time_info": "[03时22分 ~ 05时24分]"
         },
         {
+          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
+          "url": "https://wallstreetcn.com/articles/3759330",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时25分 ~ 23时29分]"
+        },
+        {
           "title": "腾讯Q3净利润同比增长19%，国际游戏业务收入大增43%，AI云推动企业服务收入双位数增长 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3759306",
           "source": "华尔街见闻",
@@ -267,6 +280,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时30分 ~ 19时24分]"
+        },
+        {
+          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2200065",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时25分 ~ 23时29分]"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
@@ -370,7 +395,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -384,17 +409,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        },
-        {
-          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
-          "url": "https://wallstreetcn.com/articles/3759330",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
         },
         {
           "title": "新加坡考虑明确金融机构高管对AI风险负责",
@@ -414,7 +428,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -430,15 +444,15 @@
           "time_info": "18时30分"
         },
         {
-          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2200065",
-          "source": "财联社热门",
+          "title": "马斯克旗下xAI融资150亿美元，将于12月12日完成E轮融资。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3004252",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时25分"
+          "time_info": "23时29分"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -483,6 +497,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "据CNBC：xAI本轮融资将于12月12日结束。",
+          "url": "https://flash.jin10.com/detail/20251113223736829800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "据CNBC援引消息人士报道，xAI在E轮融资中筹集150亿美元。",
+          "url": "https://flash.jin10.com/detail/20251113223650627800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "荣耀提前出了iPhoneAir2",
@@ -631,7 +667,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -951,6 +987,17 @@
           "time_info": "19时24分"
         },
         {
+          "title": "房利美下跌12%，创8月8日以来盘中新低，美国总统特朗普近日提出50年其抵押贷款假想。",
+          "url": "https://wallstreetcn.com/livenews/3004257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "特朗普签署法案 美国政府停摆宣告结束",
           "url": "https://flash.jin10.com/detail/20251113104453356800",
           "source": "金十数据",
@@ -1072,6 +1119,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "特朗普首席经济顾问：美国9月就业报告可能下周公布",
+          "url": "https://wallstreetcn.com/livenews/3004247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：（谈英国广播公司）美国总统特朗普对其演讲被编辑一事深感关切。",
           "url": "https://flash.jin10.com/detail/20251113024054748800",
           "source": "金十数据",
@@ -1081,6 +1139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "白宫国家经济委员会主任凯文·哈塞特：美国总统特朗普所谓的50年期抵押贷款是正在研究的许多政策方案之一。",
+          "url": "https://wallstreetcn.com/livenews/3004246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "特朗普带记者逛“总统星光大道”走廊",
@@ -1251,7 +1320,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
@@ -1266,6 +1335,18 @@
           "time_info": "[00时35分 ~ 06时25分]"
         },
         {
+          "title": "一图看懂 | 锂电池红遍A股，产业链上市公司全梳理",
+          "url": "https://www.cls.cn/detail/2199850",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时23分 ~ 23时29分]"
+        },
+        {
           "title": "一图看懂 | 新一轮A股“红包雨”来了，分红“大户”都有谁？",
           "url": "https://www.cls.cn/detail/2198414",
           "source": "财联社热门",
@@ -1276,18 +1357,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 06时25分]"
-        },
-        {
-          "title": "一图看懂 | 锂电池红遍A股，产业链上市公司全梳理",
-          "url": "https://www.cls.cn/detail/2199850",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时23分 ~ 22时25分]"
         },
         {
           "title": "哪些原因促成了今天A股的爆发",
@@ -1317,6 +1386,21 @@
           "time_info": "[10时00分 ~ 16时35分]"
         },
         {
+          "title": "久违再现“百股涨停”！A股涨停数创2个月新高，这三大板块占比均超一成",
+          "url": "https://www.cls.cn/detail/2199818",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时23分 ~ 23时29分]"
+        },
+        {
           "title": "A股收盘：沪指涨0.73%刷新十年新高",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.73%25%E5%88%B7%E6%96%B0%E5%8D%81%E5%B9%B4%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -1326,20 +1410,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[15时25分 ~ 20时56分]"
-        },
-        {
-          "title": "久违再现“百股涨停”！A股涨停数创2个月新高，这三大板块占比均超一成",
-          "url": "https://www.cls.cn/detail/2199818",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时23分 ~ 22时25分]"
         },
         {
           "title": "恒生科技指数转涨，阿里巴巴港股直线拉升，现涨1%，消息称阿里秘密启动“千问”项目，全面对标ChatGPT。",
@@ -1494,6 +1564,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "美股开盘下跌 连涨势头或将终结",
+          "url": "https://flash.jin10.com/detail/20251113230001158800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "哔哩哔哩美股盘前一度涨超6%，公司Q3营收76.9亿元，同比增长5%。",
           "url": "https://wallstreetcn.com/livenews/3004100",
           "source": "华尔街见闻-快讯",
@@ -1527,13 +1608,24 @@
           "time_info": "16时35分"
         },
         {
+          "title": "房利美股价下跌12%，至8月8日以来最低水平；房地美跌超10%。",
+          "url": "https://flash.jin10.com/detail/20251113225044627800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "周四美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3004230",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -1604,6 +1696,17 @@
           "time_info": "18时30分"
         },
         {
+          "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251113223632726800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "阿里巴巴港股持续走高，日内涨超5%。恒生科技指数涨幅扩大至1.5%。",
           "url": "https://wallstreetcn.com/livenews/3003916",
           "source": "华尔街见闻-快讯",
@@ -1618,7 +1721,7 @@
     },
     {
       "keyword_group": "电力 能源",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
@@ -1665,17 +1768,6 @@
           "time_info": "[00时35分 ~ 07时25分]"
         },
         {
-          "title": "豁免一年还是永久？匈美就购俄能源制裁表态各有侧重",
-          "url": "https://wallstreetcn.com/livenews/3004241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
           "title": "美国能源部宣布已授予合同，为战略石油储备采购约100万桶原油。",
           "url": "https://flash.jin10.com/detail/20251113050532042800",
           "source": "金十数据",
@@ -1720,6 +1812,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 13时27分]"
+        },
+        {
+          "title": "豁免一年还是永久？匈美就购俄能源制裁表态各有侧重",
+          "url": "https://wallstreetcn.com/livenews/3004241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时29分]"
         },
         {
           "title": "消息人士：奇异维诺瓦与西门子能源正就向叙利亚能源部门重建项目供应燃气轮机进行洽谈。",
@@ -1804,6 +1908,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "纳斯达克金龙中国指数盘初跌0.38%，随后转涨。 热门中概股里，B站跌6.9%，万国数据跌4.4%，世纪互联跌2%，百度、大全新能源、文远知行至多跌1.3%。 理想涨1.85%，贝壳涨2%，阿里巴巴涨3.3%。 ETF中，CQQQ涨0.2%，KWEB涨0.4%，ASHR涨1.12%。",
+          "url": "https://wallstreetcn.com/livenews/3004251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数涨0.8%，报362.06点，创10月28日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 沃旭能源Orsted AS涨4.6%，在一众北欧个股里表现第一。",
           "url": "https://wallstreetcn.com/livenews/3003546",
           "source": "华尔街见闻-快讯",
@@ -1813,6 +1928,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍下跌，半导体ETF跌1.2%，科技行业ETF跌0.7%，全球科技股指数ETF跌0.66%，能源业ETF涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3004250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "航空业ETF收涨约3.1%，领跑美股行业ETF，标普能源板块涨超1.4%",
@@ -1895,7 +2021,7 @@
     },
     {
       "keyword_group": "芯片 科创",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "存储芯片涨价风暴前所未有！大摩上调三星、SK海力士目标价",
@@ -1909,6 +2035,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 07时25分]"
+        },
+        {
+          "title": "科创板三季度净利增75%，“硬科技”企业研发投入持续加码",
+          "url": "https://wallstreetcn.com/livenews/3004237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时29分]"
         },
         {
           "title": "上交所副总经理傅浩：国际投资者已广泛投资于科创板公司及相关ETF产品中",
@@ -1946,17 +2084,6 @@
           "time_info": "10时01分"
         },
         {
-          "title": "科创板三季度净利增75%，“硬科技”企业研发投入持续加码",
-          "url": "https://wallstreetcn.com/livenews/3004237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
           "title": "上证指数收报4029.50点，涨0.73%。 深证成指收报13476.52点，涨1.78%。 创业板指收报3201.75点，涨2.55%。 沪深300收报4702.07点，涨1.21%。 科创50收报1399.29点，涨1.44%。 中证500收报7355.29点，涨1.55%。 中证1000收报7590.58点，涨1.39%。",
           "url": "https://wallstreetcn.com/livenews/3003939",
           "source": "华尔街见闻-快讯",
@@ -1988,6 +2115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "美国存储芯片股下跌，西部数据(WDC.O)下跌4%，闪迪(SNDK.O)下跌7%，希捷科技(STX.O)下跌4.3%",
+          "url": "https://flash.jin10.com/detail/20251113223620674800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美股存储芯片股盘前下跌，美光科技跌近3%，西部数据跌超4%。",
