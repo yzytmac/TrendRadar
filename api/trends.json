@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T17:28:43.421421+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2025-11-14T18:29:44.085641+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 17时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 18时29分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -37,8 +37,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 17时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 18时29分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -61,11 +61,12 @@
             7,
             8,
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 17时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 18时29分]"
         },
         {
           "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
@@ -95,6 +96,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时32分 ~ 14时38分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)：BirdyChat和Haiket将成为首批与WhatsApp实现消息互通的外部服务。",
+          "url": "https://flash.jin10.com/detail/20251114180518359800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "亚洲AI热潮面临降温，外资抛售潮持续加剧",
@@ -169,6 +181,18 @@
           "time_info": "[13时26分 ~ 14时38分]"
         },
         {
+          "title": "AI泡沫警告声四起！继华尔街之后，相关企业高管们也承认了……",
+          "url": "https://www.cls.cn/detail/2200800",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时29分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-14）",
           "url": "https://flash.jin10.com/detail/20251114115348256800",
           "source": "金十数据",
@@ -229,18 +253,6 @@
           "time_info": "[05时24分 ~ 06时25分]"
         },
         {
-          "title": "AI泡沫警告声四起！继华尔街之后，相关企业高管们也承认了……",
-          "url": "https://www.cls.cn/detail/2200800",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时28分]"
-        },
-        {
           "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：从联系人处得知，通胀过高，且正朝着错误的方向发展。 在特朗普政府停摆期间，非官方数据（Anecdotal Data）一直很重要。 美国经济一直表现出惊人的韧性。 随着就业市场的疲软，美联储的就业目标（即双重使命中的就业方面）正面临挑战。 当前失业率徘徊在最高水平附近。 部分通胀可能由关税推动，但服务业通胀是一个真正的担忧。 对FOMC货币政策而言，这是一个困难的时期。 美联储政策需要保持一定的限制性，以抑制通胀压力。 预计关税将推高通胀，并持续到明年初。 目前就业市场看起来平衡，但仍有值得担忧的原因。 美联储的独立性对于实现就业和通胀目标至关重要。 政治在制定货币政策中不发挥任何作用。 现在断言人工智能（A.I.）会发生什么为时过早。 人工智能公司的估值是否合理，需要时间来证明。",
           "url": "https://wallstreetcn.com/livenews/3004318",
           "source": "华尔街见闻-快讯",
@@ -251,6 +263,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时22分]"
+        },
+        {
+          "title": "小伙高铁上用AI眼镜玩游戏",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8AI%E7%9C%BC%E9%95%9C%E7%8E%A9%E6%B8%B8%E6%88%8F",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时29分]"
         },
         {
           "title": "创业板指跌超2%，沪指跌0.34%，深成指跌1.22%，存储芯片、贵金属、算力硬件、光刻机等方向领跌，沪深京三市下跌个股近2900只。",
@@ -352,6 +376,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "TCL华星正在构建AI五星架构",
+          "url": "https://wallstreetcn.com/livenews/3004785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "美联储哈玛克：时间将证明人工智能公司的估值是否合理。",
           "url": "https://flash.jin10.com/detail/20251114020002971800",
           "source": "金十数据",
@@ -361,17 +396,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "小伙高铁上用AI眼镜玩游戏",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8AI%E7%9C%BC%E9%95%9C%E7%8E%A9%E6%B8%B8%E6%88%8F",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美联储哈玛克：现在就说人工智能会怎样还为时过早。",
@@ -465,7 +489,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -475,8 +499,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时30分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时30分 ~ 18时29分]"
+        },
+        {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://www.cls.cn/detail/2200844",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时29分]"
         },
         {
           "title": "英国文化大臣南迪：BBC已经正确地接受了在特朗普纪录片中，它的表现未达最高标准。BBC是英国乃至全球一个极其重要的机构。BBC向美国总统特朗普道歉是正确的。",
@@ -501,6 +538,18 @@
           "time_info": "04时30分"
         },
         {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时29分]"
+        },
+        {
           "title": "英国广播公司（BBC）第二次篡改了美国总统特朗普的演讲。",
           "url": "https://flash.jin10.com/detail/20251114010952767800",
           "source": "金十数据",
@@ -510,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-14）",
+          "url": "https://flash.jin10.com/detail/20251114180335424800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "美国准备实施一定程度上的关税豁免，从而降低食品价格。 其中将包括牛肉和柑橘（类）产品。 然而，总统特朗普尚未做最终的决定。（纽约时报）",
@@ -536,18 +596,6 @@
           "time_info": "[09时59分 ~ 14时38分]"
         },
         {
-          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
-          "url": "https://www.cls.cn/detail/2200844",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时28分]"
-        },
-        {
           "title": "特朗普将在美东时间下午2点（北京时间凌晨3点）签署新的行政命令。",
           "url": "https://flash.jin10.com/detail/20251114025925256800",
           "source": "金十数据",
@@ -571,17 +619,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 04时30分]"
-        },
-        {
-          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
-          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时28分]"
         },
         {
           "title": "国际货币基金组织（IMF）因特朗普政府关门事件而推迟与美国的“第四条款磋商”（US Article IV discussions），原定11月进行。 IMF通讯主管Julie Kozack在一次新闻发布会上表示：“数据的缺失最近使我们难以评估美国经济状况，也难以开展第四条款磋商的初步工作。” 尚未确定磋商的新日期，但IMF将与美国当局协商新的时间表。 第四条款磋商是对IMF成员国经济进行的年度审查，通常涵盖货币、财政和其他政策。",
@@ -1092,7 +1129,7 @@
     },
     {
       "keyword_group": "电力 能源",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "新能源车购置税明年起将从全免调为减半，这一变化意味着什么？将带来哪些影响？",
@@ -1103,11 +1140,12 @@
             17,
             13,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 17时28分]"
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 18时29分]"
         },
         {
           "title": "爱丽舍宫：法国总统马克龙与乌克兰总统泽连斯基将在巴黎会晤期间讨论能源、经济和国防等领域的双边合作。",
@@ -1116,7 +1154,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1141,6 +1179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "我国首艘符合新能源车海运国际新标准运输船完工",
+          "url": "https://wallstreetcn.com/livenews/3004807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "印度政府：印度与加拿大同意鼓励在关键矿物和清洁能源领域建立长期供应链伙伴关系与合作。",
@@ -1218,7 +1267,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1262,6 +1311,18 @@
           "time_info": "15时26分"
         },
         {
+          "title": "【每日收评】沪指跌近1%失守4000点，存储芯片板块遭遇重挫，福建、海南本地股逆势活跃",
+          "url": "https://www.cls.cn/detail/2200927",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时29分]"
+        },
+        {
           "title": "上证指数早盘收报4022.89点，跌0.16%。 深证成指早盘收报13327.91点，跌1.10%。 创业板指早盘收报3146.01点，跌1.74%。 沪深300早盘收报4666.68点，跌0.75%。 科创50早盘收报1378.27点，跌1.50%。 中证500早盘收报7296.48点，跌0.80%。 中证1000早盘收报7567.79点，跌0.30%。",
           "url": "https://wallstreetcn.com/livenews/3004572",
           "source": "华尔街见闻-快讯",
@@ -1272,17 +1333,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 13时26分]"
-        },
-        {
-          "title": "【每日收评】沪指跌近1%失守4000点，存储芯片板块遭遇重挫，福建、海南本地股逆势活跃",
-          "url": "https://www.cls.cn/detail/2200927",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "瑞芯微：公司不同SoC均具备多类型DDR支持能力 下一代旗舰芯片计划明年推出",
@@ -1346,7 +1396,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
