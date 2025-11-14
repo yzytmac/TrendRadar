@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T15:26:09.552967+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2025-11-14T16:34:52.532625+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 15时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 16时34分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -33,11 +33,12 @@
             11,
             14,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 15时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 16时34分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -63,8 +64,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 15时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 16时34分]"
         },
         {
           "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
@@ -262,6 +263,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "Uzi用AI分析自己复出可能性",
+          "url": "https://search.bilibili.com/all?keyword=Uzi%E7%94%A8AI%E5%88%86%E6%9E%90%E8%87%AA%E5%B7%B1%E5%A4%8D%E5%87%BA%E5%8F%AF%E8%83%BD%E6%80%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "汇丰：腾讯料加大AI投入以强化长期增长动能 维持买入评级",
           "url": "https://flash.jin10.com/detail/20251114130147456800",
           "source": "金十数据",
@@ -271,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "AI泡沫警告声四起！继华尔街之后，相关企业高管们也承认了……",
+          "url": "https://www.cls.cn/detail/2200800",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
@@ -430,8 +453,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时30分 ~ 16时34分]"
+        },
         {
           "title": "英国文化大臣南迪：BBC已经正确地接受了在特朗普纪录片中，它的表现未达最高标准。BBC是英国乃至全球一个极其重要的机构。BBC向美国总统特朗普道歉是正确的。",
           "url": "https://flash.jin10.com/detail/20251114151513055800",
@@ -439,7 +473,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -453,17 +487,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
-        },
-        {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时30分 ~ 15时26分]"
         },
         {
           "title": "英国广播公司（BBC）第二次篡改了美国总统特朗普的演讲。",
@@ -585,6 +608,17 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "美国总统特朗普推动的近海钻探计划在加利福尼亚州遭遇根深蒂固的反对。",
           "url": "https://flash.jin10.com/detail/20251114000857927800",
           "source": "金十数据",
@@ -594,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://www.cls.cn/detail/2200844",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "特朗普送叙利亚领导人香水还问有几个妻子，美网民：缺乏外交礼仪",
@@ -706,6 +751,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3004701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "特朗普顾问哈塞特：估计美国政府停摆造成6万人失业",
           "url": "https://wallstreetcn.com/livenews/3004391",
           "source": "华尔街见闻-快讯",
@@ -775,7 +831,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "一图看懂 | 锂电池红遍A股，产业链上市公司全梳理",
@@ -886,6 +942,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
+          "title": "港股收盘，恒生指数收跌1.85%，恒生科技指数收跌2.82%。百度集团跌超7%，京东集团跌超6%，阿里巴巴跌超4%；天齐锂业跌近5%，赣锋锂业跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3004712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览（美股收盘）",
@@ -1012,7 +1079,7 @@
     },
     {
       "keyword_group": "电力 能源",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "新能源车购置税明年起将从全免调为减半，这一变化意味着什么？将带来哪些影响？",
@@ -1026,8 +1093,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 15时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时20分 ~ 16时34分]"
+        },
+        {
+          "title": "11月13日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20251114161813675800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "APA Corp.涨幅扩大至7%，Repsol涨2%。 彭博援引知情人士报道称，Repsol SA考虑对旗下190亿美元上游业务实施反向收购，计划与美国能源生产商APA Corp.等潜在伙伴洽谈。",
@@ -1088,13 +1166,24 @@
           "time_info": "01时25分"
         },
         {
+          "title": "乌克兰能源部：俄罗斯昨夜对能源设施发动袭击，导致基辅、敖德萨和顿涅茨克部分地区断电。",
+          "url": "https://flash.jin10.com/detail/20251114160451194800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "COP30“中国角”边会呼吁国际社会推进公正能源转型",
           "url": "https://wallstreetcn.com/livenews/3004651",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1133,7 +1222,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1156,7 +1245,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1167,7 +1256,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1178,7 +1267,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1189,7 +1278,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
