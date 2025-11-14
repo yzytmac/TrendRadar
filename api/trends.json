@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-15T04:29:28.034268+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2025-11-15T05:24:12.408768+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时24分]"
+        },
         {
           "title": "美国官员表示，美国总统特朗普很可能向沙特出售F-35战斗机。",
           "url": "https://flash.jin10.com/detail/20251115031611810800",
@@ -19,15 +30,27 @@
           "time_info": "03时21分"
         },
         {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
+          "title": "特朗普政府下调美国大豆出口前景预测",
+          "url": "https://wallstreetcn.com/livenews/3005036",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
+          "url": "https://wallstreetcn.com/livenews/3005021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
         },
         {
           "title": "前美国财长萨默斯、高盛律师曾向爱泼斯坦吐槽特朗普：“粗俗”、“恶心”",
@@ -52,6 +75,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
+          "url": "https://flash.jin10.com/detail/20251115034601291800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
         },
         {
           "title": "美国总统特朗普：瑞士与Liechtenstein（列支敦士登）有意合作，美方将确保供应链。",
@@ -90,6 +125,42 @@
           "time_info": "[01时23分 ~ 02时36分]"
         },
         {
+          "title": "特朗普最新任命的美联储理事：根据滞后数据来制定政策和让就业市场走弱都是错误的",
+          "url": "https://wallstreetcn.com/livenews/3005014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "美国总统特朗普料将下调牛肉、西红柿、咖啡、香蕉关税。",
+          "url": "https://wallstreetcn.com/livenews/3005012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "特朗普拟削减部分食品杂货的关税",
+          "url": "https://flash.jin10.com/detail/20251115032227823800",
+          "source": "金十数据",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
           "title": "巴西最高法院小组已形成多数意见，将对议员爱德华多·博索纳罗进行审判，理由是他试图让美国总统特朗普介入前总统博索纳罗的刑事案件。",
           "url": "https://flash.jin10.com/detail/20251115031502911800",
           "source": "金十数据",
@@ -99,17 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
-          "url": "https://wallstreetcn.com/livenews/3005021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
         },
         {
           "title": "美国总统特朗普：今年感恩节的开销将比去年降低25%。",
@@ -132,17 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
-        },
-        {
-          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
-          "url": "https://flash.jin10.com/detail/20251115034601291800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
         },
         {
           "title": "美国总统特朗普：寻求调查爱泼斯坦与摩根大通的关系。",
@@ -178,28 +227,6 @@
           "time_info": "00时33分"
         },
         {
-          "title": "特朗普最新任命的美联储理事：根据滞后数据来制定政策和让就业市场走弱都是错误的",
-          "url": "https://wallstreetcn.com/livenews/3005014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美国总统特朗普料将下调牛肉、西红柿、咖啡、香蕉关税。",
-          "url": "https://wallstreetcn.com/livenews/3005012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
           "url": "https://flash.jin10.com/detail/20251115004419214800",
           "source": "金十数据",
@@ -231,17 +258,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普拟削减部分食品杂货的关税",
-          "url": "https://flash.jin10.com/detail/20251115032227823800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
         },
         {
           "title": "美国参议院民主党成员Warren再次呼吁特朗普政府发布那些至关重要的经济数据",
@@ -377,7 +393,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -387,8 +403,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -398,8 +414,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
@@ -410,8 +426,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -421,8 +437,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
@@ -435,6 +451,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时23分]"
+        },
+        {
+          "title": "美股三大股指集体低开 特斯拉跌超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
         },
         {
           "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
@@ -465,17 +492,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "美联储洛根：经济正受益于与人工智能相关的投资。",
-          "url": "https://flash.jin10.com/detail/20251115040927220800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
           "url": "https://www.cls.cn/detail/2200994",
           "source": "财联社热门",
@@ -484,8 +500,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
@@ -495,19 +511,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 04时29分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 05时24分]"
+        },
+        {
+          "title": "美联储洛根：经济正受益于与人工智能相关的投资。",
+          "url": "https://flash.jin10.com/detail/20251115040927220800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3005022",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
         },
         {
           "title": "武汉造全球首台AI胶囊内镜获广泛应用",
