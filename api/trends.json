@@ -1,11 +1,322 @@
 {
-  "generated_at": "2025-11-14T07:25:10.583936+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2025-11-14T09:59:35.895265+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI 人工智能 算力",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
+          "url": "https://wallstreetcn.com/articles/3759330",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时59分]"
+        },
+        {
+          "title": "AI造世界的时代来了",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时59分]"
+        },
+        {
+          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2200065",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时59分]"
+        },
+        {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时59分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时59分]"
+        },
+        {
+          "title": "马斯克：媒体关于xAI融资的报道“不实”。",
+          "url": "https://wallstreetcn.com/livenews/3004285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时25分]"
+        },
+        {
+          "title": "新西兰联储货币政策委员会（MPC）成员Prasanna Gai：提高（联储主席人事）透明度，构建信任。 面临不确定性之际，主管的干预给问题带来澄清。",
+          "url": "https://wallstreetcn.com/livenews/3004362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时24分]"
+        },
+        {
+          "title": "美国圣路易联储主席Musalem（2025年FOMC票委）：AI似乎支持生产力。 对“已经宣布的大部分裁员都与AI相关”保持怀疑态度，更有可能解释了自动化。",
+          "url": "https://wallstreetcn.com/livenews/3004338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时30分]"
+        },
+        {
+          "title": "特斯拉AI负责人警告员工：2026年将是“人生中最艰难的一年”",
+          "url": "https://wallstreetcn.com/livenews/3004275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时25分]"
+        },
+        {
+          "title": "Mira Murati旗下AI初创公司Thinking Machines Lab洽谈按500亿美元估值融资。",
+          "url": "https://wallstreetcn.com/livenews/3004372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时25分]"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：从联系人处得知，通胀过高，且正朝着错误的方向发展。 在特朗普政府停摆期间，非官方数据（Anecdotal Data）一直很重要。 美国经济一直表现出惊人的韧性。 随着就业市场的疲软，美联储的就业目标（即双重使命中的就业方面）正面临挑战。 当前失业率徘徊在最高水平附近。 部分通胀可能由关税推动，但服务业通胀是一个真正的担忧。 对FOMC货币政策而言，这是一个困难的时期。 美联储政策需要保持一定的限制性，以抑制通胀压力。 预计关税将推高通胀，并持续到明年初。 目前就业市场看起来平衡，但仍有值得担忧的原因。 美联储的独立性对于实现就业和通胀目标至关重要。 政治在制定货币政策中不发挥任何作用。 现在断言人工智能（A.I.）会发生什么为时过早。 人工智能公司的估值是否合理，需要时间来证明。",
+          "url": "https://wallstreetcn.com/livenews/3004318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时22分]"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.34%，深成指跌1.22%，存储芯片、贵金属、算力硬件、光刻机等方向领跌，沪深京三市下跌个股近2900只。",
+          "url": "https://wallstreetcn.com/livenews/3004500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
+          "url": "https://www.cls.cn/detail/2200326",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "经济学家：AI正处于“理性泡沫”中 或令部分投资者蒙受损失",
+          "url": "https://www.cls.cn/detail/2200129",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
+          "url": "https://wallstreetcn.com/livenews/3004415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "韩国称，已经与美国敲定事实清单。 韩国和美国将在造船、人工智能、核工业方面建立新的伙伴关系。 韩国和美国同意，韩国在美投资将仅限于商业上可行的项目。 韩国和美国同意推进核动力潜艇建造。 韩国赢得美国支持，以扩大韩国的铀浓缩权。 韩国称，全球不确定性短期内不会缓解。 韩国表示，将加强与英伟达这类公司的联系。",
+          "url": "https://wallstreetcn.com/livenews/3004482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "法院文件显示，美国法官裁定苹果(AAPL.O)和OpenAI目前必须应对社交媒体平台“X”的反垄断诉讼。",
+          "url": "https://flash.jin10.com/detail/20251114061331126800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美联储哈玛克：时间将证明人工智能公司的估值是否合理。",
+          "url": "https://flash.jin10.com/detail/20251114020002971800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美联储哈玛克：现在就说人工智能会怎样还为时过早。",
+          "url": "https://flash.jin10.com/detail/20251114015816771800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "市场消息：OpenAI前首席技术官Mira Murati的公司Thinking Machines Lab在融资谈判中估值达500亿美元。",
+          "url": "https://flash.jin10.com/detail/20251114044411055800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "马斯克旗下xAI融资150亿美元，将于12月12日完成E轮融资。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3004252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "网信部门从严整治利用AI仿冒公众人物开展直播营销问题乱象：已处置仿冒公众人物账号1.1万余个。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3004476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "市场消息：Cognizant将收购3Cloud，打造微软Azure服务和企业人工智能转型领域的领先力量。",
+          "url": "https://flash.jin10.com/detail/20251114005555049800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "AI会如何改编游戏行业",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%A6%82%E4%BD%95%E6%94%B9%E7%BC%96%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美联储穆萨莱姆：怀疑大多数已宣布的裁员与人工智能无关，更可能是普通的自动化技术。",
+          "url": "https://flash.jin10.com/detail/20251114024141963800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美联储穆萨莱姆：人工智能似乎正在提高生产力，同时取代工人。",
+          "url": "https://flash.jin10.com/detail/20251114024049855800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国总统特朗普的法律团队表示，特朗普尚未对英国广播公司（BBC）提起诉讼。",
@@ -36,7 +347,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -158,6 +469,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
+          "url": "https://www.cls.cn/detail/2200266",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "美国总统夫人梅拉尼娅：特朗普总统将签署一项行政命令，旨在改善医疗保健、粮食安全和其他社会福利。",
           "url": "https://flash.jin10.com/detail/20251114032003225800",
           "source": "金十数据",
@@ -270,261 +592,8 @@
       ]
     },
     {
-      "keyword_group": "AI 人工智能 算力",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
-          "url": "https://wallstreetcn.com/articles/3759330",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "AI造世界的时代来了",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2200065",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "马斯克：媒体关于xAI融资的报道“不实”。",
-          "url": "https://wallstreetcn.com/livenews/3004285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时25分]"
-        },
-        {
-          "title": "新西兰联储货币政策委员会（MPC）成员Prasanna Gai：提高（联储主席人事）透明度，构建信任。 面临不确定性之际，主管的干预给问题带来澄清。",
-          "url": "https://wallstreetcn.com/livenews/3004362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时24分]"
-        },
-        {
-          "title": "美国圣路易联储主席Musalem（2025年FOMC票委）：AI似乎支持生产力。 对“已经宣布的大部分裁员都与AI相关”保持怀疑态度，更有可能解释了自动化。",
-          "url": "https://wallstreetcn.com/livenews/3004338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时30分]"
-        },
-        {
-          "title": "特斯拉AI负责人警告员工：2026年将是“人生中最艰难的一年”",
-          "url": "https://wallstreetcn.com/livenews/3004275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时25分]"
-        },
-        {
-          "title": "Mira Murati旗下AI初创公司Thinking Machines Lab洽谈按500亿美元估值融资。",
-          "url": "https://wallstreetcn.com/livenews/3004372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时25分]"
-        },
-        {
-          "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：从联系人处得知，通胀过高，且正朝着错误的方向发展。 在特朗普政府停摆期间，非官方数据（Anecdotal Data）一直很重要。 美国经济一直表现出惊人的韧性。 随着就业市场的疲软，美联储的就业目标（即双重使命中的就业方面）正面临挑战。 当前失业率徘徊在最高水平附近。 部分通胀可能由关税推动，但服务业通胀是一个真正的担忧。 对FOMC货币政策而言，这是一个困难的时期。 美联储政策需要保持一定的限制性，以抑制通胀压力。 预计关税将推高通胀，并持续到明年初。 目前就业市场看起来平衡，但仍有值得担忧的原因。 美联储的独立性对于实现就业和通胀目标至关重要。 政治在制定货币政策中不发挥任何作用。 现在断言人工智能（A.I.）会发生什么为时过早。 人工智能公司的估值是否合理，需要时间来证明。",
-          "url": "https://wallstreetcn.com/livenews/3004318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时22分]"
-        },
-        {
-          "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
-          "url": "https://wallstreetcn.com/livenews/3004415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "法院文件显示，美国法官裁定苹果(AAPL.O)和OpenAI目前必须应对社交媒体平台“X”的反垄断诉讼。",
-          "url": "https://flash.jin10.com/detail/20251114061331126800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "美联储哈玛克：时间将证明人工智能公司的估值是否合理。",
-          "url": "https://flash.jin10.com/detail/20251114020002971800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "美联储哈玛克：现在就说人工智能会怎样还为时过早。",
-          "url": "https://flash.jin10.com/detail/20251114015816771800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "市场消息：OpenAI前首席技术官Mira Murati的公司Thinking Machines Lab在融资谈判中估值达500亿美元。",
-          "url": "https://flash.jin10.com/detail/20251114044411055800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "马斯克旗下xAI融资150亿美元，将于12月12日完成E轮融资。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3004252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "市场消息：Cognizant将收购3Cloud，打造微软Azure服务和企业人工智能转型领域的领先力量。",
-          "url": "https://flash.jin10.com/detail/20251114005555049800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "AI会如何改编游戏行业",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%A6%82%E4%BD%95%E6%94%B9%E7%BC%96%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美联储穆萨莱姆：怀疑大多数已宣布的裁员与人工智能无关，更可能是普通的自动化技术。",
-          "url": "https://flash.jin10.com/detail/20251114024141963800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美联储穆萨莱姆：人工智能似乎正在提高生产力，同时取代工人。",
-          "url": "https://flash.jin10.com/detail/20251114024049855800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 a股 港股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "一图看懂 | 锂电池红遍A股，产业链上市公司全梳理",
@@ -563,27 +632,28 @@
           "time_info": "[00时32分 ~ 07时25分]"
         },
         {
+          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
+          "url": "https://www.cls.cn/detail/2200254",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时25分 ~ 09时59分]"
+        },
+        {
           "title": "A股锂电池板块大涨，产业链投资机遇凸显",
           "url": "https://wallstreetcn.com/livenews/3004432",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
-          "url": "https://www.cls.cn/detail/2200254",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "美股费城金银指数收跌2.63%，报297.06点，微幅高开后持续下挫，北京时间02:25开始一波加速下跌的行情。 纽约证交所ARCA金矿开采商指数收跌1.60%，报2183.49点，22:38（美股盘初）迅速涨至2245.18点刷新日高，之后持续下挫，02:21短线加速下跌。",
@@ -650,7 +720,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -688,6 +758,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "美股大跌 特斯拉跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "房利美和房地美股价重挫，报道称美国联邦住房金融局局长曾被调查",
           "url": "https://wallstreetcn.com/livenews/3004257",
           "source": "华尔街见闻-快讯",
@@ -697,6 +778,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美股全线下挫 特斯拉跌超6%",
+          "url": "https://www.toutiao.com/trending/7571618548569735174/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美股创一个月最大单日跌幅，美国政府关门事件结束，经济数据推迟发布，投资者重估美联储12月降息前景",
@@ -807,9 +899,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 科创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数开盘报4007.13点，跌0.56%。 深证成指开盘报13323.45点，跌1.14%。 创业板指开盘报3145.92点，跌1.74%。 沪深300开盘报4663.32点，跌0.82%。 科创50开盘报1379.44点，跌1.42%。 中证500开盘报7283.70点，跌0.97%。 中证1000开盘报7527.83点，跌0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3004486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     }
