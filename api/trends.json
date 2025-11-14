@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T21:35:27.801947+08:00",
-  "total_titles_processed": 1914,
+  "generated_at": "2025-11-14T22:26:51.308401+08:00",
+  "total_titles_processed": 2002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时32分 ~ 21时35分]"
+          "appearance_count": 27,
+          "time_info": "[00时32分 ~ 22时26分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -123,6 +123,17 @@
           "time_info": "18时29分"
         },
         {
+          "title": "沙特王储将前往美国华盛顿，讨论人工智能（AI）芯片与核技术等议题。",
+          "url": "https://wallstreetcn.com/livenews/3004921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "亚洲AI热潮面临降温，外资抛售潮持续加剧",
           "url": "https://flash.jin10.com/detail/20251114130900870800",
           "source": "金十数据",
@@ -199,11 +210,12 @@
           "url": "https://www.cls.cn/detail/2200994",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时53分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 22时26分]"
         },
         {
           "title": "小伙高铁上用AI眼镜玩游戏",
@@ -489,6 +501,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "武汉造全球首台AI胶囊内镜获广泛应用",
+          "url": "https://www.toutiao.com/trending/7572001120726908978/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "广汽集团与阿里云签署全栈AI战略合作协议",
           "url": "https://wallstreetcn.com/livenews/3004840",
           "source": "华尔街见闻-快讯",
@@ -514,7 +537,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -535,11 +558,12 @@
           "url": "https://news.ifeng.com/c/8oGsK5I0blR",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时30分 ~ 21时35分]"
+          "appearance_count": 13,
+          "time_info": "[12时30分 ~ 22时26分]"
         },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -596,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "瑞士政府：感谢特朗普的建设性接触。",
+          "url": "https://flash.jin10.com/detail/20251114220851366800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "美国准备实施一定程度上的关税豁免，从而降低食品价格。 其中将包括牛肉和柑橘（类）产品。 然而，总统特朗普尚未做最终的决定。（纽约时报）",
@@ -918,7 +953,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "一图看懂 | 锂电池红遍A股，产业链上市公司全梳理",
@@ -993,6 +1028,28 @@
           "time_info": "07时25分"
         },
         {
+          "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达盘前跌超3%，币圈连崩，黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3759354",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2201293",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美股三大股指期货持续走低，纳斯达克100指数期货跌幅扩大至1.5%，标普500指数期货跌至1%。英伟达盘前跌3.3%，谷歌跌2.7%，博通跌2.5%，台积电跌3.4%，特斯拉跌5%。现货黄金回落至4110美元/盎司下方，日内跌约1.5%。",
           "url": "https://wallstreetcn.com/livenews/3004877",
           "source": "华尔街见闻-快讯",
@@ -1013,8 +1070,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 22时26分]"
+        },
+        {
+          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1972596571733497781",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时53分 ~ 21时35分]"
+          "time_info": "[21时34分 ~ 22时26分]"
         },
         {
           "title": "美股大跌 特斯拉跌超6%",
@@ -1066,15 +1135,15 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
-          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1972596571733497781",
-          "source": "知乎",
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3004914",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "港股收盘，恒生指数收跌1.85%，恒生科技指数收跌2.82%。百度集团跌超7%，京东集团跌超6%，阿里巴巴跌超4%；天齐锂业跌近5%，赣锋锂业跌超3%。",
@@ -1414,11 +1483,12 @@
           "ranks": [
             9,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 21时35分]"
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 22时26分]"
         },
         {
           "title": "国芯科技：中高端汽车电子芯片量产销售正处于爬坡攀升阶段",
