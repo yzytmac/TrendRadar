@@ -1,329 +1,145 @@
 {
-  "generated_at": "2025-11-16T23:23:37.140528+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2025-11-17T00:29:01.517373+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 20,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
-          "url": "https://www.cls.cn/detail/2201554",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时51分 ~ 23时23分]"
-        },
-        {
-          "title": "大湾区国际创客峰会暨Maker Faire Shenzhen 2025在深圳开幕",
-          "url": "https://wallstreetcn.com/livenews/3005195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 10时05分]"
-        },
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
           "url": "https://www.cls.cn/detail/2201789",
           "source": "财联社热门",
           "ranks": [
-            13,
-            7,
-            4,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时24分 ~ 23时23分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "AI爆梗王?串子罗伯特炸翻全场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
-          "source": "贴吧",
+          "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
+          "url": "https://www.cls.cn/detail/2201554",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            14,
-            18,
-            19,
-            20,
-            21,
-            23,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时28分 ~ 23时23分]"
-        },
-        {
-          "title": "浙江：“十五五”时期要加快建设人工智能创新发展高地",
-          "url": "https://wallstreetcn.com/livenews/3005187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时23分]"
-        },
-        {
-          "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
-          "url": "https://wallstreetcn.com/livenews/3005171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时23分]"
-        },
-        {
-          "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
-          "url": "https://wallstreetcn.com/livenews/3005341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时46分 ~ 23时23分]"
-        },
-        {
-          "title": "易点天下与阿里云达成AI漫剧出海框架合作协议，共同打造首个AI漫剧出海加速增长引擎",
-          "url": "https://wallstreetcn.com/livenews/3005243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            16,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时52分 ~ 15时24分]"
-        },
-        {
-          "title": "智谱董事长刘德兵：完全支持开源，我们已开源40多款AI模型",
-          "url": "https://wallstreetcn.com/livenews/3005235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15,
-            22,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时52分 ~ 15时24分]"
-        },
-        {
-          "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题",
-          "url": "https://wallstreetcn.com/livenews/3005267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 17时25分]"
-        },
-        {
-          "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3005332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时46分 ~ 23时23分]"
-        },
-        {
-          "title": "中国电信与优必选合作的10万台AI悟空机器人开启交付",
-          "url": "https://wallstreetcn.com/livenews/3005279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 19时19分]"
-        },
-        {
-          "title": "FURIA战胜paiN晋级BLAST决赛",
-          "url": "https://search.bilibili.com/all?keyword=FURIA%20paiN",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
-        },
-        {
-          "title": "芯联集成发布全新碳化硅G2.0技术平台 重点覆盖新能源和AI数据中心电源",
-          "url": "https://wallstreetcn.com/livenews/3005329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时21分]"
-        },
-        {
-          "title": "华为，AI突破将发布",
-          "url": "https://wallstreetcn.com/articles/3759477",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时25分 ~ 19时19分]"
-        },
-        {
-          "title": "谁最终为AI狂潮“买单”？美国险资",
-          "url": "https://wallstreetcn.com/articles/3759444",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "CDS复兴？“AI发债潮”重燃了市场的“次贷回忆”",
-          "url": "https://wallstreetcn.com/articles/3759478",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
           "url": "https://m.thepaper.cn/newsDetail_forward_31979142",
           "source": "澎湃新闻",
           "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
+        },
+        {
+          "title": "AI爆梗王?串子罗伯特炸翻全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
+        },
+        {
+          "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
+          "url": "https://wallstreetcn.com/livenews/3005341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3005332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中东",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "空中客车：预计中东将要求（我们在）未来20年交付4080架飞机，包括2380架单通道飞机和1700架宽体飞机。 预计中东客流量年化复合增长率将为4.4%。 中东服务业市场到2044年年底料将翻倍，至299亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3005353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "中东股市收盘播报｜埃及股市涨超2.5%，创收盘历史新高，沙特、卡塔尔股指跌1%",
+          "url": "https://wallstreetcn.com/livenews/3005321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "空客：到2044年底，中东地区的服务市场规模将翻一番，达到299亿美元。",
+          "url": "https://flash.jin10.com/detail/20251116214007983800",
+          "source": "金十数据",
+          "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "00时29分"
         },
         {
-          "title": "央视起底AI仿冒名人营销乱象",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95AI%E4%BB%BF%E5%86%92%E5%90%8D%E4%BA%BA%E8%90%A5%E9%94%80%E4%B9%B1%E8%B1%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25A4%25AE%25E8%25A7%2586%25E8%25B5%25B7%25E5%25BA%2595AI%25E4%25BB%25BF%25E5%2586%2592%25E5%2590%258D%25E4%25BA%25BA%25E8%2590%25A5%25E9%2594%2580%25E4%25B9%25B1%25E8%25B1%25A1%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D22%26band_rank%3D22%26lcate%3D5001%26c_type%3D31%26filter_type%3Drealtimehot%26pos%3D21%26flag%3D1%26display_time%3D1763296456%26pre_seqid%3D17632964563690330467023&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "空客：我们预计中东地区的客运量将以4.4%的年均复合增长率增长。",
+          "url": "https://flash.jin10.com/detail/20251116214002051800",
+          "source": "金十数据",
           "ranks": [
-            22
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "00时29分"
         },
         {
-          "title": "男子称iPhone Air把始祖鸟冲锋衣划破",
-          "url": "https://www.toutiao.com/trending/7572867707574878249/",
-          "source": "今日头条",
+          "title": "空客：我们预计未来20年中东地区将需要交付4080架客机，其中包括2380架单通道飞机和1700架宽体客机。",
+          "url": "https://flash.jin10.com/detail/20251116213957137800",
+          "source": "金十数据",
           "ranks": [
-            30
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "00时29分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
-          "url": "https://wallstreetcn.com/articles/3759457",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 16时32分]"
-        },
-        {
-          "title": "据CNN：两名以色列消息人士称，特朗普政府正向以色列施压，要求其就拉法赫的哈马斯武装人员问题取得进展。",
-          "url": "https://flash.jin10.com/detail/20251115224710080800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 12时31分]"
-        },
-        {
-          "title": "特朗普：对委内瑞拉“差不多下定决心”",
-          "url": "https://news.ifeng.com/c/8oIojUJad2R",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时21分]"
-        },
-        {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时31分 ~ 23时23分]"
-        },
         {
           "title": "10亿至50亿！特朗普开口了",
           "url": "https://news.ifeng.com/c/8oKTyan4q6j",
@@ -332,554 +148,97 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时24分 ~ 23时23分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3005184",
-          "source": "华尔街见闻-快讯",
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时23分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
-          "url": "https://flash.jin10.com/detail/20251115190723061800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时23分]"
-        },
-        {
-          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
-          "url": "https://flash.jin10.com/detail/20251115185251753800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时23分]"
-        },
-        {
-          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251115183418389800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
-          "url": "https://flash.jin10.com/detail/20251116125811596800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            11,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 17时25分]"
-        },
-        {
-          "title": "特朗普与曾经亲密盟友格林关系破裂，共和党裂痕扩大",
-          "url": "https://wallstreetcn.com/livenews/3005241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            18,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时52分 ~ 15时24分]"
-        },
-        {
-          "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
-          "url": "https://wallstreetcn.com/livenews/3005256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 16时32分]"
-        },
-        {
-          "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
-          "url": "https://flash.jin10.com/detail/20251116221017649800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时23分]"
-        },
-        {
-          "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
-          "url": "https://news.ifeng.com/c/8oKKiWVdO0C",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 16时32分]"
-        },
-        {
-          "title": "特朗普：已对委内瑞拉问题作出决定",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%97%AE%E9%A2%98%E4%BD%9C%E5%87%BA%E5%86%B3%E5%AE%9A",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 12时31分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-16）",
-          "url": "https://flash.jin10.com/detail/20251116182155589800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 21时29分]"
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
           "url": "https://flash.jin10.com/detail/20251116223106128800",
           "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "00时29分"
         },
         {
-          "title": "博主：特朗普正走向众叛亲离",
-          "url": "https://www.toutiao.com/trending/7573306165895892506/",
-          "source": "今日头条",
+          "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
+          "url": "https://flash.jin10.com/detail/20251116221017649800",
+          "source": "金十数据",
           "ranks": [
-            26
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "爱泼斯坦2万份文件揭了特朗普哪些短",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A62%E4%B8%87%E4%BB%BD%E6%96%87%E4%BB%B6%E6%8F%AD%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E5%93%AA%E4%BA%9B%E7%9F%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26pos%3D28%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D27%26dgr%3D0%26c_type%3D31%26band_rank%3D27%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2588%25B1%25E6%25B3%25BC%25E6%2596%25AF%25E5%259D%25A62%25E4%25B8%2587%25E4%25BB%25BD%25E6%2596%2587%25E4%25BB%25B6%25E6%258F%25AD%25E4%25BA%2586%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2593%25AA%25E4%25BA%259B%25E7%259F%25AD%2523%26display_time%3D1763274412%26pre_seqid%3D17632744123650330454279&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中东",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "金十数据整理：中东局势跟踪（11月16日）",
-          "url": "https://flash.jin10.com/detail/20251116090559625800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            8,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 14时36分]"
-        },
-        {
-          "title": "普京与内塔尼亚胡通电话 重点讨论中东局势",
-          "url": "https://flash.jin10.com/detail/20251116083005866800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12,
-            13,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 14时36分]"
-        },
-        {
-          "title": "空中客车：预计中东将要求（我们在）未来20年交付4080架飞机，包括2380架单通道飞机和1700架宽体飞机。 预计中东客流量年化复合增长率将为4.4%。 中东服务业市场到2044年年底料将翻倍，至299亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3005353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时23分]"
-        },
-        {
-          "title": "中东股市收盘播报｜埃及股市涨超2.5%，创收盘历史新高，沙特、卡塔尔股指跌1%",
-          "url": "https://wallstreetcn.com/livenews/3005321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 23时23分]"
-        },
-        {
-          "title": "中东股市收盘播报｜卡塔尔股指收跌1%",
-          "url": "https://wallstreetcn.com/livenews/3005321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时46分]"
-        },
-        {
-          "title": "空客：到2044年底，中东地区的服务市场规模将翻一番，达到299亿美元。",
-          "url": "https://flash.jin10.com/detail/20251116214007983800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时23分]"
-        },
-        {
-          "title": "空客：我们预计中东地区的客运量将以4.4%的年均复合增长率增长。",
-          "url": "https://flash.jin10.com/detail/20251116214002051800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时23分]"
-        },
-        {
-          "title": "空客：我们预计未来20年中东地区将需要交付4080架客机，其中包括2380架单通道飞机和1700架宽体客机。",
-          "url": "https://flash.jin10.com/detail/20251116213957137800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时23分]"
-        },
-        {
-          "title": "普京与内塔尼亚胡通电话 重点讨论中东局势",
-          "url": "https://wallstreetcn.com/livenews/3005211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 能源",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "乌克兰总统宣布启动国有能源企业全面改革",
-          "url": "https://wallstreetcn.com/livenews/3005199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 10时05分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基指示对国有能源企业进行全面改革",
-          "url": "https://flash.jin10.com/detail/20251115221635364800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 12时31分]"
-        },
-        {
-          "title": "塞尔维亚能源部长：塞尔维亚必须做出艰难的决定，包括接管俄罗斯拥有的石油公司。",
-          "url": "https://flash.jin10.com/detail/20251115192032550800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时23分]"
-        },
-        {
-          "title": "塞尔维亚能源部长：塞尔维亚石油公司（NIS）已获得美国为期三个月的批准，以确保其俄罗斯所有者退出。",
-          "url": "https://flash.jin10.com/detail/20251115191325792800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时23分]"
-        },
-        {
-          "title": "塞尔维亚能源部长：美国政府希望俄罗斯所有者退出受制裁的塞尔维亚石油公司（NIS）。",
-          "url": "https://flash.jin10.com/detail/20251115191222999800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时23分]"
-        },
-        {
-          "title": "海军四川舰顺利完成首次航行试验，动力、电力等系统设备测试达到预期效果",
-          "url": "https://wallstreetcn.com/livenews/3005308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            18,
-            20,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时25分 ~ 23时23分]"
-        },
-        {
-          "title": "蜂巢能源杨红新：半固态技术成为解决三元电池热稳定性难题的关键突破口",
-          "url": "https://wallstreetcn.com/livenews/3005280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 19时19分]"
+          "time_info": "00时29分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
-          "url": "https://www.cls.cn/detail/2201442",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 18时25分]"
-        },
         {
           "title": "龙头四连板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2201597",
           "source": "财联社热门",
           "ranks": [
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时28分 ~ 23时23分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
           "url": "https://www.cls.cn/detail/2201578",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10,
-            9,
-            11,
             12
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时28分 ~ 23时23分]"
-        },
-        {
-          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
-          "url": "https://www.cls.cn/detail/2201450",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 16时32分]"
-        },
-        {
-          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2201293",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：孚日股份、华盛锂电等多只锂电池概念股在列",
           "url": "https://www.cls.cn/detail/2201801",
           "source": "财联社热门",
           "ranks": [
-            12,
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时23分]"
+          "time_info": "[00时28分 ~ 00时29分]"
         }
       ]
     },
     {
-      "keyword_group": "芯片 科创",
-      "match_count": 5,
+      "keyword_group": "电力 能源",
+      "match_count": 1,
       "titles": [
         {
-          "title": "【早报】国常会重磅部署！事关两重”建设、促消费；三星部分内存芯片提价60%",
-          "url": "https://www.cls.cn/detail/2201445",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 18时25分]"
-        },
-        {
-          "title": "三星集团将在未来5年内在韩国投资450万亿韩元，三星将在韩国再建一条芯片生产线。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3005306",
+          "title": "海军四川舰顺利完成首次航行试验，动力、电力等系统设备测试达到预期效果",
+          "url": "https://wallstreetcn.com/livenews/3005308",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "三星电子将增加芯片生产线以应对需求增长",
-          "url": "https://flash.jin10.com/detail/20251116165349393800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 20时46分]"
-        },
-        {
-          "title": "三星集团将在未来5年内在韩国投资450万亿韩元（折合3100亿美元），三星将在韩国再建一条芯片生产线。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3005306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            21,
-            23,
             30
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 22时21分]"
-        },
-        {
-          "title": "市场消息：三星电子将在韩国平泽建设新的芯片生产线，该生产线将于2028年开始量产。",
-          "url": "https://flash.jin10.com/detail/20251116164744385800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 20时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     }
