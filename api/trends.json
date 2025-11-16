@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T17:25:04.174401+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2025-11-16T18:25:58.152670+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -136,6 +136,17 @@
           "time_info": "[13时25分 ~ 16时32分]"
         },
         {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
           "url": "https://news.ifeng.com/c/8oKKiWVdO0C",
           "source": "凤凰网",
@@ -161,17 +172,6 @@
           "time_info": "[10时05分 ~ 12时31分]"
         },
         {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 17时25分]"
-        },
-        {
           "title": "10亿至50亿！特朗普开口了",
           "url": "https://news.ifeng.com/c/8oKTyan4q6j",
           "source": "凤凰网",
@@ -179,8 +179,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 18时25分]"
         },
         {
           "title": "爱泼斯坦2万份文件揭了特朗普哪些短",
@@ -197,7 +197,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
@@ -210,8 +210,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时51分 ~ 17时25分]"
+          "appearance_count": 12,
+          "time_info": "[11时51分 ~ 18时25分]"
         },
         {
           "title": "大湾区国际创客峰会暨Maker Faire Shenzhen 2025在深圳开幕",
@@ -233,11 +233,12 @@
             13,
             14,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 17时25分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 18时25分]"
         },
         {
           "title": "浙江：“十五五”时期要加快建设人工智能创新发展高地",
@@ -305,6 +306,31 @@
           "time_info": "[15时24分 ~ 17时25分]"
         },
         {
+          "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
+          "url": "https://www.cls.cn/detail/2201789",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 18时25分]"
+        },
+        {
+          "title": "中国电信与优必选合作的10万台AI悟空机器人开启交付",
+          "url": "https://wallstreetcn.com/livenews/3005279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 18时25分]"
+        },
+        {
           "title": "FURIA战胜paiN晋级BLAST决赛",
           "url": "https://search.bilibili.com/all?keyword=FURIA%20paiN",
           "source": "bilibili 热搜",
@@ -317,27 +343,15 @@
           "time_info": "[00时28分 ~ 02时32分]"
         },
         {
-          "title": "中国电信与优必选合作的10万台AI悟空机器人开启交付",
-          "url": "https://wallstreetcn.com/livenews/3005279",
-          "source": "华尔街见闻-快讯",
+          "title": "华为，AI突破将发布",
+          "url": "https://wallstreetcn.com/articles/3759477",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            17
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 17时25分]"
-        },
-        {
-          "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
-          "url": "https://www.cls.cn/detail/2201789",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "谁最终为AI狂潮“买单”？美国险资",
@@ -349,12 +363,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "CDS复兴？“AI发债潮”重燃了市场的“次贷回忆”",
+          "url": "https://wallstreetcn.com/articles/3759478",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
     {
       "keyword_group": "电力 能源",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "乌克兰总统宣布启动国有能源企业全面改革",
@@ -416,16 +441,93 @@
           "time_info": "[00时28分 ~ 07时23分]"
         },
         {
+          "title": "海军四川舰顺利完成首次航行试验，动力、电力等系统设备测试达到预期效果",
+          "url": "https://wallstreetcn.com/livenews/3005308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "蜂巢能源杨红新：半固态技术成为解决三元电池热稳定性难题的关键突破口",
           "url": "https://wallstreetcn.com/livenews/3005280",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 18时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 科创",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【早报】国常会重磅部署！事关两重”建设、促消费；三星部分内存芯片提价60%",
+          "url": "https://www.cls.cn/detail/2201445",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 18时25分]"
+        },
+        {
+          "title": "三星集团将在未来5年内在韩国投资450万亿韩元，三星将在韩国再建一条芯片生产线。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3005306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "三星电子将增加芯片生产线以应对需求增长",
+          "url": "https://flash.jin10.com/detail/20251116165349393800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时32分 ~ 17时25分]"
+          "time_info": "[17时25分 ~ 18时25分]"
+        },
+        {
+          "title": "市场消息：三星电子将在韩国平泽建设新的芯片生产线，该生产线将于2028年开始量产。",
+          "url": "https://flash.jin10.com/detail/20251116164744385800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时25分]"
+        },
+        {
+          "title": "三星集团将在未来5年内在韩国投资450万亿韩元（折合3100亿美元），三星将在韩国再建一条芯片生产线。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3005306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
@@ -440,11 +542,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 17时25分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 18时25分]"
         },
         {
           "title": "龙头四连板 本周披露并购重组进展的A股名单一览",
@@ -455,8 +558,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 17时25分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 18时25分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -469,8 +572,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 17时25分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 18时25分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -499,58 +602,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 06时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 科创",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【早报】国常会重磅部署！事关两重”建设、促消费；三星部分内存芯片提价60%",
-          "url": "https://www.cls.cn/detail/2201445",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 17时25分]"
-        },
-        {
-          "title": "三星集团将在未来5年内在韩国投资450万亿韩元，三星将在韩国再建一条芯片生产线。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3005306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "三星电子将增加芯片生产线以应对需求增长",
-          "url": "https://flash.jin10.com/detail/20251116165349393800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "市场消息：三星电子将在韩国平泽建设新的芯片生产线，该生产线将于2028年开始量产。",
-          "url": "https://flash.jin10.com/detail/20251116164744385800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         }
       ]
     },
