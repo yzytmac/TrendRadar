@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T15:26:25.008414+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2025-11-17T16:37:16.150237+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "盘中创历史新高A股名单一览：孚日股份、华盛锂电等多只锂电池概念股在列",
@@ -73,13 +73,24 @@
           "time_info": "[10时00分 ~ 13时27分]"
         },
         {
+          "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-11-17）",
           "url": "https://flash.jin10.com/detail/20251117151324782800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -101,7 +112,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -165,6 +176,17 @@
           "time_info": "[10时00分 ~ 11时23分]"
         },
         {
+          "title": "A股全市场百股涨停",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23A%E8%82%A1%E5%85%A8%E5%B8%82%E5%9C%BA%E7%99%BE%E8%82%A1%E6%B6%A8%E5%81%9C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26c_type%3D31%26q%3D%2523A%25E8%2582%25A1%25E5%2585%25A8%25E5%25B8%2582%25E5%259C%25BA%25E7%2599%25BE%25E8%2582%25A1%25E6%25B6%25A8%25E5%2581%259C%2523%26realpos%3D20%26filter_type%3Drealtimehot%26pos%3D21%26dgr%3D0%26band_rank%3D20%26display_time%3D1763368499%26pre_seqid%3D1763368499129071605338&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
           "title": "阿里巴巴美股夜盘一度上涨5%，此前宣布“千问”项目",
           "url": "https://wallstreetcn.com/livenews/3005519",
           "source": "华尔街见闻-快讯",
@@ -185,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "港股收盘，恒生指数收跌0.71%，恒生科技指数收跌0.96%。地平线机器人跌超4%，康师傅控股涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3005723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "A股水产养殖板块开盘大涨，大湖股份、中水渔业、开创国际、天马科技、东方海洋、好当家等多股竞价涨停。",
@@ -237,7 +270,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -289,7 +322,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -334,11 +367,12 @@
             17,
             16,
             18,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 15时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 16时37分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -353,6 +387,19 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时28分 ~ 13时27分]"
+        },
+        {
+          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
+          "url": "https://www.cls.cn/detail/2201993",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 16时37分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -401,7 +448,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -420,6 +467,20 @@
           "time_info": "[00时29分 ~ 05时22分]"
         },
         {
+          "title": "成龙去世谣言系AI生成",
+          "url": "https://www.toutiao.com/trending/7573506510103691273/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            12,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 16时37分]"
+        },
+        {
           "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
           "url": "https://www.zhihu.com/question/1971154128169301668",
           "source": "知乎",
@@ -433,16 +494,17 @@
           "time_info": "[04时28分 ~ 07时23分]"
         },
         {
-          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
-          "url": "https://www.cls.cn/detail/2201993",
-          "source": "财联社热门",
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            9,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时32分 ~ 15时26分]"
+          "time_info": "[14时39分 ~ 16时37分]"
         },
         {
           "title": "华为，AI突破将发布",
@@ -471,29 +533,37 @@
           "time_info": "[12时32分 ~ 15时26分]"
         },
         {
-          "title": "成龙去世谣言系AI生成",
-          "url": "https://www.toutiao.com/trending/7573506510103691273/",
-          "source": "今日头条",
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
           "ranks": [
-            20,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 15时26分]"
-        },
-        {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时26分]"
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
+          "title": "华为将发布AI领域突破性技术 国产算力投资机遇凸显",
+          "url": "https://www.cls.cn/detail/2201963",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
+          "title": "阿里 Qwen 同名个人 AI 助理「千问」App 开始公测，该产品体验效果如何？",
+          "url": "https://www.zhihu.com/question/1973700569139995365",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-17）",
@@ -543,7 +613,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -568,6 +638,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 07时23分]"
+        },
+        {
+          "title": "曝特朗普与昔日得力干将决裂",
+          "url": "https://www.toutiao.com/trending/7573470510160399923/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时00分 ~ 16时37分]"
         },
         {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
@@ -595,19 +678,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时29分 ~ 05时22分]"
-        },
-        {
-          "title": "曝特朗普与昔日得力干将决裂",
-          "url": "https://www.toutiao.com/trending/7573470510160399923/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时00分 ~ 15时26分]"
         },
         {
           "title": "博主：特朗普正走向众叛亲离",
@@ -644,6 +714,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时00分 ~ 11时23分]"
+        },
+        {
+          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
+          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
         },
         {
           "title": "特朗普不到两个月内完成超175笔投资",
@@ -846,6 +927,90 @@
       ]
     },
     {
+      "keyword_group": "芯片 科创",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "无创植入大脑芯片或能成为现实",
+          "url": "https://www.cls.cn/detail/2202012",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 16时37分]"
+        },
+        {
+          "title": "原来身份证里的芯片长这样",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%8E%9F%E6%9D%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E9%87%8C%E7%9A%84%E8%8A%AF%E7%89%87%E9%95%BF%E8%BF%99%E6%A0%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26c_type%3D31%26q%3D%25E5%258E%259F%25E6%259D%25A5%25E8%25BA%25AB%25E4%25BB%25BD%25E8%25AF%2581%25E9%2587%258C%25E7%259A%2584%25E8%258A%25AF%25E7%2589%2587%25E9%2595%25BF%25E8%25BF%2599%25E6%25A0%25B7%26realpos%3D11%26filter_type%3Drealtimehot%26pos%3D12%26dgr%3D0%26band_rank%3D11%26display_time%3D1763368499%26pre_seqid%3D1763368499129071605338&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
+          "title": "科创50指数跌超1%，九号公司、拓荆科技跌超5%，寒武纪跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3005623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "上证指数开盘报3988.56点，跌0.05%。 深证成指开盘报13200.54点，跌0.12%。 创业板指开盘报3097.34点，跌0.46%。 沪深300开盘报4616.81点，跌0.24%。 科创50开盘报1363.48点，涨0.16%。 中证500开盘报7248.92点，涨0.19%。 中证1000开盘报7514.84点，涨0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3005466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时00分"
+        },
+        {
+          "title": "上证指数收报3972.03点，跌0.46%。 深证成指收报13202.00点，跌0.11%。 创业板指收报3105.20点，跌0.20%。 沪深300收报4598.05点，跌0.65%。 科创50收报1354.04点，跌0.53%。 中证500收报7235.35点，跌0.00%。 中证1000收报7523.08点，涨0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3005658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "无创植入大脑芯片或能成为现实",
+          "url": "https://wallstreetcn.com/livenews/3005455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时00分"
+        },
+        {
+          "title": "上证指数早盘收报3973.31点，跌0.43%。 深证成指早盘收报13169.37点，跌0.35%。 创业板指早盘收报3086.67点，跌0.80%。 沪深300早盘收报4596.15点，跌0.69%。 科创50早盘收报1351.31点，跌0.73%。 中证500早盘收报7220.73点，跌0.20%。 中证1000早盘收报7509.66点，涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3005542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "电力 能源",
       "match_count": 6,
       "titles": [
@@ -912,81 +1077,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 科创",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "科创50指数跌超1%，九号公司、拓荆科技跌超5%，寒武纪跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3005623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "无创植入大脑芯片或能成为现实",
-          "url": "https://www.cls.cn/detail/2202012",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "上证指数开盘报3988.56点，跌0.05%。 深证成指开盘报13200.54点，跌0.12%。 创业板指开盘报3097.34点，跌0.46%。 沪深300开盘报4616.81点，跌0.24%。 科创50开盘报1363.48点，涨0.16%。 中证500开盘报7248.92点，涨0.19%。 中证1000开盘报7514.84点，涨0.16%。",
-          "url": "https://wallstreetcn.com/livenews/3005466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时00分"
-        },
-        {
-          "title": "上证指数收报3972.03点，跌0.46%。 深证成指收报13202.00点，跌0.11%。 创业板指收报3105.20点，跌0.20%。 沪深300收报4598.05点，跌0.65%。 科创50收报1354.04点，跌0.53%。 中证500收报7235.35点，跌0.00%。 中证1000收报7523.08点，涨0.27%。",
-          "url": "https://wallstreetcn.com/livenews/3005658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "无创植入大脑芯片或能成为现实",
-          "url": "https://wallstreetcn.com/livenews/3005455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时00分"
-        },
-        {
-          "title": "上证指数早盘收报3973.31点，跌0.43%。 深证成指早盘收报13169.37点，跌0.35%。 创业板指早盘收报3086.67点，跌0.80%。 沪深300早盘收报4596.15点，跌0.69%。 科创50早盘收报1351.31点，跌0.73%。 中证500早盘收报7220.73点，跌0.20%。 中证1000早盘收报7509.66点，涨0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3005542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
         }
       ]
     }
