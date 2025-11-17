@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T22:27:51.132106+08:00",
-  "total_titles_processed": 1814,
+  "generated_at": "2025-11-17T23:29:58.864687+08:00",
+  "total_titles_processed": 1905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -100,6 +100,18 @@
           "time_info": "[18时30分 ~ 22时27分]"
         },
         {
+          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时29分]"
+        },
+        {
           "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
           "url": "https://wallstreetcn.com/articles/3759498",
           "source": "华尔街见闻",
@@ -109,17 +121,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时36分 ~ 16时37分]"
-        },
-        {
-          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-11-17）",
@@ -225,6 +226,18 @@
           "time_info": "[10时00分 ~ 11时23分]"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3005923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时29分]"
+        },
+        {
           "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3005762",
           "source": "华尔街见闻-快讯",
@@ -306,17 +319,6 @@
           "time_info": "20时54分"
         },
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3005923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
           "title": "阿里巴巴美股夜盘一度上涨5%，此前宣布“千问”项目",
           "url": "https://wallstreetcn.com/livenews/3005519",
           "source": "华尔街见闻-快讯",
@@ -361,6 +363,17 @@
           "time_info": "10时00分"
         },
         {
+          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2202991",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
           "url": "https://flash.jin10.com/detail/20251117170331832800",
           "source": "金十数据",
@@ -370,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "美股锂矿股集体上涨，投资者关注需求增长迹象",
+          "url": "https://wallstreetcn.com/livenews/3005938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
@@ -416,6 +440,17 @@
           "time_info": "20时54分"
         },
         {
+          "title": "谷歌母公司Alphabet涨5.5%，盘中市值3.5万亿美元，13F报告显示，伯克希尔哈撒韦建仓做多该公司股票，为其第十大美股重仓股。",
+          "url": "https://wallstreetcn.com/livenews/3005936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "A股4000点能否稳住",
           "url": "https://www.toutiao.com/trending/7573589833021394478/",
           "source": "今日头条",
@@ -458,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251117225055186800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "A股4000点拉锯战资金流向哪里",
@@ -515,6 +561,17 @@
           "time_info": "12时32分"
         },
         {
+          "title": "美股锂矿概念股走强，西格玛锂业（Sigma Lithium）上涨20.8%，标准锂业（Standard Lithium）涨9.3%、智利矿业化工(SQM.N)上涨9%，锂美公司上涨9%，美国雅宝(ALB.N)上涨6.7%。",
+          "url": "https://flash.jin10.com/detail/20251117224517468800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "深交所公告，港股通标的证券名单发生调整并自2025年11月17日起生效，调入广和通。",
           "url": "https://wallstreetcn.com/livenews/3005439",
           "source": "华尔街见闻-快讯",
@@ -529,7 +586,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -566,8 +623,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时39分 ~ 22时27分]"
+          "appearance_count": 13,
+          "time_info": "[14时39分 ~ 23时29分]"
         },
         {
           "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
@@ -587,11 +644,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            8
+            8,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时36分 ~ 22时27分]"
+          "appearance_count": 11,
+          "time_info": "[16时36分 ~ 23时29分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -633,11 +691,12 @@
             11,
             13,
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时32分 ~ 22时27分]"
+          "appearance_count": 9,
+          "time_info": "[17时32分 ~ 23时29分]"
         },
         {
           "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
@@ -822,9 +881,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
+        },
+        {
+          "title": "CoreWeave史上最糟糕的一周，表明AI交易员正变得挑三拣四",
+          "url": "https://wallstreetcn.com/livenews/3005945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：从企业间的接触中了解到，由于对政策和人工智能影响的不确定性，企业在招聘时显得犹豫不决。",
+          "url": "https://flash.jin10.com/detail/20251117230048789800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "CARBON3.AI将投资10亿英镑用于英国主权AI基础设施网络。",
@@ -836,6 +917,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：人工智能对生产力的影响将对货币政策产生重大影响。",
+          "url": "https://flash.jin10.com/detail/20251117225629427800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：现在判断人工智能短期内对劳动力的净影响还为时过早。",
+          "url": "https://flash.jin10.com/detail/20251117225552829800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：人工智能正在影响企业当前及未来对劳动力的思考方式。",
+          "url": "https://flash.jin10.com/detail/20251117225433478800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
@@ -871,6 +985,17 @@
           "time_info": "12时32分"
         },
         {
+          "title": "戴尔科技与英伟达升级企业AI创新，加速AI应用的部署。",
+          "url": "https://wallstreetcn.com/livenews/3005942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "11月17日午间收评：创业板指半日跌0.8%，福建、AI应用方向集体走强",
           "url": "https://wallstreetcn.com/livenews/3005541",
           "source": "华尔街见闻-快讯",
@@ -895,8 +1020,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时36分 ~ 22时27分]"
+          "appearance_count": 11,
+          "time_info": "[16时36分 ~ 23时29分]"
         },
         {
           "title": "曝特朗普与昔日得力干将决裂",
@@ -910,11 +1035,12 @@
             9,
             17,
             27,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时00分 ~ 22时27分]"
+          "appearance_count": 17,
+          "time_info": "[10时00分 ~ 23时29分]"
         },
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -950,8 +1076,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时30分 ~ 22时27分]"
+          "appearance_count": 8,
+          "time_info": "[18时30分 ~ 23时29分]"
         },
         {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
@@ -1034,7 +1160,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1220,7 +1346,7 @@
     },
     {
       "keyword_group": "电力 能源",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "乌克兰紧急服务部门表示，俄罗斯对乌克兰敖德萨地区的袭击引发能源和港口基础设施设施起火。",
@@ -1268,13 +1394,24 @@
           "time_info": "13时27分"
         },
         {
+          "title": "沃旭能源Orsted（丹麦可再生能源公司）CEO宣布：公司无意在美国新建（风电）项目。",
+          "url": "https://wallstreetcn.com/livenews/3005941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "乌克兰政府已批准一项行动计划，对燃料和能源公司的监事会和执行机构进行重组，作为全面重振能源行业措施的一部分。",
           "url": "https://flash.jin10.com/detail/20251117215511480800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1285,7 +1422,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1323,6 +1460,17 @@
           "time_info": "19时23分"
         },
         {
+          "title": "行业ETF美股盘初多数下跌，全球科技股指数ETF跌1.03%，科技行业ETF跌0.9%，能源业ETF跌0.73%，半导体ETF跌0.63%，银行业ETF跌0.51%，网络股指数ETF则涨0.22%。 标普科技板块跌0.88%，能源板块跌0.7%，电信板块则涨2.06%。",
+          "url": "https://wallstreetcn.com/livenews/3005934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "英联股份：子公司江苏英联复合集流体有限公司与某新能源科技有限公司签署了准固态半固态电池用的《复合铝箔战略采购合同》，某新能源科技公司根据其准固态半固态电池的应用需求，计划2026年-2027年向江苏英联合计采购5000万㎡以上的准固态半固态电池专用复合铝箔材料（锂离子电池正极电极集流体），其中2026年向江苏英联采购2000万㎡复合铝箔，2027年采购数量为3000万㎡以上。",
           "url": "https://wallstreetcn.com/livenews/3005745",
           "source": "华尔街见闻-快讯",
@@ -1340,7 +1488,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
@@ -1348,7 +1496,7 @@
     },
     {
       "keyword_group": "芯片 科创",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "无创植入大脑芯片或能成为现实",
@@ -1375,6 +1523,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时36分 ~ 18时30分]"
+        },
+        {
+          "title": "存储芯片疯狂涨价，PC与服务器厂商受伤！大摩：每涨10%，OEM毛利率就下降45-150个基点",
+          "url": "https://wallstreetcn.com/articles/3759535",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "科创50指数跌超1%，九号公司、拓荆科技跌超5%，寒武纪跌超3%。",
@@ -1408,6 +1567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "美股存储芯片股美光科技涨超5％，再创历史新高；西部数据涨近4％，闪迪涨近8％。",
+          "url": "https://wallstreetcn.com/livenews/3005939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "无创植入大脑芯片或能成为现实",
@@ -1446,7 +1616,7 @@
     },
     {
       "keyword_group": "中东",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "空中客车：预计中东将要求（我们在）未来20年交付4080架飞机，包括2380架单通道飞机和1700架宽体飞机。 预计中东客流量年化复合增长率将为4.4%。 中东服务业市场到2044年年底料将翻倍，至299亿美元。",
@@ -1516,6 +1686,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时29分 ~ 05时22分]"
+        },
+        {
+          "title": "C919和C909首次亮相中东",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23C919%E5%92%8CC909%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%E4%B8%AD%E4%B8%9C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D3%26cate%3D5001%26q%3D%2523C919%25E5%2592%258CC909%25E9%25A6%2596%25E6%25AC%25A1%25E4%25BA%25AE%25E7%259B%25B8%25E4%25B8%25AD%25E4%25B8%259C%2523%26pos%3D2%26stream_entry_id%3D31%26flag%3D0%26band_rank%3D3%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26dgr%3D0%26display_time%3D1763393313%26pre_seqid%3D176339331315301512206116&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "2025迪拜航展开幕，中国航空工业体系化参展，国产大飞机C919中东首秀",
+          "url": "https://wallstreetcn.com/livenews/3005951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "金十数据整理：中东局势跟踪（11月17日）",
