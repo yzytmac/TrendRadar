@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T13:27:47.842443+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2025-11-17T14:39:33.984333+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "盘中创历史新高A股名单一览：孚日股份、华盛锂电等多只锂电池概念股在列",
@@ -45,19 +45,6 @@
           "time_info": "[00时28分 ~ 07时23分]"
         },
         {
-          "title": "国内外储能需求迎来共振时刻 产业链A股上市公司境外营收占比、市占率一览",
-          "url": "https://www.cls.cn/detail/2201860",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 13时27分]"
-        },
-        {
           "title": "A股科技风格何时回归？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2201883",
           "source": "财联社热门",
@@ -69,8 +56,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 14时39分]"
+        },
+        {
+          "title": "国内外储能需求迎来共振时刻 产业链A股上市公司境外营收占比、市占率一览",
+          "url": "https://www.cls.cn/detail/2201860",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时00分 ~ 13时27分]"
         },
         {
           "title": "亚洲市场盘初，美股三大股指期货微跌。现货黄金基本平开。",
@@ -160,7 +160,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -185,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "A股冰雪经济概念午后走强，雪人集团直线涨停，晶雪节能涨超7%，长白山、天府文旅、大连圣亚、冰山冷热等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3005614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "阿里巴巴港股转涨，盘初一度跌超1.5%。",
@@ -245,7 +256,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -270,6 +281,18 @@
           "time_info": "[00时28分 ~ 07时23分]"
         },
         {
+          "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
+          "url": "https://www.cls.cn/detail/2201935",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时00分 ~ 14时39分]"
+        },
+        {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
           "url": "https://m.thepaper.cn/newsDetail_forward_31979142",
           "source": "澎湃新闻",
@@ -277,11 +300,12 @@
             15,
             17,
             16,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 13时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时39分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -296,18 +320,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时28分 ~ 13时27分]"
-        },
-        {
-          "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
-          "url": "https://www.cls.cn/detail/2201935",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 13时27分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -382,22 +394,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 14时39分]"
         },
         {
           "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
           "url": "https://www.cls.cn/detail/2201993",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 14时39分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -405,11 +419,24 @@
           "source": "微博",
           "ranks": [
             18,
-            13
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 14时39分]"
+        },
+        {
+          "title": "成龙去世谣言系AI生成",
+          "url": "https://www.toutiao.com/trending/7573506510103691273/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时27分]"
+          "time_info": "[13时27分 ~ 14时39分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-17）",
@@ -423,15 +450,15 @@
           "time_info": "12时32分"
         },
         {
-          "title": "成龙去世谣言系AI生成",
-          "url": "https://www.toutiao.com/trending/7573506510103691273/",
-          "source": "今日头条",
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "14时39分"
         },
         {
           "title": "前美联储副主席Lael Brainard（布雷纳德）：美联储应该为了防止劳动力市场进一步疲软而谨慎行事，下个月应再次降息。",
@@ -547,8 +574,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 13时27分]"
+          "appearance_count": 5,
+          "time_info": "[10时00分 ~ 14时39分]"
+        },
+        {
+          "title": "软硬兼施？特朗普：可能与委内瑞拉总统进行对话",
+          "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 14时39分]"
         },
         {
           "title": "特朗普：可能与委内瑞拉总统进行对话",
@@ -560,17 +598,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时00分 ~ 11时23分]"
-        },
-        {
-          "title": "软硬兼施？特朗普：可能与委内瑞拉总统进行对话",
-          "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时27分]"
         },
         {
           "title": "特朗普不到两个月内完成超175笔投资",
@@ -602,7 +629,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -646,7 +673,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -774,8 +801,19 @@
     },
     {
       "keyword_group": "电力 能源",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "乌克兰紧急服务部门表示，俄罗斯对乌克兰敖德萨地区的袭击引发能源和港口基础设施设施起火。",
+          "url": "https://flash.jin10.com/detail/20251117142807140800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
         {
           "title": "宁德时代在上海投资成立新能源公司",
           "url": "https://wallstreetcn.com/livenews/3005489",
@@ -806,7 +844,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -817,7 +855,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         }
@@ -825,8 +863,19 @@
     },
     {
       "keyword_group": "芯片 科创",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "科创50指数跌超1%，九号公司、拓荆科技跌超5%，寒武纪跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3005623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
         {
           "title": "无创植入大脑芯片或能成为现实",
           "url": "https://www.cls.cn/detail/2202012",
