@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T15:26:12.656078+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2025-11-18T16:35:25.654228+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
@@ -526,7 +526,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
@@ -536,20 +536,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 15时26分]"
-        },
-        {
-          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
-          "url": "https://www.cls.cn/detail/2203159",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[07时24分 ~ 15时26分]"
+          "time_info": "[09时58分 ~ 16时35分]"
         },
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -561,8 +549,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 15时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 16时35分]"
+        },
+        {
+          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
+          "url": "https://www.cls.cn/detail/2203159",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时24分 ~ 16时35分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -573,8 +573,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 15时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 16时35分]"
         },
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
@@ -630,7 +630,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -789,6 +789,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "港股收盘：恒生指数收跌1.72%，恒生科技指数收跌1.93%，科技股、汽车股均走低，小鹏汽车跌超10%，百度跌近2%，小米跌超2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3006370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "美股三大指数期货短线跳水，纳斯达克100指数期货跌幅扩大至1%，道指期货跌0.5%，标普500指数跌0.7%。",
           "url": "https://flash.jin10.com/detail/20251118122309720800",
           "source": "金十数据",
@@ -858,7 +869,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -889,6 +900,19 @@
           "time_info": "[01时25分 ~ 12时31分]"
         },
         {
+          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
+          "url": "https://www.cls.cn/detail/2203227",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时18分 ~ 16时35分]"
+        },
+        {
           "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
           "url": "https://wallstreetcn.com/articles/3759559",
           "source": "华尔街见闻",
@@ -899,8 +923,23 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时24分 ~ 16时35分]"
+        },
+        {
+          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            14,
+            12,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[07时24分 ~ 15时26分]"
+          "time_info": "[09时58分 ~ 16时35分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -916,32 +955,17 @@
           "time_info": "[00时35分 ~ 07时24分]"
         },
         {
-          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
-          "url": "https://www.cls.cn/detail/2203227",
+          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
+          "url": "https://www.cls.cn/detail/2203555",
           "source": "财联社热门",
           "ranks": [
-            10,
-            7,
-            5
+            9,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 15时26分]"
-        },
-        {
-          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            14,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 16时35分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -954,18 +978,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时35分 ~ 04时29分]"
-        },
-        {
-          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
-          "url": "https://www.cls.cn/detail/2203555",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 15时26分]"
         },
         {
           "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
@@ -993,6 +1005,41 @@
           "time_info": "[12时31分 ~ 13时26分]"
         },
         {
+          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
+          "url": "https://www.zhihu.com/question/1971246965376389265",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时35分]"
+        },
+        {
+          "title": "大摩Wilson展望2026年：AI驱动盈利强劲增长，标普500或升至7800点，收益率曲线“牛陡”，黄金仍是首选",
+          "url": "https://wallstreetcn.com/articles/3759546",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时35分]"
+        },
+        {
+          "title": "为什么下一代算力必须去太空？",
+          "url": "https://www.zhihu.com/question/1973796759131161657",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时35分]"
+        },
+        {
           "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
           "url": "https://flash.jin10.com/detail/20251118004426248800",
           "source": "金十数据",
@@ -1005,28 +1052,6 @@
           "time_info": "[01时25分 ~ 02时36分]"
         },
         {
-          "title": "大摩Wilson展望2026年：AI驱动盈利强劲增长，标普500或升至7800点，收益率曲线“牛陡”，黄金仍是首选",
-          "url": "https://wallstreetcn.com/articles/3759546",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时26分]"
-        },
-        {
-          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
-          "url": "https://www.zhihu.com/question/1971246965376389265",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时26分]"
-        },
-        {
           "title": "11月18日午间收评：北证50指数半日跌超2%，AI应用方向逆势大涨",
           "url": "https://wallstreetcn.com/livenews/3006232",
           "source": "华尔街见闻-快讯",
@@ -1037,17 +1062,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时26分]"
-        },
-        {
-          "title": "为什么下一代算力必须去太空？",
-          "url": "https://www.zhihu.com/question/1973796759131161657",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时26分]"
         },
         {
           "title": "谷歌(GOOG.O)：在Google VIDS中扩大了Gemini的使用范围。拥有Gmail账号的任何人都可使用Google VIDS中的Gemini功能。（注：Google Vids是一款AI赋能的视频制作应用）",
@@ -1067,7 +1081,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1138,6 +1152,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
+          "url": "https://flash.jin10.com/detail/20251118154840821800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
           "url": "https://flash.jin10.com/detail/20251117231526009800",
           "source": "金十数据",
@@ -1163,7 +1188,7 @@
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "售价翻三倍、需求增五成，存储市场“火热”外衣之下产业链冷暖不一",
@@ -1185,8 +1210,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 15时26分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 16时35分]"
         },
         {
           "title": "存储芯片疯狂涨价，PC与服务器厂商受伤！大摩：每涨10%，OEM毛利率就下降45-150个基点",
@@ -1199,8 +1224,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时35分 ~ 15时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时35分 ~ 16时35分]"
         },
         {
           "title": "谁为“存储超级周期”买单？大摩下调多家硬件设备公司评级",
@@ -1324,9 +1349,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "北京：鼓励符合条件的科创企业通过债券市场募集资金",
+          "url": "https://wallstreetcn.com/livenews/3006358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "科创50指数涨超1%，创业板指、深成指等纷纷转涨。",
@@ -1365,8 +1401,30 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "国家发展改革委：渝黔等5项电力互济工程获核准",
+          "url": "https://wallstreetcn.com/livenews/3006380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "莱茵金属：目标从2030年起成为美国的电力巨头，并持续发展。2030年武器与弹药业务板块销售额潜力达140亿至160亿欧元。",
+          "url": "https://flash.jin10.com/detail/20251118161830181800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
         {
           "title": "纳斯达克金龙中国指数收跌1.21%，报7760.02点。 热门中概股里，逸仙电商初步收跌20%，阿特斯太阳能跌15%，小鹏跌10%，小马智行跌6%，理想跌超4%，再鼎医药跌超3%，百胜中国、京东、文远知行至少涨超0.5%，阿里巴巴涨2.8%，金山云涨9.1%，晶科能源涨13%。 ETF中，中概互联网指数ETF（KWEB）收跌0.81%，中国科技指数ETF（CQQQ）收跌1.02%。 中国ETF-iShares MSCI（MCHI）收跌1.13%，德银嘉实沪深300指数ETF（ASHR）收跌1.09%，XtrackersHarvest中证50（ASHS）收跌0.46%。",
           "url": "https://wallstreetcn.com/livenews/3006054",
@@ -1400,6 +1458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "北京：加大对汽车特别是新能源汽车消费的金融支持力度",
+          "url": "https://wallstreetcn.com/livenews/3006359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美国能源信息署（EIA）：尽管产量创下纪录，但美国石油和天然气钻井平台数量增长放缓。",
@@ -1452,7 +1521,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
