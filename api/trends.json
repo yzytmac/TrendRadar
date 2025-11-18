@@ -1,45 +1,49 @@
 {
-  "generated_at": "2025-11-19T03:21:48.685187+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2025-11-19T04:31:29.509678+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "特朗普再次呼吁吊销ABC执照 并否认与爱泼斯坦有任何关系",
-          "url": "https://flash.jin10.com/detail/20251119031700998800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普推进教育部解散计划 将多个办公室转移至其他机构",
-          "url": "https://flash.jin10.com/detail/20251119025758341800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
         {
           "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
           "url": "https://wallstreetcn.com/livenews/3006688",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普再次呼吁吊销ABC执照 并否认与爱泼斯坦有任何关系",
+          "url": "https://flash.jin10.com/detail/20251119031700998800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时21分]"
+          "time_info": "[03时21分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普：我想我已经知道我的美联储主席人选了",
+          "url": "https://wallstreetcn.com/livenews/3006686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时31分]"
         },
         {
           "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
@@ -52,6 +56,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时21分]"
+        },
+        {
+          "title": "微软与德国思爱普Sap签署协议，将在（美国总统特朗普命令）引发“危机”的情况下支持欧洲云。",
+          "url": "https://wallstreetcn.com/livenews/3006685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时31分]"
         },
         {
           "title": "墨西哥比索兑美元重新涨超0.2%，该国总统辛鲍姆认为，美国总统特朗普通过军事手段打击其境内毒贩的暗示“不会发生”。",
@@ -78,16 +95,16 @@
           "time_info": "[02时38分 ~ 03时21分]"
         },
         {
-          "title": "特朗普：我想我已经知道我的美联储主席人选了",
-          "url": "https://wallstreetcn.com/livenews/3006686",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普推进教育部解散计划 将多个办公室转移至其他机构",
+          "url": "https://flash.jin10.com/detail/20251119025758341800",
+          "source": "金十数据",
           "ranks": [
             4,
-            10
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时21分]"
+          "time_info": "[03时21分 ~ 04时31分]"
         },
         {
           "title": "美国总统特朗普：我对普京感到有点惊讶。",
@@ -102,16 +119,17 @@
           "time_info": "[02时38分 ~ 03时21分]"
         },
         {
-          "title": "微软与德国思爱普Sap签署协议，将在（美国总统特朗普命令）引发“危机”的情况下支持欧洲云。",
-          "url": "https://wallstreetcn.com/livenews/3006685",
+          "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3006680",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            11
+            8,
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时31分]"
         },
         {
           "title": "美国总统特朗普：我从未去过爱泼斯坦的小岛。",
@@ -132,18 +150,6 @@
           "ranks": [
             8,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时21分]"
-        },
-        {
-          "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
-          "url": "https://wallstreetcn.com/livenews/3006680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -186,6 +192,17 @@
           "time_info": "[02时38分 ~ 03时21分]"
         },
         {
+          "title": "特朗普支持率跌至低点 生活成本与爱泼斯坦案引发不满",
+          "url": "https://flash.jin10.com/detail/20251119035446963800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "美国总统特朗普：人们都在阻止我解雇鲍威尔。",
           "url": "https://flash.jin10.com/detail/20251119020538614800",
           "source": "金十数据",
@@ -197,6 +214,28 @@
           "time_info": "02时38分"
         },
         {
+          "title": "据路透社/益普索民调：26%的美国人认可特朗普处理生活成本问题的方式。",
+          "url": "https://flash.jin10.com/detail/20251119035025343800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普称他“与家族业务没有任何关系”",
+          "url": "https://wallstreetcn.com/livenews/3006707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "美国总统特朗普：我们有一些出人意料和一些意料之中的美联储主席人选。",
           "url": "https://flash.jin10.com/detail/20251119020433345800",
           "source": "金十数据",
@@ -206,6 +245,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "据路透社/益普索民调：特朗普的支持率跌至38%，是自重返白宫以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20251119035012121800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普政府：正采取行动来瓦解美国教育部。",
+          "url": "https://wallstreetcn.com/livenews/3006702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "美国总统特朗普：我希望鲍威尔现在就下台，我想我已经知道新任美联储主席的人选了。",
@@ -225,7 +286,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -239,6 +300,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
+          "url": "https://wallstreetcn.com/livenews/3006706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "被质疑为何不直接公开爱泼斯坦档案，特朗普发出威胁：吊销ABC电视台牌照",
+          "url": "https://wallstreetcn.com/livenews/3006687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "美国总统特朗普：沙特将购买F-35战机。",
@@ -291,7 +374,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -310,7 +393,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -320,8 +403,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -333,8 +416,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
@@ -344,8 +427,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -353,11 +436,34 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时31分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：通过在微软(MSFT.O)全新Fairwater人工智能超级工厂中采用英伟达Spectrum-X以太网交换机，扩大与微软的合作范围。",
+          "url": "https://flash.jin10.com/detail/20251119040743481800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2204220",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "市场消息：瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。",
@@ -382,6 +488,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "知情人士：沙特获准采购大量美国AI芯片",
+          "url": "https://flash.jin10.com/detail/20251119040550958800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "OpenAI首席执行官：祝贺谷歌推出Gemini 3，这款模型看起来很棒。",
           "url": "https://flash.jin10.com/detail/20251119010713310800",
           "source": "金十数据",
@@ -393,15 +510,52 @@
           "time_info": "01时24分"
         },
         {
-          "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2204220",
+          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
+          "url": "https://www.cls.cn/detail/2203836",
           "source": "财联社热门",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
+          "url": "https://wallstreetcn.com/articles/3759559",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
+        },
+        {
+          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
+          "url": "https://www.cls.cn/detail/2204017",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
+        },
+        {
+          "title": "Plain Jane Remix编舞跳起来",
+          "url": "https://www.douyin.com/hot/2310465",
+          "source": "抖音",
+          "ranks": [
+            23,
+            24,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "法国总统马克龙：德国和法国支持推后一年再出台高风险AI制度。",
@@ -426,53 +580,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时24分]"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
-          "url": "https://www.cls.cn/detail/2203836",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时21分]"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
-          "url": "https://wallstreetcn.com/articles/3759559",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时21分]"
-        },
-        {
-          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
-          "url": "https://www.cls.cn/detail/2204017",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时21分]"
-        },
-        {
-          "title": "Plain Jane Remix编舞跳起来",
-          "url": "https://www.douyin.com/hot/2310465",
-          "source": "抖音",
-          "ranks": [
-            23,
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时21分]"
         },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
@@ -508,6 +615,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美国计划批准向沙特AI公司Humain出售芯片。",
+          "url": "https://wallstreetcn.com/livenews/3006708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "市场消息：美国计划批准向沙特阿拉伯人工智能企业Humain出售芯片。",
+          "url": "https://flash.jin10.com/detail/20251119034535713800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "沙特Humain、贝佐斯旗下亚马逊、AMD、马斯克旗下xAI将打造多个数据中心。（Semafor）",
@@ -600,8 +729,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -611,8 +740,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
@@ -622,19 +751,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
           "url": "https://flash.jin10.com/detail/20251119025030602800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时31分]"
         },
         {
           "title": "房地美股价触及盘中高点，上涨2.2%。",
@@ -662,8 +792,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 04时31分]"
         },
         {
           "title": "小米电话会：小米汽车本周将提前完成全年交付目标，预计明年毛利率有所下降，手机业务可能通过涨价应对存储成本上升",
@@ -673,8 +803,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "存储涨价 为何放过了苹果与联想",
@@ -682,11 +812,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "美国或即将宣布发放对沙特阿拉伯的芯片出口许可",
@@ -694,11 +825,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时31分]"
         }
       ]
     }
