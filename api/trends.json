@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T13:26:38.059239+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2025-11-18T14:38:04.019950+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
@@ -147,6 +147,19 @@
           "time_info": "[02时36分 ~ 03时21分]"
         },
         {
+          "title": "特朗普威胁更换世界杯比赛城市",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E5%9F%8E%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 14时38分]"
+        },
+        {
           "title": "特朗普为何因关税问题大动肝火",
           "url": "https://www.toutiao.com/trending/7573841857147309614/",
           "source": "今日头条",
@@ -244,18 +257,6 @@
           "time_info": "[02时36分 ~ 03时21分]"
         },
         {
-          "title": "特朗普威胁更换世界杯比赛城市",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E5%9F%8E%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时26分]"
-        },
-        {
           "title": "特朗普表态支持公开爱泼斯坦案文件",
           "url": "https://www.toutiao.com/trending/7572905836377604105/",
           "source": "今日头条",
@@ -265,6 +266,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
+          "title": "特朗普威胁拉美三国",
+          "url": "https://wallstreetcn.com/livenews/3006282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "美国总统特朗普：关于委内瑞拉，我不会排除任何可能性。",
@@ -298,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "印尼外交部：印尼欢迎联合国安理会通过特朗普的加沙计划。",
+          "url": "https://flash.jin10.com/detail/20251118132513968800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "Tiger Woods和马斯克预计将出席美国总统特朗普与MBS（沙特王储）的宴会。（PunchBowl）",
@@ -501,8 +524,31 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 14时38分]"
+        },
+        {
+          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
+          "url": "https://www.cls.cn/detail/2203159",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 14时38分]"
+        },
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2202991",
@@ -529,15 +575,29 @@
           "time_info": "[04时29分 ~ 06时25分]"
         },
         {
-          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
+          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
+          "url": "https://www.cls.cn/detail/2203264",
+          "source": "财联社热门",
           "ranks": [
-            1
+            10,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 14时38分]"
+        },
+        {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 14时38分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -551,43 +611,6 @@
           "time_info": "[00时35分 ~ 03时21分]"
         },
         {
-          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
-          "url": "https://www.cls.cn/detail/2203159",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 13时26分]"
-        },
-        {
-          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
-          "url": "https://www.cls.cn/detail/2203264",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 13时26分]"
-        },
-        {
-          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
-          "url": "https://wallstreetcn.com/articles/3759576",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 13时26分]"
-        },
-        {
           "title": "美股三大指数下挫，美债美元走强，金价三连跌，加密货币再大跌",
           "url": "https://wallstreetcn.com/articles/3759498",
           "source": "华尔街见闻",
@@ -597,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "A股三大指数均跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3006295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "A股电池板块跳水，石大胜华触及跌停，华盛锂电、壹石通、海科新源、天力锂能、新宙邦跟跌。",
@@ -645,6 +679,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时24分]"
+        },
+        {
+          "title": "市场风险情绪恶化，日韩股市、美股期货、加密资产跌幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3006250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时38分]"
         },
         {
           "title": "（美股）费城金银指数收跌1.68%，报289.48点。 纽约证交所ARCA金矿开采商指数收跌1.58%，报2124.04点，北京时间22:59涨至2170.10点刷新日高，01:33出现一波显著的下跌行情，04:03跌至2109.73点刷新日低。",
@@ -707,6 +753,17 @@
           "time_info": "[02时36分 ~ 03时21分]"
         },
         {
+          "title": "A股福建板块全线下挫",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23A%E8%82%A1%E7%A6%8F%E5%BB%BA%E6%9D%BF%E5%9D%97%E5%85%A8%E7%BA%BF%E4%B8%8B%E6%8C%AB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D30%26realpos%3D30%26stream_entry_id%3D31%26lcate%3D5001%26cate%3D5001%26flag%3D1%26pos%3D31%26q%3D%2523A%25E8%2582%25A1%25E7%25A6%258F%25E5%25BB%25BA%25E6%259D%25BF%25E5%259D%2597%25E5%2585%25A8%25E7%25BA%25BF%25E4%25B8%258B%25E6%258C%25AB%2523%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1763447700%26pre_seqid%3D17634477006010281970576&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
           "title": "多家港股上市车企披露三季报，业绩会透露明年乐观市场期待",
           "url": "https://wallstreetcn.com/livenews/3006096",
           "source": "华尔街见闻-快讯",
@@ -724,18 +781,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "市场风险情绪恶化，日韩股市、美股期货、加密资产跌幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3006250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -798,7 +844,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -852,8 +898,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 14时38分]"
         },
         {
           "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
@@ -865,8 +911,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 14时38分]"
+        },
+        {
+          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 14时38分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -879,20 +940,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时35分 ~ 04时29分]"
-        },
-        {
-          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 13时26分]"
         },
         {
           "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
@@ -930,6 +977,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时36分]"
+        },
+        {
+          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
+          "url": "https://www.cls.cn/detail/2203555",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "11月18日午间收评：北证50指数半日跌超2%，AI应用方向逆势大涨",
@@ -1046,7 +1104,7 @@
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "售价翻三倍、需求增五成，存储市场“火热”外衣之下产业链冷暖不一",
@@ -1065,11 +1123,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 13时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 14时38分]"
         },
         {
           "title": "华为Mate80系列发布在即 新款麒麟芯片或将亮相",
@@ -1080,8 +1139,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 14时38分]"
+        },
+        {
+          "title": "谁为“存储超级周期”买单？大摩下调多家硬件设备公司评级",
+          "url": "https://www.cls.cn/detail/2203077",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 14时38分]"
         },
         {
           "title": "据日经新闻：本田计划从11月24日起逐步恢复北美工厂的生产，此前这些工厂因芯片短缺而暂停运营。",
@@ -1117,6 +1188,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "国产汽车芯片认证审查技术体系实现突破",
+          "url": "https://wallstreetcn.com/livenews/3006284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "美国总统特朗普：我们必须训练自己的人来制造芯片。",
           "url": "https://wallstreetcn.com/livenews/3006040",
           "source": "华尔街见闻-快讯",
@@ -1127,18 +1209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时24分]"
-        },
-        {
-          "title": "谁为“存储超级周期”买单？大摩下调多家硬件设备公司评级",
-          "url": "https://www.cls.cn/detail/2203077",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 13时26分]"
         },
         {
           "title": "上证指数早盘收报3949.83点，跌0.56%。 深证成指早盘收报13145.00点，跌0.43%。 创业板指早盘收报3091.87点，跌0.43%。 沪深300早盘收报4587.80点，跌0.22%。 科创50早盘收报1366.61点，涨0.93%。 中证500早盘收报7178.15点，跌0.79%。 中证1000早盘收报7466.41点，跌0.75%。",
@@ -1223,7 +1293,7 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数收跌1.21%，报7760.02点。 热门中概股里，逸仙电商初步收跌20%，阿特斯太阳能跌15%，小鹏跌10%，小马智行跌6%，理想跌超4%，再鼎医药跌超3%，百胜中国、京东、文远知行至少涨超0.5%，阿里巴巴涨2.8%，金山云涨9.1%，晶科能源涨13%。 ETF中，中概互联网指数ETF（KWEB）收跌0.81%，中国科技指数ETF（CQQQ）收跌1.02%。 中国ETF-iShares MSCI（MCHI）收跌1.13%，德银嘉实沪深300指数ETF（ASHR）收跌1.09%，XtrackersHarvest中证50（ASHS）收跌0.46%。",
@@ -1247,6 +1317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "A股储能概念持续调整，海博思创跌超10%，阿特斯、鹏辉能源、永福股份、奥特迅、派能科技等多股跌逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3006267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "美国能源信息署（EIA）：尽管产量创下纪录，但美国石油和天然气钻井平台数量增长放缓。",
@@ -1307,7 +1388,7 @@
     },
     {
       "keyword_group": "泰康 保险",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美联储理事沃勒：如果我们看到就业市场出现反弹，那么进行“保险性降息”的必要性就会减少。 我们的资产负债表目前非常到位。 市场利率正在悄悄上升，这表明我们接近稀缺准备金的水平。 我不认为资产负债表会保持在目前的水平，自然的准备金需求将推高它。 资产负债表可能短至一两个月内就会再次开始增长。 关于疲软的数据，我越来越多地听到有关裁员计划的消息。 我们应该更关注劳动力市场，而不是当前的通胀超调情况。",
@@ -1320,6 +1401,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时25分]"
+        },
+        {
+          "title": "黄执中沈奕斐谈再见爱人保险事件",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E6%89%A7%E4%B8%AD%E6%B2%88%E5%A5%95%E6%96%90%E8%B0%88%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E4%BF%9D%E9%99%A9%E4%BA%8B%E4%BB%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D22%26realpos%3D22%26stream_entry_id%3D31%26lcate%3D5001%26cate%3D5001%26flag%3D1%26pos%3D23%26q%3D%2523%25E9%25BB%2584%25E6%2589%25A7%25E4%25B8%25AD%25E6%25B2%2588%25E5%25A5%2595%25E6%2596%2590%25E8%25B0%2588%25E5%2586%258D%25E8%25A7%2581%25E7%2588%25B1%25E4%25BA%25BA%25E4%25BF%259D%25E9%2599%25A9%25E4%25BA%258B%25E4%25BB%25B6%2523%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1763447700%26pre_seqid%3D17634477006010281970576&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "美联储副主席杰斐逊：作为货币政策制定者，我对存款保险改革没有看法，这应由民选官员决定。",
