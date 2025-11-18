@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T07:24:44.674032+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2025-11-18T09:58:59.926398+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时58分]"
         },
         {
           "title": "曝特朗普与昔日得力干将决裂",
@@ -60,7 +60,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -236,7 +236,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -258,7 +258,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -291,7 +291,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -313,7 +313,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -379,7 +379,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -404,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普为何因关税问题大动肝火",
+          "url": "https://www.toutiao.com/trending/7573841857147309614/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "白宫高级官员：特朗普总统倾向于支持向沙特阿拉伯出售F35战斗机。",
@@ -453,8 +464,21 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2202991",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时58分]"
+        },
         {
           "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
           "url": "https://wallstreetcn.com/articles/3759498",
@@ -465,18 +489,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时29分 ~ 06时25分]"
-        },
-        {
-          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2202991",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时24分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -496,9 +508,43 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "A股电池板块跳水，石大胜华触及跌停，华盛锂电、壹石通、海科新源、天力锂能、新宙邦跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3006178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
+          "url": "https://www.cls.cn/detail/2203159",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 09时58分]"
         },
         {
           "title": "又见A股公司年末忙着资产出售",
@@ -591,20 +637,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
         {
-          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
-          "url": "https://www.cls.cn/detail/2203159",
-          "source": "财联社热门",
+          "title": "A股锂矿股延续强势，金圆股份2连板，盛新锂能涨超8%，国城矿业、大中矿业、中矿资源、德方纳米等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3006166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时24分"
+          "time_info": "09时58分"
+        },
+        {
+          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
+          "url": "https://www.cls.cn/detail/2203264",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股收盘）",
@@ -665,7 +733,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -675,8 +743,24 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时58分]"
+        },
+        {
+          "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
+          "url": "https://www.zhihu.com/question/1972861967086666313",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            14,
+            13,
+            12,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时24分]"
+          "time_info": "[01时25分 ~ 09时58分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -690,21 +774,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时24分]"
-        },
-        {
-          "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
-          "url": "https://www.zhihu.com/question/1972861967086666313",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时25分 ~ 07时24分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -731,24 +800,25 @@
           "time_info": "[01时25分 ~ 02时36分]"
         },
         {
+          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
+          "url": "https://wallstreetcn.com/articles/3759559",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 09时58分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：在Google VIDS中扩大了Gemini的使用范围。拥有Gmail账号的任何人都可使用Google VIDS中的Gemini功能。（注：Google Vids是一款AI赋能的视频制作应用）",
           "url": "https://flash.jin10.com/detail/20251118065706358800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
-          "url": "https://wallstreetcn.com/articles/3759559",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -759,7 +829,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -770,7 +840,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -781,9 +851,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "蚂蚁推出全模态通用AI助手“灵光”",
+          "url": "https://wallstreetcn.com/livenews/3006157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "高盛：美股已消化了人工智能的大部分潜在收益 但仍可能继续涨…",
@@ -792,7 +873,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -806,6 +887,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
@@ -824,6 +916,101 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 科创",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "存储芯片疯狂涨价，PC与服务器厂商受伤！大摩：每涨10%，OEM毛利率就下降45-150个基点",
+          "url": "https://wallstreetcn.com/articles/3759535",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 09时58分]"
+        },
+        {
+          "title": "据日经新闻：本田计划从11月24日起逐步恢复北美工厂的生产，此前这些工厂因芯片短缺而暂停运营。",
+          "url": "https://flash.jin10.com/detail/20251118071001090800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "美国总统特朗普：我们必须培训我们的人员如何制造芯片。",
+          "url": "https://flash.jin10.com/detail/20251118040950625800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：由于关税，芯片制造商正在回归美国。",
+          "url": "https://flash.jin10.com/detail/20251118040818746800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：我们必须训练自己的人来制造芯片。",
+          "url": "https://wallstreetcn.com/livenews/3006040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "美国总统特朗普：一年之内，我们将占据芯片制造市场的大部分份额。",
+          "url": "https://flash.jin10.com/detail/20251118040757523800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "上证指数开盘报3962.44点，跌0.24%。 深证成指开盘报13161.70点，跌0.31%。 创业板指开盘报3089.38点，跌0.51%。 沪深300开盘报4584.79点，跌0.29%。 科创50开盘报1350.51点，跌0.26%。 中证500开盘报7215.03点，跌0.28%。 中证1000开盘报7508.53点，跌0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3006163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "美股存储芯片股美光科技涨超5％，再创历史新高；西部数据涨近4％，闪迪涨近8％。",
+          "url": "https://wallstreetcn.com/livenews/3005939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -854,7 +1041,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -916,90 +1103,6 @@
       ]
     },
     {
-      "keyword_group": "芯片 科创",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "存储芯片疯狂涨价，PC与服务器厂商受伤！大摩：每涨10%，OEM毛利率就下降45-150个基点",
-          "url": "https://wallstreetcn.com/articles/3759535",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时25分]"
-        },
-        {
-          "title": "据日经新闻：本田计划从11月24日起逐步恢复北美工厂的生产，此前这些工厂因芯片短缺而暂停运营。",
-          "url": "https://flash.jin10.com/detail/20251118071001090800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "美国总统特朗普：我们必须培训我们的人员如何制造芯片。",
-          "url": "https://flash.jin10.com/detail/20251118040950625800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美国总统特朗普：由于关税，芯片制造商正在回归美国。",
-          "url": "https://flash.jin10.com/detail/20251118040818746800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美国总统特朗普：我们必须训练自己的人来制造芯片。",
-          "url": "https://wallstreetcn.com/livenews/3006040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时24分]"
-        },
-        {
-          "title": "美国总统特朗普：一年之内，我们将占据芯片制造市场的大部分份额。",
-          "url": "https://flash.jin10.com/detail/20251118040757523800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美股存储芯片股美光科技涨超5％，再创历史新高；西部数据涨近4％，闪迪涨近8％。",
-          "url": "https://wallstreetcn.com/livenews/3005939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中东",
       "match_count": 6,
       "titles": [
@@ -1011,8 +1114,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时58分]"
         },
         {
           "title": "中国C919大飞机首次在中东亮相",
