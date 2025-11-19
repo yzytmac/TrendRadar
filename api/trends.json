@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T06:25:43.375102+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2025-11-20T07:24:46.203767+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 43,
+      "match_count": 59,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时24分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -38,11 +38,12 @@
             4,
             5,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时24分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -53,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时24分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -65,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时24分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -77,8 +78,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时24分]"
         },
         {
           "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
@@ -86,11 +87,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时37分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[02时37分 ~ 07时24分]"
         },
         {
           "title": "市场消息：Luma AI获得由Humain领投的9亿美元C轮融资，并将合作在沙特阿拉伯建设一个2吉瓦的AI超级集群。",
@@ -102,17 +104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "英伟达(NVDA.O)CEO黄仁勋：由于地缘政治问题等因素，本季度对H20 AI芯片的大额采购订单并未实现。",
-          "url": "https://flash.jin10.com/detail/20251120061508890800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
         },
         {
           "title": "AMD、思科联手沙特Humain成立AI数据中心合资企业",
@@ -137,6 +128,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
+          "url": "https://wallstreetcn.com/livenews/3007475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架 。",
           "url": "https://flash.jin10.com/detail/20251120021055474800",
           "source": "金十数据",
@@ -154,9 +156,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "百度公司创始人、董事长兼首席执行官李彦宏人民日报撰文：内化AI能力，加快形成新质生产力。",
+          "url": "https://flash.jin10.com/detail/20251120070340906800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "沙特人工智能初创公司Humain：和xAI建立合作伙伴关系，将在沙特阿拉伯建设下一代AI计算能力，并在该王国部署Grok，以支持沙特“最具AI赋能国家”的目标。",
@@ -168,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
+          "url": "https://wallstreetcn.com/articles/3759684",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 07时24分]"
         },
         {
           "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
@@ -194,6 +218,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 04时26分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)CEO黄仁勋：由于地缘政治问题等因素，本季度对H20 AI芯片的大额采购订单并未实现。",
+          "url": "https://flash.jin10.com/detail/20251120061508890800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时24分]"
         },
         {
           "title": "AMD、思科成立合资公司，得到沙特Humain的支持，将修建总体100 MW的数据中心。",
@@ -231,17 +267,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时24分]"
-        },
-        {
-          "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
-          "url": "https://wallstreetcn.com/articles/3759684",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 06时25分]"
         },
         {
           "title": "马斯克旗下xAI：在沙特全境部署Grok。 Grok还将被整合到沙特公司Humain的代理平台Humain One。",
@@ -320,7 +345,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -331,7 +356,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -345,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "纳指期货周四开涨1%，受英伟达(NVDA.O)等AI概念股推动。",
+          "url": "https://flash.jin10.com/detail/20251120070108833800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "马斯克：xAI和沙特正在与英伟达(NVDA.O)合作进行一个500兆瓦的项目。",
@@ -386,7 +422,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -400,6 +436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "英伟达：Anthropic首次采用本公司的技术。 该公司所有的AI模型现在都采用英伟达技术。",
+          "url": "https://wallstreetcn.com/livenews/3007464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "沙特人工智能初创公司Humain：未来三年内，将在沙特和美国部署英伟达(NVDA.O)人工智能基础设施，配备多达60万个英伟达GPU。将使用英伟达的NeMo-Tron开源技术来训练Humain Chat。",
@@ -435,6 +482,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "中东公司G42和Humain获准购买英伟达Blackwell芯片。",
+          "url": "https://wallstreetcn.com/livenews/3007463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "xAI：正在沙特阿拉伯全国范围内部署Grok。",
           "url": "https://flash.jin10.com/detail/20251120031901124800",
           "source": "金十数据",
@@ -446,6 +504,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "英伟达CEO黄仁勋：AI（人工智能）已经达到一个“临界点”。",
+          "url": "https://wallstreetcn.com/livenews/3007462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "摩根大通分析师：不认为投资者会盲目追逐与AI主题相关的低质量或无盈利公司",
           "url": "https://wallstreetcn.com/livenews/3007334",
           "source": "华尔街见闻-快讯",
@@ -455,6 +524,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美国商务部：已批准向位于阿联酋的G42公司和位于沙特的Humain公司出口先进的美国半导体产品。",
+          "url": "https://flash.jin10.com/detail/20251120064243930800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "市场消息：一项草案显示，美国总统特朗普正在考虑签署一项行政令，以优先于各州AI法规实施联邦规定。",
+          "url": "https://flash.jin10.com/detail/20251120063519485800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：客户的财务问题是他们自己的事。 每个国家将为自己的（AI）基础设施提供融资。",
+          "url": "https://wallstreetcn.com/livenews/3007458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CEO黄仁勋：我并未看到人工智能泡沫。",
+          "url": "https://flash.jin10.com/detail/20251120062910896800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "英伟达：正与OpenAI致力于战略合作伙伴关系。 将通过云继续支持OpenAI。 正设法与OpenAI达成独家协议。 OpenAI投资将转化为回报。",
+          "url": "https://wallstreetcn.com/livenews/3007456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "AI视频初创公司Luma AI按40亿美元估值融资9亿美元，沙特Humain领投。",
@@ -479,6 +603,28 @@
           "time_info": "01时24分"
         },
         {
+          "title": "英伟达(NVDA.O)CFO：实体人工智能是公司下一个增长阶段，蕴含数万亿美元机遇。",
+          "url": "https://flash.jin10.com/detail/20251120062349243800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "英伟达：针对中国市场的定制款AI芯片H20三季度销售仅仅0.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3007452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "AI股飙升为加州带来110亿美元意外收入 仍难抵180亿美元赤字缺口",
           "url": "https://flash.jin10.com/detail/20251120024632428800",
           "source": "金十数据",
@@ -488,6 +634,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "据华尔街日报：美国批准向中东出售人工智能芯片的交易，政府官员表示，商务部计划批准向阿联酋和沙特出口7万枚先进人工智能芯片。官员表示，出口协议包括批准英伟达的GB300或等效芯片。",
+          "url": "https://flash.jin10.com/detail/20251120062315591800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：英伟达正与OpenAI合作，建设并部署超过10吉瓦的AI数据中心。",
+          "url": "https://flash.jin10.com/detail/20251120062209378800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "美国将批准（英伟达）向沙特与阿联酋供应最多70,000块芯片。 将允许英伟达向沙特公司Humain供应至多35,000块NVIDIA GB300芯片。 另外35,000块芯片将供应给G42公司。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3007450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "美国和沙特阿拉伯宣布建立人工智能战略合作伙伴关系。",
@@ -512,11 +691,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时24分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -526,8 +706,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时24分]"
         },
         {
           "title": "C罗马斯克现身白宫 出席特朗普晚宴",
@@ -537,11 +717,12 @@
             26,
             24,
             16,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时37分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[02时37分 ~ 07时24分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -555,8 +736,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 07时24分]"
         },
         {
           "title": "美国总统特朗普：今天有数十家公司将签署总价值2700亿美元的协议和销售合同。",
@@ -979,7 +1160,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -1003,8 +1184,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时24分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -1016,6 +1197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
@@ -1030,6 +1222,18 @@
           "time_info": "[05时21分 ~ 06时25分]"
         },
         {
+          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
+          "url": "https://www.cls.cn/detail/2205612",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时24分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 谷歌创新高",
           "url": "https://flash.jin10.com/detail/20251120050112244800",
           "source": "金十数据",
@@ -1041,15 +1245,15 @@
           "time_info": "05时21分"
         },
         {
-          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
-          "url": "https://www.cls.cn/detail/2205612",
-          "source": "财联社热门",
+          "title": "多家A股公司披露第四季度新签重要订单",
+          "url": "https://wallstreetcn.com/livenews/3007469",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时24分"
         },
         {
           "title": "（美股）费城金银指数收涨1.34%，报296.82点。 纽约证交所ARCA金矿开采商指数收涨1.36%，报2151.78点，北京时间22:30美股开盘前持稳于2135点附近——一直维持微幅上涨状态，随扈跳空走高，22:37刷新日高至2193.46点，之后快速回吐这一波涨幅。",
@@ -1058,7 +1262,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1080,7 +1284,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1091,7 +1295,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1102,7 +1306,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1124,9 +1328,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "做多中国资产，外资机构看好明年A股表现",
+          "url": "https://wallstreetcn.com/livenews/3007451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "金十图示：2025年11月19日（周三）美股热门股票行情一览（美股收盘）",
@@ -1135,7 +1350,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1146,9 +1361,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "英伟达美股盘后涨幅扩大至超过5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3007446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         }
       ]
     },
@@ -1174,7 +1400,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1304,7 +1530,7 @@
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
           "title": "“涨价”成行情点火器，存储芯片、锂电材料概念股轮番走强，后续行情怎么看？",
@@ -1315,8 +1541,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时24分]"
         },
         {
           "title": "英伟达：新款Rubin芯片平台进展顺利，处于正轨之上。",
@@ -1325,9 +1551,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：外面并没有那么多的芯片设计师团队。 英伟达已经转向为电脑制造许多组件。 芯片数量和组件模型的多样性已经加剧挑战的复杂性。",
+          "url": "https://wallstreetcn.com/livenews/3007472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "英伟达(NVDA.O)涨势带动美股芯片股盘后行情，AMD(AMD.O)、台积电(TSM.N)和美光科技(MU.O)均涨于3%一线。",
@@ -1336,9 +1573,53 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美国商务部：两家公司均已获得批准，可购买相当于最多35,000枚英伟达Blackwell芯片的产品。",
+          "url": "https://flash.jin10.com/detail/20251120064347495800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "英伟达CFO：公司芯片仍然保持性能纪录。 GPUs的使用寿命得到延长。",
+          "url": "https://wallstreetcn.com/livenews/3007457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：未来四年，公司将与芯片封装公司矽品精密工业和安靠科技合作，扩大其在美国的制造业务。",
+          "url": "https://flash.jin10.com/detail/20251120062539411800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：Rubin芯片有望于2026年下半年开始量产。",
+          "url": "https://flash.jin10.com/detail/20251120061701219800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         }
       ]
     },
@@ -1352,11 +1633,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时24分]"
         }
       ]
     },
@@ -1373,8 +1655,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时24分]"
         }
       ]
     }
