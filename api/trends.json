@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T12:31:55.523363+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2025-11-19T13:27:44.998533+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -69,8 +69,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 12时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 13时27分]"
+        },
+        {
+          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
+          "url": "https://www.cls.cn/detail/2204346",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 13时27分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -88,17 +100,6 @@
           "time_info": "[00时36分 ~ 07时24分]"
         },
         {
-          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
-          "url": "https://www.cls.cn/detail/2204346",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 12时31分]"
-        },
-        {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
           "url": "https://www.cls.cn/detail/2204017",
           "source": "财联社热门",
@@ -112,15 +113,16 @@
           "time_info": "[00时36分 ~ 07时24分]"
         },
         {
-          "title": "华尔街日报：xAI正就融资150亿美元深入谈判 估值显著提升",
-          "url": "https://flash.jin10.com/detail/20251119121305471800",
-          "source": "金十数据",
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
           "ranks": [
-            1
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时27分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -129,11 +131,26 @@
           "ranks": [
             3,
             4,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 12时31分]"
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 13时27分]"
+        },
+        {
+          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759633",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时31分 ~ 13时27分]"
         },
         {
           "title": "英伟达(NVDA.O)：通过在微软(MSFT.O)全新Fairwater人工智能超级工厂中采用英伟达Spectrum-X以太网交换机，扩大与微软的合作范围。",
@@ -158,39 +175,6 @@
           "time_info": "00时36分"
         },
         {
-          "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
-          "url": "https://flash.jin10.com/detail/20251119120532267800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "蚂蚁旗下AI产品“灵光”首日下载破20万",
-          "url": "https://wallstreetcn.com/livenews/3006939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
           "title": "你认为该图片是真实拍摄的还是由AI生成的？",
           "url": "https://www.zhihu.com/question/1971246965376389265",
           "source": "知乎",
@@ -213,15 +197,18 @@
           "time_info": "04时31分"
         },
         {
-          "title": "报道：xAI正就融资150亿美元深入谈判 估值显著提升",
-          "url": "https://wallstreetcn.com/livenews/3006936",
-          "source": "华尔街见闻-快讯",
+          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2204501",
+          "source": "财联社热门",
           "ranks": [
-            4
+            10,
+            7,
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 13时27分]"
         },
         {
           "title": "OpenAI首席执行官：祝贺谷歌推出Gemini 3，这款模型看起来很棒。",
@@ -233,31 +220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-19）",
-          "url": "https://flash.jin10.com/detail/20251119120257616800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759633",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时31分 ~ 12时31分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -282,17 +244,15 @@
           "time_info": "[00时36分 ~ 04时31分]"
         },
         {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 12时31分]"
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 13时27分]"
         },
         {
           "title": "美国总统特朗普：我们必须制定一项人工智能联邦标准，而不是由50个州各自为政的监管体系。",
@@ -305,6 +265,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时24分]"
+        },
+        {
+          "title": "华尔街日报：xAI正就融资150亿美元深入谈判 估值显著提升",
+          "url": "https://flash.jin10.com/detail/20251119121305471800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时27分]"
         },
         {
           "title": "法国总统马克龙：德国和法国支持推后一年再出台高风险AI制度。",
@@ -331,6 +303,30 @@
           "time_info": "[11时18分 ~ 12时31分]"
         },
         {
+          "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
+          "url": "https://flash.jin10.com/detail/20251119120532267800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时27分]"
+        },
+        {
+          "title": "蚂蚁旗下AI产品“灵光”首日下载破20万",
+          "url": "https://wallstreetcn.com/livenews/3006939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时27分]"
+        },
+        {
           "title": "瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3006649",
           "source": "华尔街见闻-快讯",
@@ -355,6 +351,42 @@
           "time_info": "[06时31分 ~ 07时24分]"
         },
         {
+          "title": "报道：xAI正就融资150亿美元深入谈判 估值显著提升",
+          "url": "https://wallstreetcn.com/livenews/3006936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时27分]"
+        },
+        {
+          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
+          "url": "https://wallstreetcn.com/articles/3759654",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 13时27分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-19）",
+          "url": "https://flash.jin10.com/detail/20251119120257616800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时27分]"
+        },
+        {
           "title": "华为明年初或发布AI Data Platform产品",
           "url": "https://wallstreetcn.com/livenews/3006902",
           "source": "华尔街见闻-快讯",
@@ -367,27 +399,16 @@
           "time_info": "[11时18分 ~ 12时31分]"
         },
         {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时58分 ~ 12时31分]"
-        },
-        {
-          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
-          "url": "https://wallstreetcn.com/articles/3759654",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 12时31分]"
+          "time_info": "[11时18分 ~ 13时27分]"
         },
         {
           "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
@@ -400,18 +421,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时58分 ~ 12时31分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时31分]"
         },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
@@ -570,6 +579,28 @@
           "time_info": "11时18分"
         },
         {
+          "title": "AI 为什么会先淘汰写字楼里的人？",
+          "url": "https://www.zhihu.com/question/582917350",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "Meta领导层大洗牌 首席营收官与商业AI部门高管离职",
           "url": "https://flash.jin10.com/detail/20251119003556268800",
           "source": "金十数据",
@@ -661,7 +692,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -672,8 +703,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 13时27分]"
         },
         {
           "title": "美国财长贝森特：可以肯定地说，我不会成为美联储主席。 特朗普将在感恩节后会见三位美联储主席候选人。 特朗普可能在圣诞节前宣布下一任美联储主席。",
@@ -685,6 +716,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "特朗普：已确定下一任美联储主席人选",
+          "url": "https://www.cls.cn/detail/2204373",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 13时27分]"
         },
         {
           "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
@@ -737,20 +782,6 @@
           "time_info": "[02时38分 ~ 03时21分]"
         },
         {
-          "title": "特朗普：已确定下一任美联储主席人选",
-          "url": "https://www.cls.cn/detail/2204373",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 12时31分]"
-        },
-        {
           "title": "微软与德国思爱普Sap签署协议，将在（美国总统特朗普命令）引发“危机”的情况下支持欧洲云。",
           "url": "https://wallstreetcn.com/livenews/3006685",
           "source": "华尔街见闻-快讯",
@@ -774,6 +805,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时24分]"
+        },
+        {
+          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
+          "url": "https://wallstreetcn.com/articles/3759659",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 13时27分]"
         },
         {
           "title": "美国总统特朗普结束在白宫的讲话。",
@@ -812,18 +855,6 @@
           "time_info": "[02时38分 ~ 03时21分]"
         },
         {
-          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
-          "url": "https://wallstreetcn.com/articles/3759659",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 12时31分]"
-        },
-        {
           "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
           "url": "https://wallstreetcn.com/livenews/3006680",
           "source": "华尔街见闻-快讯",
@@ -847,6 +878,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时21分]"
+        },
+        {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时27分]"
         },
         {
           "title": "美国总统特朗普：应吊销美国广播公司的执照。",
@@ -917,17 +960,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         },
         {
           "title": "美国总统特朗普：人们都在阻止我解雇鲍威尔。",
@@ -1106,6 +1138,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "特朗普与沙特王储握手露出尴尬表情",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "美国总统特朗普：沙特将购买F-35战机。",
           "url": "https://flash.jin10.com/detail/20251119015008336800",
           "source": "金十数据",
@@ -1208,7 +1251,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -1253,8 +1296,52 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时31分 ~ 12时31分]"
+          "appearance_count": 6,
+          "time_info": "[06时31分 ~ 13时27分]"
+        },
+        {
+          "title": "A股船舶板块涨势扩大，江龙船艇、中船防务午后涨停，天海防务涨超15%，亚星锚链此前封板，国瑞科技、中科海讯、中国海防、海兰信、中国船舶跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3006961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "A股三大指数午后集体翻绿，创业板指此前一度涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3006959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "A股旅游股异动拉升，云南旅游快速涨停，长白山、天府文旅、大连圣亚、峨眉山A、曲江文旅等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3006957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "A股水产养殖板块再度拉升，獐子岛、大湖股份、好当家午后涨停，开创国际、东方海洋、中水渔业此前封板，百洋股份、天马科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3006953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "花旗集团欧洲、中东和非洲股票交易主管David Haldane：（美股）市场已经反弹并创下新高。 我们正处于散户、对冲基金和资产管理公司都活跃的交汇点上。（彭博）",
@@ -1464,8 +1551,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 12时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 13时27分]"
         },
         {
           "title": "存储涨价 为何放过了苹果与联想",
@@ -1476,11 +1563,12 @@
             21,
             20,
             30,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 12时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 13时27分]"
         },
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -1508,6 +1596,18 @@
           "time_info": "[02时38分 ~ 04时31分]"
         },
         {
+          "title": "上证指数早盘收报3938.29点，跌0.04%。 深证成指早盘收报13038.33点，跌0.32%。 创业板指早盘收报3072.79点，涨0.12%。 沪深300早盘收报4577.77点，涨0.21%。 科创50早盘收报1343.15点，跌1.09%。 中证500早盘收报7096.06点，跌0.77%。 中证1000早盘收报7358.27点，跌1.21%。",
+          "url": "https://wallstreetcn.com/livenews/3006923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时27分]"
+        },
+        {
           "title": "上证指数开盘报3937.92点，跌0.05%。 深证成指开盘报13071.94点，跌0.07%。 创业板指开盘报3065.16点，跌0.13%。 沪深300开盘报4568.04点，跌0.00%。 科创50开盘报1355.13点，跌0.21%。 中证500开盘报7141.26点，跌0.14%。 中证1000开盘报7438.14点，跌0.13%。",
           "url": "https://wallstreetcn.com/livenews/3006842",
           "source": "华尔街见闻-快讯",
@@ -1517,17 +1617,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
-        },
-        {
-          "title": "上证指数早盘收报3938.29点，跌0.04%。 深证成指早盘收报13038.33点，跌0.32%。 创业板指早盘收报3072.79点，涨0.12%。 沪深300早盘收报4577.77点，涨0.21%。 科创50早盘收报1343.15点，跌1.09%。 中证500早盘收报7096.06点，跌0.77%。 中证1000早盘收报7358.27点，跌1.21%。",
-          "url": "https://wallstreetcn.com/livenews/3006923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         },
         {
           "title": "芯片初创公司TenStorrent洽谈融资至少8亿美元，由富达Fidelity牵头讨论。（The Information）",
@@ -1544,8 +1633,19 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "碳酸锂期货突破10万大关！锂电产业链集体爆发 储能需求及固态电池成关键支撑",
+          "url": "https://www.cls.cn/detail/2204718",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
         {
           "title": "国家能源局：截至10月底我国电动汽车充电基础设施（枪）总数达到1864.5万个",
           "url": "https://wallstreetcn.com/livenews/3006879",
@@ -1602,11 +1702,12 @@
           "url": "https://flash.jin10.com/detail/20251119113453411800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时27分]"
         }
       ]
     }
