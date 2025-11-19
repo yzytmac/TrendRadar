@@ -1,8 +1,507 @@
 {
-  "generated_at": "2025-11-20T05:21:00.623410+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2025-11-20T06:25:43.375102+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI 人工智能 算力",
+      "match_count": 43,
+      "titles": [
+        {
+          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
+          "url": "https://www.cls.cn/detail/2198644",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 06时25分]"
+        },
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 06时25分]"
+        },
+        {
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 06时25分]"
+        },
+        {
+          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
+          "url": "https://wallstreetcn.com/articles/3759654",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 06时25分]"
+        },
+        {
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 06时25分]"
+        },
+        {
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 06时25分]"
+        },
+        {
+          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
+          "url": "https://www.cls.cn/detail/2205150",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时37分 ~ 06时25分]"
+        },
+        {
+          "title": "市场消息：Luma AI获得由Humain领投的9亿美元C轮融资，并将合作在沙特阿拉伯建设一个2吉瓦的AI超级集群。",
+          "url": "https://flash.jin10.com/detail/20251120011527644800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CEO黄仁勋：由于地缘政治问题等因素，本季度对H20 AI芯片的大额采购订单并未实现。",
+          "url": "https://flash.jin10.com/detail/20251120061508890800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "AMD、思科联手沙特Humain成立AI数据中心合资企业",
+          "url": "https://flash.jin10.com/detail/20251120002125058800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "OpenAI：推出面向教师的ChatGPT，并将其免费开放至2027年6月。2027年6月之后可能会调整定价，但目标是让面向教师的ChatGPT对教育工作者来说仍然负担得起。",
+          "url": "https://flash.jin10.com/detail/20251120021224475800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架 。",
+          "url": "https://flash.jin10.com/detail/20251120021055474800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：长期机遇的一半将来自超大规模企业向加速计算和生成式人工智能的转型。",
+          "url": "https://flash.jin10.com/detail/20251120061254988800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "沙特人工智能初创公司Humain：和xAI建立合作伙伴关系，将在沙特阿拉伯建设下一代AI计算能力，并在该王国部署Grok，以支持沙特“最具AI赋能国家”的目标。",
+          "url": "https://flash.jin10.com/detail/20251120020650627800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
+          "url": "https://wallstreetcn.com/livenews/3007373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时26分]"
+        },
+        {
+          "title": "微软CEO就AI经济接触其顾问。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3007372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时26分]"
+        },
+        {
+          "title": "AMD、思科成立合资公司，得到沙特Humain的支持，将修建总体100 MW的数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3007325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时24分]"
+        },
+        {
+          "title": "沙特公司Humain与Adobe宣布全球战略合作伙伴关系，将打造AI模型和基于AI技术的应用。 Humain与马斯克旗下xAI构建合作伙伴关系，将在沙特打造下一代AI算力、部署Grok，从而支持“最赋能AI国家”目标。",
+          "url": "https://wallstreetcn.com/livenews/3007369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时26分]"
+        },
+        {
+          "title": "马斯克：xAI与沙特在做一个500 Megawatt的项目，英伟达有参与。 xAI将在沙特开发一个500 MW的数据中心。 沙特AI公司Humain和英伟达都将参与xAI在沙特的数据中心项目。",
+          "url": "https://wallstreetcn.com/livenews/3007319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时24分]"
+        },
+        {
+          "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
+          "url": "https://wallstreetcn.com/articles/3759684",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时26分 ~ 06时25分]"
+        },
+        {
+          "title": "马斯克旗下xAI：在沙特全境部署Grok。 Grok还将被整合到沙特公司Humain的代理平台Humain One。",
+          "url": "https://wallstreetcn.com/livenews/3007392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
+          "title": "美联储会议纪要：多位与会者强调了股市可能出现无序下跌的可能性，尤其是在人工智能相关前景突然重新评估的情况下。",
+          "url": "https://flash.jin10.com/detail/20251120030202658800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时26分]"
+        },
+        {
+          "title": "萨默斯（Larry Summers）从Santander国际顾问委员会离职。 此前，萨默斯已经退出OpenAI的董事会。",
+          "url": "https://wallstreetcn.com/livenews/3007408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时25分]"
+        },
+        {
+          "title": "美国和沙特阿拉伯宣布建立人工智能战略合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3007362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时22分]"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 00时35分]"
+        },
+        {
+          "title": "马斯克：xAI 的沙特数据中心项目将有沙特人工智能公司Humain与英伟达参与。",
+          "url": "https://flash.jin10.com/detail/20251120001716224800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "英伟达AI营收、展望均超预期 黄仁勋直言卖爆了",
+          "url": "https://flash.jin10.com/detail/20251120055408118800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "英伟达：Agentic AI激增。",
+          "url": "https://wallstreetcn.com/livenews/3007437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美媒：白宫正采取行动 阻止限制AI芯片出口的法案",
+          "url": "https://flash.jin10.com/detail/20251120045725872800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "马斯克：xAI和沙特正在与英伟达(NVDA.O)合作进行一个500兆瓦的项目。",
+          "url": "https://flash.jin10.com/detail/20251120000958341800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "市场消息：Meta Platforms(META.O)首席人工智能科学家Yann LeCun拟最快于本周宣布离职并创办新公司，Meta将与Yann LeCun的新初创公司合作。",
+          "url": "https://flash.jin10.com/detail/20251120044512589800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "沙特人工智能初创公司Humain：与Global AI建立合作伙伴关系，利用最新的英伟达AI基础设施，在美国和全球建设大规模AI数据中心和计算能力。",
+          "url": "https://flash.jin10.com/detail/20251120020202388800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "Meta首席人工智能科学家Yann LeCun：计划离开Meta Platforms(META.O)，Meta将成为新初创公司的合作伙伴，继续推进先进机器智能研究计划（AMI）。我将在Meta留任至年底。",
+          "url": "https://flash.jin10.com/detail/20251120053824579800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "沙特人工智能初创公司Humain：和Adobe(ADBE.O)在美沙投资论坛上宣布全球战略伙伴关系，将为阿拉伯世界构建定制的AI模型和AI驱动的应用程序。",
+          "url": "https://flash.jin10.com/detail/20251120020145207800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "沙特人工智能初创公司Humain：未来三年内，将在沙特和美国部署英伟达(NVDA.O)人工智能基础设施，配备多达60万个英伟达GPU。将使用英伟达的NeMo-Tron开源技术来训练Humain Chat。",
+          "url": "https://flash.jin10.com/detail/20251120020056406800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "xAI：Grok还将集成到沙特AI初创公司Humain的代理平台Humain One中。",
+          "url": "https://flash.jin10.com/detail/20251120031945554800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "据AXIOS网站：白宫正采取行动阻止限制人工智能芯片出口的法案。",
+          "url": "https://flash.jin10.com/detail/20251120043901978800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "xAI：正在沙特阿拉伯全国范围内部署Grok。",
+          "url": "https://flash.jin10.com/detail/20251120031901124800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "摩根大通分析师：不认为投资者会盲目追逐与AI主题相关的低质量或无盈利公司",
+          "url": "https://wallstreetcn.com/livenews/3007334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "AI视频初创公司Luma AI按40亿美元估值融资9亿美元，沙特Humain领投。",
+          "url": "https://wallstreetcn.com/livenews/3007352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "据英国金融时报：华纳音乐(WMG.O)已与人工智能初创公司UDIO达成授权协议，将以其歌曲为基础，驱动一个新的流媒体平台。",
+          "url": "https://flash.jin10.com/detail/20251120004114960800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "AI股飙升为加州带来110亿美元意外收入 仍难抵180亿美元赤字缺口",
+          "url": "https://flash.jin10.com/detail/20251120024632428800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国和沙特阿拉伯宣布建立人工智能战略合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20251120014247215800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 41,
@@ -16,8 +515,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -27,8 +526,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
           "title": "C罗马斯克现身白宫 出席特朗普晚宴",
@@ -37,11 +536,12 @@
           "ranks": [
             26,
             24,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时37分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[02时37分 ~ 06时25分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -51,11 +551,12 @@
             27,
             30,
             29,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
           "title": "美国总统特朗普：今天有数十家公司将签署总价值2700亿美元的协议和销售合同。",
@@ -141,6 +642,18 @@
           "time_info": "[02时38分 ~ 04时26分]"
         },
         {
+          "title": "美债收益率走高，特朗普政府推迟发布就业数据，浇灭对美联储降息的预期",
+          "url": "https://wallstreetcn.com/livenews/3007411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时25分]"
+        },
+        {
           "title": "美国总统特朗普：马斯克，我支持你。",
           "url": "https://wallstreetcn.com/livenews/3007365",
           "source": "华尔街见闻-快讯",
@@ -210,17 +723,6 @@
           "time_info": "01时24分"
         },
         {
-          "title": "美债收益率走高，特朗普政府推迟发布就业数据，浇灭对美联储降息的预期",
-          "url": "https://wallstreetcn.com/livenews/3007411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：只有美国和美国总统特朗普有足够的实力结束冲突，实现和平的关键在于与我们的伙伴合作，并确保美国的领导力依然有效且强大。",
           "url": "https://flash.jin10.com/detail/20251120033729806800",
           "source": "金十数据",
@@ -260,7 +762,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -370,7 +872,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -476,449 +978,183 @@
       ]
     },
     {
-      "keyword_group": "AI 人工智能 算力",
-      "match_count": 38,
+      "keyword_group": "美股 a股 港股",
+      "match_count": 15,
       "titles": [
         {
-          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
-          "url": "https://www.cls.cn/detail/2198644",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时21分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
+          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
+          "url": "https://wallstreetcn.com/articles/3759700",
           "source": "华尔街见闻",
           "ranks": [
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
-          "title": "Gemini3是目前最强AI吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时21分]"
-        },
-        {
-          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
-          "url": "https://wallstreetcn.com/articles/3759654",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时21分]"
-        },
-        {
-          "title": "财晓得｜AI正在如何改写教育类APP版图？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时21分]"
-        },
-        {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时21分]"
-        },
-        {
-          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
-          "url": "https://www.cls.cn/detail/2205150",
+          "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2205477",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
+            12,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时37分 ~ 05时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
-          "title": "市场消息：Luma AI获得由Humain领投的9亿美元C轮融资，并将合作在沙特阿拉伯建设一个2吉瓦的AI超级集群。",
-          "url": "https://flash.jin10.com/detail/20251120011527644800",
+          "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
+          "url": "https://flash.jin10.com/detail/20251120021502092800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "AMD、思科联手沙特Humain成立AI数据中心合资企业",
-          "url": "https://flash.jin10.com/detail/20251120002125058800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "OpenAI：推出面向教师的ChatGPT，并将其免费开放至2027年6月。2027年6月之后可能会调整定价，但目标是让面向教师的ChatGPT对教育工作者来说仍然负担得起。",
-          "url": "https://flash.jin10.com/detail/20251120021224475800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
           "time_info": "02时38分"
         },
         {
-          "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架 。",
-          "url": "https://flash.jin10.com/detail/20251120021055474800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "沙特人工智能初创公司Humain：和xAI建立合作伙伴关系，将在沙特阿拉伯建设下一代AI计算能力，并在该王国部署Grok，以支持沙特“最具AI赋能国家”的目标。",
-          "url": "https://flash.jin10.com/detail/20251120020650627800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
-          "url": "https://wallstreetcn.com/livenews/3007373",
+          "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
+          "url": "https://wallstreetcn.com/livenews/3007418",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            16,
+            4,
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时38分 ~ 04时26分]"
-        },
-        {
-          "title": "微软CEO就AI经济接触其顾问。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3007372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时38分 ~ 04时26分]"
-        },
-        {
-          "title": "AMD、思科成立合资公司，得到沙特Humain的支持，将修建总体100 MW的数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3007325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时24分]"
+          "time_info": "[05时21分 ~ 06时25分]"
         },
         {
-          "title": "沙特公司Humain与Adobe宣布全球战略合作伙伴关系，将打造AI模型和基于AI技术的应用。 Humain与马斯克旗下xAI构建合作伙伴关系，将在沙特打造下一代AI算力、部署Grok，从而支持“最赋能AI国家”目标。",
-          "url": "https://wallstreetcn.com/livenews/3007369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时38分 ~ 04时26分]"
-        },
-        {
-          "title": "马斯克：xAI与沙特在做一个500 Megawatt的项目，英伟达有参与。 xAI将在沙特开发一个500 MW的数据中心。 沙特AI公司Humain和英伟达都将参与xAI在沙特的数据中心项目。",
-          "url": "https://wallstreetcn.com/livenews/3007319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时24分]"
-        },
-        {
-          "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
-          "url": "https://wallstreetcn.com/articles/3759684",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 05时21分]"
-        },
-        {
-          "title": "马斯克旗下xAI：在沙特全境部署Grok。 Grok还将被整合到沙特公司Humain的代理平台Humain One。",
-          "url": "https://wallstreetcn.com/livenews/3007392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时21分]"
-        },
-        {
-          "title": "美联储会议纪要：多位与会者强调了股市可能出现无序下跌的可能性，尤其是在人工智能相关前景突然重新评估的情况下。",
-          "url": "https://flash.jin10.com/detail/20251120030202658800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时26分]"
-        },
-        {
-          "title": "美国和沙特阿拉伯宣布建立人工智能战略合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3007362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时22分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
-        },
-        {
-          "title": "马斯克：xAI 的沙特数据中心项目将有沙特人工智能公司Humain与英伟达参与。",
-          "url": "https://flash.jin10.com/detail/20251120001716224800",
+          "title": "美股收盘：三大股指收涨 谷歌创新高",
+          "url": "https://flash.jin10.com/detail/20251120050112244800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "美媒：白宫正采取行动 阻止限制AI芯片出口的法案",
-          "url": "https://flash.jin10.com/detail/20251120045725872800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "05时21分"
         },
         {
-          "title": "马斯克：xAI和沙特正在与英伟达(NVDA.O)合作进行一个500兆瓦的项目。",
-          "url": "https://flash.jin10.com/detail/20251120000958341800",
-          "source": "金十数据",
+          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
+          "url": "https://www.cls.cn/detail/2205612",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "市场消息：Meta Platforms(META.O)首席人工智能科学家Yann LeCun拟最快于本周宣布离职并创办新公司，Meta将与Yann LeCun的新初创公司合作。",
-          "url": "https://flash.jin10.com/detail/20251120044512589800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "06时25分"
         },
         {
-          "title": "萨默斯（Larry Summers）从Santander国际顾问委员会离职。 此前，萨默斯已经退出OpenAI的董事会。",
-          "url": "https://wallstreetcn.com/livenews/3007408",
+          "title": "（美股）费城金银指数收涨1.34%，报296.82点。 纽约证交所ARCA金矿开采商指数收涨1.36%，报2151.78点，北京时间22:30美股开盘前持稳于2135点附近——一直维持微幅上涨状态，随扈跳空走高，22:37刷新日高至2193.46点，之后快速回吐这一波涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3007430",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "沙特人工智能初创公司Humain：与Global AI建立合作伙伴关系，利用最新的英伟达AI基础设施，在美国和全球建设大规模AI数据中心和计算能力。",
-          "url": "https://flash.jin10.com/detail/20251120020202388800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "沙特人工智能初创公司Humain：和Adobe(ADBE.O)在美沙投资论坛上宣布全球战略伙伴关系，将为阿拉伯世界构建定制的AI模型和AI驱动的应用程序。",
-          "url": "https://flash.jin10.com/detail/20251120020145207800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "沙特人工智能初创公司Humain：未来三年内，将在沙特和美国部署英伟达(NVDA.O)人工智能基础设施，配备多达60万个英伟达GPU。将使用英伟达的NeMo-Tron开源技术来训练Humain Chat。",
-          "url": "https://flash.jin10.com/detail/20251120020056406800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "xAI：Grok还将集成到沙特AI初创公司Humain的代理平台Humain One中。",
-          "url": "https://flash.jin10.com/detail/20251120031945554800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "据AXIOS网站：白宫正采取行动阻止限制人工智能芯片出口的法案。",
-          "url": "https://flash.jin10.com/detail/20251120043901978800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "xAI：正在沙特阿拉伯全国范围内部署Grok。",
-          "url": "https://flash.jin10.com/detail/20251120031901124800",
-          "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "06时25分"
         },
         {
-          "title": "摩根大通分析师：不认为投资者会盲目追逐与AI主题相关的低质量或无盈利公司",
-          "url": "https://wallstreetcn.com/livenews/3007334",
+          "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
+          "url": "https://wallstreetcn.com/livenews/3007331",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
         {
-          "title": "AI视频初创公司Luma AI按40亿美元估值融资9亿美元，沙特Humain领投。",
-          "url": "https://wallstreetcn.com/livenews/3007352",
+          "title": "周三（11月19日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.72%，报90390美元。 CME以太币期货DCR主力合约跌4.35%，报2991.50美元，亚太午盘跌穿3000点关口——短时出现V形走势，美股尾盘再次出现V形走势——最低逼近2850美元。 美股加密货币与加密货币关联指数跌4.80%，报62.20点。 MarketVector数字资产100小盘指数自美股开盘以来跌0.82%，报18816.93点，盘初涨至19267.90点之后转跌，一度刷新日低至18354.73点。",
+          "url": "https://wallstreetcn.com/livenews/3007428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "Astera Labs美股盘后涨3.5%，美光科技涨2.6%。 半导体ETF盘后涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3007427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "半导体ETF收涨超1.8%，和银行业ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3007420",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时38分"
+          "time_info": "06时25分"
         },
         {
-          "title": "据英国金融时报：华纳音乐(WMG.O)已与人工智能初创公司UDIO达成授权协议，将以其歌曲为基础，驱动一个新的流媒体平台。",
-          "url": "https://flash.jin10.com/detail/20251120004114960800",
+          "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
+          "url": "https://flash.jin10.com/detail/20251120004043816800",
           "source": "金十数据",
           "ranks": [
-            22
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
         {
-          "title": "AI股飙升为加州带来110亿美元意外收入 仍难抵180亿美元赤字缺口",
-          "url": "https://flash.jin10.com/detail/20251120024632428800",
+          "title": "英伟达(NVDA.O)美股盘后涨超4%，其数据中心营收超预期。",
+          "url": "https://flash.jin10.com/detail/20251120052132992800",
           "source": "金十数据",
           "ranks": [
-            25
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "06时25分"
         },
         {
-          "title": "美国和沙特阿拉伯宣布建立人工智能战略合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20251120014247215800",
+          "title": "金十图示：2025年11月19日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251120050546994800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "金十图示：2025年11月19日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251120050529182800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时38分"
+          "time_info": "06时25分"
         }
       ]
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块收涨0.93%，电信板块涨0.72%，原材料、金融板块涨超0.4%，房地产板块跌0.79%，能源板块跌1.30%。",
@@ -927,9 +1163,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "国内外需求共振，储能赛道迎“价值重估”",
+          "url": "https://wallstreetcn.com/livenews/3007444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美国能源部：美国打算购买和拥有多达10座核反应堆。 将由日本承诺的5500亿美元投资提供资金来源。",
@@ -950,7 +1197,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -1056,93 +1303,8 @@
       ]
     },
     {
-      "keyword_group": "美股 a股 港股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时21分]"
-        },
-        {
-          "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2205477",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时21分]"
-        },
-        {
-          "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
-          "url": "https://flash.jin10.com/detail/20251120021502092800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
-          "url": "https://wallstreetcn.com/livenews/3007418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 谷歌创新高",
-          "url": "https://flash.jin10.com/detail/20251120050112244800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
-          "url": "https://wallstreetcn.com/livenews/3007331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
-          "url": "https://flash.jin10.com/detail/20251120004043816800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "“涨价”成行情点火器，存储芯片、锂电材料概念股轮番走强，后续行情怎么看？",
@@ -1153,8 +1315,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 06时25分]"
+        },
+        {
+          "title": "英伟达：新款Rubin芯片平台进展顺利，处于正轨之上。",
+          "url": "https://wallstreetcn.com/livenews/3007442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "英伟达(NVDA.O)涨势带动美股芯片股盘后行情，AMD(AMD.O)、台积电(TSM.N)和美光科技(MU.O)均涨于3%一线。",
+          "url": "https://flash.jin10.com/detail/20251120054640235800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         }
       ]
     },
@@ -1171,8 +1355,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 06时25分]"
         }
       ]
     },
@@ -1189,8 +1373,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 06时25分]"
         }
       ]
     }
