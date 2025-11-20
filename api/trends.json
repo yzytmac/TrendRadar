@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T11:16:45.925003+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2025-11-20T12:30:47.094846+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 70,
+      "match_count": 75,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -40,11 +40,12 @@
             6,
             7,
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 11时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 12时30分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -77,11 +78,12 @@
           "ranks": [
             12,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 11时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 12时30分]"
         },
         {
           "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
@@ -165,6 +167,19 @@
           "time_info": "09时57分"
         },
         {
+          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
+          "url": "https://www.cls.cn/detail/2205653",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 12时30分]"
+        },
+        {
           "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架 。",
           "url": "https://flash.jin10.com/detail/20251120021055474800",
           "source": "金十数据",
@@ -196,6 +211,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
+          "url": "https://www.cls.cn/detail/2205700",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 12时30分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-20）",
+          "url": "https://flash.jin10.com/detail/20251120115321334800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "沙特人工智能初创公司Humain：和xAI建立合作伙伴关系，将在沙特阿拉伯建设下一代AI计算能力，并在该王国部署Grok，以支持沙特“最具AI赋能国家”的目标。",
@@ -259,6 +298,19 @@
           "time_info": "[00时35分 ~ 01时24分]"
         },
         {
+          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
+          "url": "https://www.cls.cn/detail/2205637",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 12时30分]"
+        },
+        {
           "title": "沙特公司Humain与Adobe宣布全球战略合作伙伴关系，将打造AI模型和基于AI技术的应用。 Humain与马斯克旗下xAI构建合作伙伴关系，将在沙特打造下一代AI算力、部署Grok，从而支持“最赋能AI国家”目标。",
           "url": "https://wallstreetcn.com/livenews/3007369",
           "source": "华尔街见闻-快讯",
@@ -296,40 +348,15 @@
           "time_info": "[00时34分 ~ 09时57分]"
         },
         {
-          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
-          "url": "https://www.cls.cn/detail/2205653",
-          "source": "财联社热门",
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 11时16分]"
-        },
-        {
-          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
-          "url": "https://www.cls.cn/detail/2205700",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 11时16分]"
-        },
-        {
-          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
-          "url": "https://www.cls.cn/detail/2205637",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 11时16分]"
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时30分]"
         },
         {
           "title": "马斯克旗下xAI：在沙特全境部署Grok。 Grok还将被整合到沙特公司Humain的代理平台Humain One。",
@@ -391,17 +418,6 @@
           "time_info": "[02时38分 ~ 03时22分]"
         },
         {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
           "title": "马斯克：xAI 的沙特数据中心项目将有沙特人工智能公司Humain与英伟达参与。",
           "url": "https://flash.jin10.com/detail/20251120001716224800",
           "source": "金十数据",
@@ -411,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "UP主翻唱AI歌曲美猴亡",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "英伟达AI营收、展望均超预期 黄仁勋直言卖爆了",
@@ -479,6 +506,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "企业不再避讳：AI开始抢走工作岗位，成裁员潮关键因素",
+          "url": "https://www.cls.cn/detail/2205492",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
           "title": "沙特人工智能初创公司Humain：与Global AI建立合作伙伴关系，利用最新的英伟达AI基础设施，在美国和全球建设大规模AI数据中心和计算能力。",
           "url": "https://flash.jin10.com/detail/20251120020202388800",
           "source": "金十数据",
@@ -499,6 +537,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美联储10月会议纪要显示，许多与会者反对12月再次降息。英伟达强劲业绩和乐观展望缓解人工智能泡沫担忧。纳指隔夜收涨近0.6%，现货黄金早盘一度走高，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251120114107161800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
+          "title": "美议员警告AI泡沫风险：或引发类似2008年的经济动荡",
+          "url": "https://www.cls.cn/detail/2205574",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "沙特人工智能初创公司Humain：和Adobe(ADBE.O)在美沙投资论坛上宣布全球战略伙伴关系，将为阿拉伯世界构建定制的AI模型和AI驱动的应用程序。",
@@ -606,7 +666,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -639,7 +699,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -683,7 +743,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -727,7 +787,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -812,7 +872,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -891,6 +951,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "共和党议员对特朗普“关税红利”计划持保留态度",
+          "url": "https://flash.jin10.com/detail/20251120120628966800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
           "title": "特朗普将于11月21日会见纽约候任市长马姆达尼。",
           "url": "https://wallstreetcn.com/livenews/3007555",
           "source": "华尔街见闻-快讯",
@@ -938,6 +1009,18 @@
           "time_info": "[01时24分 ~ 02时38分]"
         },
         {
+          "title": "特朗普：应起诉鲍威尔",
+          "url": "https://news.ifeng.com/c/8oQBc00t0BE",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 12时30分]"
+        },
+        {
           "title": "美国总统特朗普：（美国与沙特之间）数十家公司今天签署2700亿美元协议和销售（合同）。",
           "url": "https://wallstreetcn.com/livenews/3007345",
           "source": "华尔街见闻-快讯",
@@ -959,18 +1042,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 01时24分]"
-        },
-        {
-          "title": "特朗普：应起诉鲍威尔",
-          "url": "https://news.ifeng.com/c/8oQBc00t0BE",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 11时16分]"
         },
         {
           "title": "美国总统特朗普：美国与沙特在LNG基础设施领域合作。",
@@ -1010,6 +1081,17 @@
           "time_info": "[05时21分 ~ 06时25分]"
         },
         {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时30分]"
+        },
+        {
           "title": "美国总统特朗普：马斯克，我支持你。",
           "url": "https://wallstreetcn.com/livenews/3007365",
           "source": "华尔街见闻-快讯",
@@ -1046,6 +1128,18 @@
           "time_info": "[02时38分 ~ 03时22分]"
         },
         {
+          "title": "特朗普批准公布爱泼斯坦案档案",
+          "url": "https://www.toutiao.com/trending/7574614385700851210/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时30分]"
+        },
+        {
           "title": "美国总统特朗普：对于美国而言，沙特是北约之外一个非常强大的盟友。",
           "url": "https://flash.jin10.com/detail/20251120010945648800",
           "source": "金十数据",
@@ -1079,15 +1173,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时16分"
+          "time_info": "12时30分"
         },
         {
           "title": "乌克兰总统泽连斯基：只有美国和美国总统特朗普有足够的实力结束冲突，实现和平的关键在于与我们的伙伴合作，并确保美国的领导力依然有效且强大。",
@@ -1176,17 +1270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "特朗普批准公布爱泼斯坦案档案",
-          "url": "https://www.toutiao.com/trending/7574614385700851210/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
         },
         {
           "title": "美国总统特朗普：我们将开始着手处理苏丹问题。",
@@ -1363,12 +1446,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "C罗随特朗普参观白宫开怀大笑",
+          "url": "https://www.toutiao.com/trending/7573905925644340755/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -1405,8 +1499,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 12时30分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -1415,11 +1509,12 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时25分 ~ 11时16分]"
+          "appearance_count": 6,
+          "time_info": "[06时25分 ~ 12时30分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -1484,7 +1579,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -1506,7 +1601,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -1550,7 +1645,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -1564,6 +1659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "A股港股房地产板块异动拉升",
+          "url": "https://wallstreetcn.com/livenews/3007627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
@@ -1635,7 +1741,7 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块收涨0.93%，电信板块涨0.72%，原材料、金融板块涨超0.4%，房地产板块跌0.79%，能源板块跌1.30%。",
@@ -1658,6 +1764,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "跨区跨省外送能力居首位，四川为全国配置清洁能源",
+          "url": "https://wallstreetcn.com/livenews/3007657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "美国能源部：美国打算购买和拥有多达10座核反应堆。 将由日本承诺的5500亿美元投资提供资金来源。",
@@ -1785,7 +1902,7 @@
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "“涨价”成行情点火器，存储芯片、锂电材料概念股轮番走强，后续行情怎么看？",
@@ -1844,6 +1961,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "联想杨元庆：存储零部件的短缺和价格上涨不会是一个短期现象",
+          "url": "https://wallstreetcn.com/livenews/3007645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
           "title": "上证指数开盘报3960.70点，涨0.35%。 深证成指开盘报13215.07点，涨1.03%。 创业板指开盘报3131.84点，涨1.79%。 沪深300开盘报4619.54点，涨0.68%。 科创50开盘报1362.85点，涨1.34%。 中证500开盘报7174.10点，涨0.72%。 中证1000开盘报7429.70点，涨0.58%。",
           "url": "https://wallstreetcn.com/livenews/3007543",
           "source": "华尔街见闻-快讯",
@@ -1866,6 +1994,28 @@
           "time_info": "07时24分"
         },
         {
+          "title": "美国白宫要求国会否决限制英伟达芯片出口的法案",
+          "url": "https://wallstreetcn.com/livenews/3007637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
+          "title": "上证指数早盘收报3961.70点，涨0.38%。 深证成指早盘收报13073.30点，跌0.05%。 创业板指早盘收报3060.93点，跌0.52%。 沪深300早盘收报4602.83点，涨0.32%。 科创50早盘收报1337.37点，跌0.55%。 中证500早盘收报7106.20点，跌0.23%。 中证1000早盘收报7376.78点，跌0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3007634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
           "title": "英伟达CFO：公司芯片仍然保持性能纪录。 GPUs的使用寿命得到延长。",
           "url": "https://wallstreetcn.com/livenews/3007457",
           "source": "华尔街见闻-快讯",
@@ -1883,7 +2033,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -1936,8 +2086,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 12时30分]"
         },
         {
           "title": "中金公司拟吸收合并东兴证券、信达证券，这有何考量？合并后将带来哪些影响？",
@@ -1987,11 +2137,12 @@
             17,
             18,
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 11时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 12时30分]"
         }
       ]
     }
