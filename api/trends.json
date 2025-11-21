@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T02:34:01.006694+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2025-11-22T03:22:12.750707+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
@@ -26,8 +26,65 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
+        },
+        {
+          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
+          "url": "https://www.cls.cn/detail/2207484",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
+        },
+        {
+          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
+          "url": "https://wallstreetcn.com/articles/3759838",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
+        },
+        {
+          "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
+          "url": "https://www.cls.cn/detail/2207779",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
+        },
+        {
+          "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
+          "url": "https://www.zhihu.com/question/1975115860181022671",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
+        },
+        {
+          "title": "胡彦斌 不是AI的",
+          "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
@@ -41,80 +98,12 @@
           "time_info": "01时23分"
         },
         {
-          "title": "【美国四分之一失业者拥有本科或以上学历，创纪录水平】9月，美国25岁及以上、拥有至少本科学历的失业人口超过190万人，占全美失业总人数的四分之一。自1992年有数据记录以来，这一比例在2025年之前从未达到如此之高。摩根大通美国首席经济学家Michael Feroli指出，受过大学教育的人群失业率上升“应该会进一步加剧对人工智能引发失业的担忧”。与此同时，一系列大型企业宣布裁员，包括亚马逊、塔吉特和星巴克。就业服务公司Challenger, Gray & Christmas的最新报告显示，随着人工智能重塑行业格局以及成本削减加速，美国企业10月份宣布的裁员规模是二十多年来同期最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3008845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        },
-        {
-          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
-          "url": "https://www.cls.cn/detail/2207484",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
-        },
-        {
-          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
-          "url": "https://wallstreetcn.com/articles/3759838",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
-        },
-        {
-          "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
-          "url": "https://www.cls.cn/detail/2207779",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
-        },
-        {
-          "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
-          "url": "https://www.zhihu.com/question/1975115860181022671",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
-        },
-        {
           "title": "如果 AI 能完美替代你现在的工作，那剩下的，什么是只有「人」才能做的事情？",
           "url": "https://www.zhihu.com/question/1971908267061019658",
           "source": "知乎",
           "ranks": [
             19,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
-        },
-        {
-          "title": "胡彦斌 不是AI的",
-          "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -133,6 +122,18 @@
           "time_info": "[01时23分 ~ 02时34分]"
         },
         {
+          "title": "【美国四分之一失业者拥有本科或以上学历，创纪录水平】9月，美国25岁及以上、拥有至少本科学历的失业人口超过190万人，占全美失业总人数的四分之一。自1992年有数据记录以来，这一比例在2025年之前从未达到如此之高。摩根大通美国首席经济学家Michael Feroli指出，受过大学教育的人群失业率上升“应该会进一步加剧对人工智能引发失业的担忧”。与此同时，一系列大型企业宣布裁员，包括亚马逊、塔吉特和星巴克。就业服务公司Challenger, Gray & Christmas的最新报告显示，随着人工智能重塑行业格局以及成本削减加速，美国企业10月份宣布的裁员规模是二十多年来同期最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3008845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时22分]"
+        },
+        {
           "title": "花旗警告称，由于人工智能（AI）乐观情绪动摇，应对做多标普500指数保持谨慎。",
           "url": "https://wallstreetcn.com/livenews/3008804",
           "source": "华尔街见闻-快讯",
@@ -143,6 +144,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
+          "url": "https://flash.jin10.com/detail/20251122020035429800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时22分]"
         },
         {
           "title": "高盛合伙人：美股出现多头缴械迹象，市场似乎正进入AI周期的新阶段",
@@ -180,15 +193,15 @@
           "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
-          "url": "https://flash.jin10.com/detail/20251122020035429800",
-          "source": "金十数据",
+          "title": "Meta进军电力交易以支持AI扩张，应对供电挑战",
+          "url": "https://wallstreetcn.com/livenews/3008857",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时34分"
+          "time_info": "03时22分"
         },
         {
           "title": "谷歌推出BigQuery AI",
@@ -197,7 +210,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
@@ -219,7 +232,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         }
@@ -227,19 +240,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "美联储12月降息投票陷“僵局” 被特朗普施压的库克或成关键一票",
-          "url": "https://flash.jin10.com/detail/20251122021918507800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        },
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
           "url": "https://www.douyin.com/hot/2313190",
@@ -249,8 +251,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
+        },
+        {
+          "title": "美联储12月降息投票陷“僵局” 被特朗普施压的库克或成关键一票",
+          "url": "https://flash.jin10.com/detail/20251122021918507800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时22分]"
         },
         {
           "title": "美国总统特朗普：伊朗希望（围绕其核问题）达成一份协议，我们可能会这样做。",
@@ -302,6 +316,17 @@
           "time_info": "[00时32分 ~ 01时23分]"
         },
         {
+          "title": "德国政府发言人：美国总统特朗普与德国总理默茨于周五晚间就美国的乌克兰和平计划进行了电话交谈。",
+          "url": "https://flash.jin10.com/detail/20251122023534438800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
           "url": "https://flash.jin10.com/detail/20251121234321355800",
           "source": "金十数据",
@@ -330,7 +355,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
@@ -396,7 +421,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
@@ -415,7 +440,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美联储高官安抚市场，美股指数集体高开，美债走高，礼来市值破万亿美元，比特币短线反弹3000美元，金银跌幅收窄",
@@ -425,8 +450,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -436,8 +461,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -447,8 +472,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -458,8 +483,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -469,8 +494,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -480,8 +505,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
@@ -491,8 +516,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "A股牛市要结束了吗",
@@ -504,8 +529,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "业内：A股向上趋势不变",
@@ -556,6 +581,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "英伟达股价短线拉升，日内整体上涨1.9%，美股早盘一度下跌超4%。 标普500指数上涨1.75%，道指涨811点涨幅1.77%，纳指涨399点涨幅1.81%，纳斯达克100指数涨406点涨幅1.66%，半导体指数涨1.99%。",
+          "url": "https://wallstreetcn.com/livenews/3008862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
           "title": "美股延续涨势，道指涨1%。",
           "url": "https://flash.jin10.com/detail/20251122004255320800",
           "source": "金十数据",
@@ -573,7 +609,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
@@ -584,7 +620,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         }
@@ -602,19 +638,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "黄仁勋急得用3个0描述对华芯片销售",
           "url": "https://www.toutiao.com/trending/7575160399683784238/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 03时22分]"
         }
       ]
     },
