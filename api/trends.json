@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-21T12:31:26.636947+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2025-11-21T13:27:05.959112+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
+          "url": "https://www.zhihu.com/question/1974839795554484978",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 13时27分]"
+        },
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
           "url": "https://wallstreetcn.com/articles/3759756",
@@ -18,6 +31,33 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 07时24分]"
+        },
+        {
+          "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
+          "url": "https://wallstreetcn.com/articles/3759810",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时23分 ~ 13时27分]"
+        },
+        {
+          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
+          "url": "https://wallstreetcn.com/articles/3759784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[04时30分 ~ 13时27分]"
         },
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -47,43 +87,17 @@
           "time_info": "[00时34分 ~ 09时57分]"
         },
         {
-          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
-          "url": "https://wallstreetcn.com/articles/3759784",
-          "source": "华尔街见闻",
+          "title": "桥水达利欧：AI泡沫确实存在 但暂未到破裂时刻",
+          "url": "https://www.cls.cn/detail/2206796",
+          "source": "财联社热门",
           "ranks": [
-            10,
             8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时30分 ~ 12时31分]"
-        },
-        {
-          "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
-          "url": "https://www.zhihu.com/question/1974839795554484978",
-          "source": "知乎",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时31分]"
-        },
-        {
-          "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
-          "url": "https://wallstreetcn.com/articles/3759810",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
             6,
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时23分 ~ 12时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 13时27分]"
         },
         {
           "title": "美国国家运输安全委员会（NTSB）：10月16日，美国联合航空公司（UNited Airlines）的飞机在36000英尺高空被物体击中，飞行员被玻璃碎片溅到。",
@@ -119,17 +133,6 @@
           "time_info": "07时24分"
         },
         {
-          "title": "英伟达黄胜斌：我们正与鸿海合作将AI带进工厂和生产线。",
-          "url": "https://wallstreetcn.com/livenews/3008402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
           "title": "富士康：公司将每年投入20亿至30亿美元用于人工智能领域。",
           "url": "https://flash.jin10.com/detail/20251121070156697800",
           "source": "金十数据",
@@ -141,27 +144,16 @@
           "time_info": "07时24分"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-21）",
-          "url": "https://flash.jin10.com/detail/20251121120040841800",
-          "source": "金十数据",
+          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
+          "url": "https://wallstreetcn.com/articles/3759838",
+          "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "桥水达利欧：AI泡沫确实存在 但暂未到破裂时刻",
-          "url": "https://www.cls.cn/detail/2206796",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 13时27分]"
         },
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
@@ -201,6 +193,30 @@
           "time_info": "[02时37分 ~ 03时22分]"
         },
         {
+          "title": "英伟达黄胜斌：我们正与鸿海合作将AI带进工厂和生产线。",
+          "url": "https://wallstreetcn.com/livenews/3008402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时27分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-21）",
+          "url": "https://flash.jin10.com/detail/20251121120040841800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时27分]"
+        },
+        {
           "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
           "url": "https://wallstreetcn.com/livenews/3008098",
           "source": "华尔街见闻-快讯",
@@ -211,17 +227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时37分]"
-        },
-        {
-          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
-          "url": "https://wallstreetcn.com/articles/3759838",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 12时31分]"
         },
         {
           "title": "沪指跌幅扩大至2%，深成指跌2.88%，创业板指跌3.27%，锂电产业链、算力硬件、光伏、存储芯片等方向跌幅居前，沪深京三市下跌个股近5100只。",
@@ -294,6 +299,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "元宝上线AI视频能力，实现“图文音视”多模态覆盖",
+          "url": "https://wallstreetcn.com/livenews/3008411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
           "url": "https://flash.jin10.com/detail/20251121020447251800",
           "source": "金十数据",
@@ -322,7 +338,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -399,7 +415,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -451,7 +467,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
@@ -479,6 +495,43 @@
           "time_info": "[00时34分 ~ 07时24分]"
         },
         {
+          "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
+          "url": "https://www.cls.cn/detail/2206810",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时23分 ~ 13时27分]"
+        },
+        {
+          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 13时27分]"
+        },
+        {
+          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
+          "url": "https://wallstreetcn.com/articles/3759840",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 13时27分]"
+        },
+        {
           "title": "连辞三家上市公司独董 “A股大所”负责人疑失联",
           "url": "https://www.cls.cn/detail/2206173",
           "source": "财联社热门",
@@ -503,43 +556,6 @@
           "time_info": "[00时34分 ~ 03时22分]"
         },
         {
-          "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
-          "url": "https://www.cls.cn/detail/2206810",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时23分 ~ 12时31分]"
-        },
-        {
-          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时31分]"
-        },
-        {
-          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
-          "url": "https://wallstreetcn.com/articles/3759840",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时31分]"
-        },
-        {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
           "url": "https://www.cls.cn/detail/2206823",
           "source": "财联社热门",
@@ -548,8 +564,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 13时27分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -559,8 +575,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 13时27分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -569,9 +585,46 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 13时27分]"
+        },
+        {
+          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
+          "url": "https://wallstreetcn.com/articles/3759847",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 13时27分]"
+        },
+        {
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 13时27分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2312999",
+          "source": "抖音",
+          "ranks": [
+            7,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 13时27分]"
         },
         {
           "title": "9月非农就业岗位增长超预期，而失业率则升至4.4%，为四年来最高水平。市场押注美联储将在12月会议上按兵不动。美股周四大跌，欧股小幅收涨，现货黄金收跌0.1%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -585,17 +638,15 @@
           "time_info": "11时17分"
         },
         {
-          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
-          "url": "https://wallstreetcn.com/articles/3759847",
-          "source": "华尔街见闻",
+          "title": "A股机器人概念股震荡反弹，安培龙涨超10%，伟创电气、斯菱股份、恒工精密、浙江荣泰、长盈精密等多股涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3008419",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            6,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "美股上演“史诗级”高开低走，英伟达跌超3%，美债走强，比特币跌破9万关口",
@@ -607,17 +658,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         },
         {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股收盘）",
@@ -642,19 +682,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时23分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2312999",
-          "source": "抖音",
-          "ranks": [
-            7,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时31分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌将近3%，亚马逊跌约2.5%，特斯拉跌2.2%",
@@ -740,6 +767,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时24分]"
+        },
+        {
+          "title": "专家：A股中长期向上走势不会改变",
+          "url": "https://www.toutiao.com/trending/7575005015446654473/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
+        },
+        {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-11-21）",
@@ -877,7 +926,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普“化缘”21万亿美元意味着啥",
@@ -891,6 +940,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时23分 ~ 07时24分]"
+        },
+        {
+          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
+          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 13时27分]"
         },
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -926,18 +987,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时24分]"
-        },
-        {
-          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
-          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时31分]"
         },
         {
           "title": "美国白宫：特朗普经常与马克龙交谈。",
@@ -1069,6 +1118,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "特朗普政府拟大幅扩张海上钻探 首次开放北极地区",
@@ -1236,11 +1296,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 13时27分]"
         },
         {
           "title": "特朗普政府重组能源部 取消清洁能源办公室",
@@ -1348,7 +1409,7 @@
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "15只今年新发科创债ETF规模超百亿元",
@@ -1378,22 +1439,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 13时27分]"
         },
         {
           "title": "上证指数早盘收报3857.24点，跌1.88%。 深证成指早盘收报12627.85点，跌2.72%。 创业板指早盘收报2945.61点，跌3.18%。 沪深300早盘收报4476.40点，跌1.94%。 科创50早盘收报1293.51点，跌2.61%。 中证500早盘收报6873.56点，跌2.67%。 中证1000早盘收报7132.86点，跌2.83%。",
           "url": "https://wallstreetcn.com/livenews/3008390",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时27分]"
         },
         {
           "title": "上证指数开盘报3896.66点，跌0.87%。 深证成指开盘报12752.72点，跌1.76%。 创业板指开盘报2979.37点，跌2.07%。 沪深300开盘报4513.39点，跌1.13%。 科创50开盘报1300.48点，跌2.09%。 中证500开盘报6955.75点，跌1.50%。 中证1000开盘报7235.33点，跌1.43%。",
@@ -1405,6 +1468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "美股科技股跳水引发连锁反应 亚洲芯片股承压",
+          "url": "https://flash.jin10.com/detail/20251121121525026800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         }
       ]
     }
