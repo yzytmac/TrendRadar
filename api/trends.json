@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T07:24:20.908784+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2025-11-23T10:13:12.368683+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -39,55 +39,60 @@
           "ranks": [
             9,
             13,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时13分]"
         },
         {
           "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
           "url": "https://flash.jin10.com/detail/20251122223224197800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 10时13分]"
         },
         {
           "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3009012",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 10时13分]"
         },
         {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3009010",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 10时13分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
           "url": "https://wallstreetcn.com/livenews/3009006",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 10时13分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
@@ -110,12 +115,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32021822",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "美国上诉法院驳回特朗普政府扩大快速驱逐移民的请求。",
+          "url": "https://flash.jin10.com/detail/20251123082037157800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -125,8 +152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时13分]"
         },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -135,34 +162,24 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时13分]"
         },
         {
           "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
           "url": "https://wallstreetcn.com/livenews/3009021",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时24分]"
-        },
-        {
-          "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
-          "url": "https://www.zhihu.com/question/1975471032841232421",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 10时13分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -173,22 +190,47 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时13分]"
+        },
+        {
+          "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
+          "url": "https://www.zhihu.com/question/1975471032841232421",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时13分]"
         },
         {
           "title": "中欧专家呼吁加强人工智能领域务实合作",
           "url": "https://wallstreetcn.com/livenews/3009007",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 10时13分]"
+        },
+        {
+          "title": "第一批AI公司，已经开始破产了",
+          "url": "https://wallstreetcn.com/articles/3759937",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
@@ -216,8 +258,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时13分]"
         },
         {
           "title": "万亿级券商或诞生 本周披露并购重组进展的A股名单一览",
@@ -228,8 +270,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时13分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -237,11 +279,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时13分]"
         },
         {
           "title": "A股大盘进入调整阶段",
@@ -259,6 +302,35 @@
       ]
     },
     {
+      "keyword_group": "芯片 科创 存储",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "环球网：美国政府正考虑允许英伟达对华出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3759923",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 10时13分]"
+        },
+        {
+          "title": "【早报】两部门就规范大型网络平台个人信息保护公开征求意见；美国政府据称正考虑允许英伟达对华出售H200芯片",
+          "url": "https://www.cls.cn/detail/2208130",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "电力 能源 储能",
       "match_count": 1,
       "titles": [
@@ -267,28 +339,12 @@
           "url": "https://wallstreetcn.com/livenews/3009002",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 科创 存储",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "环球网：美国政府正考虑允许英伟达对华出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3759923",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 10时13分]"
         }
       ]
     }
