@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T10:13:12.368683+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2025-11-23T12:00:39.988243+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -33,6 +33,19 @@
           "time_info": "[00时30分 ~ 06时24分]"
         },
         {
+          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 12时00分]"
+        },
+        {
           "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
           "source": "澎湃新闻",
@@ -40,11 +53,38 @@
             9,
             13,
             14,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时00分]"
+        },
+        {
+          "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 12时00分]"
+        },
+        {
+          "title": "纽约市长在特朗普面前言论“大变脸”",
+          "url": "https://wallstreetcn.com/livenews/3009006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 12时00分]"
         },
         {
           "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
@@ -53,42 +93,6 @@
           "ranks": [
             6,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 10时13分]"
-        },
-        {
-          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 10时13分]"
-        },
-        {
-          "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 10时13分]"
-        },
-        {
-          "title": "纽约市长在特朗普面前言论“大变脸”",
-          "url": "https://wallstreetcn.com/livenews/3009006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            18
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -121,28 +125,52 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32021822",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时00分]"
         },
         {
           "title": "美国上诉法院驳回特朗普政府扩大快速驱逐移民的请求。",
           "url": "https://flash.jin10.com/detail/20251123082037157800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 12时00分]"
+        },
+        {
+          "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
+          "url": "https://flash.jin10.com/detail/20251123100826752800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "12时00分"
+        },
+        {
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时00分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -152,8 +180,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时00分]"
         },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -166,8 +194,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时00分]"
         },
         {
           "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
@@ -175,11 +203,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 10时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 12时00分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -194,8 +223,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时00分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -203,11 +232,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时00分]"
         },
         {
           "title": "中欧专家呼吁加强人工智能领域务实合作",
@@ -215,22 +245,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 10时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 12时00分]"
         },
         {
           "title": "第一批AI公司，已经开始破产了",
           "url": "https://wallstreetcn.com/articles/3759937",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时00分]"
+        },
+        {
+          "title": "AI又团灭一个行业",
+          "url": "https://wallstreetcn.com/articles/3759933",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时00分"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
@@ -258,8 +301,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时00分]"
         },
         {
           "title": "万亿级券商或诞生 本周披露并购重组进展的A股名单一览",
@@ -270,8 +313,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时00分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -283,8 +326,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时00分]"
         },
         {
           "title": "A股大盘进入调整阶段",
@@ -322,11 +365,12 @@
           "url": "https://www.cls.cn/detail/2208130",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时00分]"
         }
       ]
     },
@@ -340,11 +384,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 10时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 12时00分]"
         }
       ]
     }
