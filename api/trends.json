@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T11:59:46.421210+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2025-11-24T12:41:41.261505+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,17 @@
           "time_info": "[00时29分 ~ 07时24分]"
         },
         {
+          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
+          "url": "https://wallstreetcn.com/articles/3759963",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 12时41分]"
+        },
+        {
           "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
           "url": "https://flash.jin10.com/detail/20251123222329110800",
           "source": "金十数据",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时30分 ~ 05时23分]"
-        },
-        {
-          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
-          "url": "https://wallstreetcn.com/articles/3759963",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 11时59分]"
         },
         {
           "title": "特朗普顾问哈塞特：新的美联储领导层可能会降息",
@@ -72,6 +72,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时30分 ~ 06时24分]"
+        },
+        {
+          "title": "泽连斯基：感谢美国，感谢特朗普",
+          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 12时41分]"
         },
         {
           "title": "美国总统特朗普：乌克兰“领导层”对我们所做的一切毫无感激之情，而欧洲仍在继续从俄罗斯购买石油。",
@@ -122,18 +134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "泽连斯基：感谢美国，感谢特朗普",
-          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 11时59分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国代表进行对话是件好事，有迹象表明，美国总统特朗普的团队“听到了我们的声音”。",
@@ -266,7 +266,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
@@ -277,8 +277,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 11时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 12时41分]"
         },
         {
           "title": "英伟达财报背后的未来AI密码",
@@ -287,11 +287,12 @@
           "ranks": [
             2,
             7,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 11时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 12时41分]"
         },
         {
           "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
@@ -316,8 +317,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 11时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 12时41分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -337,33 +338,49 @@
           "url": "https://www.cls.cn/detail/2208386",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 11时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 12时41分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-24）",
           "url": "https://flash.jin10.com/detail/20251124115246431800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时41分]"
+        },
+        {
+          "title": "需要AI给答案",
+          "url": "https://wallstreetcn.com/articles/3759957",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 12时41分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
           "url": "https://wallstreetcn.com/livenews/3009336",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时41分]"
         },
         {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
@@ -380,16 +397,16 @@
           "time_info": "[04时28分 ~ 07时24分]"
         },
         {
-          "title": "需要AI给答案",
-          "url": "https://wallstreetcn.com/articles/3759957",
+          "title": "英伟达救不了AI股，市场想看到什么？",
+          "url": "https://wallstreetcn.com/articles/3759961",
           "source": "华尔街见闻",
           "ranks": [
-            9,
+            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 11时59分]"
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时41分]"
         },
         {
           "title": "瑞银：明年AI与科技将引领全球股市上涨15%",
@@ -403,17 +420,6 @@
           "time_info": "10时07分"
         },
         {
-          "title": "英伟达救不了AI股，市场想看到什么？",
-          "url": "https://wallstreetcn.com/articles/3759961",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
           "title": "瑞银：人工智能和科技将推动全球股市上涨至2026年。",
           "url": "https://flash.jin10.com/detail/20251124093604664800",
           "source": "金十数据",
@@ -423,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
+          "url": "https://www.cls.cn/detail/2208561",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "银行系股权投资“扩军”，三家股份制银行AIC已上阵",
@@ -487,6 +504,19 @@
           "time_info": "07时24分"
         },
         {
+          "title": "年末重新增配A股迎来契机？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2208280",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 12时41分]"
+        },
+        {
           "title": "美股股指期货周一高开，纳指期货涨近1%。",
           "url": "https://flash.jin10.com/detail/20251124070025048800",
           "source": "金十数据",
@@ -498,16 +528,28 @@
           "time_info": "07时24分"
         },
         {
-          "title": "年末重新增配A股迎来契机？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2208280",
-          "source": "财联社热门",
+          "title": "赣锋锂业A股跌近8%，赣锋锂业H股跌超6%。高盛下调赣锋锂业H股评级至卖出。",
+          "url": "https://wallstreetcn.com/livenews/3009302",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            7
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 11时59分]"
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时41分]"
+        },
+        {
+          "title": "港股快速拉升，恒生科技指数涨幅扩大至2%，恒指涨1.4%。阿里巴巴快速拉升涨超4%，快手涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3009299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时41分]"
         },
         {
           "title": "A股三大指数集体高开",
@@ -532,35 +574,13 @@
           "time_info": "07时24分"
         },
         {
-          "title": "赣锋锂业A股跌近8%，赣锋锂业H股跌超6%。高盛下调赣锋锂业H股评级至卖出。",
-          "url": "https://wallstreetcn.com/livenews/3009302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "港股快速拉升，恒生科技指数涨幅扩大至2%，恒指涨1.4%。阿里巴巴快速拉升涨超4%，快手涨近5%。",
-          "url": "https://wallstreetcn.com/livenews/3009299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -582,7 +602,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -596,6 +616,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 能源 储能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "储能“出海加速度”跑出20倍大牛股：揭秘一众厂商背后掌握的“财富密码”",
+          "url": "https://www.cls.cn/detail/2208107",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时07分]"
+        },
+        {
+          "title": "10月国内电力消费增速创年内新高，双位数增长从何而来？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025881",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 12时41分]"
+        },
+        {
+          "title": "韩能源公司SK earthon收购印尼油气区块股权",
+          "url": "https://flash.jin10.com/detail/20251124095400902800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "印度阿达尼绿色能源股价下跌1.2%，此前有报道称道达尔能源计划减持该公司6%的股份。",
+          "url": "https://flash.jin10.com/detail/20251124115654980800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "美国财长贝森特：我们看到价格（稳定性）“变得更好”。 是服务业造成通胀上升，而不是（与总统特朗普关税相关的）进口商品。 能源价格下跌，这将拉低其他价格。 预计某些领域的价格将在未来数周下降，其他则需等待好几个月。 接下来一周，我们将看到（特朗普政府）关于医疗保健成本的公告。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3009125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时34分]"
+        },
+        {
+          "title": "储能项目大型化趋势显现，业界看好行业超预期发展",
+          "url": "https://wallstreetcn.com/livenews/3009199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         }
       ]
     },
@@ -634,22 +733,24 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 11时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 12时41分]"
         },
         {
           "title": "上证指数早盘收报3821.68点，跌0.34%。 深证成指早盘收报12463.79点，跌0.59%。 创业板指早盘收报2897.68点，跌0.77%。 沪深300早盘收报4427.55点，跌0.59%。 科创50早盘收报1280.64点，跌0.40%。 中证500早盘收报6804.37点，跌0.19%。 中证1000早盘收报7071.44点，涨0.05%。",
           "url": "https://wallstreetcn.com/livenews/3009330",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时41分]"
         },
         {
           "title": "上证指数开盘报3848.66点，涨0.36%。 深证成指开盘报12605.13点，涨0.53%。 创业板指开盘报2946.46点，涨0.90%。 沪深300开盘报4473.16点，涨0.44%。 科创50开盘报1295.88点，涨0.78%。 中证500开盘报6856.75点，涨0.58%。 中证1000开盘报7105.64点，涨0.54%。",
@@ -672,74 +773,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 能源 储能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "储能“出海加速度”跑出20倍大牛股：揭秘一众厂商背后掌握的“财富密码”",
-          "url": "https://www.cls.cn/detail/2208107",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 10时07分]"
-        },
-        {
-          "title": "10月国内电力消费增速创年内新高，双位数增长从何而来？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025881",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 11时59分]"
-        },
-        {
-          "title": "韩能源公司SK earthon收购印尼油气区块股权",
-          "url": "https://flash.jin10.com/detail/20251124095400902800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "美国财长贝森特：我们看到价格（稳定性）“变得更好”。 是服务业造成通胀上升，而不是（与总统特朗普关税相关的）进口商品。 能源价格下跌，这将拉低其他价格。 预计某些领域的价格将在未来数周下降，其他则需等待好几个月。 接下来一周，我们将看到（特朗普政府）关于医疗保健成本的公告。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3009125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时34分]"
-        },
-        {
-          "title": "储能项目大型化趋势显现，业界看好行业超预期发展",
-          "url": "https://wallstreetcn.com/livenews/3009199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
         }
       ]
     }
