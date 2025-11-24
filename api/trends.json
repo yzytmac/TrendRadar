@@ -1,8 +1,352 @@
 {
-  "generated_at": "2025-11-24T14:39:47.572025+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2025-11-24T15:26:51.052958+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI 人工智能 算力",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
+          "url": "https://wallstreetcn.com/articles/3759951",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 13时28分]"
+        },
+        {
+          "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
+          "url": "https://www.cls.cn/detail/2208386",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 15时26分]"
+        },
+        {
+          "title": "英伟达财报背后的未来AI密码",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5AI%E5%AF%86%E7%A0%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7,
+            8,
+            19,
+            23,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 15时26分]"
+        },
+        {
+          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
+          "url": "https://wallstreetcn.com/articles/3759948",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 11时59分]"
+        },
+        {
+          "title": "英伟达AI爆雷!334亿账款收不回",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347412&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BEAI%E7%88%86%E9%9B%B7%21334%E4%BA%BF%E8%B4%A6%E6%AC%BE%E6%94%B6%E4%B8%8D%E5%9B%9E",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            9,
+            12,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 15时26分]"
+        },
+        {
+          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
+          "url": "https://www.cls.cn/detail/2208142",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时07分]"
+        },
+        {
+          "title": "需要AI给答案",
+          "url": "https://wallstreetcn.com/articles/3759957",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 15时26分]"
+        },
+        {
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时26分]"
+        },
+        {
+          "title": "阿布扎比lunate基金正考虑向人工智能公司MGX投资10亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "英伟达救不了AI股，市场想看到什么？",
+          "url": "https://wallstreetcn.com/articles/3759961",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 15时26分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-24）",
+          "url": "https://flash.jin10.com/detail/20251124115246431800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 13时28分]"
+        },
+        {
+          "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3009336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 13时28分]"
+        },
+        {
+          "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
+          "url": "https://wallstreetcn.com/livenews/3009181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8,
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 07时24分]"
+        },
+        {
+          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
+          "url": "https://www.cls.cn/detail/2208561",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 15时26分]"
+        },
+        {
+          "title": "瑞银：明年AI与科技将引领全球股市上涨15%",
+          "url": "https://flash.jin10.com/detail/20251124094457947800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "A股三大指数翻红，创业板涨近1%，AI应用领涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
+          "url": "https://wallstreetcn.com/articles/3759974",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
+          "url": "https://wallstreetcn.com/articles/3759964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "瑞银：人工智能和科技将推动全球股市上涨至2026年。",
+          "url": "https://flash.jin10.com/detail/20251124093604664800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "市场消息：阿布扎比投资管理公司Lunate向人工智能公司MGX承诺投资10亿美元。",
+          "url": "https://flash.jin10.com/detail/20251124150547293800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
+          "url": "https://www.cls.cn/detail/2208653",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "谷歌云：北约与谷歌云签署数百万美元协议，打造由人工智能驱动的主权云。",
+          "url": "https://flash.jin10.com/detail/20251124150257144800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "创业板指午后涨超1%，沪指涨0.3%，深成指涨0.85%。AI应用、商业航天、军工、软件开发等方向领涨，沪深京三市上涨个股超4500只。",
+          "url": "https://wallstreetcn.com/livenews/3009381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "银行系股权投资“扩军”，三家股份制银行AIC已上阵",
+          "url": "https://wallstreetcn.com/livenews/3009194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "俄罗斯联邦储蓄银行第一副行长：全球人工智能基础设施投资属于“过度炒作”，硬件和电力成本预计将下降。",
+          "url": "https://flash.jin10.com/detail/20251124150128430800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "俄罗斯联邦储蓄银行第一副行长：由于投资并未过度，俄罗斯并不存在“人工智能泡沫”风险。",
+          "url": "https://flash.jin10.com/detail/20251124150058998800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "A股三大指数午后再度翻红，中船系、军工装备、智谱AI板块涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3009370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "俄罗斯联邦储蓄银行第一副行长：为保持在人工智能领域的竞争力，未来16年俄罗斯需在发电和电网领域投资5700亿美元。",
+          "url": "https://flash.jin10.com/detail/20251124150045949800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
+          "url": "https://wallstreetcn.com/livenews/3009237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 25,
@@ -24,11 +368,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 15时26分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -209,6 +554,17 @@
           "time_info": "[05时23分 ~ 06时24分]"
         },
         {
+          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
+          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时26分]"
+        },
+        {
           "title": "若泽连斯基拒绝美方和平计划？特朗普：他可以和俄罗斯打个痛快",
           "url": "https://m.thepaper.cn/newsDetail_forward_32025122",
           "source": "澎湃新闻",
@@ -232,24 +588,13 @@
           "time_info": "[01时21分 ~ 02时34分]"
         },
         {
-          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
-          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
           "title": "特朗普：“囤货”现象即将结束 关税收入将激增",
           "url": "https://flash.jin10.com/detail/20251124131919141800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -311,260 +656,8 @@
       ]
     },
     {
-      "keyword_group": "AI 人工智能 算力",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
-          "url": "https://wallstreetcn.com/articles/3759951",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 13时28分]"
-        },
-        {
-          "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
-          "url": "https://www.cls.cn/detail/2208386",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 14时39分]"
-        },
-        {
-          "title": "英伟达财报背后的未来AI密码",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5AI%E5%AF%86%E7%A0%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7,
-            8,
-            19,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 14时39分]"
-        },
-        {
-          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
-          "url": "https://wallstreetcn.com/articles/3759948",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 11时59分]"
-        },
-        {
-          "title": "英伟达AI爆雷!334亿账款收不回",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347412&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BEAI%E7%88%86%E9%9B%B7%21334%E4%BA%BF%E8%B4%A6%E6%AC%BE%E6%94%B6%E4%B8%8D%E5%9B%9E",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            9,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 14时39分]"
-        },
-        {
-          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
-          "url": "https://www.cls.cn/detail/2208142",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 10时07分]"
-        },
-        {
-          "title": "需要AI给答案",
-          "url": "https://wallstreetcn.com/articles/3759957",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 14时39分]"
-        },
-        {
-          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
-          "url": "https://wallstreetcn.com/articles/3759968",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-24）",
-          "url": "https://flash.jin10.com/detail/20251124115246431800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时28分]"
-        },
-        {
-          "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3009336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时28分]"
-        },
-        {
-          "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
-          "url": "https://wallstreetcn.com/livenews/3009181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时28分 ~ 07时24分]"
-        },
-        {
-          "title": "英伟达救不了AI股，市场想看到什么？",
-          "url": "https://wallstreetcn.com/articles/3759961",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 14时39分]"
-        },
-        {
-          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
-          "url": "https://www.cls.cn/detail/2208561",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时39分]"
-        },
-        {
-          "title": "瑞银：明年AI与科技将引领全球股市上涨15%",
-          "url": "https://flash.jin10.com/detail/20251124094457947800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "A股三大指数翻红，创业板涨近1%，AI应用领涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
-          "url": "https://wallstreetcn.com/articles/3759974",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "瑞银：人工智能和科技将推动全球股市上涨至2026年。",
-          "url": "https://flash.jin10.com/detail/20251124093604664800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "创业板指午后涨超1%，沪指涨0.3%，深成指涨0.85%。AI应用、商业航天、军工、软件开发等方向领涨，沪深京三市上涨个股超4500只。",
-          "url": "https://wallstreetcn.com/livenews/3009381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "银行系股权投资“扩军”，三家股份制银行AIC已上阵",
-          "url": "https://wallstreetcn.com/livenews/3009194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "A股三大指数午后再度翻红，中船系、军工装备、智谱AI板块涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3009370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
-          "url": "https://wallstreetcn.com/livenews/3009237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 a股 港股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "万亿级券商或诞生 本周披露并购重组进展的A股名单一览",
@@ -661,6 +754,17 @@
           "time_info": "[11时59分 ~ 12时41分]"
         },
         {
+          "title": "A股收盘：三大指数小幅上涨，军工板块集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3009419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "A股三大指数集体高开",
           "url": "https://wallstreetcn.com/livenews/3009262",
           "source": "华尔街见闻-快讯",
@@ -689,7 +793,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -700,7 +804,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -752,7 +856,7 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "储能“出海加速度”跑出20倍大牛股：揭秘一众厂商背后掌握的“财富密码”",
@@ -778,19 +882,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 14时39分]"
-        },
-        {
-          "title": "国家能源局：截至10月底，全国累计发电装机容量同比增长17.3%",
-          "url": "https://wallstreetcn.com/livenews/3009397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 15时26分]"
         },
         {
           "title": "韩能源公司SK earthon收购印尼油气区块股权",
@@ -802,6 +895,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "国家能源局：截至10月底，全国累计发电装机容量同比增长17.3%",
+          "url": "https://wallstreetcn.com/livenews/3009397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时26分]"
         },
         {
           "title": "印度阿达尼绿色能源股价下跌1.2%，此前有报道称道达尔能源计划减持该公司6%的股份。",
@@ -829,6 +934,17 @@
           "time_info": "[00时30分 ~ 02时34分]"
         },
         {
+          "title": "A股三大指数翻红，创业板涨近1%，阿里概念股大涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
+          "url": "https://wallstreetcn.com/articles/3759974",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "储能项目大型化趋势显现，业界看好行业超预期发展",
           "url": "https://wallstreetcn.com/livenews/3009199",
           "source": "华尔街见闻-快讯",
@@ -843,7 +959,7 @@
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "周末要闻汇总：美国政府据称正考虑允许英伟达对华出售H200芯片；16只硬科技主题基金同日获批",
@@ -880,8 +996,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 15时26分]"
         },
         {
           "title": "内蒙古“十五五”规划建议发布：建设面向全国的稀土新材料科创中心和稀土产品交易中心",
@@ -920,6 +1036,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "上证指数收报3836.77点，涨0.05%。 深证成指收报12585.08点，涨0.37%。 创业板指收报2929.04点，涨0.31%。 沪深300收报4448.05点，跌0.12%。 科创50收报1296.60点，涨0.84%。 中证500收报6868.97点，涨0.76%。 中证1000收报7156.41点，涨1.26%。",
+          "url": "https://wallstreetcn.com/livenews/3009416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "SK海力士正在洽谈寻找印度芯片组装合作伙伴。（印度经济时报）",
           "url": "https://wallstreetcn.com/livenews/3009243",
           "source": "华尔街见闻-快讯",
@@ -945,8 +1072,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 15时26分]"
         }
       ]
     }
