@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-26T05:24:57.491348+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2025-11-26T06:26:41.773025+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -25,11 +26,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -39,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "特朗普与高市早苗通话",
@@ -51,8 +53,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "特朗普：我们准备进军芝加哥，我们可以在4周内让芝加哥成为一座安全的城市。",
@@ -86,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
           "title": "美国总统特朗普：陆军部长德里斯科尔将与乌克兰人会面。",
@@ -148,6 +161,19 @@
           "time_info": "[03时23分 ~ 05时24分]"
         },
         {
+          "title": "特朗普：已指派美官员与俄乌双方就和平计划展开磋商",
+          "url": "https://wallstreetcn.com/livenews/3010379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时30分 ~ 06时26分]"
+        },
+        {
           "title": "据MS NOW：特朗普考虑罢免卡什·帕特尔的FBI局长职务。",
           "url": "https://flash.jin10.com/detail/20251126025659614800",
           "source": "金十数据",
@@ -160,28 +186,17 @@
           "time_info": "[03时23分 ~ 04时30分]"
         },
         {
-          "title": "特朗普：已指派美官员与俄乌双方就和平计划展开磋商",
-          "url": "https://wallstreetcn.com/livenews/3010379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时24分]"
-        },
-        {
           "title": "美国总统特朗普的特使Witkoff向俄罗斯总统普京建议，宜在乌克兰总统泽连斯基11月27日前往美国之前与特朗普通话。 Witkoff向普京建议，应赞赏特朗普主张的加沙“和平协议”。 11月14日，Witkoff与普京顾问Ushakov通电话。",
           "url": "https://wallstreetcn.com/livenews/3010377",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时24分]"
+          "appearance_count": 3,
+          "time_info": "[04时30分 ~ 06时26分]"
         },
         {
           "title": "特朗普主动和高市通话所为何事",
@@ -353,7 +368,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -364,7 +379,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -394,8 +409,21 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
+          "url": "https://www.zhihu.com/question/1975840016744858598",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
+        },
         {
           "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
           "url": "https://www.cls.cn/detail/2210415",
@@ -405,8 +433,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -417,20 +445,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
-        },
-        {
-          "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
-          "url": "https://www.zhihu.com/question/1975840016744858598",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "阿里电话会：千问有望成未来AI生活入口，预计闪购Q4投入显著收缩，3800亿资本开支可能偏小",
@@ -440,8 +456,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -451,8 +467,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
@@ -462,8 +478,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -473,8 +489,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
@@ -484,11 +500,12 @@
             10,
             6,
             9,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -498,8 +515,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -509,8 +526,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
@@ -524,26 +541,26 @@
           "time_info": "[00时35分 ~ 04时30分]"
         },
         {
-          "title": "戴尔(DELL.N)：今年下半年人工智能势头正在加速，迄今为止已收到300亿美元的人工智能服务器订单。",
-          "url": "https://flash.jin10.com/detail/20251126050745140800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
           "title": "戴尔科技预计全年营收1112亿-1122亿美元，公司原本预计1050亿-1090亿美元。预计AI服务器发货258亿美元，分析师预期208.2亿美元，公司原本预计200亿美元。",
           "url": "https://wallstreetcn.com/livenews/3010403",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "多地发布人工智能新场景，加速新领域供需适配",
+          "url": "https://wallstreetcn.com/livenews/3010421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
           "title": "戴尔(DELL.N)上调2026财年AI出货指引至约250亿美元。",
@@ -552,7 +569,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -562,11 +579,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时30分 ~ 06时26分]"
+        },
+        {
+          "title": "戴尔(DELL.N)：今年下半年人工智能势头正在加速，迄今为止已收到300亿美元的人工智能服务器订单。",
+          "url": "https://flash.jin10.com/detail/20251126050745140800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时24分]"
+          "time_info": "[05时24分 ~ 06时26分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -606,6 +636,19 @@
           "time_info": "[03时23分 ~ 04时30分]"
         },
         {
+          "title": "00后谈恋爱用AI当“僚机”",
+          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E8%B0%88%E6%81%8B%E7%88%B1%E7%94%A8AI%E5%BD%93%E2%80%9C%E5%83%9A%E6%9C%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时30分 ~ 06时26分]"
+        },
+        {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
           "url": "https://wallstreetcn.com/livenews/3010309",
           "source": "华尔街见闻-快讯",
@@ -618,33 +661,77 @@
           "time_info": "[00时36分 ~ 01时26分]"
         },
         {
-          "title": "00后谈恋爱用AI当“僚机”",
-          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E8%B0%88%E6%81%8B%E7%88%B1%E7%94%A8AI%E5%BD%93%E2%80%9C%E5%83%9A%E6%9C%BA%E2%80%9D",
-          "source": "百度热搜",
+          "title": "戴尔上调全年AI服务器发货预期",
+          "url": "https://wallstreetcn.com/livenews/3010403",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26,
             16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "戴尔第四财季指引乐观 AI服务器销售强劲成驱动力",
+          "url": "https://flash.jin10.com/detail/20251126052005700800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "惠普(HPQ.N)首席执行官：惠普将加大对某些领域的投资，以将人工智能融入其产品组合中。",
+          "url": "https://flash.jin10.com/detail/20251126051715916800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "惠普(HPQ.N)首席执行官：惠普预计将借助人工智能加速产品和软件的开发。",
+          "url": "https://flash.jin10.com/detail/20251126051639703800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "惠普(HPQ.N)计划在全球范围内裁减4000至6000名员工，以推动全公司范围内采用人工智能。",
+          "url": "https://flash.jin10.com/detail/20251126051604849800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
           "url": "https://wallstreetcn.com/articles/3760086",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
@@ -655,8 +742,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股收盘）",
@@ -665,7 +752,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -676,9 +763,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "周二（11月25日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.35%，报87080美元。 CME以太币期货DCR主力合约跌1.38%，报2935.50美元。 美股加密货币与加密货币关联指数涨0.31%，报64.80点，呈现出W形走势。 最近24小时，MarketVector数字资产100小盘指数跌1.48%，暂报18261.32点。",
+          "url": "https://wallstreetcn.com/livenews/3010418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
           "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
@@ -723,9 +821,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.68%，报301.82点。 纽约证交所ARCA金矿开采商指数收涨0.77%，报2179.87点；北京时间22:30美股开盘之前持稳于2172点附近——保持微幅上涨状态、之后出现一波V形反转行情。",
+          "url": "https://wallstreetcn.com/livenews/3010414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "区域银行ETF收涨超2.8%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3010410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
           "title": "美股收盘：三大股指低开高收 英伟达跌超2%",
@@ -734,7 +854,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -753,7 +873,7 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "90秒｜现实版“人民的名义”：乌克兰能源腐败巨案如何被“播”成连续剧",
@@ -765,8 +885,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "标普500指数初步收涨0.9%，保健板块涨2.1%，可选消费板块涨2%，电信板块涨1.7%，科技板块持平，能源板块跌0.6%。 纳斯达克100指数初步收涨0.6%，成分股中，ADI涨5.2%，应用材料涨5.2%，露露柠檬涨4.6%，Doordash涨4%，Meta涨3.8%，高通则跌1%，英伟达跌2.6%，Strategy跌4%，AMD跌4.1%。 Merck初步收涨5.3%，领跑道指成分股，家得宝、Salesforce、沃尔玛、耐克、联合健康等至少涨超2%，雪佛龙则跌0.8%表现倒数第二，英伟达跌幅最大。",
@@ -775,9 +895,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "标普500指数的11个板块多数上涨，保健板块收涨2.16%，可选消费、电信板块至少涨1.63%，金融板块涨1.19%表现靠后，信息技术/科技板块则收跌0.03%，能源板块跌0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3010405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
           "title": "标普500指数的11个板块中，科技板块盘初跌1.07%，能源板块跌0.64%，金融、工业、保健、原材料、电信板块则至多涨超0.7%。",
@@ -846,8 +977,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时26分]"
         },
         {
           "title": "摩尔线程中签率仅为 0.024%，创下了哪些 IPO 记录，其与沐曦股份有何区别，他们能重振芯片板块么？",
