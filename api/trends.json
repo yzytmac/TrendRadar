@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T20:55:14.616335+08:00",
-  "total_titles_processed": 1828,
+  "generated_at": "2025-11-27T21:37:07.606384+08:00",
+  "total_titles_processed": 1867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -47,6 +47,19 @@
           "time_info": "[00时34分 ~ 07时24分]"
         },
         {
+          "title": "解读马斯克用AI宣战LOL顶尖战队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时29分 ~ 21时37分]"
+        },
+        {
           "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
           "url": "https://www.cls.cn/detail/2212466",
           "source": "财联社热门",
@@ -60,18 +73,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时40分 ~ 19时24分]"
-        },
-        {
-          "title": "解读马斯克用AI宣战LOL顶尖战队",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 20时55分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -105,8 +106,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时27分 ~ 20时55分]"
+          "appearance_count": 12,
+          "time_info": "[13时27分 ~ 21时37分]"
         },
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -157,6 +158,19 @@
           "time_info": "[00时34分 ~ 17时29分]"
         },
         {
+          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
+          "url": "https://www.cls.cn/detail/2212827",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时29分 ~ 21时37分]"
+        },
+        {
           "title": "【焦点复盘】市场现深强沪弱分化行情，算力硬件、抗流感概念持续火热",
           "url": "https://www.cls.cn/detail/2211665",
           "source": "财联社热门",
@@ -183,19 +197,6 @@
           "time_info": "[00时34分 ~ 07时24分]"
         },
         {
-          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
-          "url": "https://www.cls.cn/detail/2212827",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时29分 ~ 20时55分]"
-        },
-        {
           "title": "GAI进化论6万人重庆场记录",
           "url": "https://search.bilibili.com/all?keyword=GAI%E8%BF%9B%E5%8C%96%E8%AE%BA6%E4%B8%87%E4%BA%BA%E9%87%8D%E5%BA%86%E5%9C%BA%E8%AE%B0%E5%BD%95",
           "source": "bilibili 热搜",
@@ -211,6 +212,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 06时25分]"
+        },
+        {
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 21时37分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -256,17 +269,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
-        },
-        {
-          "title": "报道：中国开源AI模型下载量占比首超美国",
-          "url": "https://wallstreetcn.com/livenews/3011546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -319,6 +321,29 @@
           "time_info": "[12时31分 ~ 13时27分]"
         },
         {
+          "title": "报道：中国开源AI模型下载量占比首超美国",
+          "url": "https://wallstreetcn.com/livenews/3011546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时37分]"
+        },
+        {
+          "title": "“珠峰安装电梯”图文视频系AI生成",
+          "url": "https://www.toutiao.com/trending/7577362730961767974/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 21时37分]"
+        },
+        {
           "title": "王自如称选择用AI创业还债",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E7%A7%B0%E9%80%89%E6%8B%A9%E7%94%A8AI%E5%88%9B%E4%B8%9A%E8%BF%98%E5%80%BA",
           "source": "bilibili 热搜",
@@ -342,15 +367,15 @@
           "time_info": "[14时40分 ~ 16时36分]"
         },
         {
-          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
-          "url": "https://www.cls.cn/detail/2213001",
+          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
+          "url": "https://www.cls.cn/detail/2213059",
           "source": "财联社热门",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时54分 ~ 20时55分]"
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -375,17 +400,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时34分]"
-        },
-        {
-          "title": "“珠峰安装电梯”图文视频系AI生成",
-          "url": "https://www.toutiao.com/trending/7577362730961767974/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "摩根大通私人银行：基本假设是，标普500指数2026年将上涨至7400点，那将意味着有望较当前水平涨约9%。 如果经济重新加速增长、企业财报强劲、AI稳步发展等尾部风险足够强劲，可看涨至8200点，意味着有望上涨20%。 看好科技股和公用事业板块。",
@@ -564,8 +578,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时57分 ~ 20时55分]"
+          "appearance_count": 18,
+          "time_info": "[09时57分 ~ 21时37分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -604,11 +618,12 @@
             15,
             13,
             21,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时17分 ~ 20时55分]"
+          "appearance_count": 15,
+          "time_info": "[11时17分 ~ 21时37分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -642,8 +657,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时17分 ~ 20时55分]"
+          "appearance_count": 17,
+          "time_info": "[11时17分 ~ 21时37分]"
         },
         {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
@@ -744,6 +759,19 @@
           "time_info": "[11时17分 ~ 15时27分]"
         },
         {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时23分 ~ 21时37分]"
+        },
+        {
           "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
           "url": "https://news.ifeng.com/c/8obnIsox9nT",
           "source": "凤凰网",
@@ -792,18 +820,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时34分 ~ 06时25分]"
-        },
-        {
-          "title": "特朗普所有刑事指控已终结",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 20时55分]"
         },
         {
           "title": "美财长：特朗普明年或将两次访华",
@@ -1154,6 +1170,18 @@
           "time_info": "[13时27分 ~ 14时40分]"
         },
         {
+          "title": "辰安科技：正筹划向特定对象合肥国投发行A股股票事宜，该事项可能导致公司控制权发生变更，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3011544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时37分]"
+        },
+        {
           "title": "周三（11月26日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨3.29%，报90295.00美元，北京时间00:00-02:00出现一波显著上涨的行情。 CME以太币期货DCR主力合约涨3.50%，报3031.50美元。 美股加密货币与加密货币关联指数涨4.95%，报68.01点。 最近24小时，MarketVector数字资产100小盘指数涨3.18%，暂报18855.77点。",
           "url": "https://wallstreetcn.com/livenews/3011073",
           "source": "华尔街见闻-快讯",
@@ -1232,17 +1260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
-        },
-        {
-          "title": "辰安科技：正筹划向特定对象合肥国投发行A股股票事宜，该事项可能导致公司控制权发生变更，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3011544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
         },
         {
           "title": "金十图示：2025年11月26日（周三）热门中概股行情一览（美股盘中）",
@@ -1578,7 +1595,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1589,7 +1606,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         }
@@ -1625,11 +1642,12 @@
             19,
             21,
             18,
-            25
+            25,
+            14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时57分 ~ 20时55分]"
+          "appearance_count": 18,
+          "time_info": "[09时57分 ~ 21时37分]"
         },
         {
           "title": "存储上下游紧急应对“超级周期”，业内普遍预计涨价行情会延续到明年上半年",
@@ -1701,6 +1719,59 @@
       ]
     },
     {
+      "keyword_group": "泰康 保险",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中保协：目前金融监管部门未批准或备案任何名称为“安我股保”的保险产品",
+          "url": "https://www.cls.cn/detail/2211560",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
+        },
+        {
+          "title": "国常会：部署推进基本医疗保险省级统筹工作",
+          "url": "https://www.cls.cn/detail/2213118",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
+        },
+        {
+          "title": "国常会：部署推进基本医疗保险省级统筹工作",
+          "url": "https://wallstreetcn.com/livenews/3011525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时37分]"
+        },
+        {
+          "title": "金十图示：2025年11月27日（周四）富时中国A50指数成分股今日收盘行情一览：石油、煤炭板块走强，银行、保险板块涨跌不一",
+          "url": "https://flash.jin10.com/detail/20251127150411621800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中芯国际 东芯股份 华虹公司 华虹半导体",
       "match_count": 3,
       "titles": [
@@ -1738,47 +1809,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "泰康 保险",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中保协：目前金融监管部门未批准或备案任何名称为“安我股保”的保险产品",
-          "url": "https://www.cls.cn/detail/2211560",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 06时25分]"
-        },
-        {
-          "title": "金十图示：2025年11月27日（周四）富时中国A50指数成分股今日收盘行情一览：石油、煤炭板块走强，银行、保险板块涨跌不一",
-          "url": "https://flash.jin10.com/detail/20251127150411621800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "国常会：部署推进基本医疗保险省级统筹工作",
-          "url": "https://wallstreetcn.com/livenews/3011525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
         }
       ]
     },
