@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T22:23:19.725271+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2025-11-30T23:24:16.627927+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -27,8 +27,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时38分 ~ 22时23分]"
+          "appearance_count": 12,
+          "time_info": "[14时38分 ~ 23时24分]"
+        },
+        {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 23时24分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -68,17 +79,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时30分 ~ 07时24分]"
-        },
-        {
-          "title": "美媒：特朗普直接要求马杜罗下台",
-          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 22时23分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -181,17 +181,43 @@
           "time_info": "[00时31分 ~ 07时24分]"
         },
         {
+          "title": "特朗普与委总统通话 直接要求其下台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 23时24分]"
+        },
+        {
           "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
           "url": "https://flash.jin10.com/detail/20251130201511290800",
           "source": "金十数据",
           "ranks": [
             2,
             5,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[20时49分 ~ 23时24分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
+          "url": "https://wallstreetcn.com/livenews/3012550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
@@ -206,19 +232,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时25分 ~ 21时31分]"
-        },
-        {
-          "title": "特朗普与委总统通话 直接要求其下台",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 22时23分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -244,6 +257,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时49分 ~ 22时23分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特表示，如果美国总统特朗普提名他担任美联储主席，他“将非常乐意任职”。",
+          "url": "https://flash.jin10.com/detail/20251130222919146800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         }
       ]
     },
@@ -304,11 +328,12 @@
           "url": "https://wallstreetcn.com/articles/3760402",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 22时23分]"
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 23时24分]"
         },
         {
           "title": "A股成交创4个月新低释放什么信号",
@@ -321,6 +346,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时11分 ~ 12时01分]"
+        },
+        {
+          "title": "A股连续缩量说明了什么",
+          "url": "https://www.toutiao.com/trending/7578495650929577482/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时23分 ~ 23时24分]"
         },
         {
           "title": "博主：调整中的A股静待新故事爆发",
@@ -357,17 +394,6 @@
           "time_info": "07时24分"
         },
         {
-          "title": "A股连续缩量说明了什么",
-          "url": "https://www.toutiao.com/trending/7578495650929577482/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
           "title": "A股下周能否延续反弹",
           "url": "https://www.toutiao.com/trending/7578289636359802411/",
           "source": "今日头条",
@@ -396,6 +422,19 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时30分 ~ 23时24分]"
+        },
+        {
           "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2214825",
           "source": "财联社热门",
@@ -409,8 +448,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时11分 ~ 22时23分]"
+          "appearance_count": 18,
+          "time_info": "[10时11分 ~ 23时24分]"
         },
         {
           "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
@@ -435,21 +474,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时00分 ~ 22时23分]"
+          "appearance_count": 17,
+          "time_info": "[12时00分 ~ 23时24分]"
         },
         {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
+          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
+          "url": "https://www.cls.cn/detail/2215028",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            5,
-            1
+            12,
+            11,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时30分 ~ 22时23分]"
+          "appearance_count": 11,
+          "time_info": "[15时23分 ~ 23时24分]"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
@@ -491,21 +532,6 @@
           "time_info": "[00时30分 ~ 06时24分]"
         },
         {
-          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
-          "url": "https://www.cls.cn/detail/2215028",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时23分 ~ 22时23分]"
-        },
-        {
           "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
           "url": "https://flash.jin10.com/detail/20251130160826101800",
           "source": "金十数据",
@@ -528,8 +554,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 22时23分]"
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 23时24分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
@@ -564,6 +590,17 @@
           "time_info": "[00时31分 ~ 15时23分]"
         },
         {
+          "title": "中国能源自主之路再添硬核底气",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%83%BD%E6%BA%90%E8%87%AA%E4%B8%BB%E4%B9%8B%E8%B7%AF%E5%86%8D%E6%B7%BB%E7%A1%AC%E6%A0%B8%E5%BA%95%E6%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 23时24分]"
+        },
+        {
           "title": "哈萨克斯坦能源部就里海管道联盟（CPC）管道遇袭事件表示：已启动计划，对石油供应进行改道。",
           "url": "https://flash.jin10.com/detail/20251129205105107800",
           "source": "金十数据",
@@ -586,17 +623,6 @@
           "time_info": "[00时31分 ~ 07时24分]"
         },
         {
-          "title": "中国能源自主之路再添硬核底气",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%83%BD%E6%BA%90%E8%87%AA%E4%B8%BB%E4%B9%8B%E8%B7%AF%E5%86%8D%E6%B7%BB%E7%A1%AC%E6%A0%B8%E5%BA%95%E6%B0%94",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时23分]"
-        },
-        {
           "title": "库尔德斯坦地区政府电力部：霍尔莫尔油田的作业已重启，天然气输送至发电站的工作于凌晨2时启动。",
           "url": "https://flash.jin10.com/detail/20251130143802996800",
           "source": "金十数据",
@@ -617,11 +643,23 @@
           "ranks": [
             7,
             10,
-            13
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时49分 ~ 23时24分]"
+        },
+        {
+          "title": "20股本月录得翻倍行情，电力设备股数量最多，这些标的获融资客加仓",
+          "url": "https://www.cls.cn/detail/2215018",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时49分 ~ 22时23分]"
+          "time_info": "[22时23分 ~ 23时24分]"
         },
         {
           "title": "俄大规模袭击乌能源基础设施",
@@ -633,17 +671,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 05时23分]"
-        },
-        {
-          "title": "20股本月录得翻倍行情，电力设备股数量最多，这些标的获融资客加仓",
-          "url": "https://www.cls.cn/detail/2215018",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         }
       ]
     },
