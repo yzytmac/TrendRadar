@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T18:25:59.715489+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2025-11-30T19:20:49.809381+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -58,6 +58,18 @@
           "time_info": "[00时30分 ~ 07时24分]"
         },
         {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 19时20分]"
+        },
+        {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
           "url": "https://flash.jin10.com/detail/20251129220829620800",
           "source": "金十数据",
@@ -68,18 +80,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 10时11分]"
-        },
-        {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 18时25分]"
         },
         {
           "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
@@ -170,15 +170,27 @@
           "time_info": "[00时31分 ~ 07时24分]"
         },
         {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
           "url": "https://flash.jin10.com/detail/20251130174813876800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -207,11 +219,12 @@
             7,
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时11分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[10时11分 ~ 19时20分]"
         },
         {
           "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
@@ -236,8 +249,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时00分 ~ 18时25分]"
+          "appearance_count": 12,
+          "time_info": "[12时00分 ~ 19时20分]"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
@@ -288,8 +301,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[16时30分 ~ 19时20分]"
         },
         {
           "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
@@ -298,11 +311,12 @@
           "ranks": [
             1,
             5,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时20分]"
         },
         {
           "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
@@ -315,8 +329,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 18时25分]"
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 19时20分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
@@ -333,7 +347,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "蓝箭航天朱雀三号即将首飞 火箭产业链价值量及其占比超5%的A股名单一览",
@@ -367,8 +381,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 18时25分]"
+          "appearance_count": 24,
+          "time_info": "[00时30分 ~ 19时20分]"
         },
         {
           "title": "下周A股将迎接新一轮行情",
@@ -407,6 +421,17 @@
           "time_info": "10时11分"
         },
         {
+          "title": "A股需要内需的变化打开高度",
+          "url": "https://wallstreetcn.com/articles/3760402",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "美股反弹了，但年底大涨也不用指望？",
           "url": "https://wallstreetcn.com/articles/3760368",
           "source": "华尔街见闻",
@@ -435,7 +460,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
