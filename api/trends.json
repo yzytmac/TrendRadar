@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T17:24:46.723853+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2025-11-30T18:25:59.715489+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -68,6 +68,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 10时11分]"
+        },
+        {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 18时25分]"
         },
         {
           "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
@@ -158,16 +170,15 @@
           "time_info": "[00时31分 ~ 07时24分]"
         },
         {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
+          "url": "https://flash.jin10.com/detail/20251130174813876800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 17时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -199,8 +210,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时11分 ~ 17时24分]"
+          "appearance_count": 12,
+          "time_info": "[10时11分 ~ 18时25分]"
         },
         {
           "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
@@ -221,11 +232,24 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时00分 ~ 18时25分]"
+        },
+        {
+          "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
+          "url": "https://wallstreetcn.com/articles/3760382",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[12时00分 ~ 17时24分]"
+          "time_info": "[10时11分 ~ 18时25分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -255,16 +279,17 @@
           "time_info": "[00时30分 ~ 06时24分]"
         },
         {
-          "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
-          "url": "https://wallstreetcn.com/articles/3760382",
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            10
+            6,
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时11分 ~ 17时24分]"
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 18时25分]"
         },
         {
           "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
@@ -272,23 +297,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时24分]"
-        },
-        {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
+            5,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时30分 ~ 17时24分]"
+          "time_info": "[16时31分 ~ 18时25分]"
         },
         {
           "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
@@ -297,11 +311,12 @@
           "ranks": [
             12,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 18时25分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
@@ -318,7 +333,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "蓝箭航天朱雀三号即将首飞 火箭产业链价值量及其占比超5%的A股名单一览",
@@ -352,8 +367,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 17时24分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 18时25分]"
         },
         {
           "title": "下周A股将迎接新一轮行情",
@@ -412,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "券商：A股仍处牛市但短期或宽幅震荡",
+          "url": "https://www.toutiao.com/trending/7578433550261685823/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
@@ -463,11 +489,12 @@
           "ranks": [
             2,
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 17时24分]"
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 18时25分]"
         },
         {
           "title": "俄大规模袭击乌能源基础设施",
