@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T15:23:33.191400+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2025-11-30T16:31:12.380032+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
             19,
             22,
             24,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 15时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 16时31分]"
         },
         {
           "title": "大外交丨极限施压委内瑞拉、拉拢拉美右翼，特朗普式“门罗主义”笼罩拉美",
@@ -165,8 +166,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时23分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 16时31分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -184,7 +185,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
@@ -196,8 +197,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 15时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时30分 ~ 16时31分]"
+        },
+        {
+          "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2214825",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时11分 ~ 16时31分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -209,8 +224,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 15时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 16时31分]"
         },
         {
           "title": "浪潮已至，传媒行业如何以AI“弄潮”",
@@ -226,18 +241,16 @@
           "time_info": "[00时30分 ~ 06时24分]"
         },
         {
-          "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2214825",
-          "source": "财联社热门",
+          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
+          "url": "https://wallstreetcn.com/articles/3760389",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            7,
             6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时11分 ~ 15时23分]"
+          "appearance_count": 9,
+          "time_info": "[12时00分 ~ 16时31分]"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
@@ -252,16 +265,38 @@
           "time_info": "[10时11分 ~ 15时23分]"
         },
         {
-          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
-          "url": "https://wallstreetcn.com/articles/3760389",
-          "source": "华尔街见闻",
+          "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
+          "url": "https://flash.jin10.com/detail/20251130160826101800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            7
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
+          "url": "https://www.cls.cn/detail/2215028",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时00分 ~ 15时23分]"
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 16时31分]"
+        },
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
@@ -273,17 +308,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
-        },
-        {
-          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
-          "url": "https://www.cls.cn/detail/2215028",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
         }
       ]
     },
@@ -311,8 +335,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 15时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时30分 ~ 16时31分]"
         },
         {
           "title": "电解液细分龙头盘中创历史新高 VC、FEC等电解液添加剂产能A股名单一览",
@@ -323,8 +347,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 15时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时30分 ~ 16时31分]"
         },
         {
           "title": "下周A股将迎接新一轮行情",
@@ -335,8 +359,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时23分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 16时31分]"
         },
         {
           "title": "A股成交创4个月新低释放什么信号",
@@ -431,11 +455,12 @@
           "url": "https://flash.jin10.com/detail/20251130143802996800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时31分]"
         },
         {
           "title": "俄大规模袭击乌能源基础设施",
