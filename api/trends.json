@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T19:20:49.809381+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2025-11-30T20:49:47.925706+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时30分 ~ 07时24分]"
+        },
+        {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 20时49分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -56,18 +68,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时30分 ~ 07时24分]"
-        },
-        {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 19时20分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -176,9 +176,31 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时49分]"
+        },
+        {
+          "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
+          "url": "https://flash.jin10.com/detail/20251130201511290800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "20时49分"
+        },
+        {
+          "title": "特朗普与委总统通话 直接要求其下台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
@@ -186,11 +208,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 19时20分]"
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 20时49分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -203,12 +226,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时41分 ~ 13时26分]"
+        },
+        {
+          "title": "美媒担心特朗普借贪腐抛弃乌克兰",
+          "url": "https://www.toutiao.com/trending/7578459169896795667/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
@@ -223,8 +257,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时11分 ~ 19时20分]"
+          "appearance_count": 14,
+          "time_info": "[10时11分 ~ 20时49分]"
         },
         {
           "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
@@ -249,8 +283,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时00分 ~ 19时20分]"
+          "appearance_count": 13,
+          "time_info": "[12时00分 ~ 20时49分]"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
@@ -301,8 +335,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时30分 ~ 19时20分]"
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 20时49分]"
+        },
+        {
+          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
+          "url": "https://www.cls.cn/detail/2215028",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 20时49分]"
         },
         {
           "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
@@ -319,20 +367,6 @@
           "time_info": "[16时31分 ~ 19时20分]"
         },
         {
-          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
-          "url": "https://www.cls.cn/detail/2215028",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 19时20分]"
-        },
-        {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
           "url": "https://www.toutiao.com/trending/7578124515407970367/",
           "source": "今日头条",
@@ -342,12 +376,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "蓝箭航天朱雀三号即将首飞 火箭产业链价值量及其占比超5%的A股名单一览",
@@ -381,8 +426,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 19时20分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 20时49分]"
         },
         {
           "title": "下周A股将迎接新一轮行情",
@@ -410,6 +455,17 @@
           "time_info": "[10时11分 ~ 12时01分]"
         },
         {
+          "title": "A股需要内需的变化打开高度",
+          "url": "https://wallstreetcn.com/articles/3760402",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时49分]"
+        },
+        {
           "title": "A股指数重大调整！涉及胜宏科技、中际旭创等",
           "url": "https://wallstreetcn.com/articles/3760373",
           "source": "华尔街见闻",
@@ -421,17 +477,6 @@
           "time_info": "10时11分"
         },
         {
-          "title": "A股需要内需的变化打开高度",
-          "url": "https://wallstreetcn.com/articles/3760402",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
           "title": "美股反弹了，但年底大涨也不用指望？",
           "url": "https://wallstreetcn.com/articles/3760368",
           "source": "华尔街见闻",
@@ -441,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "博主：调整中的A股静待新故事爆发",
+          "url": "https://www.toutiao.com/trending/7578466413241699866/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "A股下周能否延续反弹",
@@ -468,7 +524,7 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "俄罗斯大规模袭击乌克兰能源基础设施",
@@ -531,6 +587,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 05时23分]"
+        },
+        {
+          "title": "俄罗斯外长就黑海码头遭袭发表声明：遭袭的民用能源基础设施在保障全球能源安全方面发挥着重要作用，且从未受到任何限制或约束。",
+          "url": "https://flash.jin10.com/detail/20251130193417035800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     },
