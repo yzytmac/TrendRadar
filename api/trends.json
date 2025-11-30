@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T10:11:47.844776+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2025-11-30T12:01:03.585414+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时30分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉空域应被视为关闭",
+          "url": "https://wallstreetcn.com/livenews/3012482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 12时01分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -40,18 +53,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时30分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普称委内瑞拉空域应被视为关闭",
-          "url": "https://wallstreetcn.com/livenews/3012482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 10时11分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -156,91 +157,8 @@
       ]
     },
     {
-      "keyword_group": "美股 a股 港股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "蓝箭航天朱雀三号即将首飞 火箭产业链价值量及其占比超5%的A股名单一览",
-          "url": "https://www.cls.cn/detail/2214193",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时11分]"
-        },
-        {
-          "title": "龙头15天10板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2214701",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时11分]"
-        },
-        {
-          "title": "电解液细分龙头盘中创历史新高 VC、FEC等电解液添加剂产能A股名单一览",
-          "url": "https://www.cls.cn/detail/2214775",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时11分]"
-        },
-        {
-          "title": "A股指数重大调整！涉及胜宏科技、中际旭创等",
-          "url": "https://wallstreetcn.com/articles/3760373",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "A股成交创4个月新低释放什么信号",
-          "url": "https://www.toutiao.com/trending/7578305044378816006/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "美股反弹了，但年底大涨也不用指望？",
-          "url": "https://wallstreetcn.com/articles/3760368",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "A股下周能否延续反弹",
-          "url": "https://www.toutiao.com/trending/7578289636359802411/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
@@ -252,8 +170,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 12时01分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -281,35 +199,133 @@
           "time_info": "[00时30分 ~ 06时24分]"
         },
         {
-          "title": "华为AI玩具“智能憨憨”开售即秒罄",
-          "url": "https://www.toutiao.com/trending/7578124515407970367/",
-          "source": "今日头条",
+          "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2214825",
+          "source": "财联社热门",
           "ranks": [
+            13,
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 12时01分]"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
           "url": "https://wallstreetcn.com/articles/3760382",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 12时01分]"
+        },
+        {
+          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
+          "url": "https://wallstreetcn.com/articles/3760389",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
+        },
+        {
+          "title": "华为AI玩具“智能憨憨”开售即秒罄",
+          "url": "https://www.toutiao.com/trending/7578124515407970367/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 a股 港股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "蓝箭航天朱雀三号即将首飞 火箭产业链价值量及其占比超5%的A股名单一览",
+          "url": "https://www.cls.cn/detail/2214193",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 12时01分]"
+        },
+        {
+          "title": "龙头15天10板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2214701",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 12时01分]"
+        },
+        {
+          "title": "电解液细分龙头盘中创历史新高 VC、FEC等电解液添加剂产能A股名单一览",
+          "url": "https://www.cls.cn/detail/2214775",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 12时01分]"
+        },
+        {
+          "title": "A股成交创4个月新低释放什么信号",
+          "url": "https://www.toutiao.com/trending/7578305044378816006/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 12时01分]"
+        },
+        {
+          "title": "A股指数重大调整！涉及胜宏科技、中际旭创等",
+          "url": "https://wallstreetcn.com/articles/3760373",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
         {
-          "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2214825",
-          "source": "财联社热门",
+          "title": "美股反弹了，但年底大涨也不用指望？",
+          "url": "https://wallstreetcn.com/articles/3760368",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "A股下周能否延续反弹",
+          "url": "https://www.toutiao.com/trending/7578289636359802411/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
@@ -325,11 +341,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 10时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 12时01分]"
         },
         {
           "title": "哈萨克斯坦能源部就里海管道联盟（CPC）管道遇袭事件表示：已启动计划，对石油供应进行改道。",
@@ -389,11 +406,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 12时01分]"
         },
         {
           "title": "十八路芯片诸侯“围攻”英伟达",
@@ -402,7 +420,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
