@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T18:32:13.839661+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2025-12-01T19:24:21.305419+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -37,11 +37,12 @@
           "ranks": [
             10,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时25分 ~ 18时32分]"
+          "appearance_count": 11,
+          "time_info": "[10时25分 ~ 19时24分]"
         },
         {
           "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
@@ -71,13 +72,24 @@
           "time_info": "[00时31分 ~ 06时25分]"
         },
         {
+          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
+          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 19时24分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-01）",
           "url": "https://flash.jin10.com/detail/20251201181724483800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -91,17 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
-        },
-        {
-          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
-          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 18时32分]"
         },
         {
           "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
@@ -406,6 +407,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "特朗普和马杜罗的通话释放了何信号",
+          "url": "https://www.toutiao.com/trending/7578812536200384006/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "特朗普：乌克兰正面临“一些棘手的小问题”",
           "url": "https://wallstreetcn.com/livenews/3012559",
           "source": "华尔街见闻-快讯",
@@ -465,8 +477,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时34分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[13时34分 ~ 19时24分]"
         },
         {
           "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
@@ -479,8 +491,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时34分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[13时34分 ~ 19时24分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -544,6 +556,32 @@
           "time_info": "16时39分"
         },
         {
+          "title": "【每日收评】三大指数震荡走强放量收红！沪指重返3900点，AI端侧方向迎集体爆发",
+          "url": "https://www.cls.cn/detail/2215927",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 19时24分]"
+        },
+        {
+          "title": "如何评价米哈游创始人蔡浩宇海外团队 Anuttacon 制作的聊天 AI Anuneko?",
+          "url": "https://www.zhihu.com/question/1978825874213205536",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 19时24分]"
+        },
+        {
           "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
           "url": "https://www.cls.cn/detail/2215245",
           "source": "财联社热门",
@@ -580,18 +618,6 @@
           "time_info": "[17时36分 ~ 18时32分]"
         },
         {
-          "title": "【每日收评】三大指数震荡走强放量收红！沪指重返3900点，AI端侧方向迎集体爆发",
-          "url": "https://www.cls.cn/detail/2215927",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 18时32分]"
-        },
-        {
           "title": "软银CEO孙正义：当超级智能出现时，至少10%的全球GDP将由AI和AI机器人取代。",
           "url": "https://wallstreetcn.com/livenews/3012910",
           "source": "华尔街见闻-快讯",
@@ -604,18 +630,6 @@
           "time_info": "[16时39分 ~ 17时36分]"
         },
         {
-          "title": "如何评价米哈游创始人蔡浩宇海外团队 Anuttacon 制作的聊天 AI Anuneko?",
-          "url": "https://www.zhihu.com/question/1978825874213205536",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 18时32分]"
-        },
-        {
           "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
           "url": "https://wallstreetcn.com/articles/3760419",
           "source": "华尔街见闻",
@@ -623,19 +637,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时24分]"
         },
         {
           "title": "马斯克震撼预言：AI将在三年内终结美国“债务危机”！",
           "url": "https://www.cls.cn/detail/2215716",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时24分]"
         },
         {
           "title": "创业板指涨逾1%，算力硬件产业链走强，GPU、CPO方向领涨。",
@@ -696,7 +711,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "A股需要内需的变化打开高度",
@@ -717,11 +732,35 @@
           "url": "https://www.cls.cn/detail/2216038",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时24分]"
+        },
+        {
+          "title": "美股疫苗股盘前下跌，Moderna跌超3%，BioNTech、诺瓦瓦克斯跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3013007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "年内新纪录！A股平均股价连升6日，5元以下股不足10%，破净股年内已减三成",
+          "url": "https://www.cls.cn/detail/2216057",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时24分]"
         },
         {
           "title": "谁让A股变冷了",
@@ -736,6 +775,18 @@
           "time_info": "[02时35分 ~ 03时21分]"
         },
         {
+          "title": "加密货币相关股票美股盘前下跌，Riot Platforms跌3.1%，MARA Holdings跌4%，Coinbase跌3.3%，Strategy跌3.5%，Circle Internet跌2.8%，Bullish跌3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3012978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时24分]"
+        },
+        {
           "title": "最高8000点！华尔街“2026美股预测”陆续出炉，一个比一个乐观……",
           "url": "https://www.cls.cn/detail/2215285",
           "source": "财联社热门",
@@ -745,17 +796,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时35分 ~ 17时36分]"
-        },
-        {
-          "title": "年内新纪录！A股平均股价连升6日，5元以下股不足10%，破净股年内已减三成",
-          "url": "https://www.cls.cn/detail/2216057",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "A股连续缩量说明了什么",
@@ -789,17 +829,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "加密货币相关股票美股盘前下跌，Riot Platforms跌3.1%，MARA Holdings跌4%，Coinbase跌3.3%，Strategy跌3.5%，Circle Internet跌2.8%，Bullish跌3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3012978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
         },
         {
           "title": "A股收盘：沪指涨0.65%重返3900点，消费电子板块集体爆发",
@@ -926,7 +955,7 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国能源自主之路再添硬核底气",
@@ -938,6 +967,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时30分 ~ 10时25分]"
+        },
+        {
+          "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
+          "url": "https://www.cls.cn/detail/2215595",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时42分 ~ 19时24分]"
         },
         {
           "title": "20股本月录得翻倍行情，电力设备股数量最多，这些标的获融资客加仓",
@@ -952,19 +996,27 @@
           "time_info": "[00时30分 ~ 07时24分]"
         },
         {
-          "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
-          "url": "https://www.cls.cn/detail/2215595",
-          "source": "财联社热门",
+          "title": "比亚迪：11月新能源汽车产量47.42万辆，销量48.02万辆；本年累计产量411.76万辆，累计同比7.29%，累计销量418.2万辆，累计同比11.30%。",
+          "url": "https://wallstreetcn.com/livenews/3013009",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            10,
-            6,
-            3,
-            2
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "如何评价「新能源汽车正进入下行周期」的观点？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1978761406493979455",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时42分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 19时24分]"
         },
         {
           "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
@@ -977,17 +1029,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时34分 ~ 14时42分]"
-        },
-        {
-          "title": "如何评价「新能源汽车正进入下行周期」的观点？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1978761406493979455",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 18时32分]"
         },
         {
           "title": "据英国金融时报：英国政府将撤回向莫桑比克一个液化天然气项目提供的11.5亿美元贷款，该项目由法国道达尔能源牵头。",
@@ -1056,6 +1097,18 @@
           "time_info": "[02时35分 ~ 04时28分]"
         },
         {
+          "title": "【数据看盘】四家实力游资豪掷近20亿抢筹中兴通讯 多只科创板ETF上周份额大减",
+          "url": "https://www.cls.cn/detail/2216039",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时24分]"
+        },
+        {
           "title": "上证指数早盘收报3904.90点，涨0.42%。 深证成指早盘收报13106.95点，涨0.95%。 创业板指早盘收报3080.16点，涨0.90%。 沪深300早盘收报4560.67点，涨0.75%。 科创50早盘收报1337.35点，涨0.77%。 中证500早盘收报7086.13点，涨0.78%。 中证1000早盘收报7381.69点，涨0.65%。",
           "url": "https://wallstreetcn.com/livenews/3012767",
           "source": "华尔街见闻-快讯",
@@ -1066,17 +1119,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时14分 ~ 13时34分]"
-        },
-        {
-          "title": "【数据看盘】四家实力游资豪掷近20亿抢筹中兴通讯 多只科创板ETF上周份额大减",
-          "url": "https://www.cls.cn/detail/2216039",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "上证指数收报3914.01点，涨0.65%。 深证成指收报13146.72点，涨1.25%。 创业板指收报3092.50点，涨1.31%。 沪深300收报4576.49点，涨1.10%。 科创50收报1336.76点，涨0.72%。 中证500收报7101.83点，涨1.00%。 中证1000收报7386.68点，涨0.72%。",
@@ -1181,8 +1223,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时34分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[13时34分 ~ 19时24分]"
         }
       ]
     }
