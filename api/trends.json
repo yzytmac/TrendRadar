@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T10:25:54.625168+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2025-12-01T12:14:53.345223+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -49,9 +49,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
+          "url": "https://flash.jin10.com/detail/20251201112823735800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
@@ -114,6 +125,18 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
+          "url": "https://wallstreetcn.com/articles/3760417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时14分]"
+        },
+        {
           "title": "特朗普：已敲定美联储主席人选",
           "url": "https://flash.jin10.com/detail/20251201055105786800",
           "source": "金十数据",
@@ -150,6 +173,30 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "特朗普：俄乌和平协议“很有可能”达成",
+          "url": "https://news.ifeng.com/c/8oikvl8KaCy",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时14分]"
+        },
+        {
+          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
+          "url": "https://www.cls.cn/detail/2215261",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时14分]"
+        },
+        {
           "title": "美国总统特朗普：某些国家的公民可能将长期无法获得美国庇护。",
           "url": "https://flash.jin10.com/detail/20251201054919490800",
           "source": "金十数据",
@@ -162,6 +209,18 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
+          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时14分]"
+        },
+        {
           "title": "美国总统特朗普：赫格塞思说他没有下令杀害船上的两名男子。",
           "url": "https://flash.jin10.com/detail/20251201054804501800",
           "source": "金十数据",
@@ -172,6 +231,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普：俄乌和平协议“很可能”达成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E2%80%9C%E5%BE%88%E5%8F%AF%E8%83%BD%E2%80%9D%E8%BE%BE%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时14分]"
         },
         {
           "title": "美国总统特朗普：我们会调查有关对毒品船只发动第二次打击的报道。我不希望发生那种事，但国防部长赫格塞思所说的第二次打击并没有发生。",
@@ -198,59 +269,37 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
-          "title": "特朗普：俄乌和平协议“很有可能”达成",
-          "url": "https://news.ifeng.com/c/8oikvl8KaCy",
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时14分]"
+        },
+        {
+          "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
+          "url": "https://news.ifeng.com/c/8oizWNiI4Dt",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "12时14分"
         },
         {
-          "title": "特朗普：俄乌和平协议“很可能”达成",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E2%80%9C%E5%BE%88%E5%8F%AF%E8%83%BD%E2%80%9D%E8%BE%BE%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
-          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
-          "url": "https://wallstreetcn.com/articles/3760417",
+          "title": "特朗普与委总统通话，直接要求对方下台！",
+          "url": "https://wallstreetcn.com/articles/3760404",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
-          "url": "https://www.cls.cn/detail/2215261",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "12时14分"
         },
         {
           "title": "特朗普：不要过度解读关闭委内瑞拉空域之举",
@@ -319,21 +368,141 @@
           "time_info": "07时24分"
         },
         {
-          "title": "特朗普：已选定下任美联储主席",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "百度热搜",
+          "title": "芝商所上周五经历数小时故障，白银刷新历史新高！特朗普已敲定下任美联储主席人选，美乌新会谈“富有成效但仍有工作要做”....美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251201103320124800",
+          "source": "金十数据",
           "ranks": [
-            23
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "12时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能 算力",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 12时14分]"
+        },
+        {
+          "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2214825",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时24分]"
+        },
+        {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 12时14分]"
+        },
+        {
+          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
+          "url": "https://wallstreetcn.com/articles/3760389",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时24分]"
+        },
+        {
+          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
+          "url": "https://www.cls.cn/detail/2215028",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时24分]"
+        },
+        {
+          "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
+          "url": "https://www.cls.cn/detail/2215163",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时14分]"
+        },
+        {
+          "title": "创业板指涨逾1%，算力硬件产业链走强，GPU、CPO方向领涨。",
+          "url": "https://wallstreetcn.com/livenews/3012757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
+          "url": "https://www.cls.cn/detail/2215245",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "没想到夸克AI浏览器还可以这么用",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%A4%B8%E5%85%8BAI%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%94%A8%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "中国聚变能源公司：与同方股份探讨“人工智能赋能聚变研发”等议题",
+          "url": "https://wallstreetcn.com/livenews/3012731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股需要内需的变化打开高度",
@@ -341,11 +510,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 10时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 12时14分]"
         },
         {
           "title": "谁让A股变冷了",
@@ -399,7 +569,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -413,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "中兴通讯港股短线拉升涨超10%。A股中兴通讯封板涨停，成交额超131亿元。",
+          "url": "https://wallstreetcn.com/livenews/3012742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "港股研报数量同比增超30%，券商研究所深耕“新沃土”",
@@ -432,82 +613,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能 算力",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 10时25分]"
-        },
-        {
-          "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2214825",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
-        },
-        {
-          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
-          "url": "https://wallstreetcn.com/articles/3760389",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
-        },
-        {
-          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
-          "url": "https://www.cls.cn/detail/2215087",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 10时25分]"
-        },
-        {
-          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
-          "url": "https://www.cls.cn/detail/2215028",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
-        },
-        {
-          "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
-          "url": "https://www.cls.cn/detail/2215163",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时25分"
         }
@@ -547,7 +653,48 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 科创 存储",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "存储近7吨衣物的自建房着火",
+          "url": "https://www.toutiao.com/trending/7578427304083931190/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 04时28分]"
+        },
+        {
+          "title": "上证指数早盘收报3904.90点，涨0.42%。 深证成指早盘收报13106.95点，涨0.95%。 创业板指早盘收报3080.16点，涨0.90%。 沪深300早盘收报4560.67点，涨0.75%。 科创50早盘收报1337.35点，涨0.77%。 中证500早盘收报7086.13点，涨0.78%。 中证1000早盘收报7381.69点，涨0.65%。",
+          "url": "https://wallstreetcn.com/livenews/3012767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "上证指数开盘报3894.21点，涨0.14%。 深证成指开盘报13038.16点，涨0.42%。 创业板指开盘报3060.56点，涨0.26%。 沪深300开盘报4539.19点，涨0.28%。 科创50开盘报1329.42点，涨0.17%。 中证500开盘报7053.85点，涨0.32%。 中证1000开盘报7356.51点，涨0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3012669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         }
@@ -564,7 +711,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -575,37 +722,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 科创 存储",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "存储近7吨衣物的自建房着火",
-          "url": "https://www.toutiao.com/trending/7578427304083931190/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            20,
-            25
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时35分 ~ 04时28分]"
-        },
-        {
-          "title": "上证指数开盘报3894.21点，涨0.14%。 深证成指开盘报13038.16点，涨0.42%。 创业板指开盘报3060.56点，涨0.26%。 沪深300开盘报4539.19点，涨0.28%。 科创50开盘报1329.42点，涨0.17%。 中证500开盘报7053.85点，涨0.32%。 中证1000开盘报7356.51点，涨0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3012669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时25分"
         }
@@ -622,7 +739,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         }
