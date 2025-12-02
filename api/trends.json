@@ -1,11 +1,426 @@
 {
-  "generated_at": "2025-12-02T10:02:11.993199+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2025-12-02T11:55:31.972027+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI 人工智能 算力",
+      "match_count": 35,
+      "titles": [
+        {
+          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
+          "url": "https://wallstreetcn.com/articles/3760431",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 10时02分]"
+        },
+        {
+          "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
+          "url": "https://www.cls.cn/detail/2216291",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 07时25分]"
+        },
+        {
+          "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
+          "url": "https://www.cls.cn/detail/2216065",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 07时25分]"
+        },
+        {
+          "title": "郑恺上戏合影 AI生成",
+          "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%B8%8A%E6%88%8F%E5%90%88%E5%BD%B1%20AI%E7%94%9F%E6%88%90&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            13,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 10时02分]"
+        },
+        {
+          "title": "网警侦破AI换脸侵入计算机案",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4AI%E6%8D%A2%E8%84%B8%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 11时55分]"
+        },
+        {
+          "title": "顾客买鞋子仅退款拿AI视频当凭证",
+          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E6%8B%BFAI%E8%A7%86%E9%A2%91%E5%BD%93%E5%87%AD%E8%AF%81",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            18,
+            21,
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时25分]"
+        },
+        {
+          "title": "人脑优于人工智能的关键机制揭示",
+          "url": "https://wallstreetcn.com/livenews/3013258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
+          "url": "https://wallstreetcn.com/livenews/3013202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时25分]"
+        },
+        {
+          "title": "微软CEO：将欧洲视为人工智能战略的关键地区",
+          "url": "https://flash.jin10.com/detail/20251202035104895800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时22分]"
+        },
+        {
+          "title": "网警破获通过AI换脸非法侵入系统案",
+          "url": "https://www.toutiao.com/trending/7578802867742461503/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 11时55分]"
+        },
+        {
+          "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
+          "url": "https://www.cls.cn/detail/2216587",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 11时55分]"
+        },
+        {
+          "title": "“让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机",
+          "url": "https://www.cls.cn/detail/2216608",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 11时55分]"
+        },
+        {
+          "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
+          "url": "https://wallstreetcn.com/livenews/3013172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时28分]"
+        },
+        {
+          "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
+          "url": "https://wallstreetcn.com/livenews/3013184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时27分 ~ 05时22分]"
+        },
+        {
+          "title": "北京将建「太空数据中心」，首颗算力试验卫星「辰光一号」即将发射，有何战略意义？",
+          "url": "https://www.zhihu.com/question/1977718587239187865",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 11时55分]"
+        },
+        {
+          "title": "据Politico：微软(MSFT.O)首席执行官周一表示，微软正日益将欧洲视为其人工智能战略的关键区域。",
+          "url": "https://flash.jin10.com/detail/20251202032928692800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时22分]"
+        },
+        {
+          "title": "监管机构发出警告：AI加剧大型科技公司对欧盟银行的系统性威胁",
+          "url": "https://wallstreetcn.com/livenews/3013139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时28分]"
+        },
+        {
+          "title": "网警破获“AI换脸”侵入计算机案",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "网警破获AI换脸非法侵入系统案",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7AI%E6%8D%A2%E8%84%B8%E9%9D%9E%E6%B3%95%E4%BE%B5%E5%85%A5%E7%B3%BB%E7%BB%9F%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "AI手机概念延续强势，道明光学4连板，福蓉科技2连板，美芯晟、中兴通讯、传音控股、中石科技等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3013346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "网警破获AI换脸非法侵入案",
+          "url": "https://www.douyin.com/hot/2323802",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "苹果任命AI业务副总裁",
+          "url": "https://flash.jin10.com/detail/20251202061819637800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "三星推出首款三折叠智能手机 搭载全套Galaxy AI",
+          "url": "https://flash.jin10.com/detail/20251202092714055800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "苹果更换AI主管 白银年内涨幅突破100% | 环球市场",
+          "url": "https://www.cls.cn/detail/2216521",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
+          "url": "https://flash.jin10.com/detail/20251202040715444800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "谷歌：将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区，支持英文。",
+          "url": "https://flash.jin10.com/detail/20251202040501133800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "福建：构建全省算力一体化服务体系 探索面向港澳台、东南亚的算力出海模式",
+          "url": "https://wallstreetcn.com/livenews/3013433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "福建：谋划建设一批中型算力基础设施项目 推动智算中心提升国产化率",
+          "url": "https://wallstreetcn.com/livenews/3013431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "苹果宣布AI主管将离职，接班人曾在谷歌DeepMind和微软工作",
+          "url": "https://wallstreetcn.com/livenews/3013239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "【福建：升级扩容“福淡”“厦金”海底光缆 推进“福州—深圳短路径光缆”项目建设】《福建省有序推进算力基础设施发展若干措施》印发。其中提到，提升算力网络传输效率。鼓励福州（含平潭）、泉州、厦门等地规划建设城市算力网，推进“福州—深圳短路径光缆”项目建设。升级扩容“福淡”“厦金”海底光缆，依托区域性国际关口局探索算力出海专网服务。加快400G／800G光传输、IPv6分段路由（SRv6）、智能无损网络等技术研发部署，打造市域1ms、省域5ms、到粤港澳及长三角枢纽10ms、全国20ms四级时延圈。到2027年，重点应用场所OTN覆盖率达到90%。",
+          "url": "https://wallstreetcn.com/livenews/3013429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "工信部电子信息司就筹备中国人工智能终端行业协会听取意见",
+          "url": "https://wallstreetcn.com/livenews/3013427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
+          "url": "https://wallstreetcn.com/livenews/3013130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "A股算力硬件股盘中回暖，赛微电子涨超14%，续创历史新高，特发信息、天孚通信、胜宏科技、工业富联、中富电路跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3013406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "顾客买鞋子仅退款发AI图",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E5%8F%91AI%E5%9B%BE%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -44,11 +459,12 @@
             15,
             16,
             17,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 10时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 11时55分]"
         },
         {
           "title": "美国白宫：总统特朗普将与国家安全团队就委内瑞拉问题举行会议。",
@@ -76,6 +492,17 @@
           "time_info": "[00时37分 ~ 01时28分]"
         },
         {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 11时55分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
           "url": "https://wallstreetcn.com/livenews/3013186",
           "source": "华尔街见闻-快讯",
@@ -99,17 +526,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 04时28分]"
-        },
-        {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "法国总统马克龙在与美国总统特朗普的会谈中强调，对乌克兰所需的安全保障具有核心重要性。",
@@ -300,6 +716,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美国总统特朗普：看起来洪都拉斯似乎正试图篡改其总统选举结果。如果他们这么做了，他们会付出惨重代价。选举委员会必须完成计票工作。",
+          "url": "https://flash.jin10.com/detail/20251202105205419800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：希望美国中东问题特使威特科夫访问俄罗斯后能与美国总统特朗普举行会谈。",
           "url": "https://flash.jin10.com/detail/20251201235332079800",
           "source": "金十数据",
@@ -309,6 +736,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "特朗普明日凌晨3点将发表重大声明",
+          "url": "https://flash.jin10.com/detail/20251202103453965800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "美制造业PMI连续第九个月处于收缩区间，现货白银一度逼近59美元，特朗普就委内瑞拉局势召开会议，美英就药品定价达成原则性协议......现货金银卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251202103143252800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "美国同意对原产于英国的药品等豁免232条款关税，并在特朗普总统任期内不启动“301调查”",
@@ -331,308 +780,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能 算力",
-      "match_count": 25,
-      "titles": [
-        {
-          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
-          "url": "https://wallstreetcn.com/articles/3760431",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 10时02分]"
-        },
-        {
-          "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
-          "url": "https://www.cls.cn/detail/2216291",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时25分]"
-        },
-        {
-          "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
-          "url": "https://www.cls.cn/detail/2216065",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时25分]"
-        },
-        {
-          "title": "郑恺上戏合影 AI生成",
-          "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%B8%8A%E6%88%8F%E5%90%88%E5%BD%B1%20AI%E7%94%9F%E6%88%90&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            13,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 10时02分]"
-        },
-        {
-          "title": "顾客买鞋子仅退款拿AI视频当凭证",
-          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E6%8B%BFAI%E8%A7%86%E9%A2%91%E5%BD%93%E5%87%AD%E8%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            18,
-            21,
-            23,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时28分 ~ 07时25分]"
-        },
-        {
-          "title": "网警侦破AI换脸侵入计算机案",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4AI%E6%8D%A2%E8%84%B8%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "人脑优于人工智能的关键机制揭示",
-          "url": "https://wallstreetcn.com/livenews/3013258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
-          "url": "https://wallstreetcn.com/livenews/3013202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时25分]"
-        },
-        {
-          "title": "微软CEO：将欧洲视为人工智能战略的关键地区",
-          "url": "https://flash.jin10.com/detail/20251202035104895800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时22分]"
-        },
-        {
-          "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
-          "url": "https://wallstreetcn.com/livenews/3013172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 04时28分]"
-        },
-        {
-          "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
-          "url": "https://wallstreetcn.com/livenews/3013184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时27分 ~ 05时22分]"
-        },
-        {
-          "title": "网警破获通过AI换脸非法侵入系统案",
-          "url": "https://www.toutiao.com/trending/7578802867742461503/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "据Politico：微软(MSFT.O)首席执行官周一表示，微软正日益将欧洲视为其人工智能战略的关键区域。",
-          "url": "https://flash.jin10.com/detail/20251202032928692800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时22分]"
-        },
-        {
-          "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
-          "url": "https://www.cls.cn/detail/2216587",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "“让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机",
-          "url": "https://www.cls.cn/detail/2216608",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "北京将建「太空数据中心」，首颗算力试验卫星「辰光一号」即将发射，有何战略意义？",
-          "url": "https://www.zhihu.com/question/1977718587239187865",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "监管机构发出警告：AI加剧大型科技公司对欧盟银行的系统性威胁",
-          "url": "https://wallstreetcn.com/livenews/3013139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时28分]"
-        },
-        {
-          "title": "AI手机概念延续强势，道明光学4连板，福蓉科技2连板，美芯晟、中兴通讯、传音控股、中石科技等纷纷高开。",
-          "url": "https://wallstreetcn.com/livenews/3013346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "苹果任命AI业务副总裁",
-          "url": "https://flash.jin10.com/detail/20251202061819637800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "三星推出首款三折叠智能手机 搭载全套Galaxy AI",
-          "url": "https://flash.jin10.com/detail/20251202092714055800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
-          "url": "https://flash.jin10.com/detail/20251202040715444800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "谷歌：将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区，支持英文。",
-          "url": "https://flash.jin10.com/detail/20251202040501133800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "苹果宣布AI主管将离职，接班人曾在谷歌DeepMind和微软工作",
-          "url": "https://wallstreetcn.com/livenews/3013239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
-          "url": "https://wallstreetcn.com/livenews/3013130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "顾客买鞋子仅退款发AI图",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E5%8F%91AI%E5%9B%BE%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
         }
       ]
     },
@@ -697,8 +844,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 11时55分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
@@ -815,7 +962,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -826,7 +973,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -845,7 +992,7 @@
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "【数据看盘】四家实力游资豪掷近20亿抢筹中兴通讯 多只科创板ETF上周份额大减",
@@ -883,13 +1030,24 @@
           "time_info": "[00时37分 ~ 01时28分]"
         },
         {
+          "title": "上证指数早盘收报3892.55点，跌0.55%。 深证成指早盘收报13045.95点，跌0.77%。 创业板指早盘收报3065.15点，跌0.88%。 沪深300早盘收报4548.78点，跌0.61%。 科创50早盘收报1320.98点，跌1.18%。 中证500早盘收报7036.99点，跌0.91%。 中证1000早盘收报7310.97点，跌1.03%。",
+          "url": "https://wallstreetcn.com/livenews/3013453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "市场消息：芯片初创公司Xlight与美国商务部签署1.5亿美元意向书。",
           "url": "https://flash.jin10.com/detail/20251202093135777800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -900,9 +1058,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "英特尔加码投资马来西亚 强化其芯片组装和测试中心地位",
+          "url": "https://flash.jin10.com/detail/20251202111424096800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "特朗普政府将入股芯片初创公司XLIGHT，投资至多1.5亿美元。（华尔街日报）",
@@ -911,7 +1080,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -922,7 +1091,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -973,7 +1142,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
