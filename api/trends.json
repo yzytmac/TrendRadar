@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T04:32:29.945540+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2025-12-03T05:26:14.465595+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 60,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
@@ -26,41 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
-        },
-        {
-          "title": "美国总统特朗普：特朗普账户（旨在帮助美国儿童建立财富的储蓄计划）将于2026年7月4日起开放。",
-          "url": "https://flash.jin10.com/detail/20251203040632369800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "特朗普积极暗示哈塞特为下任美联储主席",
-          "url": "https://flash.jin10.com/detail/20251203040443497800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "内阁会议时长超2小时 特朗普睡眼惺忪",
-          "url": "https://flash.jin10.com/detail/20251203035324570800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时32分"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
@@ -149,6 +116,18 @@
           "time_info": "[03时25分 ~ 04时32分]"
         },
         {
+          "title": "美国总统特朗普：特朗普账户（旨在帮助美国儿童建立财富的储蓄计划）将于2026年7月4日起开放。",
+          "url": "https://flash.jin10.com/detail/20251203040632369800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时26分]"
+        },
+        {
           "title": "美国总统特朗普：我的体检全部得了A。",
           "url": "https://flash.jin10.com/detail/20251203011020121800",
           "source": "金十数据",
@@ -173,6 +152,18 @@
           "time_info": "[03时25分 ~ 04时32分]"
         },
         {
+          "title": "特朗普积极暗示哈塞特为下任美联储主席",
+          "url": "https://flash.jin10.com/detail/20251203040443497800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时26分]"
+        },
+        {
           "title": "美国总统特朗普：将用关税收入发放退款。",
           "url": "https://flash.jin10.com/detail/20251203010635367800",
           "source": "金十数据",
@@ -183,6 +174,44 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时41分]"
+        },
+        {
+          "title": "内阁会议时长超2小时 特朗普睡眼惺忪",
+          "url": "https://flash.jin10.com/detail/20251203035324570800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时26分]"
+        },
+        {
+          "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
+          "url": "https://wallstreetcn.com/livenews/3013871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 05时26分]"
+        },
+        {
+          "title": "美国总统特朗普：我们已经将美联储主席候选人精简到一个人（本来有十个人）。 财政部长贝森特面试了一些我不知道的候选人。",
+          "url": "https://wallstreetcn.com/livenews/3013870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 05时26分]"
         },
         {
           "title": "美国总统特朗普：三家大型航空公司竞标美国联邦航空管理局（FAA）空中交通管理系统的现代化项目。",
@@ -222,16 +251,16 @@
           "time_info": "[03时25分 ~ 04时32分]"
         },
         {
-          "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
-          "url": "https://wallstreetcn.com/livenews/3013871",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：美国很快将对贩毒集团进行陆地打击",
+          "url": "https://flash.jin10.com/detail/20251203034420715800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            9
+            6,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时32分]"
+          "time_info": "[04时32分 ~ 05时26分]"
         },
         {
           "title": "巴西总统府：卢拉感谢特朗普决定取消咖啡、牛肉等产品的关税。",
@@ -256,18 +285,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时41分]"
-        },
-        {
-          "title": "美国总统特朗普：我们已经将美联储主席候选人精简到一个人（本来有十个人）。 财政部长贝森特面试了一些我不知道的候选人。",
-          "url": "https://wallstreetcn.com/livenews/3013870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时32分]"
         },
         {
           "title": "巴西总统府：巴西总统卢拉与美国总统特朗普就贸易、经济及打击有组织犯罪进行了会谈。",
@@ -425,24 +442,13 @@
           "time_info": "02时41分"
         },
         {
-          "title": "特朗普：美国很快将对贩毒集团进行陆地打击",
-          "url": "https://flash.jin10.com/detail/20251203034420715800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
           "title": "内塔尼亚胡请求特朗普就其赦免问题提供更多支持",
           "url": "https://flash.jin10.com/detail/20251203033616090800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -469,6 +475,28 @@
           "time_info": "02时41分"
         },
         {
+          "title": "周二（12月2日）纽约尾盘，美国10年期国债收益率微跌0.23个基点，在特朗普介绍哈塞特为“潜在的”美联储主席之际刷新日低至4.0788%，北京时间20:33刷新日高至4.1136%，之后持续回落。",
+          "url": "https://wallstreetcn.com/livenews/3013902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "美元指数刷新日低，特朗普“换种方式”介绍哈塞特",
+          "url": "https://wallstreetcn.com/livenews/3013901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
           "title": "巴西总统府：巴西总统卢拉周二与美国总统特朗普通了电话。",
           "url": "https://flash.jin10.com/detail/20251203005736487800",
           "source": "金十数据",
@@ -489,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "美国总统特朗普：与巴西总统卢拉的谈话很棒。 我喜欢卢拉。",
+          "url": "https://wallstreetcn.com/livenews/3013899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         },
         {
           "title": "美国总统特朗普：将于明年年初宣布新任美联储主席，贝森特不想要美联储的工作。",
@@ -513,6 +552,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "美国总统特朗普结束在白宫活动上的讲话。",
+          "url": "https://flash.jin10.com/detail/20251203043755291800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
           "title": "金十提示：特朗普开始在白宫内阁会议上发表讲话。",
           "url": "https://flash.jin10.com/detail/20251203005635949800",
           "source": "金十数据",
@@ -524,6 +574,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "美国总统特朗普：我喜欢他（指巴西总统卢拉）。",
+          "url": "https://flash.jin10.com/detail/20251203043716378800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
           "title": "美国总统特朗普：我希望我们能够结束俄罗斯和乌克兰之间的战争。",
           "url": "https://flash.jin10.com/detail/20251203011436938800",
           "source": "金十数据",
@@ -533,6 +594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "美国总统特朗普：与巴西总统卢拉的通话很棒，谈到了贸易与制裁的问题。",
+          "url": "https://flash.jin10.com/detail/20251203043530932800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         },
         {
           "title": "悬念保留到圣诞节后，特朗普称：可能“明年初”宣布美联储新任主席人选",
@@ -557,6 +629,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "特朗普在白宫称凯文·哈塞特为“潜在的”美联储主席，说：潜在的美联储主席也在场。",
+          "url": "https://wallstreetcn.com/livenews/3013893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
           "title": "市场消息：特朗普将于周三宣布拟对汽车燃油经济性法规进行调整，通用汽车和福特汽车的高管将出席白宫会议。",
           "url": "https://flash.jin10.com/detail/20251203004623208800",
           "source": "金十数据",
@@ -579,6 +662,39 @@
           "time_info": "01时28分"
         },
         {
+          "title": "特朗普：不清楚有关委内瑞拉船只遭到第二次袭击的事",
+          "url": "https://flash.jin10.com/detail/20251203042601542800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "一封信函显示，AT&T(T.N)承诺将终止多元、公平与包容项目（DEI），此举旨在争取特朗普政府批准其收购US Cellular公司频谱牌照。",
+          "url": "https://flash.jin10.com/detail/20251203041325787800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特朗普：将对任何涉嫌向美“走私毒品”的国家实施打击",
+          "url": "https://wallstreetcn.com/livenews/3013896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
           "title": "首位美籍教皇利奥十四世敦促特朗普政府不要试图通过军事手段推翻委内瑞拉总统马杜罗，利奥十四世表示，如果华盛顿寻求变革，与其采取对抗，不如尝试对话或施加经济压力。",
           "url": "https://flash.jin10.com/detail/20251203003259046800",
           "source": "金十数据",
@@ -593,7 +709,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -604,8 +720,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -616,8 +732,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
@@ -627,11 +743,12 @@
             12,
             7,
             10,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -642,8 +759,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -654,8 +771,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速",
@@ -666,8 +783,34 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
+        },
+        {
+          "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
+          "url": "https://wallstreetcn.com/articles/3760506",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
+        },
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "亚马逊推出定制AI芯片Trainium3 英伟达迎战新一轮攻势",
@@ -681,30 +824,15 @@
           "time_info": "00时37分"
         },
         {
-          "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
-          "url": "https://wallstreetcn.com/articles/3760506",
-          "source": "华尔街见闻",
+          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
+          "url": "https://www.cls.cn/detail/2217188",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12,
             13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "time_info": "[02时41分 ~ 05时26分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -716,6 +844,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "迈威尔科技将以大约32.5亿美元现金+股票收购Celestial AI。",
+          "url": "https://wallstreetcn.com/livenews/3013912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         },
         {
           "title": "法国Mistral AI发布自家下一代模型Mistral 3。 该系列模型用于支持多语种的机器人聊天工具和其他AI服务，包括在网络连接有限的移动设备上运行。",
@@ -755,17 +894,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时41分 ~ 04时32分]"
-        },
-        {
-          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
-          "url": "https://www.cls.cn/detail/2217188",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
           "time_info": "[02时41分 ~ 04时32分]"
         },
         {
@@ -816,6 +944,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 04时32分]"
+        },
+        {
+          "title": "部分用户无法访问ChatGPT，OpenAI称已采取应对措施",
+          "url": "https://flash.jin10.com/detail/20251203044535141800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         },
         {
           "title": "法国公司Mistral AI正式发布Mistral 3模型",
@@ -898,7 +1037,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -909,8 +1048,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "年底A股如何走？机构看好跨年行情，两大核心会议成关键",
@@ -919,11 +1058,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -933,8 +1073,41 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时41分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[02时41分 ~ 05时26分]"
+        },
+        {
+          "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251203050524229800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251203050515362800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 小鹏跌近8%",
+          "url": "https://flash.jin10.com/detail/20251203050114408800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         },
         {
           "title": "英特尔(INTC.O)美股涨超8%。",
@@ -973,7 +1146,7 @@
     },
     {
       "keyword_group": "谷歌 英伟达 阿里巴巴",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
@@ -983,8 +1156,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "英伟达与亚马逊云科技深化全栈合作，共同打造安全、高性能的计算平台，助力未来创新。",
@@ -1023,6 +1196,17 @@
           "time_info": "[00时37分 ~ 01时28分]"
         },
         {
+          "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，小鹏初步收跌7.5%，阿特斯太阳能跌5.9%，万国数据、蔚来、B站、世纪互联、阿里巴巴等至少跌约2%，华住则涨1%，文远知行涨2.7%，亚朵涨5.4%。 ETF中，CQQQ跌1.2%，KWEB跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3013907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
           "title": "费城半导体指数涨幅扩大至2.4%，英伟达涨2.7%。",
           "url": "https://wallstreetcn.com/livenews/3013796",
           "source": "华尔街见闻-快讯",
@@ -1049,8 +1233,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
@@ -1061,23 +1245,12 @@
             10,
             9,
             5,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
-        },
-        {
-          "title": "“豆包”加持，3499元的手机，一天就卖光，闲鱼挂价最高近万元",
-          "url": "https://wallstreetcn.com/livenews/3013889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -1089,8 +1262,60 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
+        },
+        {
+          "title": "“豆包”加持，3499元的手机，一天就卖光，闲鱼挂价最高近万元",
+          "url": "https://wallstreetcn.com/livenews/3013889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 05时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 能源 储能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "标普500指数初步收涨0.2%，工业板块涨约1%，科技板块涨0.8%，电信板块涨0.2%，原材料板块跌0.7%，能源板块跌1.1%。 纳斯达克100指数初步收涨0.8%，成分股中，英特尔初步收涨8.5%，恩智浦涨8.1%，Strategy涨6.4%，Applovin涨4.5%，博通、ORLY、卡夫亨氏、MNST、AMD则至多收跌2.2%。 波音初步收涨10%，卡特彼勒、霍尼韦尔、思科、高盛至少涨1%，领跑道指成分股，IBM、宝洁、雪佛龙、迪士尼、可口可乐则收跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3013905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "美国能源部长赖特：美国计划利用闲置的柴油发电机来增加电力供应。",
+          "url": "https://flash.jin10.com/detail/20251202234424138800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "美国能源部：已选定TVA和Holtec公司来推动美国小型模块化反应堆的部署。",
+          "url": "https://flash.jin10.com/detail/20251203043027220800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         }
       ]
     },
@@ -1107,8 +1332,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         },
         {
           "title": "【焦点复盘】沪指失守3900点终结三连阳，商业航天概念强者恒强，“炒地图”、“炒玄学”热度重燃",
@@ -1119,25 +1344,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 能源 储能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国能源部长赖特：美国计划利用闲置的柴油发电机来增加电力供应。",
-          "url": "https://flash.jin10.com/detail/20251202234424138800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时26分]"
         }
       ]
     }
