@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T10:02:04.275513+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2025-12-03T11:54:15.584177+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 76,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -29,6 +29,53 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时37分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.toutiao.com/trending/7579444252149763593/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
+          "title": "特朗普“点名”日本",
+          "url": "https://news.ifeng.com/c/8omI9QpRNFm",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
+          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
+          "url": "https://www.cls.cn/detail/2217685",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 11时54分]"
+        },
+        {
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 11时54分]"
         },
         {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
@@ -201,16 +248,16 @@
           "time_info": "[04时32分 ~ 05时26分]"
         },
         {
-          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
-          "url": "https://www.cls.cn/detail/2217685",
-          "source": "财联社热门",
+          "title": "特朗普宣布拜登时期文件全部作废",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            6
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 11时54分]"
         },
         {
           "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
@@ -250,17 +297,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 04时32分]"
-        },
-        {
-          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
-          "url": "https://wallstreetcn.com/articles/3760565",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
@@ -514,17 +550,6 @@
           "time_info": "[03时25分 ~ 04时32分]"
         },
         {
-          "title": "特朗普宣布拜登时期文件全部作废",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
           "title": "特朗普政府预计将把旅行禁令扩大到约30个国家",
           "url": "https://flash.jin10.com/detail/20251203015450977800",
           "source": "金十数据",
@@ -586,7 +611,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -608,7 +633,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -619,7 +644,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -784,7 +809,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -820,6 +845,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "特朗普支持的共和党人在田纳西州险胜 中期选举前景堪忧",
+          "url": "https://flash.jin10.com/detail/20251203110617903800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "一封信函显示，AT&T(T.N)承诺将终止多元、公平与包容项目（DEI），此举旨在争取特朗普政府批准其收购US Cellular公司频谱牌照。",
@@ -858,7 +894,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -923,8 +959,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 10时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 11时54分]"
         },
         {
           "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
@@ -978,8 +1014,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 11时54分]"
         },
         {
           "title": "亚马逊推出定制AI芯片Trainium3 英伟达迎战新一轮攻势",
@@ -1064,6 +1100,18 @@
           "time_info": "[00时37分 ~ 02时41分]"
         },
         {
+          "title": "12月3日投资避雷针：4连板人气股紧急澄清 目前不存在AI手机相关业务",
+          "url": "https://www.cls.cn/detail/2217771",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 11时54分]"
+        },
+        {
           "title": "澳大利亚11月AIG/PWC制造业表现指数 -18，前值-22。",
           "url": "https://flash.jin10.com/detail/20251203061409183800",
           "source": "金十数据",
@@ -1125,17 +1173,6 @@
           "time_info": "[07时24分 ~ 10时02分]"
         },
         {
-          "title": "12月3日投资避雷针：4连板人气股紧急澄清 目前不存在AI手机相关业务",
-          "url": "https://www.cls.cn/detail/2217771",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
           "title": "从夸克眼镜，到豆包手机，为什么巨头扎堆端侧AI?",
           "url": "https://wallstreetcn.com/articles/3760476",
           "source": "华尔街见闻",
@@ -1160,6 +1197,17 @@
           "time_info": "[00时37分 ~ 01时28分]"
         },
         {
+          "title": "端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？",
+          "url": "https://www.cls.cn/detail/2217832",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
           "title": "Git3.0 默认主分支从「master」改为「main」，这一调整是出于哪些考量？",
           "url": "https://www.zhihu.com/question/1977117773466452175",
           "source": "知乎",
@@ -1169,6 +1217,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "缺电、缺人、缺设备，大摩：明年市场将转向解决AI基建瓶颈，看好能源基础设施",
+          "url": "https://wallstreetcn.com/articles/3760522",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
         },
         {
           "title": "日本卫材（Eisai）与渤健（BIIB）展示关于阿尔茨海默症疗法Lecanemab的（临床研究）数据。",
@@ -1294,6 +1353,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "联合国报告：人工智能管理差异或加剧国家间不平等",
+          "url": "https://wallstreetcn.com/livenews/3014113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "迈威尔科技将以大约32.5亿美元现金+股票收购Celestial AI",
           "url": "https://wallstreetcn.com/livenews/3013912",
           "source": "华尔街见闻-快讯",
@@ -1325,6 +1395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "A股三大指数集体翻绿，创业板指盘初一度涨超1%，AI应用、商业航天、零售、锂矿等方向跌幅居前，沪深京三市下跌个股超4000只。",
+          "url": "https://wallstreetcn.com/livenews/3014096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         }
       ]
     },
@@ -1376,11 +1457,25 @@
           "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 11时54分]"
+        },
+        {
+          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
+          "url": "https://www.cls.cn/detail/2217711",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 11时54分]"
         },
         {
           "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股收盘）",
@@ -1392,18 +1487,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
-        },
-        {
-          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
-          "url": "https://www.cls.cn/detail/2217711",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 10时02分]"
         },
         {
           "title": "美股涨，数字货币大体收复周一暴跌后失地，白银V形反转",
@@ -1673,7 +1756,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
@@ -1681,7 +1764,7 @@
     },
     {
       "keyword_group": "豆包 deepseek 千问",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "首款豆包助手手机开箱",
@@ -1741,6 +1824,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 05时26分]"
+        },
+        {
+          "title": "千问批改小学生草书作业",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E6%89%B9%E6%94%B9%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%8D%89%E4%B9%A6%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
         }
       ]
     },
@@ -1778,8 +1872,19 @@
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "上证指数早盘收报3894.22点，跌0.09%。 深证成指早盘收报13031.26点，跌0.19%。 创业板指早盘收报3055.91点，跌0.50%。 沪深300早盘收报4553.74点，跌0.01%。 科创50早盘收报1314.15点，跌0.45%。 中证500早盘收报7035.17点，跌0.07%。 中证1000早盘收报7276.82点，跌0.50%。",
+          "url": "https://wallstreetcn.com/livenews/3014143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
         {
           "title": "上证指数开盘报3894.16点，跌0.09%。 深证成指开盘报13071.16点，涨0.11%。 创业板指开盘报3078.86点，涨0.25%。 沪深300开盘报4554.59点，涨0.01%。 科创50开盘报1317.58点，跌0.20%。 中证500开盘报7044.86点，涨0.06%。 中证1000开盘报7312.67点，跌0.01%。",
           "url": "https://wallstreetcn.com/livenews/3014035",
@@ -1787,7 +1892,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
