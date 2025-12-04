@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T11:55:36.888032+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2025-12-04T12:36:45.988854+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -26,11 +26,12 @@
             16,
             15,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 11时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 12时36分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -41,8 +42,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时28分 ~ 11时55分]"
+          "appearance_count": 13,
+          "time_info": "[01时28分 ~ 12时36分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -65,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 11时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 12时36分]"
         },
         {
           "title": "债券投资者们针对哈塞特出任美联储主席的可能性警告美国财政部。 他们担心，哈塞特将为了取悦美国总统特朗普而降息。 11月份，财长贝森特掌管的财政部曾集中征求意见。（英国金融时报）",
@@ -128,6 +129,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时28分 ~ 03时23分]"
+        },
+        {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 12时36分]"
         },
         {
           "title": "美墨加协定将到期 特朗普：要么失效 要么达成新协议",
@@ -202,18 +215,6 @@
           "time_info": "[00时38分 ~ 02时41分]"
         },
         {
-          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
-          "url": "https://www.cls.cn/detail/2219030",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 11时55分]"
-        },
-        {
           "title": "报道：债券市场担心哈塞特通过激进降息来取悦特朗普，已就此警告财长贝森特",
           "url": "https://wallstreetcn.com/livenews/3014596",
           "source": "华尔街见闻-快讯",
@@ -249,6 +250,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时23分]"
+        },
+        {
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 12时36分]"
         },
         {
           "title": "福特汽车CEO Farley：今天将会见美国总统特朗普和交通部长Duffy。",
@@ -404,17 +417,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
-          "url": "https://wallstreetcn.com/articles/3760676",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
           "title": "报道：特朗普亲信探讨哈塞特接掌美联储后的人事安排，贝森特或兼任NEC主任",
           "url": "https://wallstreetcn.com/livenews/3014655",
           "source": "华尔街见闻-快讯",
@@ -457,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "美国总统特朗普：我们将允许人们抵扣汽车贷款利息。",
@@ -542,7 +555,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         }
@@ -550,7 +563,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -602,6 +615,19 @@
           "time_info": "[01时28分 ~ 03时23分]"
         },
         {
+          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
+          "url": "https://www.cls.cn/detail/2218945",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 12时36分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：能源成为人工智能的下一个全球瓶颈；人工智能的发展给电力供应带来压力；预测未来十年内，小型核反应堆将被广泛用于为人工智能系统供电。",
           "url": "https://flash.jin10.com/detail/20251204023323691800",
           "source": "金十数据",
@@ -627,18 +653,6 @@
           "time_info": "[01时28分 ~ 03时23分]"
         },
         {
-          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
-          "url": "https://www.cls.cn/detail/2218945",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 11时55分]"
-        },
-        {
           "title": "Anthropic 宣布收购 Bun，这对 Node.js 冲击有多大？对 AI 编码生态意味着什么？",
           "url": "https://www.zhihu.com/question/1979482353974916229",
           "source": "知乎",
@@ -648,6 +662,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
+          "url": "https://www.cls.cn/detail/2219319",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 12时36分]"
         },
         {
           "title": "维基百科创始人Wale证实正在与科技巨头洽谈其他人工智能合作事宜。",
@@ -753,17 +779,6 @@
           "time_info": "04时32分"
         },
         {
-          "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
-          "url": "https://www.cls.cn/detail/2219319",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
           "title": "A股AI手机概念盘初调整，道明光学、福蓉科技触及跌停，美芯晟、天音控股、弘信电子、福日电子等跟跌。",
           "url": "https://wallstreetcn.com/livenews/3014768",
           "source": "华尔街见闻-快讯",
@@ -784,6 +799,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-04）",
+          "url": "https://flash.jin10.com/detail/20251204114954413800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "C3.ai第二财季营收7510万美元，分析师预期7470万美元。 预计全财年营收2.895亿-3.095亿美元，公司原本预计4.475亿-4.845亿美元。 预计第三财季营收7200万-8000万美元，分析师预期7560万美元。 C3.ai美股盘后跌5%。",
@@ -847,7 +873,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         }
@@ -855,7 +881,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -884,18 +910,6 @@
           "time_info": "[00时38分 ~ 06时27分]"
         },
         {
-          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2218814",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 06时27分]"
-        },
-        {
           "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
           "url": "https://www.cls.cn/detail/2218940",
           "source": "财联社热门",
@@ -904,8 +918,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 11时55分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 12时36分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -917,8 +931,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 11时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 12时36分]"
+        },
+        {
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时28分 ~ 06时27分]"
         },
         {
           "title": "美股机器人概念股走强",
@@ -1055,6 +1081,17 @@
           "time_info": "[06时27分 ~ 07时23分]"
         },
         {
+          "title": "瑞银预计A股上涨行情将进一步延续",
+          "url": "https://wallstreetcn.com/livenews/3014887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（12月3日），美国科技股七巨头（Magnificent 7）指数跌0.55%，报207.57点，全天绝大部分时间处于下跌状态，整体呈现出n形走势。 “超大”市值科技股指数涨0.09%，报402.08点。",
           "url": "https://wallstreetcn.com/livenews/3014642",
           "source": "华尔街见闻-快讯",
@@ -1080,7 +1117,7 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，阿特斯太阳能初步收跌8.9%，晶科能源跌5.8%，蔚来跌5.1%，小鹏跌3.8%，理想跌3.5%，新东方跌3.3%，网易有道涨2.4%，文远知行涨5.2%。 ETF中，CQQQ和KWEB跌1.2%。",
@@ -1118,6 +1155,17 @@
           "time_info": "[00时38分 ~ 01时28分]"
         },
         {
+          "title": "澳新银行：对俄乌持续相互攻击能源基础设施的担忧，将使布伦特原油价格维持在每桶60美元以上。 随着2026年供应超过需求，将石油市场推向过剩，布伦特原油价格的进一步上涨空间将受到限制。 炼油厂开工率降低，再加上OPEC+产量增加，全球原油库存将会增加，这可能会使2026年上半年的油价保持在每桶65美元以下。 2026年下半年全球经济复苏可能会支撑油价，随后油价将朝着每桶70美元迈进。 预计今年年底油价将稳定在每桶62美元。",
+          "url": "https://wallstreetcn.com/livenews/3014888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "美国能源信息署（EIA）正在酝酿后备计划，以防技术故障造成12月3日EIA原油库存周报延迟的事故重演。",
           "url": "https://wallstreetcn.com/livenews/3014661",
           "source": "华尔街见闻-快讯",
@@ -1127,6 +1175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "澳新银行：对俄罗斯和乌克兰继续攻击对方能源基础设施的持续破坏的担忧，最终或将使布伦特原油价格保持在每桶60美元以上。",
+          "url": "https://flash.jin10.com/detail/20251204115614331800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "提醒：美国能源信息署（EIA）的原油供应与需求周报似乎推迟发布。",
@@ -1344,8 +1403,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 11时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 12时36分]"
         },
         {
           "title": "【焦点复盘】沪指日线二连阴失守10日均线，商业航天盘中现多次巨震，超硬材料概念异军突起",
@@ -1364,11 +1423,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时23分 ~ 11时55分]"
+          "appearance_count": 8,
+          "time_info": "[05时23分 ~ 12时36分]"
         },
         {
           "title": "10万亿产业规模！朱雀三号背后中国商业航天的星辰大海",
@@ -1380,8 +1440,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时27分 ~ 11时55分]"
+          "appearance_count": 6,
+          "time_info": "[06时27分 ~ 12时36分]"
         },
         {
           "title": "科技日报：理性看待商业航天探索中遇到的挫折",
@@ -1392,8 +1452,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 11时55分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 12时36分]"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.1%，深成指涨0.54%，机器人、商业航天、福建、大金融等方向领涨，沪深京三市上涨个股超2000只。",
+          "url": "https://wallstreetcn.com/livenews/3014846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 12时36分]"
         },
         {
           "title": "A股商业航天概念反复活跃，航天机电直线涨停，航天长峰冲击涨停，航天环宇涨超10%，招标股份、航天软件、通宇通讯涨超5%。",
@@ -1405,23 +1477,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
-        },
-        {
-          "title": "创业板指涨超1%，沪指涨0.1%，深成指涨0.54%，机器人、商业航天、福建、大金融等方向领涨，沪深京三市上涨个股超2000只。",
-          "url": "https://wallstreetcn.com/livenews/3014846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
         }
       ]
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "摩尔线程：12月5日在科创板上市",
@@ -1437,15 +1498,27 @@
           "time_info": "[00时38分 ~ 07时23分]"
         },
         {
+          "title": "日本机器人与芯片股延续涨势，日经225指数涨幅扩大至1.8%。",
+          "url": "https://flash.jin10.com/detail/20251204121132840800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "上证指数早盘收报3879.52点，涨0.04%。 深证成指早盘收报13000.88点，涨0.35%。 创业板指早盘收报3059.76点，涨0.76%。 沪深300早盘收报4543.93点，涨0.28%。 科创50早盘收报1320.44点，涨0.92%。 中证500早盘收报7021.22点，涨0.36%。 中证1000早盘收报7256.90点，涨0.12%。",
           "url": "https://wallstreetcn.com/livenews/3014871",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 12时36分]"
         },
         {
           "title": "上证指数开盘报3879.74点，涨0.04%。 深证成指开盘报12957.80点，涨0.02%。 创业板指开盘报3037.05点，涨0.01%。 沪深300开盘报4533.60点，涨0.06%。 科创50开盘报1303.99点，跌0.33%。 中证500开盘报7001.64点，涨0.08%。 中证1000开盘报7246.86点，跌0.02%。",
@@ -1484,7 +1557,7 @@
     },
     {
       "keyword_group": "豆包 deepseek 千问",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
@@ -1497,8 +1570,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 11时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 12时36分]"
         },
         {
           "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
@@ -1525,8 +1598,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 11时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 12时36分]"
+        },
+        {
+          "title": "豆包回应“手机助手无法使用微信”：不会代替用户进行相关授权和敏感操作，不在云端存储任何用户屏幕内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32097907",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "“豆包”加持，3499元的手机，一天就卖光，闲鱼挂价最高近万元",
@@ -1578,11 +1662,12 @@
           "url": "https://wallstreetcn.com/livenews/3014848",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 12时36分]"
         }
       ]
     },
