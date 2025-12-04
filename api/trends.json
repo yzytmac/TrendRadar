@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T07:23:54.109248+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2025-12-04T10:03:01.408418+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 10时03分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -39,8 +40,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时28分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[01时28分 ~ 10时03分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -75,6 +76,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
+          "url": "https://www.cls.cn/detail/2218990",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 10时03分]"
         },
         {
           "title": "美国总统特朗普支持击沉运毒船只的决定。",
@@ -308,6 +321,17 @@
           "time_info": "[06时27分 ~ 07时23分]"
         },
         {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
           "title": "美国总统特朗普：我们要么让美墨加协定到期失效，要么与墨西哥和加拿大另行达成协议。",
           "url": "https://flash.jin10.com/detail/20251204052449950800",
           "source": "金十数据",
@@ -378,24 +402,13 @@
           "time_info": "05时24分"
         },
         {
-          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
-          "url": "https://www.cls.cn/detail/2218990",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "报道：特朗普亲信探讨哈塞特接掌美联储后的人事安排，贝森特或兼任NEC主任",
           "url": "https://wallstreetcn.com/livenews/3014655",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -513,7 +526,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -536,8 +549,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时40分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[02时40分 ~ 10时03分]"
         },
         {
           "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
@@ -590,6 +603,17 @@
           "time_info": "[01时28分 ~ 03时23分]"
         },
         {
+          "title": "Anthropic 宣布收购 Bun，这对 Node.js 冲击有多大？对 AI 编码生态意味着什么？",
+          "url": "https://www.zhihu.com/question/1979482353974916229",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
           "title": "维基百科创始人Wale证实正在与科技巨头洽谈其他人工智能合作事宜。",
           "url": "https://flash.jin10.com/detail/20251204053932306800",
           "source": "金十数据",
@@ -612,6 +636,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时27分]"
+        },
+        {
+          "title": "陈天桥发文：AI时代，企业管理退场认知上位，KPI体系要塌了！",
+          "url": "https://wallstreetcn.com/articles/3760612",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "104.66元/股！沐曦股份发行价出炉 国家人工智能产业投资基金参与战略配售",
+          "url": "https://www.cls.cn/detail/2218848",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
+          "url": "https://www.cls.cn/detail/2218945",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "英伟达CEO黄仁勋：国会山之行是为了回答关于AI的问题。",
@@ -638,6 +695,17 @@
           "time_info": "[06时27分 ~ 07时23分]"
         },
         {
+          "title": "OpenAI拟与SpaceX竞争 探讨与火箭公司进行交易",
+          "url": "https://flash.jin10.com/detail/20251204093928191800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
           "url": "https://wallstreetcn.com/livenews/3014617",
           "source": "华尔街见闻-快讯",
@@ -658,6 +726,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "A股AI手机概念盘初调整，道明光学、福蓉科技触及跌停，美芯晟、天音控股、弘信电子、福日电子等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3014768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "Anthropic首席执行官警告称，一些人工智能巨头正在不计后果地在数据中心和芯片上投入数千亿美元，整个行业正押注于尚不确定的经济回报。",
@@ -713,12 +792,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "中信证券：太空算力加速催化，关注星间激光等载荷投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3014743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -757,6 +847,29 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时28分 ~ 06时27分]"
+        },
+        {
+          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
+          "url": "https://www.cls.cn/detail/2218940",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
+          "url": "https://www.cls.cn/detail/2218975",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 10时03分]"
         },
         {
           "title": "美股机器人概念股走强",
@@ -893,17 +1006,6 @@
           "time_info": "[06时27分 ~ 07时23分]"
         },
         {
-          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
-          "url": "https://www.cls.cn/detail/2218975",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "美股七巨头收盘播报｜周三（12月3日），美国科技股七巨头（Magnificent 7）指数跌0.55%，报207.57点，全天绝大部分时间处于下跌状态，整体呈现出n形走势。 “超大”市值科技股指数涨0.09%，报402.08点。",
           "url": "https://wallstreetcn.com/livenews/3014642",
           "source": "华尔街见闻-快讯",
@@ -973,7 +1075,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -1069,7 +1171,7 @@
     },
     {
       "keyword_group": "谷歌 英伟达 阿里巴巴",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "标普500指数初步收涨0.3%，能源板块涨1.8%，金融板块涨1.2%，可选消费板块涨0.8%，电信板块涨0.2%，科技板块跌0.4%。 纳斯达克100指数初步收涨0.2%，成分股中，微芯科技初步收涨12.7%，安森美半导体涨10.8%，迈威尔科技涨7.6%，Strategy涨4%，Meta则跌1.1%，美光、微软跌2.3%，再生元制药跌2.5%，PayPal跌2.7%，TTD跌3.2%，奈飞跌4.9%。 联合健康初步收涨4.9%，高盛涨2.6%，麦当劳、美国运通、安进至少涨2%，领跑道指成分股，英伟达则跌1%，波音跌1.5%，和微软表现最差。",
@@ -1162,71 +1264,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包 deepseek 千问",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
-          "url": "https://www.zhihu.com/question/1979307622185341611",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时23分]"
         },
         {
-          "title": "豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
-          "url": "https://wallstreetcn.com/articles/3760626",
-          "source": "华尔街见闻",
+          "title": "阿里巴巴：出售Trendyol GO 85%股权事项产生收益约60亿元",
+          "url": "https://wallstreetcn.com/livenews/3014742",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            5,
-            6
+            27
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时23分]"
-        },
-        {
-          "title": "独家｜豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32094679",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时23分]"
-        },
-        {
-          "title": "“豆包”加持，3499元的手机，一天就卖光，闲鱼挂价最高近万元",
-          "url": "https://wallstreetcn.com/articles/3760570",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
     {
       "keyword_group": "商业航天 中国卫星 中国卫通",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国商业航天新里程碑：朱雀三号首飞成功入轨，一级回收失利",
@@ -1238,8 +1295,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 10时03分]"
         },
         {
           "title": "【焦点复盘】沪指日线二连阴失守10日均线，商业航天盘中现多次巨震，超硬材料概念异军突起",
@@ -1260,8 +1317,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时23分 ~ 07时23分]"
+          "appearance_count": 6,
+          "time_info": "[05时23分 ~ 10时03分]"
         },
         {
           "title": "10万亿产业规模！朱雀三号背后中国商业航天的星辰大海",
@@ -1269,17 +1326,98 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时27分 ~ 10时03分]"
+        },
+        {
+          "title": "科技日报：理性看待商业航天探索中遇到的挫折",
+          "url": "https://www.cls.cn/detail/2219031",
+          "source": "财联社热门",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时23分]"
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "A股商业航天概念反复活跃，航天机电直线涨停，航天长峰冲击涨停，航天环宇涨超10%，招标股份、航天软件、通宇通讯涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3014766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包 deepseek 千问",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
+          "url": "https://wallstreetcn.com/articles/3760626",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 10时03分]"
+        },
+        {
+          "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
+          "url": "https://www.zhihu.com/question/1979307622185341611",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            6,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 10时03分]"
+        },
+        {
+          "title": "独家｜豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32094679",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 10时03分]"
+        },
+        {
+          "title": "“豆包”加持，3499元的手机，一天就卖光，闲鱼挂价最高近万元",
+          "url": "https://wallstreetcn.com/articles/3760570",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时23分]"
         }
       ]
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "摩尔线程：12月5日在科创板上市",
@@ -1293,6 +1431,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 07时23分]"
+        },
+        {
+          "title": "上证指数开盘报3879.74点，涨0.04%。 深证成指开盘报12957.80点，涨0.02%。 创业板指开盘报3037.05点，涨0.01%。 沪深300开盘报4533.60点，涨0.06%。 科创50开盘报1303.99点，跌0.33%。 中证500开盘报7001.64点，涨0.08%。 中证1000开盘报7246.86点，跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3014758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "美国总统特朗普：美国很快将控制芯片市场的大部分份额。",
@@ -1315,6 +1464,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "洛阳钼业 江西铜业 铜陵有色 北方铜业 紫金矿业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "洛阳钼业A股、H股创下盘中新高。摩根大通称，仍然看好铜价和铜业股，结构性供需缺口将持续支撑上行势头；紫金矿业与洛阳钼业为首选标的，因受益于强劲盈利增长和多元化资产布局。",
+          "url": "https://wallstreetcn.com/livenews/3014782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "摩根大通：继续看好铜价与中国铜业股表现 紫金矿业和洛阳钼业为首选",
+          "url": "https://wallstreetcn.com/livenews/3014757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "立讯精密 长盈精密 富创精密 工业富联",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股机器人概念股开盘领涨，睿能科技6天5板，骏亚科技、龙溪股份涨停，日盈电子、斯菱股份创历史新高，长盈精密、恒立液压、方正电机、襄阳轴承涨幅靠前，消息面上，特斯拉Optimus官方发布“擎天柱”人形机器人跑步视频，并配文称在实验室刷新了个人纪录。",
+          "url": "https://wallstreetcn.com/livenews/3014762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     }
