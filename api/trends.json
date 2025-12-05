@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T20:54:57.238079+08:00",
-  "total_titles_processed": 1764,
+  "generated_at": "2025-12-05T21:37:35.783863+08:00",
+  "total_titles_processed": 1845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "任正非最新发声！涉及人工智能，信息量很大",
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时02分 ~ 20时54分]"
+          "appearance_count": 18,
+          "time_info": "[10时02分 ~ 21时37分]"
         },
         {
           "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
@@ -82,11 +82,12 @@
             13,
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 20时54分]"
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 21时37分]"
         },
         {
           "title": "据AXIOS网站：目前尚不清楚（美国）可能出台的人工智能行政命令是否与之前的草案相同。",
@@ -111,6 +112,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：现在是美联储 “谨慎降息”的好时机，预计美联储下周将采取这一行动。 预计政府关门的影响比预期的要大。 预计第一季度将出现更大幅度的反弹。 2026年的生产率可能会达到4%。 人工智能经济的发展速度比20世纪90年代的互联网经济更快。 如果（明年）一季度和二季度的（经济）增速为3%，将会感到失望。 如果最高法院否决关税，将会造成巨大混乱。 没有和特朗普讨论过美联储主席的问题。 我支持贝森特在地区联储主席问题上的看法。",
+          "url": "https://wallstreetcn.com/livenews/3015973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-05）",
           "url": "https://flash.jin10.com/detail/20251205115202110800",
           "source": "金十数据",
@@ -120,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：人工智能经济的发展速度已超过20世纪90年代的互联网经济。",
+          "url": "https://flash.jin10.com/detail/20251205210746180800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "比尔·盖茨小女儿为AI企业Phia筹资3000万美元",
@@ -163,6 +186,18 @@
           "time_info": "[03时24分 ~ 05时26分]"
         },
         {
+          "title": "如何评价 C 罗在自己投资的 AI 宣传片里表示 1000 球＞世界杯夺冠？",
+          "url": "https://www.zhihu.com/question/1980299505992753247",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时37分]"
+        },
+        {
           "title": "如何评价江苏大学 22 级本科生在 CCF-A/B 类人工智能领域顶会和 TOP 期刊发表论文 12 篇？",
           "url": "https://www.zhihu.com/question/1979901758026293368",
           "source": "知乎",
@@ -198,6 +233,18 @@
           "time_info": "[16时36分 ~ 17时29分]"
         },
         {
+          "title": "【焦点复盘】创业板指2连涨收复60日线，全市场近百股涨超10%，算力硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2221133",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 21时37分]"
+        },
+        {
           "title": "12月5日午间收评：创业板指半日涨0.47%，算力硬件股集体走强",
           "url": "https://wallstreetcn.com/livenews/3015575",
           "source": "华尔街见闻-快讯",
@@ -210,6 +257,18 @@
           "time_info": "[11时54分 ~ 12时36分]"
         },
         {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时37分]"
+        },
+        {
           "title": "报道：百度AI芯片业务昆仑芯计划在香港IPO",
           "url": "https://wallstreetcn.com/livenews/3015608",
           "source": "华尔街见闻-快讯",
@@ -220,18 +279,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 14时41分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指2连涨收复60日线，全市场近百股涨超10%，算力硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2221133",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时24分]"
         },
         {
           "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
@@ -268,28 +315,6 @@
           "time_info": "07时26分"
         },
         {
-          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
-          "url": "https://www.cls.cn/detail/2221214",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "如何评价 C 罗在自己投资的 AI 宣传片里表示 1000 球＞世界杯夺冠？",
-          "url": "https://www.zhihu.com/question/1980299505992753247",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "OpenAI与NextDC计划在澳大利亚悉尼修建大规模数据中心。",
           "url": "https://wallstreetcn.com/livenews/3015386",
           "source": "华尔街见闻-快讯",
@@ -312,6 +337,28 @@
           "time_info": "00时38分"
         },
         {
+          "title": "特朗普推动禁止州级AI立法在国会受挫 白宫或转向行政令施压",
+          "url": "https://flash.jin10.com/detail/20251205210318683800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "据AXIOS网站：Meta公司的AI协议将覆盖CNN、福克斯新闻、今日美国。",
+          "url": "https://flash.jin10.com/detail/20251205210304588800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "创业板指午后涨1%，沪指涨0.33%，深成指涨0.65%，有色、算力硬件、商业航天、福建等方向领涨，沪深京三市上涨个股超3500只。",
           "url": "https://wallstreetcn.com/livenews/3015638",
           "source": "华尔街见闻-快讯",
@@ -321,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "据AXIOS网站：Meta Platforms(META.O)与新闻出版商达成人工智能协议。",
+          "url": "https://flash.jin10.com/detail/20251205210241842800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "AI服务器需求“狂飙” 鸿海营收劲增26%",
@@ -436,7 +494,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -447,8 +505,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时02分 ~ 20时54分]"
+          "appearance_count": 18,
+          "time_info": "[10时02分 ~ 21时37分]"
         },
         {
           "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
@@ -528,17 +586,6 @@
           "time_info": "07时26分"
         },
         {
-          "title": "华纳兄弟美股盘前抹去早前跌幅，上涨1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3015951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
           "url": "https://wallstreetcn.com/articles/3760711",
           "source": "华尔街见闻",
@@ -548,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "今天A股大涨原因找到了",
+          "url": "https://www.toutiao.com/trending/7580275128328536110/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "Cloudflare(NET.N)美股盘前跌幅收窄至约2%，公司在北京时间17:12称已对此前出现的问题进行修复，正在监控结果。",
@@ -587,6 +645,18 @@
           "time_info": "[05时26分 ~ 07时26分]"
         },
         {
+          "title": "华纳兄弟美股盘前抹去早前跌幅，上涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3015951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时37分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 英特尔跌超7%",
           "url": "https://flash.jin10.com/detail/20251205050130475800",
           "source": "金十数据",
@@ -598,6 +668,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时26分 ~ 07时26分]"
+        },
+        {
+          "title": "A股为何突然大涨",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时37分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
@@ -623,18 +706,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时41分 ~ 15时28分]"
-        },
-        {
-          "title": "A股为何突然大涨",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时54分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）热门中概股行情一览（美股盘中）",
@@ -672,6 +743,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时26分]"
+        },
+        {
+          "title": "A股迎首部上市公司监管专项行政法规，74条全梳理",
+          "url": "https://www.cls.cn/detail/2221389",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时37分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.40%，报319.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.37%，报2284.55点；北京时间22:30美股开盘之前微跌、持稳于2270点上方，23:08刷新日低至2252.98点，之后快速转涨。",
@@ -715,18 +798,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "A股迎首部上市公司监管专项行政法规，74条全梳理",
-          "url": "https://www.cls.cn/detail/2221389",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -748,7 +820,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -781,7 +853,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -792,7 +864,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -836,7 +908,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -847,7 +919,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1130,6 +1202,18 @@
           "time_info": "[10时02分 ~ 10时03分]"
         },
         {
+          "title": "印媒发莫迪普京动画片 还恶搞特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时37分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-05）",
           "url": "https://flash.jin10.com/detail/20251205180349829800",
           "source": "金十数据",
@@ -1172,23 +1256,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
-        },
-        {
-          "title": "印媒发莫迪普京动画片 还恶搞特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         }
       ]
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "12月4日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -1293,6 +1366,28 @@
           "time_info": "19时24分"
         },
         {
+          "title": "波兰央行会议纪要：货币政策委员会成员表示，预计的通胀率存在不确定性，尤其是受能源价格影响。",
+          "url": "https://flash.jin10.com/detail/20251205210057682800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "国家能源局主要负责人会见法国电力集团董事长兼首席执行官",
+          "url": "https://wallstreetcn.com/livenews/3015956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.39%，报7731.88点。 热门中概股里，阿特斯太阳能初步收涨5.8%，蔚来涨5%，亿航智能、老虎证券涨超4%，小鹏涨3.5%，小马智行涨3%，百胜中国则跌1.3%，Boss直聘跌2.2%，大全新能源跌3.8%。 ETF中，中国科技指数ETF（CQQQ）收涨1.03%，中概互联网指数ETF（KWEB）收跌0.05%。 德银嘉实沪深300指数ETF（ASHR）收涨0.28%，XtrackersHarvest中证50（ASHS）收涨0.14%。",
           "url": "https://wallstreetcn.com/livenews/3015351",
           "source": "华尔街见闻-快讯",
@@ -1321,7 +1416,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1390,19 +1485,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 20时54分]"
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 21时37分]"
         },
         {
           "title": "超千亿险资活水来了！险企投资股票风险因子再度下调，沪深300、科创板等将受益",
           "url": "https://www.cls.cn/detail/2221295",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时37分]"
         },
         {
           "title": "上证指数早盘收报3878.99点，涨0.08%。 深证成指早盘收报13057.09点，涨0.39%。 创业板指早盘收报3082.05点，涨0.47%。 沪深300早盘收报4551.81点，涨0.12%。 科创50早盘收报1326.86点，涨0.05%。 中证500早盘收报7043.61点，涨0.44%。 中证1000早盘收报7296.40点，涨0.66%。",
@@ -1509,8 +1605,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时27分 ~ 20时54分]"
+          "appearance_count": 9,
+          "time_info": "[15时27分 ~ 21时37分]"
         },
         {
           "title": "豆包抢入口，捅了马蜂窝",
@@ -1521,19 +1617,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时54分]"
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时37分]"
         },
         {
           "title": "豆包手机 微信",
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%20%E5%BE%AE%E4%BF%A1&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时37分]"
         },
         {
           "title": "豆包语音识别模型2.0上线",
@@ -1573,11 +1670,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时54分]"
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时37分]"
         },
         {
           "title": "小卫星“流水线”批量生产，百亿级安全市场同步开启丨商业航天观察",
