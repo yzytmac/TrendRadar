@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T18:29:37.619582+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2025-12-05T19:24:59.856391+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "任正非最新发声！涉及人工智能，信息量很大",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时02分 ~ 18时29分]"
+          "appearance_count": 16,
+          "time_info": "[10时02分 ~ 19时24分]"
         },
         {
           "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
@@ -54,11 +54,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时02分 ~ 18时29分]"
+          "appearance_count": 16,
+          "time_info": "[10时02分 ~ 19时24分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
@@ -79,7 +80,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -120,6 +121,19 @@
           "time_info": "[01时28分 ~ 04时31分]"
         },
         {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 19时24分]"
+        },
+        {
           "title": "比尔·盖茨的女儿为星光熠熠的AI公司筹集3000万美元",
           "url": "https://wallstreetcn.com/livenews/3015296",
           "source": "华尔街见闻-快讯",
@@ -145,18 +159,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时24分 ~ 05时26分]"
-        },
-        {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时29分]"
         },
         {
           "title": "如何评价江苏大学 22 级本科生在 CCF-A/B 类人工智能领域顶会和 TOP 期刊发表论文 12 篇？",
@@ -218,6 +220,18 @@
           "time_info": "[13时28分 ~ 14时41分]"
         },
         {
+          "title": "【焦点复盘】创业板指2连涨收复60日线，全市场近百股涨超10%，算力硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2221133",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时24分]"
+        },
+        {
           "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
           "url": "https://wallstreetcn.com/livenews/3015288",
           "source": "华尔街见闻-快讯",
@@ -261,17 +275,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "【焦点复盘】创业板指2连涨收复60日线，全市场近百股涨超10%，算力硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2221133",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         },
         {
           "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
@@ -340,6 +343,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "罗曼股份：收到控股子公司上海武桐树高新技术有限公司与客户签订采购《算力设备采购合同》，金额合计约为2.92亿元。",
+          "url": "https://wallstreetcn.com/livenews/3015883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "朱啸虎称豆包在大厂AI中领先",
           "url": "https://wallstreetcn.com/livenews/3015771",
           "source": "华尔街见闻-快讯",
@@ -390,7 +404,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         }
@@ -398,7 +412,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -409,8 +423,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时02分 ~ 18时29分]"
+          "appearance_count": 16,
+          "time_info": "[10时02分 ~ 19时24分]"
         },
         {
           "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
@@ -657,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "A股为何突然大涨",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "A股保险股持续拉升，中国太保涨超6%，中国平安涨超5%，中国人保、中国人寿等跟涨。",
@@ -998,7 +1023,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1039,7 +1064,7 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "12月4日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -1122,6 +1147,28 @@
           "time_info": "17时29分"
         },
         {
+          "title": "上海国际能源交易中心：经研究决定，自2025年12月9日（星期二）收盘结算时起，交易保证金比例和涨跌停板幅度调整如下：原油、低硫燃料油期货合约的涨跌停板幅度调整为7%，套保持仓交易保证金比例调整为8%，一般持仓交易保证金比例调整为9%。",
+          "url": "https://flash.jin10.com/detail/20251205191305649800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "俄罗斯总统普京：希望与印度发展关系，不仅在能源和国防领域，而且在所有领域。",
+          "url": "https://flash.jin10.com/detail/20251205190943377800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.39%，报7731.88点。 热门中概股里，阿特斯太阳能初步收涨5.8%，蔚来涨5%，亿航智能、老虎证券涨超4%，小鹏涨3.5%，小马智行涨3%，百胜中国则跌1.3%，Boss直聘跌2.2%，大全新能源跌3.8%。 ETF中，中国科技指数ETF（CQQQ）收涨1.03%，中概互联网指数ETF（KWEB）收跌0.05%。 德银嘉实沪深300指数ETF（ASHR）收涨0.28%，XtrackersHarvest中证50（ASHS）收涨0.14%。",
           "url": "https://wallstreetcn.com/livenews/3015351",
           "source": "华尔街见闻-快讯",
@@ -1139,7 +1186,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1179,6 +1226,97 @@
       ]
     },
     {
+      "keyword_group": "芯片 科创 存储",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "一签最高盈利28.7万元！摩尔线程登陆科创板 成今年最赚钱新股",
+          "url": "https://www.cls.cn/detail/2220443",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时54分 ~ 17时29分]"
+        },
+        {
+          "title": "中国将向美购买MI308芯片？外交部回应",
+          "url": "https://www.cls.cn/detail/2220964",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 19时24分]"
+        },
+        {
+          "title": "上证指数早盘收报3878.99点，涨0.08%。 深证成指早盘收报13057.09点，涨0.39%。 创业板指早盘收报3082.05点，涨0.47%。 沪深300早盘收报4551.81点，涨0.12%。 科创50早盘收报1326.86点，涨0.05%。 中证500早盘收报7043.61点，涨0.44%。 中证1000早盘收报7296.40点，涨0.66%。",
+          "url": "https://wallstreetcn.com/livenews/3015576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时36分]"
+        },
+        {
+          "title": "北京首例“戒酒芯片”植入手术完成",
+          "url": "https://wallstreetcn.com/livenews/3015901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "上证指数收报3902.81点，涨0.70%。 深证成指收报13147.68点，涨1.08%。 创业板指收报3109.30点，涨1.36%。 沪深300收报4584.54点，涨0.84%。 科创50收报1326.10点，跌0.00%。 中证500收报7097.84点，涨1.21%。 中证1000收报7342.49点，涨1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3015690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "上证指数开盘报3873.12点，跌0.07%。 深证成指开盘报13020.29点，涨0.10%。 创业板指开盘报3084.22点，涨0.55%。 沪深300开盘报4547.91点，涨0.03%。 科创50开盘报1319.72点，跌0.49%。 中证500开盘报7008.65点，跌0.06%。 中证1000开盘报7244.28点，跌0.06%。",
+          "url": "https://wallstreetcn.com/livenews/3015469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "中国将向美购买MI308芯片？外交部：望美方以实际行动维护全球产供链稳定畅通",
+          "url": "https://wallstreetcn.com/livenews/3015730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 中国卫星 中国卫通",
       "match_count": 6,
       "titles": [
@@ -1202,11 +1340,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时24分]"
         },
         {
           "title": "小卫星“流水线”批量生产，百亿级安全市场同步开启丨商业航天观察",
@@ -1247,86 +1386,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 科创 存储",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "一签最高盈利28.7万元！摩尔线程登陆科创板 成今年最赚钱新股",
-          "url": "https://www.cls.cn/detail/2220443",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时54分 ~ 17时29分]"
-        },
-        {
-          "title": "中国将向美购买MI308芯片？外交部回应",
-          "url": "https://www.cls.cn/detail/2220964",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时29分]"
-        },
-        {
-          "title": "上证指数早盘收报3878.99点，涨0.08%。 深证成指早盘收报13057.09点，涨0.39%。 创业板指早盘收报3082.05点，涨0.47%。 沪深300早盘收报4551.81点，涨0.12%。 科创50早盘收报1326.86点，涨0.05%。 中证500早盘收报7043.61点，涨0.44%。 中证1000早盘收报7296.40点，涨0.66%。",
-          "url": "https://wallstreetcn.com/livenews/3015576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时36分]"
-        },
-        {
-          "title": "上证指数收报3902.81点，涨0.70%。 深证成指收报13147.68点，涨1.08%。 创业板指收报3109.30点，涨1.36%。 沪深300收报4584.54点，涨0.84%。 科创50收报1326.10点，跌0.00%。 中证500收报7097.84点，涨1.21%。 中证1000收报7342.49点，涨1.29%。",
-          "url": "https://wallstreetcn.com/livenews/3015690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "上证指数开盘报3873.12点，跌0.07%。 深证成指开盘报13020.29点，涨0.10%。 创业板指开盘报3084.22点，涨0.55%。 沪深300开盘报4547.91点，涨0.03%。 科创50开盘报1319.72点，跌0.49%。 中证500开盘报7008.65点，跌0.06%。 中证1000开盘报7244.28点，跌0.06%。",
-          "url": "https://wallstreetcn.com/livenews/3015469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "中国将向美购买MI308芯片？外交部：望美方以实际行动维护全球产供链稳定畅通",
-          "url": "https://wallstreetcn.com/livenews/3015730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1381,8 +1440,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 18时29分]"
+          "appearance_count": 7,
+          "time_info": "[15时27分 ~ 19时24分]"
         },
         {
           "title": "豆包抢入口，捅了马蜂窝",
@@ -1392,8 +1451,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时24分]"
         },
         {
           "title": "豆包语音识别模型2.0上线",
