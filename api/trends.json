@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T16:36:23.662570+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2025-12-05T17:29:13.550993+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "任正非最新发声！涉及人工智能，信息量很大",
@@ -40,11 +40,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时02分 ~ 16时36分]"
+          "appearance_count": 14,
+          "time_info": "[10时02分 ~ 17时29分]"
         },
         {
           "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
@@ -52,11 +53,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时02分 ~ 16时36分]"
+          "appearance_count": 14,
+          "time_info": "[10时02分 ~ 17时29分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
@@ -145,6 +147,18 @@
           "time_info": "[13时27分 ~ 14时41分]"
         },
         {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时29分]"
+        },
+        {
           "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
           "url": "https://www.cls.cn/detail/2220406",
           "source": "财联社热门",
@@ -155,6 +169,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时27分 ~ 16时36分]"
+        },
+        {
+          "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
+          "url": "https://www.cls.cn/detail/2220480",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时29分]"
         },
         {
           "title": "12月5日午间收评：创业板指半日涨0.47%，算力硬件股集体走强",
@@ -226,17 +252,6 @@
           "time_info": "07时26分"
         },
         {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
           "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
           "url": "https://www.cls.cn/detail/2220115",
           "source": "财联社热门",
@@ -246,17 +261,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        },
-        {
-          "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
-          "url": "https://www.cls.cn/detail/2220480",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         },
         {
           "title": "创业板指午后涨1%，沪指涨0.33%，深成指涨0.65%，有色、算力硬件、商业航天、福建等方向领涨，沪深京三市上涨个股超3500只。",
@@ -276,7 +280,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -314,6 +318,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "朱啸虎称豆包在大厂AI中领先",
+          "url": "https://wallstreetcn.com/livenews/3015771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "A股三大指数集体翻红，算力硬件、贵金属、福建、可控核聚变等方向领涨，沪深京三市上涨个股超3600只。",
           "url": "https://wallstreetcn.com/livenews/3015558",
           "source": "华尔街见闻-快讯",
@@ -331,7 +346,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -350,7 +365,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -361,8 +376,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时02分 ~ 16时36分]"
+          "appearance_count": 14,
+          "time_info": "[10时02分 ~ 17时29分]"
         },
         {
           "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
@@ -451,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "Cloudflare(NET.N)美股盘前跌幅收窄至约2%，公司在北京时间17:12称已对此前出现的问题进行修复，正在监控结果。",
+          "url": "https://flash.jin10.com/detail/20251205172039774800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
@@ -554,6 +580,17 @@
           "time_info": "[06时24分 ~ 07时26分]"
         },
         {
+          "title": "A股收盘：全市场超4300只个股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854300%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数美股盘初冲高回落，一度上涨将近0.8%刷新日高至7762.15点，随后回落至7710点下方，逼近7700点附近的平盘。",
           "url": "https://wallstreetcn.com/livenews/3015261",
           "source": "华尔街见闻-快讯",
@@ -564,6 +601,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时28分]"
+        },
+        {
+          "title": "港股收盘：百度集团涨逾5%",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E9%80%BE5%25",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
         },
         {
           "title": "A股食品、零售等消费股盘初拉升，安记食品4连板，西王食品直线涨停，茂业商业、好想你、海欣食品等跟涨。",
@@ -610,6 +658,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "Cloudflare(NET.N)美股盘前跌超3%，公司称正在调查Cloudflare仪表板及相关API的问题。",
+          "url": "https://flash.jin10.com/detail/20251205170428227800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-05）",
           "url": "https://flash.jin10.com/detail/20251205090333730800",
           "source": "金十数据",
@@ -635,7 +694,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -899,6 +958,17 @@
           "time_info": "[10时02分 ~ 10时03分]"
         },
         {
+          "title": "与特朗普意见不合，白宫宴会厅设计师换人",
+          "url": "https://wallstreetcn.com/livenews/3015772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "据福克斯新闻：美国国土安全部长诺姆表示，特朗普政府将旅行禁令适用国家扩大至30多个。",
           "url": "https://flash.jin10.com/detail/20251205085517265800",
           "source": "金十数据",
@@ -924,7 +994,7 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "12月4日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -944,7 +1014,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -996,6 +1066,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "印度总理莫迪：能源安全是印俄关系的关键组成部分。",
+          "url": "https://flash.jin10.com/detail/20251205171147799800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.39%，报7731.88点。 热门中概股里，阿特斯太阳能初步收涨5.8%，蔚来涨5%，亿航智能、老虎证券涨超4%，小鹏涨3.5%，小马智行涨3%，百胜中国则跌1.3%，Boss直聘跌2.2%，大全新能源跌3.8%。 ETF中，中国科技指数ETF（CQQQ）收涨1.03%，中概互联网指数ETF（KWEB）收跌0.05%。 德银嘉实沪深300指数ETF（ASHR）收涨0.28%，XtrackersHarvest中证50（ASHS）收涨0.14%。",
           "url": "https://wallstreetcn.com/livenews/3015351",
           "source": "华尔街见闻-快讯",
@@ -1042,6 +1123,81 @@
       ]
     },
     {
+      "keyword_group": "商业航天 中国卫星 中国卫通",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "12月5日投资避雷针：5天3板人气股提示风险 目前公司主营业务不涉及商业航天",
+          "url": "https://www.cls.cn/detail/2220305",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时02分 ~ 15时28分]"
+        },
+        {
+          "title": "【每日收评】沪指放量收复3900点，商业航天强者恒强，大金融午后异军突起",
+          "url": "https://www.cls.cn/detail/2221045",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
+        },
+        {
+          "title": "小卫星“流水线”批量生产，百亿级安全市场同步开启丨商业航天观察",
+          "url": "https://www.cls.cn/detail/2220517",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
+        },
+        {
+          "title": "A股商业航天概念涨势扩大，航天动力拉升封板",
+          "url": "https://wallstreetcn.com/livenews/3015658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "政策、技术、生态共振，商业航天万亿级市场蓄势待发",
+          "url": "https://wallstreetcn.com/livenews/3015387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "总产值达200亿元 全国首个商业航天产业基地成形起势",
+          "url": "https://wallstreetcn.com/livenews/3015736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片 科创 存储",
       "match_count": 6,
       "titles": [
@@ -1054,11 +1210,24 @@
             8,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时54分 ~ 16时36分]"
+          "appearance_count": 12,
+          "time_info": "[11时54分 ~ 17时29分]"
+        },
+        {
+          "title": "中国将向美购买MI308芯片？外交部回应",
+          "url": "https://www.cls.cn/detail/2220964",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时29分]"
         },
         {
           "title": "上证指数早盘收报3878.99点，涨0.08%。 深证成指早盘收报13057.09点，涨0.39%。 创业板指早盘收报3082.05点，涨0.47%。 沪深300早盘收报4551.81点，涨0.12%。 科创50早盘收报1326.86点，涨0.05%。 中证500早盘收报7043.61点，涨0.44%。 中证1000早盘收报7296.40点，涨0.66%。",
@@ -1071,17 +1240,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 12时36分]"
-        },
-        {
-          "title": "中国将向美购买MI308芯片？外交部回应",
-          "url": "https://www.cls.cn/detail/2220964",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         },
         {
           "title": "上证指数收报3902.81点，涨0.70%。 深证成指收报13147.68点，涨1.08%。 创业板指收报3109.30点，涨1.36%。 沪深300收报4584.54点，涨0.84%。 科创50收报1326.10点，跌0.00%。 中证500收报7097.84点，涨1.21%。 中证1000收报7342.49点，涨1.29%。",
@@ -1112,7 +1270,80 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包 deepseek 千问",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "3499 元的中兴豆包手机一天卖光，最高被炒至 9999 元，为何这么火？手机 + 大模型会是手机的新卖点吗？",
+          "url": "https://www.zhihu.com/question/1979572748297715966",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            1,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 11时54分]"
+        },
+        {
+          "title": "实测欧洲版Deepseek水平如何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            9,
+            12,
+            16,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时38分 ~ 15时28分]"
+        },
+        {
+          "title": "如何看待周鸿祎「豆包手机助手拿捏所有 App，直击互联网大厂的护城河」的观点？",
+          "url": "https://www.zhihu.com/question/1980210536189748299",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 17时29分]"
+        },
+        {
+          "title": "豆包抢入口，捅了马蜂窝",
+          "url": "https://wallstreetcn.com/articles/3760775",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
+        },
+        {
+          "title": "豆包语音识别模型2.0上线",
+          "url": "https://wallstreetcn.com/livenews/3015741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
@@ -1129,7 +1360,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -1171,120 +1402,6 @@
       ]
     },
     {
-      "keyword_group": "豆包 deepseek 千问",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "3499 元的中兴豆包手机一天卖光，最高被炒至 9999 元，为何这么火？手机 + 大模型会是手机的新卖点吗？",
-          "url": "https://www.zhihu.com/question/1979572748297715966",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 11时54分]"
-        },
-        {
-          "title": "实测欧洲版Deepseek水平如何",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            9,
-            12,
-            16,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时38分 ~ 15时28分]"
-        },
-        {
-          "title": "如何看待周鸿祎「豆包手机助手拿捏所有 App，直击互联网大厂的护城河」的观点？",
-          "url": "https://www.zhihu.com/question/1980210536189748299",
-          "source": "知乎",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 16时36分]"
-        },
-        {
-          "title": "豆包语音识别模型2.0上线",
-          "url": "https://wallstreetcn.com/livenews/3015741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 中国卫星 中国卫通",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "12月5日投资避雷针：5天3板人气股提示风险 目前公司主营业务不涉及商业航天",
-          "url": "https://www.cls.cn/detail/2220305",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时02分 ~ 15时28分]"
-        },
-        {
-          "title": "A股商业航天概念涨势扩大，航天动力拉升封板",
-          "url": "https://wallstreetcn.com/livenews/3015658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "政策、技术、生态共振，商业航天万亿级市场蓄势待发",
-          "url": "https://wallstreetcn.com/livenews/3015387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "总产值达200亿元 全国首个商业航天产业基地成形起势",
-          "url": "https://wallstreetcn.com/livenews/3015736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中芯国际 东芯股份 炬光科技",
       "match_count": 1,
       "titles": [
@@ -1316,6 +1433,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色金属 北方稀土 中国稀土",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "LME有色金属库存日报",
+          "url": "https://flash.jin10.com/detail/20251205170654083800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         }
       ]
     }
