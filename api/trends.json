@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-06T14:36:42.411668+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2025-12-06T15:24:21.031404+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "特朗普世界杯抽签搞抽象",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 15时24分]"
+        },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
@@ -20,19 +34,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普世界杯抽签搞抽象",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 14时36分]"
         },
         {
           "title": "特朗普警告高市早苗别插手台海",
@@ -60,6 +61,21 @@
           "time_info": "[06时26分 ~ 09时56分]"
         },
         {
+          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
+          "url": "https://flash.jin10.com/detail/20251206105234128800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            13,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 15时24分]"
+        },
+        {
           "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆本次会谈持续了45分钟。 三方将继续致力于（翻新）美国墨西哥加拿大贸易协议（USMCA）。",
           "url": "https://wallstreetcn.com/livenews/3016151",
           "source": "华尔街见闻-快讯",
@@ -84,18 +100,30 @@
           "time_info": "11时15分"
         },
         {
-          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
-          "url": "https://flash.jin10.com/detail/20251206105234128800",
-          "source": "金十数据",
+          "title": "特朗普提议给美式橄榄球改名",
+          "url": "https://wallstreetcn.com/livenews/3016211",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            10,
+            4,
             13,
-            19
+            16,
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 15时24分]"
+        },
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
@@ -108,20 +136,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时23分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普提议给美式橄榄球改名",
-          "url": "https://wallstreetcn.com/livenews/3016211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 14时36分]"
         },
         {
           "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
@@ -143,11 +157,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 14时36分]"
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 15时24分]"
         },
         {
           "title": "美国总统特朗普抵达2026年世界杯抽签仪式现场，称这是“重要一天”。",
@@ -161,6 +176,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时25分 ~ 03时23分]"
+        },
+        {
+          "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
+          "url": "https://wallstreetcn.com/livenews/3016225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 15时24分]"
         },
         {
           "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
@@ -211,18 +239,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 05时25分]"
-        },
-        {
-          "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
-          "url": "https://wallstreetcn.com/livenews/3016225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 14时36分]"
         },
         {
           "title": "加拿大总理办公室：卡尼先会见了墨西哥总统谢因鲍姆，接下来将与特朗普会面。",
@@ -497,7 +513,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         }
@@ -517,8 +533,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时34分 ~ 14时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时34分 ~ 15时24分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -541,8 +557,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 14时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 15时24分]"
         },
         {
           "title": "监事会正退出A股历史舞台，42家上市券商已进行监事会撤销",
@@ -554,8 +570,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时30分 ~ 14时36分]"
+          "appearance_count": 6,
+          "time_info": "[12时30分 ~ 15时24分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -569,8 +585,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 14时36分]"
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 15时24分]"
         },
         {
           "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
@@ -594,6 +610,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2221697",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 15时24分]"
         },
         {
           "title": "PCE公布前，美股集体高开，美债承压，金银油涨，比特币跌幅扩大",
@@ -642,18 +671,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时22分 ~ 04时31分]"
-        },
-        {
-          "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2221697",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 14时36分]"
         },
         {
           "title": "金十图示：2025年12月05日（周五）美股热门股票行情一览（美股盘中）",
@@ -788,8 +805,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 14时36分]"
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 15时24分]"
         },
         {
           "title": "任正非：算力过剩不可避免",
@@ -802,11 +819,12 @@
             22,
             23,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时34分 ~ 14时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时34分 ~ 15时24分]"
         },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
@@ -857,8 +875,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 15时24分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
@@ -869,8 +887,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时30分 ~ 14时36分]"
+          "appearance_count": 6,
+          "time_info": "[12时30分 ~ 15时24分]"
         },
         {
           "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
@@ -880,11 +898,12 @@
             2,
             11,
             14,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 15时24分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -899,6 +918,18 @@
           "time_info": "[07时25分 ~ 09时56分]"
         },
         {
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 15时24分]"
+        },
+        {
           "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3016064",
           "source": "华尔街见闻-快讯",
@@ -909,18 +940,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时36分]"
-        },
-        {
-          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2221699",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 14时36分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
@@ -1035,11 +1054,12 @@
           "ranks": [
             6,
             8,
-            21
+            21,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 15时24分]"
         },
         {
           "title": "多家APP对豆包手机禁用",
@@ -1064,6 +1084,82 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时15分 ~ 12时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 能源 储能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "加快建设新型能源体系",
+          "url": "https://www.toutiao.com/trending/7580325259027566143/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 12时31分]"
+        },
+        {
+          "title": "12月5日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20251206145638096800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "美国能源部长：最好的生产商能在50美元/桶的价格生产石油。",
+          "url": "https://wallstreetcn.com/livenews/3016044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时25分]"
+        },
+        {
+          "title": "知名投资人 MichaelBurry 披露做空特斯拉，他为何看空这家新能源巨头？",
+          "url": "https://www.zhihu.com/question/1979110285521478648",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 15时24分]"
+        },
+        {
+          "title": "美国能源部长赖特：在油价跌到每桶50美元时，最好的生产商仍能盈利",
+          "url": "https://flash.jin10.com/detail/20251205234940087800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时25分]"
+        },
+        {
+          "title": "标普500指数的11个板块多数收跌，公用事业板块跌0.98%，能源板块跌0.43%，原材料板块跌0.39%，可选消费板块则收涨0.44%，信息技术/科技板块涨0.45%，电信板块涨0.95%。",
+          "url": "https://wallstreetcn.com/livenews/3016136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
         }
       ]
     },
@@ -1133,70 +1229,6 @@
       ]
     },
     {
-      "keyword_group": "电力 能源 储能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "加快建设新型能源体系",
-          "url": "https://www.toutiao.com/trending/7580325259027566143/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 12时31分]"
-        },
-        {
-          "title": "美国能源部长：最好的生产商能在50美元/桶的价格生产石油。",
-          "url": "https://wallstreetcn.com/livenews/3016044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
-        },
-        {
-          "title": "美国能源部长赖特：在油价跌到每桶50美元时，最好的生产商仍能盈利",
-          "url": "https://flash.jin10.com/detail/20251205234940087800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
-        },
-        {
-          "title": "标普500指数的11个板块多数收跌，公用事业板块跌0.98%，能源板块跌0.43%，原材料板块跌0.39%，可选消费板块则收涨0.44%，信息技术/科技板块涨0.45%，电信板块涨0.95%。",
-          "url": "https://wallstreetcn.com/livenews/3016136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "知名投资人 MichaelBurry 披露做空特斯拉，他为何看空这家新能源巨头？",
-          "url": "https://www.zhihu.com/question/1979110285521478648",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 中国卫星 中国卫通",
       "match_count": 3,
       "titles": [
@@ -1223,8 +1255,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 14时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 15时24分]"
         },
         {
           "title": "AH股走高，创业板、深成指涨超1%，百度涨超5%，保险、券商领涨，CPO、商业航天走强，摩尔线程上市首日大涨，稀土拉升",
@@ -1235,8 +1267,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时30分 ~ 14时36分]"
+          "appearance_count": 6,
+          "time_info": "[12时30分 ~ 15时24分]"
         }
       ]
     },
@@ -1252,8 +1284,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时34分 ~ 14时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时34分 ~ 15时24分]"
         },
         {
           "title": "上交所霍瑞戎: 以科创板改革为引擎，助力高水平科技自立自强",
@@ -1262,11 +1294,12 @@
           "ranks": [
             6,
             9,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时36分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时24分]"
         }
       ]
     }
