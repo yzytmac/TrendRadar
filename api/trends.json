@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T09:56:44.006681+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-12-06T11:15:47.533306+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -22,6 +22,17 @@
           "time_info": "[00时34分 ~ 07时25分]"
         },
         {
+          "title": "特朗普世界杯抽签搞抽象",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时15分]"
+        },
+        {
           "title": "美国参议院共和党成员Marshall（附和总统特朗普政府的立场）：奈飞收购华纳兄弟探索的交易“严肃的红旗”。",
           "url": "https://wallstreetcn.com/livenews/3016152",
           "source": "华尔街见闻-快讯",
@@ -33,6 +44,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时26分 ~ 09时56分]"
+        },
+        {
+          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
+          "url": "https://flash.jin10.com/detail/20251206105234128800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         },
         {
           "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆本次会谈持续了45分钟。 三方将继续致力于（翻新）美国墨西哥加拿大贸易协议（USMCA）。",
@@ -48,26 +70,37 @@
           "time_info": "[06时26分 ~ 09时56分]"
         },
         {
-          "title": "特朗普世界杯抽签搞抽象",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
-          "source": "bilibili 热搜",
+          "title": "日媒：特朗普与高市通话措辞非常严厉",
+          "url": "https://www.toutiao.com/trending/7579684143039381523/",
+          "source": "今日头条",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "11时15分"
         },
         {
-          "title": "白宫：特朗普签署法案，废止土地管理局关于“阿拉斯加国家石油储备综合活动计划决策记录”的相关规定。",
-          "url": "https://flash.jin10.com/detail/20251206085353161800",
-          "source": "金十数据",
+          "title": "特朗普提议给美式橄榄球改名",
+          "url": "https://wallstreetcn.com/livenews/3016211",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "11时15分"
+        },
+        {
+          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
+          "url": "https://wallstreetcn.com/livenews/3016210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         },
         {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
@@ -181,6 +214,18 @@
           "time_info": "[04时31分 ~ 05时25分]"
         },
         {
+          "title": "白宫：特朗普签署法案，废止土地管理局关于“阿拉斯加国家石油储备综合活动计划决策记录”的相关规定。",
+          "url": "https://flash.jin10.com/detail/20251206085353161800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时15分]"
+        },
+        {
           "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
           "url": "https://wallstreetcn.com/livenews/3016084",
           "source": "华尔街见闻-快讯",
@@ -258,6 +303,18 @@
           "time_info": "[01时25分 ~ 02时36分]"
         },
         {
+          "title": "美国总统特朗普：签署了一份总统备忘录，指示卫生与公众服务部快速推进对其他国家疫苗接种计划的全面评估。疾控中心疫苗委员会做出了一个非常明智的决定，终止其乙型肝炎疫苗接种建议。",
+          "url": "https://flash.jin10.com/detail/20251206083946203800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时15分]"
+        },
+        {
           "title": "加拿大总理卡尼将在下周FIFA活动之前会见墨西哥总统辛鲍姆和美国总统特朗普。（PMO）",
           "url": "https://wallstreetcn.com/livenews/3016062",
           "source": "华尔街见闻-快讯",
@@ -268,6 +325,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时36分]"
+        },
+        {
+          "title": "特朗普：疾控中心叫停乙肝疫苗建议的决定是正确的。 已签署备忘录要求卫生与公众服务部评估疫苗接种时间表。",
+          "url": "https://wallstreetcn.com/livenews/3016179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时15分]"
         },
         {
           "title": "美元兑瑞郎跌约0.2%，刷新日低至0.8054。 瑞士政府公布的一份谈判授权草案显示，瑞士愿意向美国做出更多让步，如果能够换取特朗普政府更低的关税，以敲定11月达成的初步协议。",
@@ -353,28 +422,6 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
-          "title": "美国总统特朗普：签署了一份总统备忘录，指示卫生与公众服务部快速推进对其他国家疫苗接种计划的全面评估。疾控中心疫苗委员会做出了一个非常明智的决定，终止其乙型肝炎疫苗接种建议。",
-          "url": "https://flash.jin10.com/detail/20251206083946203800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "特朗普：疾控中心叫停乙肝疫苗建议的决定是正确的。 已签署备忘录要求卫生与公众服务部评估疫苗接种时间表。",
-          "url": "https://wallstreetcn.com/livenews/3016179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
           "title": "美国华盛顿巡回上诉法院小组以2比1的投票结果裁定，特朗普有权解雇美国国家劳工关系委员会和美国联邦人事管理委员会的成员。",
           "url": "https://flash.jin10.com/detail/20251205232909438800",
           "source": "金十数据",
@@ -399,8 +446,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 11时15分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -433,9 +480,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时15分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
@@ -502,11 +549,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 09时56分]"
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 11时15分]"
         },
         {
           "title": "金十图示：2025年12月05日（周五）美股热门股票行情一览（美股盘中）",
@@ -575,7 +623,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -586,7 +634,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -597,7 +645,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -608,7 +656,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
@@ -616,7 +664,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
@@ -627,8 +675,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 11时15分]"
         },
         {
           "title": "任正非：算力过剩不可避免",
@@ -642,8 +690,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 11时15分]"
         },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
@@ -655,8 +703,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 11时15分]"
         },
         {
           "title": "【焦点复盘】创业板指2连涨收复60日线，全市场近百股涨超10%，算力硬件股卷土重来",
@@ -668,8 +716,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 11时15分]"
         },
         {
           "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
@@ -684,16 +732,15 @@
           "time_info": "[03时23分 ~ 07时25分]"
         },
         {
-          "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
-          "url": "https://wallstreetcn.com/livenews/3016155",
-          "source": "华尔街见闻-快讯",
+          "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
+          "url": "https://flash.jin10.com/detail/20251206104148777800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            26
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 09时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -702,6 +749,18 @@
           "ranks": [
             9,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 11时15分]"
+        },
+        {
+          "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
+          "url": "https://wallstreetcn.com/livenews/3016155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -762,11 +821,12 @@
           "url": "https://flash.jin10.com/detail/20251206082425729800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时15分]"
         },
         {
           "title": "软银洽谈收购数据中心私募DigitalBridge，希望借机把握AI基础设施热潮",
@@ -778,6 +838,93 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包 deepseek 千问",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "豆包手机被微信「拒绝」后，阿里系 App 被曝也禁止其登陆，如何看待这场「博弈」？核心矛盾是什么？",
+          "url": "https://www.zhihu.com/question/1980391511284740735",
+          "source": "知乎",
+          "ranks": [
+            10,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时25分 ~ 11时15分]"
+        },
+        {
+          "title": "豆包抢入口，捅了马蜂窝",
+          "url": "https://wallstreetcn.com/articles/3760775",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 11时15分]"
+        },
+        {
+          "title": "如何看待周鸿祎「豆包手机助手拿捏所有 App，直击互联网大厂的护城河」的观点？",
+          "url": "https://www.zhihu.com/question/1980210536189748299",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 11时15分]"
+        },
+        {
+          "title": "豆包手机 溢价",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%20%E6%BA%A2%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "多家APP对豆包手机禁用",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "豆包手机",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         }
       ]
     },
@@ -858,8 +1005,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 11时15分]"
         },
         {
           "title": "美国能源部长：最好的生产商能在50美元/桶的价格生产石油。",
@@ -900,49 +1047,6 @@
       ]
     },
     {
-      "keyword_group": "豆包 deepseek 千问",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "豆包手机被微信「拒绝」后，阿里系 App 被曝也禁止其登陆，如何看待这场「博弈」？核心矛盾是什么？",
-          "url": "https://www.zhihu.com/question/1980391511284740735",
-          "source": "知乎",
-          "ranks": [
-            10,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时25分 ~ 09时56分]"
-        },
-        {
-          "title": "豆包抢入口，捅了马蜂窝",
-          "url": "https://wallstreetcn.com/articles/3760775",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时56分]"
-        },
-        {
-          "title": "如何看待周鸿祎「豆包手机助手拿捏所有 App，直击互联网大厂的护城河」的观点？",
-          "url": "https://www.zhihu.com/question/1980210536189748299",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时56分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 中国卫星 中国卫通",
       "match_count": 2,
       "titles": [
@@ -963,11 +1067,12 @@
           "url": "https://www.cls.cn/detail/2221612",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时15分]"
         }
       ]
     },
@@ -983,8 +1088,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 11时15分]"
         }
       ]
     }
