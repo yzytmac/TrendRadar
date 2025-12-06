@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T07:25:24.843839+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2025-12-06T09:56:44.006681+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -27,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时25分]"
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 09时56分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆本次会谈持续了45分钟。 三方将继续致力于（翻新）美国墨西哥加拿大贸易协议（USMCA）。",
@@ -39,11 +40,34 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            5
+            5,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时25分]"
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 09时56分]"
+        },
+        {
+          "title": "特朗普世界杯抽签搞抽象",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "白宫：特朗普签署法案，废止土地管理局关于“阿拉斯加国家石油储备综合活动计划决策记录”的相关规定。",
+          "url": "https://flash.jin10.com/detail/20251206085353161800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
@@ -329,6 +353,28 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
+          "title": "美国总统特朗普：签署了一份总统备忘录，指示卫生与公众服务部快速推进对其他国家疫苗接种计划的全面评估。疾控中心疫苗委员会做出了一个非常明智的决定，终止其乙型肝炎疫苗接种建议。",
+          "url": "https://flash.jin10.com/detail/20251206083946203800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "特朗普：疾控中心叫停乙肝疫苗建议的决定是正确的。 已签署备忘录要求卫生与公众服务部评估疫苗接种时间表。",
+          "url": "https://wallstreetcn.com/livenews/3016179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "美国华盛顿巡回上诉法院小组以2比1的投票结果裁定，特朗普有权解雇美国国家劳工关系委员会和美国联邦人事管理委员会的成员。",
           "url": "https://flash.jin10.com/detail/20251205232909438800",
           "source": "金十数据",
@@ -343,7 +389,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "A股迎首部上市公司监管专项行政法规，74条全梳理",
@@ -353,8 +399,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 09时56分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -381,15 +427,15 @@
           "time_info": "[03时22分 ~ 06时26分]"
         },
         {
-          "title": "周五（12月5日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.68%，报89425美元，本周累计下跌1.80%。 CME以太币期货DCR主力合约跌4.09%，报3023美元，本周累跌0.71%。 美股加密货币与加密货币关联指数跌3.99%，报69.08点，本周累跌3.12%。 最近24小时，MarketVector数字资产100小盘指数跌5.31%，暂报4051.02点。",
-          "url": "https://wallstreetcn.com/livenews/3016154",
-          "source": "华尔街见闻-快讯",
+          "title": "标普逼近纪录高位，纳指四连涨，银铜齐创新高，比特币和美股脱钩，一度跌近5%",
+          "url": "https://wallstreetcn.com/articles/3760797",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时25分"
+          "time_info": "09时56分"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
@@ -398,7 +444,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -413,6 +459,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时34分 ~ 02时36分]"
+        },
+        {
+          "title": "周五（12月5日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.68%，报89425美元，本周累计下跌1.80%。 CME以太币期货DCR主力合约跌4.09%，报3023美元，本周累跌0.71%。 美股加密货币与加密货币关联指数跌3.99%，报69.08点，本周累跌3.12%。 最近24小时，MarketVector数字资产100小盘指数跌5.31%，暂报4051.02点。",
+          "url": "https://wallstreetcn.com/livenews/3016154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 09时56分]"
         },
         {
           "title": "瑞银(UBS.N)美股跳涨2.8%，因波动性较大暂停交易。",
@@ -437,6 +495,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时22分 ~ 04时31分]"
+        },
+        {
+          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
+          "url": "https://www.cls.cn/detail/2221625",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 09时56分]"
         },
         {
           "title": "金十图示：2025年12月05日（周五）美股热门股票行情一览（美股盘中）",
@@ -499,32 +569,66 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
-          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
-          "url": "https://www.cls.cn/detail/2221625",
-          "source": "财联社热门",
+          "title": "30多家A股公司今年向股东发过产品",
+          "url": "https://wallstreetcn.com/livenews/3016168",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时25分"
+          "time_info": "09时56分"
+        },
+        {
+          "title": "美股三大指数小幅收涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E6%94%B6%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "金十图示：2025年12月05日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251206090540434800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "金十图示：2025年12月05日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251206090522263800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
           "url": "https://www.cls.cn/detail/2221214",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 09时56分]"
         },
         {
           "title": "任正非：算力过剩不可避免",
@@ -538,8 +642,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 09时56分]"
         },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
@@ -551,8 +655,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 09时56分]"
         },
         {
           "title": "【焦点复盘】创业板指2连涨收复60日线，全市场近百股涨超10%，算力硬件股卷土重来",
@@ -560,11 +664,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 09时56分]"
         },
         {
           "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
@@ -583,11 +688,24 @@
           "url": "https://wallstreetcn.com/livenews/3016155",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 09时56分]"
+        },
+        {
+          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
+          "url": "https://wallstreetcn.com/articles/3760810",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 09时56分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
@@ -640,15 +758,15 @@
           "time_info": "[04时31分 ~ 05时25分]"
         },
         {
-          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
-          "url": "https://wallstreetcn.com/articles/3760810",
-          "source": "华尔街见闻",
+          "title": "OpenAI最快将于下周发布GPT-5.2",
+          "url": "https://flash.jin10.com/detail/20251206082425729800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时25分"
+          "time_info": "09时56分"
         },
         {
           "title": "软银洽谈收购数据中心私募DigitalBridge，希望借机把握AI基础设施热潮",
@@ -684,11 +802,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            3
+            3,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时25分]"
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 09时56分]"
         },
         {
           "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
@@ -739,8 +858,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 09时56分]"
         },
         {
           "title": "美国能源部长：最好的生产商能在50美元/桶的价格生产石油。",
@@ -794,8 +913,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时25分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[01时25分 ~ 09时56分]"
         },
         {
           "title": "豆包抢入口，捅了马蜂窝",
@@ -807,8 +926,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 09时56分]"
         },
         {
           "title": "如何看待周鸿祎「豆包手机助手拿捏所有 App，直击互联网大厂的护城河」的观点？",
@@ -818,14 +937,14 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 09时56分]"
         }
       ]
     },
     {
       "keyword_group": "商业航天 中国卫星 中国卫通",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【每日收评】沪指放量收复3900点，商业航天强者恒强，大金融午后异军突起",
@@ -838,6 +957,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时34分 ~ 07时25分]"
+        },
+        {
+          "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
+          "url": "https://www.cls.cn/detail/2221612",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     },
@@ -853,8 +983,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 09时56分]"
         }
       ]
     }
