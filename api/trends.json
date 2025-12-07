@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T12:40:18.428956+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2025-12-07T13:25:10.321079+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时25分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -57,8 +57,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 12时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 13时25分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -101,11 +101,12 @@
           "ranks": [
             3,
             7,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 13时25分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -124,17 +125,18 @@
           "url": "https://flash.jin10.com/detail/20251207115626169800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时25分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -188,11 +190,23 @@
           "url": "https://flash.jin10.com/detail/20251207122838853800",
           "source": "金十数据",
           "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普签署行政令调查外资企业食品反竞争行为",
+          "url": "https://flash.jin10.com/detail/20251207124750348800",
+          "source": "金十数据",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时40分"
+          "time_info": "13时25分"
         },
         {
           "title": "美国发生特大诈骗案 特朗普怒批",
@@ -200,11 +214,25 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            5
+            5,
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普称其主持典礼会比吉米做得更好",
+          "url": "https://www.toutiao.com/trending/7580414475011047451/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "特朗普或将给高市早苗放权",
@@ -244,8 +272,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时25分]"
         },
         {
           "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
@@ -255,8 +283,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时25分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -269,8 +297,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时25分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -282,6 +310,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 科创 存储",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "荷兰大臣：没想到中方叫停芯片出口",
+          "url": "https://www.toutiao.com/trending/7580589838416543750/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 13时25分]"
+        },
+        {
+          "title": "荷兰大臣：没想到中方叫停芯片出口",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E5%A4%A7%E8%87%A3%EF%BC%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E4%B8%AD%E6%96%B9%E5%8F%AB%E5%81%9C%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 13时25分]"
+        },
+        {
+          "title": "聚焦“海洋芯片”自主研发 全国高校首个船海核领域集成电路学院成立",
+          "url": "https://flash.jin10.com/detail/20251207124222744800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "受存储涨价影响红米、 vivo 、 OPPO 等多个品牌手机涨价上市，影响可能会持续多久？价格会持续上涨吗？",
+          "url": "https://www.zhihu.com/question/1971246888301863369",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 13时25分]"
         }
       ]
     },
@@ -301,8 +382,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时25分]"
         },
         {
           "title": "第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态",
@@ -316,8 +397,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时25分]"
         },
         {
           "title": "豆包手机被微信「拒绝」后，阿里系 App 被曝也禁止其登陆，如何看待这场「博弈」？核心矛盾是什么？",
@@ -377,47 +458,6 @@
       ]
     },
     {
-      "keyword_group": "芯片 科创 存储",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "荷兰大臣：没想到中方叫停芯片出口",
-          "url": "https://www.toutiao.com/trending/7580589838416543750/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 12时40分]"
-        },
-        {
-          "title": "荷兰大臣：没想到中方叫停芯片出口",
-          "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E5%A4%A7%E8%87%A3%EF%BC%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E4%B8%AD%E6%96%B9%E5%8F%AB%E5%81%9C%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 12时40分]"
-        },
-        {
-          "title": "受存储涨价影响红米、 vivo 、 OPPO 等多个品牌手机涨价上市，影响可能会持续多久？价格会持续上涨吗？",
-          "url": "https://www.zhihu.com/question/1971246888301863369",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 12时40分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 中国卫星 中国卫通",
       "match_count": 2,
       "titles": [
@@ -429,8 +469,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时25分]"
         },
         {
           "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
@@ -441,8 +481,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时25分]"
         }
       ]
     },
@@ -464,8 +504,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时25分]"
         }
       ]
     }
