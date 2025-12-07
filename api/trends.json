@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T07:24:23.353262+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2025-12-07T10:11:57.595531+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时11分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -53,11 +53,24 @@
             6,
             8,
             10,
-            11
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 10时11分]"
+        },
+        {
+          "title": "C罗入股美国AI初创公司",
+          "url": "https://wallstreetcn.com/livenews/3016306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            29
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "time_info": "[00时31分 ~ 10时11分]"
         },
         {
           "title": "卡塔尔能源大臣：人工智能成“吃气大户” 警惕2035年供需失衡",
@@ -65,17 +78,6 @@
           "source": "金十数据",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时24分]"
-        },
-        {
-          "title": "C罗入股美国AI初创公司",
-          "url": "https://wallstreetcn.com/livenews/3016306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -91,6 +93,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时20分 ~ 07时24分]"
+        },
+        {
+          "title": "广西“十五五”规划建议：高标准建设中国—东盟国家人工智能应用合作中心",
+          "url": "https://wallstreetcn.com/livenews/3016337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -127,11 +140,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时11分]"
         },
         {
           "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
@@ -141,8 +155,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时11分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -150,11 +164,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时11分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -163,7 +178,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
@@ -171,7 +186,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -213,11 +228,23 @@
           "source": "知乎",
           "ranks": [
             16,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时11分]"
+        },
+        {
+          "title": "特朗普或将给高市早苗放权",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%86%E7%BB%99%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%94%BE%E6%9D%83%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
@@ -232,11 +259,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时11分]"
         },
         {
           "title": "第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态",
@@ -245,11 +273,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时11分]"
         },
         {
           "title": "豆包手机被微信「拒绝」后，阿里系 App 被曝也禁止其登陆，如何看待这场「博弈」？核心矛盾是什么？",
@@ -273,11 +302,24 @@
           "url": "https://wallstreetcn.com/livenews/3016317",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 10时11分]"
+        },
+        {
+          "title": "国际原子能机构总干事：扎波罗热核电站失去外部电力供应",
+          "url": "https://wallstreetcn.com/livenews/3016309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 10时11分]"
         },
         {
           "title": "福建省在深远海新能源装备领域实现关键技术突破",
@@ -285,17 +327,6 @@
           "source": "金十数据",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时24分]"
-        },
-        {
-          "title": "国际原子能机构总干事：扎波罗热核电站失去外部电力供应",
-          "url": "https://wallstreetcn.com/livenews/3016309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -315,19 +346,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时11分]"
         },
         {
           "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
           "url": "https://www.cls.cn/detail/2221612",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时11分]"
         }
       ]
     },
@@ -343,11 +375,29 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 科创 存储",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "荷兰大臣：没想到中方叫停芯片出口",
+          "url": "https://www.toutiao.com/trending/7580589838416543750/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     }
