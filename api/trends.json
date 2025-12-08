@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T07:23:49.292470+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2025-12-08T10:04:09.353690+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -18,11 +18,12 @@
             9,
             26,
             18,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 10时04分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -35,8 +36,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 10时04分]"
+        },
+        {
+          "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
+          "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时28分 ~ 10时04分]"
         },
         {
           "title": "特朗普：美国还有其他方式征收关税 目前的方法要直接得多",
@@ -77,17 +89,6 @@
           "time_info": "[00时30分 ~ 04时28分]"
         },
         {
-          "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
-          "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时28分 ~ 07时23分]"
-        },
-        {
           "title": "特朗普政府免除西南航空公司1100万美元罚款",
           "url": "https://flash.jin10.com/detail/20251208053436110800",
           "source": "金十数据",
@@ -124,6 +125,17 @@
           "time_info": "[05时21分 ~ 07时23分]"
         },
         {
+          "title": "特朗普：我对泽连斯基有点失望",
+          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
           "title": "贝森特：不会限制儿童使用“特朗普账户”的方式",
           "url": "https://flash.jin10.com/detail/20251208051409167800",
           "source": "金十数据",
@@ -146,12 +158,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "以总统拒绝特朗普“求情”",
+          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
+          "title": "特朗普将于美国东部时间周一下午2点（北京时间次日凌晨3点）参加圆桌会议。",
+          "url": "https://flash.jin10.com/detail/20251208093150812800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "特朗普责成高级顾问应对牛肉价格飙涨",
+          "url": "https://flash.jin10.com/detail/20251208091017126800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "美媒：特朗普称泽连斯基尚未阅读美方提出的乌克兰危机最新解决方案，对此“有点失望”",
+          "url": "https://wallstreetcn.com/livenews/3016551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
@@ -161,8 +217,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 10时04分]"
         },
         {
           "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
@@ -175,31 +231,45 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 英伟达 阿里巴巴",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
-          "url": "https://flash.jin10.com/detail/20251208040048349800",
+          "title": "A股券商股再度拉升，兴业证券直线涨停，东北证券涨超7%，中银证券、华泰证券、国泰海通、中信证券、广发证券等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3016579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-12-08）",
+          "url": "https://flash.jin10.com/detail/20251208091024122800",
           "source": "金十数据",
           "ranks": [
-            6,
-            12,
-            23
+            15
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "深交所：港股通标的证券名单调整，调入富卫集团、奥克斯电气、银诺医药-B、奇瑞汽车，12月08日起生效。",
+          "url": "https://wallstreetcn.com/livenews/3016533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     },
     {
       "keyword_group": "商业航天 中国卫星 中国卫通",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "蓝箭迈出可回收火箭第一步 中国商业航天还有哪些玩家？",
@@ -212,30 +282,45 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 能源 储能",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "能源换和平 美国推动以色列重新与阿拉伯世界接轨",
-          "url": "https://flash.jin10.com/detail/20251208045029506800",
-          "source": "金十数据",
+          "title": "火箭箭体结构件已实现小批量交付 商业航天概念股20CM涨停 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2222088",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            21
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
+          "title": "A股商业航天概念延续强势，顺灏股份7天6板，西部材料2连板，航天科技、广联航空、天箭科技、超捷股份等多股涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3016558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "商业航天概念延续强势，顺灏股份7天6板，西部材料2连板，航天科技、广联航空、天箭科技、超捷股份等多股涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3016556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "荷兰大臣：没想到中方叫停芯片出口",
@@ -252,6 +337,148 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 07时23分]"
+        },
+        {
+          "title": "存储持续“疯涨” 业内直呼“要买终端赶紧买”",
+          "url": "https://www.cls.cn/detail/2221942",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
+          "title": "涨幅最高20%！戴尔、联想等PC厂计划涨价 存储成本压力“扛不住了”",
+          "url": "https://www.cls.cn/detail/2221870",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
+          "title": "上证指数开盘报3909.23点，涨0.16%。 深证成指开盘报13178.96点，涨0.24%。 创业板指开盘报3119.15点，涨0.32%。 沪深300开盘报4593.14点，涨0.19%。 科创50开盘报1325.97点，跌0.01%。 中证500开盘报7119.05点，涨0.30%。 中证1000开盘报7359.49点，涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3016552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能 算力",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "韩媒：韩日商界探讨人工智能与半导体合作",
+          "url": "https://wallstreetcn.com/livenews/3016595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "算力硬件股震荡拉升，天孚通信大涨10%，汇绿生态、烽火通信、永鼎股份、华工科技、德科立等纷纷走强。",
+          "url": "https://wallstreetcn.com/livenews/3016586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.27%，深成指涨0.51%，商业航天、券商、算力硬件、福建等方向领涨，沪深京三市上涨个股近3500只。",
+          "url": "https://wallstreetcn.com/livenews/3016581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 能源 储能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "能源换和平 美国推动以色列重新与阿拉伯世界接轨",
+          "url": "https://flash.jin10.com/detail/20251208045029506800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "澳大利亚矿业与能源工会对公平工作委员会关于嘉能可乌兰地下矿谈判陷入僵局的裁决表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251208091036369800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "山东省“十五五”规划建议：加快机器人和智能装备推广应用 打造低空经济发展集聚区、内河新能源船舶制造基地",
+          "url": "https://wallstreetcn.com/livenews/3016541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 英伟达 阿里巴巴",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
+          "url": "https://flash.jin10.com/detail/20251208040048349800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时24分]"
+        },
+        {
+          "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
+          "url": "https://wallstreetcn.com/articles/3760862",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
         }
       ]
     }
