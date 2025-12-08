@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T17:36:19.285778+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2025-12-08T18:31:53.061296+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：我对泽连斯基有点失望",
@@ -79,11 +79,12 @@
             17,
             18,
             16,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时58分 ~ 17时36分]"
+          "appearance_count": 12,
+          "time_info": "[11时58分 ~ 18时31分]"
         },
         {
           "title": "网飞与华纳达成收购协议，特朗普警告",
@@ -119,6 +120,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时28分 ~ 11时58分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-08）",
+          "url": "https://flash.jin10.com/detail/20251208180135739800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "特朗普：美国还有其他方式征收关税 目前的方法要直接得多",
@@ -171,6 +183,29 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 18时31分]"
+        },
+        {
+          "title": "特朗普政府战略调整，赖清德当局战略冒进",
+          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 18时31分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20251207192532766800",
           "source": "金十数据",
@@ -195,28 +230,6 @@
           "time_info": "[05时21分 ~ 07时23分]"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时36分]"
-        },
-        {
-          "title": "特朗普政府战略调整，赖清德当局战略冒进",
-          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时36分]"
-        },
-        {
           "title": "贝森特：不会限制儿童使用“特朗普账户”的方式",
           "url": "https://flash.jin10.com/detail/20251208051409167800",
           "source": "金十数据",
@@ -239,6 +252,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普正考虑解雇美国土安全部长诺姆？白宫否认",
+          "url": "https://wallstreetcn.com/livenews/3016887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时31分]"
         },
         {
           "title": "特朗普计划周一宣布一项120亿美元的农业援助计划。（彭博）",
@@ -276,15 +301,15 @@
           "time_info": "10时04分"
         },
         {
-          "title": "特朗普正考虑解雇美国土安全部长诺姆？白宫否认",
-          "url": "https://wallstreetcn.com/livenews/3016887",
-          "source": "华尔街见闻-快讯",
+          "title": "分析师：Netflix收购华纳面临反垄断压力 特朗普言论引发担忧",
+          "url": "https://flash.jin10.com/detail/20251208174011180800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时36分"
+          "time_info": "18时31分"
         },
         {
           "title": "特朗普计划为遭受贸易战打击的农民提供120亿美元援助",
@@ -345,7 +370,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
@@ -377,11 +402,12 @@
           "ranks": [
             19,
             17,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时40分 ~ 17时36分]"
+          "appearance_count": 11,
+          "time_info": "[12时40分 ~ 18时31分]"
         },
         {
           "title": "A股行情",
@@ -433,6 +459,18 @@
           "time_info": "[15时31分 ~ 16时39分]"
         },
         {
+          "title": "A股市场持续回暖 跨年行情开启了吗",
+          "url": "https://www.toutiao.com/trending/7580961416296316991/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时31分]"
+        },
+        {
           "title": "欧莱雅将所持高德美股份增持至20%。",
           "url": "https://wallstreetcn.com/livenews/3016758",
           "source": "华尔街见闻-快讯",
@@ -445,6 +483,18 @@
           "time_info": "[14时43分 ~ 15时31分]"
         },
         {
+          "title": "摩根士丹利重申看好美股前景，因美联储降息预期",
+          "url": "https://wallstreetcn.com/livenews/3016884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时31分]"
+        },
+        {
           "title": "评论员：留意A股冲高回落的风险",
           "url": "https://www.toutiao.com/trending/7581303375891811876/",
           "source": "今日头条",
@@ -454,17 +504,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "A股市场持续回暖 跨年行情开启了吗",
-          "url": "https://www.toutiao.com/trending/7580961416296316991/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 17时36分]"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-08）",
@@ -489,15 +528,15 @@
           "time_info": "10时04分"
         },
         {
-          "title": "摩根士丹利重申看好美股前景，因美联储降息预期",
-          "url": "https://wallstreetcn.com/livenews/3016884",
-          "source": "华尔街见闻-快讯",
+          "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
+          "url": "https://www.cls.cn/detail/2222901",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时36分"
+          "time_info": "18时31分"
         },
         {
           "title": "工商银行：A股每股派发现金股息人民币0.1414元（含税）",
@@ -506,7 +545,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -528,7 +567,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -542,6 +581,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "摩根大通：美联储降息后美股涨势可能停滞",
+          "url": "https://wallstreetcn.com/livenews/3016901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "A股",
@@ -602,7 +652,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
@@ -631,8 +681,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时40分 ~ 17时36分]"
+          "appearance_count": 11,
+          "time_info": "[12时40分 ~ 18时31分]"
         },
         {
           "title": "华尔街一哥：AI明年或大量“吞噬”就业岗位 全社会应共同应对",
@@ -648,17 +698,6 @@
           "time_info": "[11时58分 ~ 16时39分]"
         },
         {
-          "title": "韩媒：韩日商界探讨人工智能与半导体合作",
-          "url": "https://wallstreetcn.com/livenews/3016595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
           "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
           "url": "https://www.cls.cn/detail/2222429",
           "source": "财联社热门",
@@ -668,8 +707,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时30分 ~ 17时36分]"
+          "appearance_count": 6,
+          "time_info": "[15时30分 ~ 18时31分]"
+        },
+        {
+          "title": "韩媒：韩日商界探讨人工智能与半导体合作",
+          "url": "https://wallstreetcn.com/livenews/3016595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "A股高开高走，创业板涨超3%，稀土、算力硬件、券商股拉升，港股恒指跌逾1%，30年期国债期货拉升，万科债上涨",
@@ -682,6 +732,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时30分 ~ 17时36分]"
+        },
+        {
+          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
+          "url": "https://wallstreetcn.com/articles/3760893",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "12月8日午间收评：创业板指半日涨超3%，多只算力硬件股创新高",
@@ -697,6 +758,18 @@
           "time_info": "[11时58分 ~ 13时30分]"
         },
         {
+          "title": "【每日收评】两市成交额重返2万亿！创业板指涨超2.5%，算力硬件、商业航天联袂领涨",
+          "url": "https://www.cls.cn/detail/2222837",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时31分]"
+        },
+        {
           "title": "【午报】创业板指放量涨超3%，算力硬件方向再度爆发，天孚通信20CM涨停创历史新高",
           "url": "https://www.cls.cn/detail/2222481",
           "source": "财联社热门",
@@ -707,17 +780,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时39分 ~ 17时36分]"
-        },
-        {
-          "title": "【每日收评】两市成交额重返2万亿！创业板指涨超2.5%，算力硬件、商业航天联袂领涨",
-          "url": "https://www.cls.cn/detail/2222837",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 17时36分]"
         },
         {
           "title": "A股高开，创业板涨超3%，算力硬件、券商股拉升，港股低开低走，有色低迷，30年期国债期货续跌，万科债上涨",
@@ -751,6 +813,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "长光华芯：近期算力需求增长，在光通信领域中，公司的100G EML已实现量产，200GEML已开始送样，100G VCSEL、100mW CW DFB和70mW CWDM4 DFB芯片已达到量产出货水平（以上内容半年报已披露）。上述产品对本年度的销售额及利润贡献量存在不确定性。产品研发进展、送样测试、产品导入和市场拓展等都存在一定的不确定性和风险。",
+          "url": "https://wallstreetcn.com/livenews/3016925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-08）",
@@ -822,7 +895,7 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "安徽一新能源车突然起火伴有爆炸声",
@@ -886,6 +959,17 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "市场监管总局组织建设新能源汽车“双失控”风险防控技术体系",
+          "url": "https://wallstreetcn.com/livenews/3016918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "澳大利亚矿业与能源工会对公平工作委员会关于嘉能可乌兰地下矿谈判陷入僵局的裁决表示欢迎。",
           "url": "https://flash.jin10.com/detail/20251208091036369800",
           "source": "金十数据",
@@ -928,6 +1012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "报告：美国防部计划大规模囤积关键矿产，全球能源转型遭“资源截流”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32128501",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "山东省“十五五”规划建议：加快机器人和智能装备推广应用 打造低空经济发展集聚区、内河新能源船舶制造基地",
@@ -1210,7 +1305,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         }
