@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T15:31:17.218974+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2025-12-08T16:39:30.466535+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普：我对泽连斯基有点失望",
@@ -70,24 +70,25 @@
           "time_info": "[00时30分 ~ 15时31分]"
         },
         {
-          "title": "网飞与华纳达成收购协议，特朗普警告",
-          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时58分 ~ 15时31分]"
-        },
-        {
           "title": "特朗普称对泽连斯基感到失望",
           "url": "https://www.toutiao.com/trending/7581294692906716710/",
           "source": "今日头条",
           "ranks": [
             20,
             17,
-            18
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时58分 ~ 16时39分]"
+        },
+        {
+          "title": "网飞与华纳达成收购协议，特朗普警告",
+          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
+          "source": "凤凰网",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -251,6 +252,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "特朗普计划为遭受贸易战打击的农民提供120亿美元援助",
           "url": "https://flash.jin10.com/detail/20251208112858564800",
           "source": "金十数据",
@@ -260,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "特朗普政府战略调整，赖清德当局战略冒进",
+          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "美国国会国防授权法案规模达9010亿美元创纪录，超过特朗普要求",
@@ -293,12 +316,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "特朗普要求高市早苗不要挑衅中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8D%E8%A6%81%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
@@ -329,22 +363,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时40分 ~ 15时31分]"
-        },
-        {
-          "title": "A股收盘：创业板指高开高走涨2.6%，全市场成交突破2万亿",
-          "url": "https://wallstreetcn.com/livenews/3016791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
+          "appearance_count": 8,
+          "time_info": "[12时40分 ~ 16时39分]"
         },
         {
           "title": "A股行情",
@@ -352,11 +376,12 @@
           "source": "微博",
           "ranks": [
             24,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时29分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时29分 ~ 16时39分]"
         },
         {
           "title": "A股机器人概念股震荡拉升，五洲新春午后涨停，飞龙股份、景业智能、豪能股份、中坚科技、泰尔股份等涨幅居前。",
@@ -381,6 +406,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时30分 ~ 14时43分]"
+        },
+        {
+          "title": "A股收盘：创业板指高开高走涨2.6%，全市场成交突破2万亿",
+          "url": "https://wallstreetcn.com/livenews/3016791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 16时39分]"
         },
         {
           "title": "欧莱雅将所持高德美股份增持至20%。",
@@ -412,7 +449,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -426,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "A股收盘：创业板指高开高走涨超2%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E9%AB%98%E5%BC%80%E9%AB%98%E8%B5%B0%E6%B6%A8%E8%B6%852%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-08）",
@@ -472,6 +520,17 @@
           "time_info": "11时58分"
         },
         {
+          "title": "评论员：A股千亿增量资金蓄势待发",
+          "url": "https://www.toutiao.com/trending/7581355805278998062/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "深交所：港股通标的证券名单调整，调入富卫集团、奥克斯电气、银诺医药-B、奇瑞汽车，12月08日起生效。",
           "url": "https://wallstreetcn.com/livenews/3016533",
           "source": "华尔街见闻-快讯",
@@ -486,7 +545,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
@@ -500,8 +559,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时58分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[11时58分 ~ 16时39分]"
         },
         {
           "title": "华尔街一哥：AI明年或大量“吞噬”就业岗位 全社会应共同应对",
@@ -509,11 +568,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时58分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[11时58分 ~ 16时39分]"
         },
         {
           "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
@@ -522,11 +582,12 @@
           "ranks": [
             11,
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时40分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时40分 ~ 16时39分]"
         },
         {
           "title": "韩媒：韩日商界探讨人工智能与半导体合作",
@@ -553,6 +614,18 @@
           "time_info": "[11时58分 ~ 13时30分]"
         },
         {
+          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
+          "url": "https://www.cls.cn/detail/2222429",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时30分 ~ 16时39分]"
+        },
+        {
           "title": "A股高开高走，创业板涨超3%，稀土、算力硬件、券商股拉升，港股恒指跌逾1%，30年期国债期货拉升，万科债上涨",
           "url": "https://wallstreetcn.com/articles/3760893",
           "source": "华尔街见闻",
@@ -560,8 +633,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 15时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时30分 ~ 16时39分]"
         },
         {
           "title": "A股高开，创业板涨超3%，算力硬件、券商股拉升，港股低开低走，有色低迷，30年期国债期货续跌，万科债上涨",
@@ -573,17 +646,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 13时30分]"
-        },
-        {
-          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
-          "url": "https://www.cls.cn/detail/2222429",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 15时31分]"
         },
         {
           "title": "外媒关注中国发布全球首款AI手机",
@@ -630,6 +692,39 @@
           "time_info": "10时04分"
         },
         {
+          "title": "谷歌将举行AndroidXR特别发布会 端侧AI有望迎重磅催化",
+          "url": "https://www.cls.cn/detail/2222180",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "【午报】创业板指放量涨超3%，算力硬件方向再度爆发，天孚通信20CM涨停创历史新高",
+          "url": "https://www.cls.cn/detail/2222481",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "阿联酋能源部长：我们正努力为人工智能企业创造机遇，以提升电力和水务系统的效率。目前，我们已通过运用人工智能，成功将能源消耗降低了30%。",
+          "url": "https://flash.jin10.com/detail/20251208160756965800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "人工智能可以学会骂人吗？脏话是不是人类语言的隐藏技能？",
           "url": "https://www.zhihu.com/question/1892629651303657726",
           "source": "知乎",
@@ -655,8 +750,19 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "乘联分会：中国11月新能源汽车零售销量同比增长4.2%，环比增长3.0%。",
+          "url": "https://wallstreetcn.com/livenews/3016849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
         {
           "title": "安徽一新能源车突然起火伴有爆炸声",
           "url": "https://www.toutiao.com/trending/7580578070181052458/",
@@ -695,6 +801,17 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "乘联分会：11月新能源车在国内总体乘用车的零售渗透率59.3%",
+          "url": "https://wallstreetcn.com/livenews/3016844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "澳大利亚矿业与能源工会对公平工作委员会关于嘉能可乌兰地下矿谈判陷入僵局的裁决表示欢迎。",
           "url": "https://flash.jin10.com/detail/20251208091036369800",
           "source": "金十数据",
@@ -706,6 +823,39 @@
           "time_info": "10时04分"
         },
         {
+          "title": "乘联分会：11月新能源车市场零售销量132.1万辆，同比增4.2%。",
+          "url": "https://flash.jin10.com/detail/20251208160742533800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "阿联酋能源部长：碳氢化合物在能源结构中至关重要，对依赖我们的客户而言同样重要，并且未来仍将保持其重要性。",
+          "url": "https://flash.jin10.com/detail/20251208160413333800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "阿联酋能源部长：天然气需求量超过我们目前所看到的项目规模。",
+          "url": "https://flash.jin10.com/detail/20251208160401140800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "山东省“十五五”规划建议：加快机器人和智能装备推广应用 打造低空经济发展集聚区、内河新能源船舶制造基地",
           "url": "https://wallstreetcn.com/livenews/3016541",
           "source": "华尔街见闻-快讯",
@@ -715,6 +865,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "阿联酋能源部长：整体能源需求将增加，而化石燃料在其占比中仍将占据一定比例。",
+          "url": "https://flash.jin10.com/detail/20251208155618181800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "阿联酋能源部长：我们不应对化石燃料需求何时达到峰值感到担忧。",
+          "url": "https://flash.jin10.com/detail/20251208155558443800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "国家税务总局：1至11月新能源乘用车销售收入同比增长19.1%",
@@ -813,7 +985,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -926,8 +1098,19 @@
     },
     {
       "keyword_group": "中芯国际 东芯股份 炬光科技",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "香港恒生指数收盘下跌1.23%，报25765.36点。恒生科技指数收盘基本持平。华虹半导体涨近4.5%，中芯国际涨近3%。百度集团涨3.45%。",
+          "url": "https://wallstreetcn.com/livenews/3016846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
         {
           "title": "A股半导体板块震荡上扬，赛微微电大涨18%，寒武纪、东芯股份、灿芯股份、大为股份、翱捷科技等涨逾5%。",
           "url": "https://wallstreetcn.com/livenews/3016715",
@@ -952,9 +1135,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "立讯精密 长盈精密 富创精密 工业富联",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "工业富联：2019年激励计划股票期权将在12月限制行权",
+          "url": "https://wallstreetcn.com/livenews/3016830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     }
