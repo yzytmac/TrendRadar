@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T16:39:30.466535+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2025-12-08T17:36:19.285778+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：我对泽连斯基有点失望",
@@ -34,11 +34,12 @@
             12,
             16,
             29,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 14时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 17时36分]"
         },
         {
           "title": "以总统拒绝特朗普“求情”",
@@ -77,11 +78,12 @@
             20,
             17,
             18,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时58分 ~ 16时39分]"
+          "appearance_count": 11,
+          "time_info": "[11时58分 ~ 17时36分]"
         },
         {
           "title": "网飞与华纳达成收购协议，特朗普警告",
@@ -193,6 +195,28 @@
           "time_info": "[05时21分 ~ 07时23分]"
         },
         {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时36分]"
+        },
+        {
+          "title": "特朗普政府战略调整，赖清德当局战略冒进",
+          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时36分]"
+        },
+        {
           "title": "贝森特：不会限制儿童使用“特朗普账户”的方式",
           "url": "https://flash.jin10.com/detail/20251208051409167800",
           "source": "金十数据",
@@ -252,15 +276,15 @@
           "time_info": "10时04分"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
+          "title": "特朗普正考虑解雇美国土安全部长诺姆？白宫否认",
+          "url": "https://wallstreetcn.com/livenews/3016887",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "17时36分"
         },
         {
           "title": "特朗普计划为遭受贸易战打击的农民提供120亿美元援助",
@@ -272,17 +296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
-        },
-        {
-          "title": "特朗普政府战略调整，赖清德当局战略冒进",
-          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
         },
         {
           "title": "美国国会国防授权法案规模达9010亿美元创纪录，超过特朗普要求",
@@ -324,7 +337,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
@@ -332,7 +345,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
@@ -367,8 +380,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 16时39分]"
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 17时36分]"
         },
         {
           "title": "A股行情",
@@ -443,6 +456,17 @@
           "time_info": "[12时40分 ~ 12时41分]"
         },
         {
+          "title": "A股市场持续回暖 跨年行情开启了吗",
+          "url": "https://www.toutiao.com/trending/7580961416296316991/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-08）",
           "url": "https://flash.jin10.com/detail/20251208151812189800",
           "source": "金十数据",
@@ -465,15 +489,48 @@
           "time_info": "10时04分"
         },
         {
+          "title": "摩根士丹利重申看好美股前景，因美联储降息预期",
+          "url": "https://wallstreetcn.com/livenews/3016884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "工商银行：A股每股派发现金股息人民币0.1414元（含税）",
+          "url": "https://wallstreetcn.com/livenews/3016882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "A股收盘：创业板指高开高走涨超2%",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E9%AB%98%E5%BC%80%E9%AB%98%E8%B5%B0%E6%B6%A8%E8%B6%852%25",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "美股盘前，美光科技涨超1.4%，博通涨超1.3%，台积电涨近1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3016879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-08）",
@@ -526,7 +583,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -545,7 +602,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
@@ -563,6 +620,21 @@
           "time_info": "[11时58分 ~ 16时39分]"
         },
         {
+          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
+          "url": "https://www.cls.cn/detail/2222331",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 17时36分]"
+        },
+        {
           "title": "华尔街一哥：AI明年或大量“吞噬”就业岗位 全社会应共同应对",
           "url": "https://www.cls.cn/detail/2222209",
           "source": "财联社热门",
@@ -576,20 +648,6 @@
           "time_info": "[11时58分 ~ 16时39分]"
         },
         {
-          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
-          "url": "https://www.cls.cn/detail/2222331",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 16时39分]"
-        },
-        {
           "title": "韩媒：韩日商界探讨人工智能与半导体合作",
           "url": "https://wallstreetcn.com/livenews/3016595",
           "source": "华尔街见闻-快讯",
@@ -599,6 +657,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
+          "url": "https://www.cls.cn/detail/2222429",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时30分 ~ 17时36分]"
+        },
+        {
+          "title": "A股高开高走，创业板涨超3%，稀土、算力硬件、券商股拉升，港股恒指跌逾1%，30年期国债期货拉升，万科债上涨",
+          "url": "https://wallstreetcn.com/articles/3760893",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时30分 ~ 17时36分]"
         },
         {
           "title": "12月8日午间收评：创业板指半日涨超3%，多只算力硬件股创新高",
@@ -614,27 +697,27 @@
           "time_info": "[11时58分 ~ 13时30分]"
         },
         {
-          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
-          "url": "https://www.cls.cn/detail/2222429",
+          "title": "【午报】创业板指放量涨超3%，算力硬件方向再度爆发，天孚通信20CM涨停创历史新高",
+          "url": "https://www.cls.cn/detail/2222481",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时30分 ~ 16时39分]"
+          "time_info": "[16时39分 ~ 17时36分]"
         },
         {
-          "title": "A股高开高走，创业板涨超3%，稀土、算力硬件、券商股拉升，港股恒指跌逾1%，30年期国债期货拉升，万科债上涨",
-          "url": "https://wallstreetcn.com/articles/3760893",
-          "source": "华尔街见闻",
+          "title": "【每日收评】两市成交额重返2万亿！创业板指涨超2.5%，算力硬件、商业航天联袂领涨",
+          "url": "https://www.cls.cn/detail/2222837",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时30分 ~ 16时39分]"
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
         },
         {
           "title": "A股高开，创业板涨超3%，算力硬件、券商股拉升，港股低开低走，有色低迷，30年期国债期货续跌，万科债上涨",
@@ -698,18 +781,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "【午报】创业板指放量涨超3%，算力硬件方向再度爆发，天孚通信20CM涨停创历史新高",
-          "url": "https://www.cls.cn/detail/2222481",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -720,7 +792,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -753,17 +825,6 @@
       "match_count": 14,
       "titles": [
         {
-          "title": "乘联分会：中国11月新能源汽车零售销量同比增长4.2%，环比增长3.0%。",
-          "url": "https://wallstreetcn.com/livenews/3016849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
           "title": "安徽一新能源车突然起火伴有爆炸声",
           "url": "https://www.toutiao.com/trending/7580578070181052458/",
           "source": "今日头条",
@@ -789,6 +850,30 @@
           "time_info": "[12时41分 ~ 13时30分]"
         },
         {
+          "title": "乘联分会：中国11月新能源汽车零售销量同比增长4.2%，环比增长3.0%。",
+          "url": "https://wallstreetcn.com/livenews/3016849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 17时36分]"
+        },
+        {
+          "title": "乘联分会：11月新能源车在国内总体乘用车的零售渗透率59.3%",
+          "url": "https://wallstreetcn.com/livenews/3016844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 17时36分]"
+        },
+        {
           "title": "能源换和平 美国推动以色列重新与阿拉伯世界接轨",
           "url": "https://flash.jin10.com/detail/20251208045029506800",
           "source": "金十数据",
@@ -799,17 +884,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "乘联分会：11月新能源车在国内总体乘用车的零售渗透率59.3%",
-          "url": "https://wallstreetcn.com/livenews/3016844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
         },
         {
           "title": "澳大利亚矿业与能源工会对公平工作委员会关于嘉能可乌兰地下矿谈判陷入僵局的裁决表示欢迎。",
@@ -829,7 +903,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -840,7 +914,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -851,7 +925,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -873,7 +947,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -884,7 +958,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -1105,11 +1179,12 @@
           "url": "https://wallstreetcn.com/livenews/3016846",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 17时36分]"
         },
         {
           "title": "A股半导体板块震荡上扬，赛微微电大涨18%，寒武纪、东芯股份、灿芯股份、大为股份、翱捷科技等涨逾5%。",
@@ -1121,6 +1196,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色金属 北方稀土 中国稀土",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "LME有色金属库存日报",
+          "url": "https://flash.jin10.com/detail/20251208170054521800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         }
       ]
     },
@@ -1152,7 +1244,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
