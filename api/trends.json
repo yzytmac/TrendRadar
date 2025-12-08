@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T01:26:53.560435+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2025-12-09T02:40:35.666177+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时40分]"
         },
         {
           "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
@@ -27,41 +27,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时40分]"
         },
         {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
           "url": "https://wallstreetcn.com/livenews/3017099",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 02时40分]"
         },
         {
           "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
           "url": "https://wallstreetcn.com/livenews/3017096",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 02时40分]"
         },
         {
           "title": "【每日收评】两市成交额重返2万亿！创业板指涨超2.5%，算力硬件、商业航天联袂领涨",
           "url": "https://www.cls.cn/detail/2222837",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时40分]"
         },
         {
           "title": "综合知情人士透露的消息和条款清单来看，软银和英伟达正在洽谈投资人工智能公司Skild AI。 Skild AI可能会按140亿美元估值融资10亿美元。 谈判细节仍存在变数，但该交易预计将在圣诞节前完成。（路透）",
@@ -88,6 +91,28 @@
           "time_info": "[00时36分 ~ 01时26分]"
         },
         {
+          "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
+          "url": "https://flash.jin10.com/detail/20251209021608071800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：在谷歌实验室的实验性人工智能应用Doppl中推出可购物的时尚发现信息流。",
+          "url": "https://flash.jin10.com/detail/20251209020747486800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
           "title": "消息人士称，软银、英伟达拟以140亿美元估值投资Skild AI，SKILD AI本轮融资有望筹集超过10亿美元。",
           "url": "https://flash.jin10.com/detail/20251208233633646800",
           "source": "金十数据",
@@ -102,7 +127,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -112,8 +137,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时40分]"
         },
         {
           "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
@@ -122,9 +147,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时40分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普计划的第一阶段任务，现在将集中精力解除加沙的武装并收缴哈马斯的武器。",
@@ -151,17 +187,6 @@
           "time_info": "[00时36分 ~ 01时26分]"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
-        },
-        {
           "title": "伊拉克West Qurna 2油田将在正常水平的基础上增产石油，从而弥补（特朗普政府对俄罗斯制裁）造成的的停产（损失）。",
           "url": "https://wallstreetcn.com/livenews/3017082",
           "source": "华尔街见闻-快讯",
@@ -171,6 +196,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
+          "url": "https://wallstreetcn.com/livenews/3017101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 英伟达 阿里巴巴",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "英伟达股价短线从183美元附近快速上涨，刷新日高至188美元，日内整体涨幅迅速扩大至2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3017114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
+          "url": "https://wallstreetcn.com/livenews/3017098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 02时40分]"
+        },
+        {
+          "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
+          "url": "https://www.cls.cn/detail/2223271",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时40分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)涨幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20251209021320565800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "英伟达(NVDA.O)股价迅速扩大至2%。",
+          "url": "https://flash.jin10.com/detail/20251209015818666800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         }
       ]
     },
@@ -186,8 +284,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时40分]"
         },
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -198,30 +296,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
-        },
-        {
-          "title": "十大券商看后市｜A股春季行情有望提前演绎，指数或迈上新台阶",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32127705",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时40分]"
         },
         {
           "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
           "url": "https://www.cls.cn/detail/2222901",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时40分]"
+        },
+        {
+          "title": "十大券商看后市｜A股春季行情有望提前演绎，指数或迈上新台阶",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32127705",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时40分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -231,8 +331,49 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 能源 储能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "报告：美国防部计划大规模囤积关键矿产，全球能源转型遭“资源截流”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32128501",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时40分]"
+        },
+        {
+          "title": "可再生能源公司NextEra Energy与埃克森美孚洽谈打造大型数据中心。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3017109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "热门中概股大全新能源涨5.18%，百度涨2.89%，世纪互联涨2.68%，名创优品涨2.36%，晶科能源、百胜中国等涨超1%。 携程则跌2.41%，文远知行跌2.31%，再鼎医药跌2.87%，亚朵跌3.15%，中通快递跌3.30%。",
+          "url": "https://wallstreetcn.com/livenews/3017052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     },
@@ -247,7 +388,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -274,63 +415,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 英伟达 阿里巴巴",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
-          "url": "https://wallstreetcn.com/livenews/3017098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
-          "url": "https://www.cls.cn/detail/2223271",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 能源 储能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "报告：美国防部计划大规模囤积关键矿产，全球能源转型遭“资源截流”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32128501",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
-        },
-        {
-          "title": "热门中概股大全新能源涨5.18%，百度涨2.89%，世纪互联涨2.68%，名创优品涨2.36%，晶科能源、百胜中国等涨超1%。 携程则跌2.41%，文远知行跌2.31%，再鼎医药跌2.87%，亚朵跌3.15%，中通快递跌3.30%。",
-          "url": "https://wallstreetcn.com/livenews/3017052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
         }
       ]
     }
