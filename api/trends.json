@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-08T14:43:52.364544+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2025-12-08T15:31:17.218974+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "特朗普：我对泽连斯基有点失望",
+          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时03分 ~ 15时31分]"
+        },
         {
           "title": "特朗普获国际足联和平奖",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
@@ -30,6 +41,18 @@
           "time_info": "[00时30分 ~ 14时43分]"
         },
         {
+          "title": "以总统拒绝特朗普“求情”",
+          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时03分 ~ 15时31分]"
+        },
+        {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
           "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
           "source": "澎湃新闻",
@@ -43,31 +66,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 14时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 15时31分]"
         },
         {
-          "title": "特朗普：我对泽连斯基有点失望",
-          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "title": "网飞与华纳达成收购协议，特朗普警告",
+          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
           "source": "凤凰网",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时03分 ~ 14时43分]"
+          "time_info": "[11时58分 ~ 15时31分]"
         },
         {
-          "title": "以总统拒绝特朗普“求情”",
-          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
-          "source": "凤凰网",
+          "title": "特朗普称对泽连斯基感到失望",
+          "url": "https://www.toutiao.com/trending/7581294692906716710/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9
+            20,
+            17,
+            18
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时03分 ~ 14时43分]"
+          "time_info": "[11时58分 ~ 15时31分]"
         },
         {
           "title": "特朗普长子：特朗普或退出乌和平进程",
@@ -92,30 +116,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时28分 ~ 11时58分]"
-        },
-        {
-          "title": "网飞与华纳达成收购协议，特朗普警告",
-          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 14时43分]"
-        },
-        {
-          "title": "特朗普称对泽连斯基感到失望",
-          "url": "https://www.toutiao.com/trending/7581294692906716710/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 14时43分]"
         },
         {
           "title": "特朗普：美国还有其他方式征收关税 目前的方法要直接得多",
@@ -228,6 +228,18 @@
           "time_info": "[11时58分 ~ 12时41分]"
         },
         {
+          "title": "特朗普国安战略报告提及台湾8次",
+          "url": "https://www.toutiao.com/trending/7580755612796354603/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
+        },
+        {
           "title": "特朗普将于美国东部时间周一下午2点（北京时间次日凌晨3点）参加圆桌会议。",
           "url": "https://flash.jin10.com/detail/20251208093150812800",
           "source": "金十数据",
@@ -286,7 +298,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
@@ -320,8 +332,31 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 15时31分]"
+        },
+        {
+          "title": "A股收盘：创业板指高开高走涨2.6%，全市场成交突破2万亿",
+          "url": "https://wallstreetcn.com/livenews/3016791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时40分 ~ 14时43分]"
+          "time_info": "[13时29分 ~ 15时31分]"
         },
         {
           "title": "A股机器人概念股震荡拉升，五洲新春午后涨停，飞龙股份、景业智能、豪能股份、中坚科技、泰尔股份等涨幅居前。",
@@ -348,16 +383,16 @@
           "time_info": "[13时30分 ~ 14时43分]"
         },
         {
-          "title": "A股行情",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "欧莱雅将所持高德美股份增持至20%。",
+          "url": "https://wallstreetcn.com/livenews/3016758",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            10
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 14时43分]"
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 15时31分]"
         },
         {
           "title": "评论员：留意A股冲高回落的风险",
@@ -371,15 +406,15 @@
           "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "欧莱雅将所持高德美股份增持至20%。",
-          "url": "https://wallstreetcn.com/livenews/3016758",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：A股每日市场要闻回顾（2025-12-08）",
+          "url": "https://flash.jin10.com/detail/20251208151812189800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时43分"
+          "time_info": "15时31分"
         },
         {
           "title": "A股券商股再度拉升，兴业证券直线涨停，东北证券涨超7%，中银证券、华泰证券、国泰海通、中信证券、广发证券等跟涨。",
@@ -410,7 +445,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -421,7 +456,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -451,7 +486,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
@@ -461,22 +496,37 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 14时43分]"
+          "appearance_count": 8,
+          "time_info": "[11时58分 ~ 15时31分]"
         },
         {
           "title": "华尔街一哥：AI明年或大量“吞噬”就业岗位 全社会应共同应对",
           "url": "https://www.cls.cn/detail/2222209",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 14时43分]"
+          "appearance_count": 8,
+          "time_info": "[11时58分 ~ 15时31分]"
+        },
+        {
+          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
+          "url": "https://www.cls.cn/detail/2222331",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 15时31分]"
         },
         {
           "title": "韩媒：韩日商界探讨人工智能与半导体合作",
@@ -488,18 +538,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
-        },
-        {
-          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
-          "url": "https://www.cls.cn/detail/2222331",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 14时43分]"
         },
         {
           "title": "12月8日午间收评：创业板指半日涨超3%，多只算力硬件股创新高",
@@ -515,6 +553,17 @@
           "time_info": "[11时58分 ~ 13时30分]"
         },
         {
+          "title": "A股高开高走，创业板涨超3%，稀土、算力硬件、券商股拉升，港股恒指跌逾1%，30年期国债期货拉升，万科债上涨",
+          "url": "https://wallstreetcn.com/articles/3760893",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
+        },
+        {
           "title": "A股高开，创业板涨超3%，算力硬件、券商股拉升，港股低开低走，有色低迷，30年期国债期货续跌，万科债上涨",
           "url": "https://wallstreetcn.com/articles/3760893",
           "source": "华尔街见闻",
@@ -524,6 +573,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
+          "url": "https://www.cls.cn/detail/2222429",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
         },
         {
           "title": "外媒关注中国发布全球首款AI手机",
@@ -587,7 +647,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         }
@@ -597,6 +657,19 @@
       "keyword_group": "电力 能源 储能",
       "match_count": 7,
       "titles": [
+        {
+          "title": "安徽一新能源车突然起火伴有爆炸声",
+          "url": "https://www.toutiao.com/trending/7580578070181052458/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 15时31分]"
+        },
         {
           "title": "国家能源局乡村振兴工作领导小组召开2025年第三次会议",
           "url": "https://wallstreetcn.com/livenews/3016699",
@@ -608,18 +681,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 13时30分]"
-        },
-        {
-          "title": "安徽一新能源车突然起火伴有爆炸声",
-          "url": "https://www.toutiao.com/trending/7580578070181052458/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 14时43分]"
         },
         {
           "title": "能源换和平 美国推动以色列重新与阿拉伯世界接轨",
@@ -681,7 +742,7 @@
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "荷兰大臣：没想到中方叫停芯片出口",
@@ -706,7 +767,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -746,6 +807,17 @@
           "time_info": "[10时03分 ~ 10时04分]"
         },
         {
+          "title": "上证指数收报3924.08点，涨0.54%。 深证成指收报13329.99点，涨1.39%。 创业板指收报3190.27点，涨2.60%。 沪深300收报4621.75点，涨0.81%。 科创50收报1350.80点，涨1.86%。 中证500收报7172.37点，涨1.05%。 中证1000收报7423.05点，涨1.10%。",
+          "url": "https://wallstreetcn.com/livenews/3016789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "上证指数开盘报3909.23点，涨0.16%。 深证成指开盘报13178.96点，涨0.24%。 创业板指开盘报3119.15点，涨0.32%。 沪深300开盘报4593.14点，涨0.19%。 科创50开盘报1325.97点，跌0.01%。 中证500开盘报7119.05点，涨0.30%。 中证1000开盘报7359.49点，涨0.23%。",
           "url": "https://wallstreetcn.com/livenews/3016552",
           "source": "华尔街见闻-快讯",
@@ -760,7 +832,7 @@
     },
     {
       "keyword_group": "商业航天 中国卫星 中国卫通",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "火箭箭体结构件已实现小批量交付 商业航天概念股20CM涨停 本周机构密集调研相关上市公司",
@@ -786,6 +858,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 07时23分]"
+        },
+        {
+          "title": "我国卫星发射数量保持快速增长 商业航天市场有望持续受益",
+          "url": "https://www.cls.cn/detail/2222174",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
         },
         {
           "title": "A股商业航天概念延续强势，顺灏股份7天6板，西部材料2连板，航天科技、广联航空、天箭科技、超捷股份等多股涨超6%。",
@@ -855,6 +938,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "洛阳钼业 江西铜业 铜陵有色 北方铜业 紫金矿业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股有色板块尾盘异动，精艺股份、闽发铝业双双涨停，鼎胜新材、北方铜业、电工合金、江西铜业等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3016773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     }
