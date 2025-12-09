@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T16:38:45.276268+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2025-12-09T17:31:23.643936+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -511,7 +511,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -544,7 +544,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -566,7 +566,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -585,7 +585,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -610,8 +610,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 16时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时36分 ~ 17时31分]"
         },
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -632,11 +632,26 @@
           "ranks": [
             11,
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 16时38分]"
+          "appearance_count": 8,
+          "time_info": "[11时53分 ~ 17时31分]"
+        },
+        {
+          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
+          "url": "https://www.zhihu.com/question/1980612606218756126",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时53分 ~ 17时31分]"
         },
         {
           "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
@@ -652,19 +667,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时02分 ~ 15时28分]"
-        },
-        {
-          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
-          "url": "https://www.zhihu.com/question/1980612606218756126",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 16时38分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
@@ -690,6 +692,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时02分 ~ 14时41分]"
+        },
+        {
+          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
+          "url": "https://www.cls.cn/detail/2223769",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 17时31分]"
         },
         {
           "title": "【每日收评】两市成交额重返2万亿！创业板指涨超2.5%，算力硬件、商业航天联袂领涨",
@@ -732,7 +748,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -748,17 +764,18 @@
           "time_info": "10时03分"
         },
         {
-          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
-          "url": "https://www.cls.cn/detail/2223769",
-          "source": "财联社热门",
+          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            6,
-            3
+            20,
+            13,
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时38分]"
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 17时31分]"
         },
         {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
@@ -823,17 +840,41 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
-          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://www.cls.cn/detail/2223956",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时31分]"
+        },
+        {
+          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            13,
-            12
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 16时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 17时31分]"
+        },
+        {
+          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
+          "url": "https://wallstreetcn.com/articles/3760976",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时31分]"
         },
         {
           "title": "A股收盘：创业板指冲高回落涨0.61%，算力硬件、福建板块持续走强",
@@ -848,6 +889,18 @@
           "time_info": "[15时28分 ~ 16时38分]"
         },
         {
+          "title": "NMIXX翻唱UP主AI版大东北",
+          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时31分]"
+        },
+        {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
           "url": "https://wallstreetcn.com/livenews/3017156",
           "source": "华尔街见闻-快讯",
@@ -858,6 +911,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时26分]"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，中方回应",
+          "url": "https://news.ifeng.com/c/8owfgsEZQEu",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时31分]"
         },
         {
           "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
@@ -932,18 +996,6 @@
           "time_info": "[00时36分 ~ 01时26分]"
         },
         {
-          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 16时38分]"
-        },
-        {
           "title": "奈飞(NFLX.O)首席执行官：公司计划利用人工智能提升流媒体平台的个性化推荐和广告效果。",
           "url": "https://flash.jin10.com/detail/20251209034031634800",
           "source": "金十数据",
@@ -954,17 +1006,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时22分]"
-        },
-        {
-          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
-          "url": "https://wallstreetcn.com/articles/3760976",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-09）",
@@ -984,7 +1025,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1006,31 +1047,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
         {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，中方回应",
-          "url": "https://news.ifeng.com/c/8owfgsEZQEu",
-          "source": "凤凰网",
+          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
+          "url": "https://wallstreetcn.com/articles/3760975",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "NMIXX翻唱UP主AI版大东北",
-          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "17时31分"
         },
         {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
@@ -1044,17 +1074,6 @@
           "time_info": "03时23分"
         },
         {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://www.cls.cn/detail/2223956",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
           "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
           "url": "https://flash.jin10.com/detail/20251209140918642800",
           "source": "金十数据",
@@ -1064,6 +1083,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "特朗普预告：本周将签行政令 为AI制定统一国家规则",
+          "url": "https://www.cls.cn/detail/2223447",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "英伟达(NVDA.O)盘前涨2%，消息面上，特朗普称批准向中国出售英伟达H200人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20251209170417929800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "字节跳动李亮：AI手机助手的本质是机主授权",
@@ -1083,7 +1124,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1124,7 +1165,7 @@
     },
     {
       "keyword_group": "谷歌 英伟达 阿里巴巴",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1135,8 +1176,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时02分 ~ 16时38分]"
+          "appearance_count": 10,
+          "time_info": "[10时02分 ~ 17时31分]"
         },
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -1148,8 +1189,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 16时38分]"
+          "appearance_count": 8,
+          "time_info": "[11时53分 ~ 17时31分]"
         },
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -1273,6 +1314,17 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时31分]"
+        },
+        {
           "title": "英伟达美股盘后涨1.4%。英特尔涨0.37%，AMD涨0.67%。",
           "url": "https://wallstreetcn.com/livenews/3017174",
           "source": "华尔街见闻-快讯",
@@ -1321,6 +1373,18 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
+          "title": "中方回应美将对华出售英伟达H200芯片",
+          "url": "https://www.toutiao.com/trending/7581381032269021211/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时31分]"
+        },
+        {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
           "url": "https://flash.jin10.com/detail/20251209034556231800",
           "source": "金十数据",
@@ -1350,7 +1414,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1361,18 +1425,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1399,15 +1452,15 @@
           "time_info": "07时26分"
         },
         {
-          "title": "中方回应美将对华出售英伟达H200芯片",
-          "url": "https://www.toutiao.com/trending/7581381032269021211/",
-          "source": "今日头条",
+          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3017543",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "17时31分"
         },
         {
           "title": "英伟达(NVDA.O)股价迅速扩大至2%。",
@@ -1457,7 +1510,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -1713,6 +1766,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "港股新股宝济药业-B暗盘一度涨超100%。",
+          "url": "https://wallstreetcn.com/livenews/3017538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "A股光伏概念午后局部异动，清源股份直线涨停。",
           "url": "https://wallstreetcn.com/livenews/3017417",
           "source": "华尔街见闻-快讯",
@@ -1774,6 +1838,18 @@
           "time_info": "01时26分"
         },
         {
+          "title": "外交部回应美批准对华出售H200芯片",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%89%B9%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时31分]"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)芯片主管向员工表示，他“近期不会离职”。",
           "url": "https://flash.jin10.com/detail/20251209001811217800",
           "source": "金十数据",
@@ -1784,6 +1860,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时26分]"
+        },
+        {
+          "title": "扒一扒生不逢时的H200芯片",
+          "url": "https://www.toutiao.com/trending/7581715999355833865/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 17时31分]"
         },
         {
           "title": "上证指数收报3909.52点，跌0.37%。 深证成指收报13277.36点，跌0.39%。 创业板指收报3209.60点，涨0.61%。 沪深300收报4598.22点，跌0.51%。 科创50收报1347.11点，跌0.27%。 中证500收报7121.33点，跌0.71%。 中证1000收报7380.58点，跌0.57%。",
@@ -1822,18 +1911,6 @@
           "time_info": "[11时54分 ~ 12时35分]"
         },
         {
-          "title": "扒一扒生不逢时的H200芯片",
-          "url": "https://www.toutiao.com/trending/7581715999355833865/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 16时38分]"
-        },
-        {
           "title": "上证指数开盘报3916.51点，跌0.19%。 深证成指开盘报13295.62点，跌0.26%。 创业板指开盘报3183.61点，跌0.21%。 沪深300开盘报4611.38点，跌0.22%。 科创50开盘报1338.85点，跌0.88%。 中证500开盘报7150.97点，跌0.30%。 中证1000开盘报7400.93点，跌0.30%。",
           "url": "https://wallstreetcn.com/livenews/3017261",
           "source": "华尔街见闻-快讯",
@@ -1845,24 +1922,13 @@
           "time_info": "10时03分"
         },
         {
-          "title": "外交部回应美批准对华出售H200芯片",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%89%B9%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
           "title": "多款芯片面临涨价潮",
           "url": "https://www.toutiao.com/trending/7581687319896264234/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         }
@@ -1980,7 +2046,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -2005,6 +2071,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色金属 北方稀土 中国稀土",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月09日（周二）富时中国A50指数成分股午盘收盘行情一览：成分股大面积飘绿，酿酒、有色金属跌幅居前",
+          "url": "https://flash.jin10.com/detail/20251209113552589800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时35分]"
+        },
+        {
+          "title": "有色金属行业计量技术委员会2025年年会在福建厦门召开",
+          "url": "https://wallstreetcn.com/livenews/3017438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时28分]"
+        },
+        {
+          "title": "LME有色金属库存日报",
+          "url": "https://flash.jin10.com/detail/20251209170104256800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     },
@@ -2049,36 +2156,6 @@
       ]
     },
     {
-      "keyword_group": "有色金属 北方稀土 中国稀土",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月09日（周二）富时中国A50指数成分股午盘收盘行情一览：成分股大面积飘绿，酿酒、有色金属跌幅居前",
-          "url": "https://flash.jin10.com/detail/20251209113552589800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时35分]"
-        },
-        {
-          "title": "有色金属行业计量技术委员会2025年年会在福建厦门召开",
-          "url": "https://wallstreetcn.com/livenews/3017438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 15时28分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "豆包 deepseek 千问",
       "match_count": 1,
       "titles": [
@@ -2089,7 +2166,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         }
