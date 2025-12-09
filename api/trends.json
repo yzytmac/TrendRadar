@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-09T21:42:06.261106+08:00",
-  "total_titles_processed": 1887,
+  "generated_at": "2025-12-09T22:30:30.065455+08:00",
+  "total_titles_processed": 1974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 63,
+      "match_count": 68,
       "titles": [
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://www.cls.cn/detail/2223956",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时38分 ~ 22时30分]"
+        },
         {
           "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
           "url": "https://www.cls.cn/detail/2223631",
@@ -48,21 +63,6 @@
           "time_info": "[00时36分 ~ 17时31分]"
         },
         {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://www.cls.cn/detail/2223956",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时38分 ~ 21时42分]"
-        },
-        {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
           "url": "https://www.cls.cn/detail/2223368",
           "source": "财联社热门",
@@ -90,6 +90,19 @@
           "time_info": "[14时41分 ~ 20时58分]"
         },
         {
+          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
+          "url": "https://wallstreetcn.com/articles/3760976",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时38分 ~ 22时30分]"
+        },
+        {
           "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
           "url": "https://www.zhihu.com/question/1980612606218756126",
           "source": "知乎",
@@ -105,17 +118,31 @@
           "time_info": "[11时53分 ~ 19时25分]"
         },
         {
-          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
-          "url": "https://wallstreetcn.com/articles/3760976",
-          "source": "华尔街见闻",
+          "title": "NMIXX翻唱UP主AI版大东北",
+          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            6,
-            4
+            11,
+            8,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时38分 ~ 21时42分]"
+          "appearance_count": 11,
+          "time_info": "[16时38分 ~ 22时30分]"
+        },
+        {
+          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
+          "url": "https://wallstreetcn.com/articles/3760975",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时31分 ~ 22时30分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -127,11 +154,12 @@
             12,
             14,
             11,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时27分 ~ 21时42分]"
+          "appearance_count": 14,
+          "time_info": "[13时27分 ~ 22时30分]"
         },
         {
           "title": "马上评｜用AI写年度总结与职场人的“AI化”",
@@ -146,22 +174,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时28分 ~ 21时42分]"
+          "appearance_count": 12,
+          "time_info": "[15时28分 ~ 22时30分]"
         },
         {
-          "title": "NMIXX翻唱UP主AI版大东北",
-          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
-          "source": "bilibili 热搜",
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            8,
+            19,
+            17,
             9,
             7
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[16时38分 ~ 21时42分]"
+          "time_info": "[18时32分 ~ 22时30分]"
         },
         {
           "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
@@ -190,19 +218,6 @@
           "time_info": "[16时38分 ~ 21时42分]"
         },
         {
-          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
-          "url": "https://wallstreetcn.com/articles/3760975",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 21时42分]"
-        },
-        {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
           "url": "https://www.cls.cn/detail/2223387",
           "source": "财联社热门",
@@ -221,19 +236,6 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时32分 ~ 21时42分]"
-        },
-        {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
             9
           ],
           "is_new": false,
@@ -265,6 +267,18 @@
           "time_info": "[00时36分 ~ 05时22分]"
         },
         {
+          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时57分 ~ 22时30分]"
+        },
+        {
           "title": "创业板指涨超1%，沪指跌0.04%，深成指涨0.31%，算力硬件、创新药、影视、商业航天等方向领涨，沪深京三市上涨个股超2200只。",
           "url": "https://wallstreetcn.com/livenews/3017296",
           "source": "华尔街见闻-快讯",
@@ -293,7 +307,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -318,17 +332,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
-        },
-        {
-          "title": "微软：将在未来四年内向印度的人工智能和云计算领域投资175亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3017724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
         },
         {
           "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
@@ -426,15 +429,28 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
-          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
-          "source": "澎湃新闻",
+          "title": "微软：将在未来四年内向印度的人工智能和云计算领域投资175亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3017724",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时30分]"
+        },
+        {
+          "title": "【每日收评】三大指数冲高回落涨跌互现，全市场超4000股飘绿，算力硬件股持续走强",
+          "url": "https://www.cls.cn/detail/2224101",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[20时57分 ~ 21时42分]"
+          "time_info": "[21时41分 ~ 22时30分]"
         },
         {
           "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
@@ -495,17 +511,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时41分 ~ 15时28分]"
-        },
-        {
-          "title": "【每日收评】三大指数冲高回落涨跌互现，全市场超4000股飘绿，算力硬件股持续走强",
-          "url": "https://www.cls.cn/detail/2224101",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
         },
         {
           "title": "12月9日午间收评：创业板指半日涨超1%，算力硬件股持续走强",
@@ -590,6 +595,17 @@
           "time_info": "12时35分"
         },
         {
+          "title": "存储AI初创公司Fal按45亿美元估值融资，由Sequoia（红杉资本）领投。",
+          "url": "https://wallstreetcn.com/livenews/3017744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        },
+        {
           "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
           "url": "https://flash.jin10.com/detail/20251209161139815800",
           "source": "金十数据",
@@ -645,6 +661,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "OpenAI：推出我们的首期OpenAI认证课程。",
+          "url": "https://flash.jin10.com/detail/20251209221233954800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        },
+        {
           "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
           "url": "https://flash.jin10.com/detail/20251209140918642800",
           "source": "金十数据",
@@ -676,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
+        },
+        {
+          "title": "摩根大通公布2026年全球另类投资展望，强调了人工智能繁荣时期私人市场投资者的机会。",
+          "url": "https://flash.jin10.com/detail/20251209220107980800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
         },
         {
           "title": "英伟达(NVDA.O)盘前涨2%，消息面上，特朗普称批准向中国出售英伟达H200人工智能芯片。",
@@ -739,9 +777,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "微软宣布未来四年将在印度投入175亿美元发展人工智能",
+          "url": "https://flash.jin10.com/detail/20251209215045442800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        },
+        {
+          "title": "Meta可能在明年初推出新AI大模型Avocado",
+          "url": "https://flash.jin10.com/detail/20251209214816921800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
         },
         {
           "title": "中信证券：空间算力进一步打开行业天花板，为相关产业链带来巨大的发展契机",
@@ -769,7 +829,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
@@ -805,6 +865,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时27分 ~ 15时28分]"
+        },
+        {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时57分 ~ 22时30分]"
         },
         {
           "title": "据Politico：美国总统特朗普表示，欧洲国家“正在走向衰败”，领导人“软弱”。",
@@ -977,17 +1049,6 @@
           "time_info": "[04时31分 ~ 05时22分]"
         },
         {
-          "title": "采访中特朗普突然发飙怒斥记者",
-          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 21时42分]"
-        },
-        {
           "title": "特朗普女婿，“杀回来了”",
           "url": "https://news.ifeng.com/c/8owSp96lgRc",
           "source": "凤凰网",
@@ -1012,6 +1073,17 @@
           "time_info": "[02时40分 ~ 04时31分]"
         },
         {
+          "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
+          "url": "https://news.ifeng.com/c/8owt7VBi7fc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普计划的第一阶段任务，现在将集中精力解除加沙的武装并收缴哈马斯的武器。",
           "url": "https://flash.jin10.com/detail/20251209001747407800",
           "source": "金十数据",
@@ -1034,6 +1106,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时26分]"
+        },
+        {
+          "title": "特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3017721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时30分]"
         },
         {
           "title": "美国总统特朗普：我想做正确的事。奈飞和派拉蒙都不是我的朋友。我得看看奈飞和派拉蒙的市场份额占比。",
@@ -1192,6 +1276,17 @@
           "time_info": "[14时41分 ~ 15时28分]"
         },
         {
+          "title": "小特朗普施压乌克兰释放何信号",
+          "url": "https://www.toutiao.com/trending/7581805550308970047/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-09）",
           "url": "https://flash.jin10.com/detail/20251209181308403800",
           "source": "金十数据",
@@ -1220,7 +1315,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1234,17 +1329,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3017721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
         },
         {
           "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
@@ -1363,7 +1447,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1385,7 +1469,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1410,6 +1494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "匈牙利外长西雅尔多表示，匈牙利总理欧尔班与美国总统特朗普已同意就一种新型金融合作展开谈判，这种合作有望提供金融保障。",
+          "url": "https://flash.jin10.com/detail/20251209215314638800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
         },
         {
           "title": "美国总统特朗普：我们将向农民提供120亿美元的援助。",
@@ -1478,6 +1573,17 @@
           "time_info": "11时54分"
         },
         {
+          "title": "特朗普政府秘密制定计划，为马杜罗下台做准备",
+          "url": "https://flash.jin10.com/detail/20251209214613634800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        },
+        {
           "title": "据Politico，特朗普称降息是美联储主席的试金石。",
           "url": "https://wallstreetcn.com/livenews/3017651",
           "source": "华尔街见闻-快讯",
@@ -1503,7 +1609,7 @@
     },
     {
       "keyword_group": "谷歌 英伟达 阿里巴巴",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1511,11 +1617,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时02分 ~ 21时42分]"
+          "appearance_count": 19,
+          "time_info": "[10时02分 ~ 22时30分]"
         },
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -1531,6 +1638,20 @@
           "time_info": "[11时53分 ~ 17时31分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时38分 ~ 22时30分]"
+        },
+        {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
           "url": "https://www.cls.cn/detail/2223271",
           "source": "财联社热门",
@@ -1543,20 +1664,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时36分 ~ 13时27分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时38分 ~ 21时42分]"
         },
         {
           "title": "英伟达获准对华出售H200芯片",
@@ -1579,6 +1686,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
+          "title": "【焦点复盘】市场再陷缩量普跌，资金持续抱团英伟达链，商业航天概念表现分化",
+          "url": "https://www.cls.cn/detail/2224158",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时57分 ~ 22时30分]"
         },
         {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
@@ -1619,18 +1738,6 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
-          "title": "【焦点复盘】市场再陷缩量普跌，资金持续抱团英伟达链，商业航天概念表现分化",
-          "url": "https://www.cls.cn/detail/2224158",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 21时42分]"
-        },
-        {
           "title": "美国部分芯片股盘后走强，英伟达(NVDA.O)涨1.2%，AMD(AMD.O)涨近1%，英特尔(INTC.O)涨0.4%。",
           "url": "https://flash.jin10.com/detail/20251209053351805800",
           "source": "金十数据",
@@ -1665,6 +1772,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
+          "title": "美利率决议前市场谨慎，美股指期货集体转跌，欧美债市承压，英伟达涨幅收窄，现货黄金重新站上4200美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
         },
         {
           "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
@@ -1713,6 +1831,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时27分]"
+        },
+        {
+          "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2224567",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
         },
         {
           "title": "英伟达(NVDA.O)涨幅扩大至3%。",
@@ -1886,7 +2015,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -1966,6 +2095,17 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
+          "title": "近期港股为何在三地中走得更弱？",
+          "url": "https://wallstreetcn.com/articles/3761002",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时57分 ~ 22时30分]"
+        },
+        {
           "title": "澜起科技港股上市获中国证监会备案",
           "url": "https://wallstreetcn.com/livenews/3017626",
           "source": "华尔街见闻-快讯",
@@ -1999,17 +2139,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时26分]"
-        },
-        {
-          "title": "近期港股为何在三地中走得更弱？",
-          "url": "https://wallstreetcn.com/articles/3761002",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 21时42分]"
         },
         {
           "title": "周一（12月8日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨2.01%，报91405美元。 CME以太币期货DCR主力合约涨4.13%，报3154.50美元。 美股加密货币与加密货币关联指数涨1.91%，报70.39点。 最近24小时，MarketVector数字资产100小盘指数涨2.69%，暂报4159.64点。",
@@ -2120,6 +2249,17 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
+          "title": "A股成交1.9万亿缩量1327亿",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%88%90%E4%BA%A41.9%E4%B8%87%E4%BA%BF%E7%BC%A9%E9%87%8F1327%E4%BA%BF%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        },
+        {
           "title": "CoreWeave美股盘前下跌1.7%，公司将1.75%的可转换优先票据定价为22.5亿美元，高于最初计划的20亿美元。",
           "url": "https://wallstreetcn.com/livenews/3017684",
           "source": "华尔街见闻-快讯",
@@ -2142,6 +2282,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3017743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-09）",
           "url": "https://flash.jin10.com/detail/20251209091045763800",
           "source": "金十数据",
@@ -2162,6 +2313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "美股三大股指期货集体转跌，纳指期货跌0.14%，标普500指数期货跌0.05%，道指期货跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3017732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
         },
         {
           "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
