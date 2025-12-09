@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T11:54:10.336052+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2025-12-09T12:35:40.663491+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
@@ -168,6 +168,17 @@
           "time_info": "[04时31分 ~ 05时22分]"
         },
         {
+          "title": "美议员急了：特朗普你得拉一把日本啊",
+          "url": "https://news.ifeng.com/c/8owI9R84r47",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 12时35分]"
+        },
+        {
           "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
           "url": "https://wallstreetcn.com/livenews/3017101",
           "source": "华尔街见闻-快讯",
@@ -251,17 +262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时26分]"
-        },
-        {
-          "title": "美议员急了：特朗普你得拉一把日本啊",
-          "url": "https://news.ifeng.com/c/8owI9R84r47",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
         },
         {
           "title": "美国总统特朗普：通货膨胀还会进一步下降，但不会通货紧缩。",
@@ -509,7 +509,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         }
@@ -517,7 +517,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -541,8 +541,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 11时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 12时35分]"
         },
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -553,8 +553,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 11时54分]"
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 12时35分]"
         },
         {
           "title": "【每日收评】两市成交额重返2万亿！创业板指涨超2.5%，算力硬件、商业航天联袂领涨",
@@ -600,6 +600,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
+          "url": "https://www.zhihu.com/question/1980286689260900620",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 12时35分]"
+        },
+        {
+          "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
+          "url": "https://www.cls.cn/detail/2223631",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 12时35分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 12时35分]"
+        },
+        {
+          "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
+          "url": "https://www.cls.cn/detail/2223334",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 12时35分]"
         },
         {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
@@ -652,38 +699,15 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
-          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
-          "url": "https://www.zhihu.com/question/1980286689260900620",
+          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
+          "url": "https://www.zhihu.com/question/1980612606218756126",
           "source": "知乎",
           "ranks": [
-            12,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 11时54分]"
-        },
-        {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 11时54分]"
-        },
-        {
-          "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
-          "url": "https://www.cls.cn/detail/2223334",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 11时54分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 12时35分]"
         },
         {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
@@ -698,17 +722,6 @@
           "time_info": "[05时22分 ~ 06时26分]"
         },
         {
-          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
-          "url": "https://www.zhihu.com/question/1980612606218756126",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
-        },
-        {
           "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
           "url": "https://flash.jin10.com/detail/20251209021608071800",
           "source": "金十数据",
@@ -721,15 +734,16 @@
           "time_info": "[02时40分 ~ 03时23分]"
         },
         {
-          "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
-          "url": "https://www.cls.cn/detail/2223631",
-          "source": "财联社热门",
+          "title": "12月9日午间收评：创业板指半日涨超1%，算力硬件股持续走强",
+          "url": "https://wallstreetcn.com/livenews/3017353",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
+          "time_info": "[11时54分 ~ 12时35分]"
         },
         {
           "title": "综合知情人士透露的消息和条款清单来看，软银和英伟达正在洽谈投资人工智能公司Skild AI。 Skild AI可能会按140亿美元估值融资10亿美元。 谈判细节仍存在变数，但该交易预计将在圣诞节前完成。（路透）",
@@ -780,6 +794,17 @@
           "time_info": "[04时31分 ~ 05时22分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-09）",
+          "url": "https://flash.jin10.com/detail/20251209115134820800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
           "url": "https://flash.jin10.com/detail/20251209023449862800",
           "source": "金十数据",
@@ -791,24 +816,13 @@
           "time_info": "03时23分"
         },
         {
-          "title": "12月9日午间收评：创业板指半日涨超1%，算力硬件股持续走强",
-          "url": "https://wallstreetcn.com/livenews/3017353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
           "title": "蚂蚁旗下通用AI助手灵光上线网页版",
           "url": "https://wallstreetcn.com/livenews/3017332",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -838,7 +852,7 @@
     },
     {
       "keyword_group": "谷歌 英伟达 阿里巴巴",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -847,11 +861,12 @@
           "ranks": [
             12,
             11,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 11时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 12时35分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -861,24 +876,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 11时54分]"
-        },
-        {
-          "title": "英伟达获准对华出售H200芯片",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8E%B7%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 12时35分]"
         },
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
           "url": "https://www.cls.cn/detail/2223487",
           "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 12时35分]"
+        },
+        {
+          "title": "英伟达获准对华出售H200芯片",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8E%B7%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
           "ranks": [
             4
           ],
@@ -1042,6 +1057,17 @@
           "time_info": "[10时02分 ~ 10时03分]"
         },
         {
+          "title": "谷歌与XREAL联合发布Project Aura",
+          "url": "https://wallstreetcn.com/livenews/3017367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "英伟达美股盘后涨幅扩大至2.7%。",
           "url": "https://wallstreetcn.com/livenews/3017185",
           "source": "华尔街见闻-快讯",
@@ -1092,7 +1118,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         }
@@ -1100,7 +1126,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -1113,6 +1139,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 10时03分]"
+        },
+        {
+          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
+          "url": "https://www.cls.cn/detail/2223379",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 12时35分]"
         },
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -1129,18 +1167,6 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
-          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
-          "url": "https://www.cls.cn/detail/2223379",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 11时54分]"
-        },
-        {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
           "url": "https://www.cls.cn/detail/2223257",
           "source": "财联社热门",
@@ -1150,8 +1176,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 11时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 12时35分]"
         },
         {
           "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
@@ -1289,6 +1315,17 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
+          "title": "港股歌礼制药股价飙升，因口服减肥药取得积极顶线数据",
+          "url": "https://wallstreetcn.com/livenews/3017377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "分析人士认为，当前A股市场或仍处于超跌修复演绎中，赚钱效应回暖后交投情绪有望进一步回升，跨年行情有望徐徐展开。（中证报）",
           "url": "https://wallstreetcn.com/livenews/3017189",
           "source": "华尔街见闻-快讯",
@@ -1350,8 +1387,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 11时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 12时35分]"
         },
         {
           "title": "可再生能源公司NextEra Energy旗下开发部门与埃克森美孚洽谈为大型数据中心修建天然气发电站。（CNBC）",
@@ -1466,11 +1503,12 @@
           "url": "https://wallstreetcn.com/livenews/3017355",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时35分]"
         },
         {
           "title": "上证指数开盘报3916.51点，跌0.19%。 深证成指开盘报13295.62点，跌0.26%。 创业板指开盘报3183.61点，跌0.21%。 沪深300开盘报4611.38点，跌0.22%。 科创50开盘报1338.85点，跌0.88%。 中证500开盘报7150.97点，跌0.30%。 中证1000开盘报7400.93点，跌0.30%。",
@@ -1507,7 +1545,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         }
@@ -1522,11 +1560,12 @@
           "url": "https://flash.jin10.com/detail/20251209113552589800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时35分]"
         }
       ]
     },
