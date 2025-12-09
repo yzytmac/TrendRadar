@@ -1,835 +1,11 @@
 {
-  "generated_at": "2025-12-09T22:30:30.065455+08:00",
-  "total_titles_processed": 1974,
+  "generated_at": "2025-12-09T23:32:16.510979+08:00",
+  "total_titles_processed": 2081,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 人工智能 算力",
-      "match_count": 68,
-      "titles": [
-        {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://www.cls.cn/detail/2223956",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时38分 ~ 22时30分]"
-        },
-        {
-          "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
-          "url": "https://www.cls.cn/detail/2223631",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时53分 ~ 18时33分]"
-        },
-        {
-          "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
-          "url": "https://www.zhihu.com/question/1981321831689511959",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 10时03分]"
-        },
-        {
-          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
-          "url": "https://wallstreetcn.com/articles/3760893",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 17时31分]"
-        },
-        {
-          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
-          "url": "https://www.cls.cn/detail/2223368",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 15时28分]"
-        },
-        {
-          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
-          "url": "https://www.cls.cn/detail/2223769",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时41分 ~ 20时58分]"
-        },
-        {
-          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
-          "url": "https://wallstreetcn.com/articles/3760976",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时38分 ~ 22时30分]"
-        },
-        {
-          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
-          "url": "https://www.zhihu.com/question/1980612606218756126",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            3,
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时53分 ~ 19时25分]"
-        },
-        {
-          "title": "NMIXX翻唱UP主AI版大东北",
-          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时38分 ~ 22时30分]"
-        },
-        {
-          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
-          "url": "https://wallstreetcn.com/articles/3760975",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时31分 ~ 22时30分]"
-        },
-        {
-          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13,
-            12,
-            14,
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时27分 ~ 22时30分]"
-        },
-        {
-          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时28分 ~ 22时30分]"
-        },
-        {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时32分 ~ 22时30分]"
-        },
-        {
-          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
-          "url": "https://www.zhihu.com/question/1980286689260900620",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            7,
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 15时28分]"
-        },
-        {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，中方回应",
-          "url": "https://news.ifeng.com/c/8owfgsEZQEu",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时38分 ~ 21时42分]"
-        },
-        {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 15时28分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时32分 ~ 21时42分]"
-        },
-        {
-          "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
-          "url": "https://www.cls.cn/detail/2223334",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时02分 ~ 14时41分]"
-        },
-        {
-          "title": "【每日收评】两市成交额重返2万亿！创业板指涨超2.5%，算力硬件、商业航天联袂领涨",
-          "url": "https://www.cls.cn/detail/2222837",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时22分]"
-        },
-        {
-          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时57分 ~ 22时30分]"
-        },
-        {
-          "title": "创业板指涨超1%，沪指跌0.04%，深成指涨0.31%，算力硬件、创新药、影视、商业航天等方向领涨，沪深京三市上涨个股超2200只。",
-          "url": "https://wallstreetcn.com/livenews/3017296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "摩根大通CEO戴蒙：（谈人工智能）也许有一天，我们会工作不那么辛苦，但生活却更加美好。",
-          "url": "https://flash.jin10.com/detail/20251209093951615800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "微软首席执行官在X平台发文表示，微软将投入175亿美元支持印度的AI发展。",
-          "url": "https://flash.jin10.com/detail/20251209211204523800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "布鲁克菲尔德与卡塔尔联手启动200亿美元AI基建投资",
-          "url": "https://flash.jin10.com/detail/20251209181911754800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "群核科技发布Aholo空间智能开放平台，CEO陈航：AI只会让设计师能做的事越来越多",
-          "url": "https://wallstreetcn.com/livenews/3017625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
-          "url": "https://flash.jin10.com/detail/20251209161413716800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "据华尔街日报：Anthropic与埃森哲达成三年协议，将联合销售人工智能服务。",
-          "url": "https://flash.jin10.com/detail/20251209203053294800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "Aware 首席信息官警告人工智能融资将亮起 \"橙色 \"灯",
-          "url": "https://wallstreetcn.com/livenews/3017286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
-          "url": "https://wallstreetcn.com/livenews/3017099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时23分]"
-        },
-        {
-          "title": "摩根大通CEO戴蒙召集亚马逊创始人贝佐斯等人组建顾问超级小组，助力提高美国韧性的计划。10月，摩根大通的负责人宣布了一项1.5万亿美元的计划，旨在加强美国的稀土和人工智能等关键技术。",
-          "url": "https://flash.jin10.com/detail/20251209055332882800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "A股算力概念再度拉升，宏景科技、东方材料触及涨停，此前中创环保、鸿博股份涨停，慧辰股份、光环新网、奥飞数据、平治信息等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3017446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 15时28分]"
-        },
-        {
-          "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
-          "url": "https://wallstreetcn.com/livenews/3017096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时23分]"
-        },
-        {
-          "title": "美国食品药品监督管理局（FDA）：已批准首个基于人工智能的药物开发工具——基于人工智能的非酒精性脂肪性肝炎组织学测量工具（AIM-NASH）。",
-          "url": "https://flash.jin10.com/detail/20251209054059438800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "微软：将在未来四年内向印度的人工智能和云计算领域投资175亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3017724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时30分]"
-        },
-        {
-          "title": "【每日收评】三大指数冲高回落涨跌互现，全市场超4000股飘绿，算力硬件股持续走强",
-          "url": "https://www.cls.cn/detail/2224101",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时41分 ~ 22时30分]"
-        },
-        {
-          "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
-          "url": "https://www.zhihu.com/question/1981675433712976771",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 20时58分]"
-        },
-        {
-          "title": "A股收盘：创业板指冲高回落涨0.61%，算力硬件、福建板块持续走强",
-          "url": "https://wallstreetcn.com/livenews/3017466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 16时38分]"
-        },
-        {
-          "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
-          "url": "https://wallstreetcn.com/livenews/3017156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时26分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
-          "url": "https://flash.jin10.com/detail/20251209021608071800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时23分]"
-        },
-        {
-          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
-          "url": "https://wallstreetcn.com/livenews/3017432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 15时28分]"
-        },
-        {
-          "title": "12月9日午间收评：创业板指半日涨超1%，算力硬件股持续走强",
-          "url": "https://wallstreetcn.com/livenews/3017353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时35分]"
-        },
-        {
-          "title": "综合知情人士透露的消息和条款清单来看，软银和英伟达正在洽谈投资人工智能公司Skild AI。 Skild AI可能会按140亿美元估值融资10亿美元。 谈判细节仍存在变数，但该交易预计将在圣诞节前完成。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3017070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：在谷歌实验室的实验性人工智能应用Doppl中推出可购物的时尚发现信息流。",
-          "url": "https://flash.jin10.com/detail/20251209020747486800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时23分]"
-        },
-        {
-          "title": "OpenAI报告称：企业人工智能应用激增",
-          "url": "https://wallstreetcn.com/livenews/3017061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时26分]"
-        },
-        {
-          "title": "奈飞(NFLX.O)首席执行官：公司计划利用人工智能提升流媒体平台的个性化推荐和广告效果。",
-          "url": "https://flash.jin10.com/detail/20251209034031634800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时22分]"
-        },
-        {
-          "title": "商汤医疗：信任、数据与商业模式是当前AI医疗三大瓶颈",
-          "url": "https://wallstreetcn.com/livenews/3017622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-09）",
-          "url": "https://flash.jin10.com/detail/20251209115134820800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "存储AI初创公司Fal按45亿美元估值融资，由Sequoia（红杉资本）领投。",
-          "url": "https://wallstreetcn.com/livenews/3017744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时30分"
-        },
-        {
-          "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
-          "url": "https://flash.jin10.com/detail/20251209161139815800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "努比亚总裁：AI手机发展势不可逆；抖音集团李亮：AI一定是未来",
-          "url": "https://wallstreetcn.com/livenews/3017390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
-          "url": "https://wallstreetcn.com/articles/3760944",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "达利欧：未来两年全球经济“岌岌可危”，不要因为AI估值过高就急于退出",
-          "url": "https://wallstreetcn.com/articles/3760952",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "谷歌：首款人工智能眼镜将于2026年问世",
-          "url": "https://flash.jin10.com/detail/20251209023449862800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "OpenAI：推出我们的首期OpenAI认证课程。",
-          "url": "https://flash.jin10.com/detail/20251209221233954800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时30分"
-        },
-        {
-          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
-          "url": "https://flash.jin10.com/detail/20251209140918642800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "特朗普预告：本周将签行政令 为AI制定统一国家规则",
-          "url": "https://www.cls.cn/detail/2223447",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "市场消息：微软(MSFT.O)宣布加大在加拿大的投入，斥资190亿加元布局人工智能。",
-          "url": "https://flash.jin10.com/detail/20251209190226779800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "摩根大通公布2026年全球另类投资展望，强调了人工智能繁荣时期私人市场投资者的机会。",
-          "url": "https://flash.jin10.com/detail/20251209220107980800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时30分"
-        },
-        {
-          "title": "英伟达(NVDA.O)盘前涨2%，消息面上，特朗普称批准向中国出售英伟达H200人工智能芯片。",
-          "url": "https://flash.jin10.com/detail/20251209170417929800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "字节跳动李亮：AI手机助手的本质是机主授权",
-          "url": "https://wallstreetcn.com/livenews/3017448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "Brookfield与卡塔尔携手开展200亿美元人工智能投资项目。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3017572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3017485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "蚂蚁旗下通用AI助手灵光上线网页版",
-          "url": "https://wallstreetcn.com/livenews/3017332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "摩根大通：预计2026年新兴市场股票表现将优于发达市场。 认为中国人工智能股票比美国同业的价格更优惠。",
-          "url": "https://wallstreetcn.com/livenews/3017702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "微软宣布未来四年将在印度投入175亿美元发展人工智能",
-          "url": "https://flash.jin10.com/detail/20251209215045442800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时30分"
-        },
-        {
-          "title": "Meta可能在明年初推出新AI大模型Avocado",
-          "url": "https://flash.jin10.com/detail/20251209214816921800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时30分"
-        },
-        {
-          "title": "中信证券：空间算力进一步打开行业天花板，为相关产业链带来巨大的发展契机",
-          "url": "https://wallstreetcn.com/livenews/3017239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "消息人士称，软银、英伟达拟以140亿美元估值投资Skild AI，SKILD AI本轮融资有望筹集超过10亿美元。",
-          "url": "https://flash.jin10.com/detail/20251208233633646800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
@@ -872,11 +48,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时57分 ~ 22时30分]"
+          "appearance_count": 8,
+          "time_info": "[20时57分 ~ 23时32分]"
         },
         {
           "title": "据Politico：美国总统特朗普表示，欧洲国家“正在走向衰败”，领导人“软弱”。",
@@ -910,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
+        },
+        {
+          "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
+          "url": "https://news.ifeng.com/c/8owt7VBi7fc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时29分 ~ 23时32分]"
         },
         {
           "title": "美国总统特朗普：欧盟对社交媒体平台“X”的罚款是“卑鄙的做法”。",
@@ -1073,15 +261,15 @@
           "time_info": "[02时40分 ~ 04时31分]"
         },
         {
-          "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
-          "url": "https://news.ifeng.com/c/8owt7VBi7fc",
+          "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
+          "url": "https://news.ifeng.com/c/8ox8rZbN56k",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时29分 ~ 22时30分]"
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普计划的第一阶段任务，现在将集中精力解除加沙的武装并收缴哈马斯的武器。",
@@ -1178,6 +366,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时22分]"
+        },
+        {
+          "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
+          "url": "https://wallstreetcn.com/articles/3761018",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
+        },
+        {
+          "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
+          "url": "https://www.cls.cn/detail/2224247",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "美国总统特朗普：我对Paramount敌意收购华纳兄弟探索公司的情况了解得不够多。 必须看看Paramount的市场份额。 还没有与库什纳讨论过Paramount的交易问题。 奈飞和Paramount都不是我的好朋友。",
@@ -1430,6 +640,17 @@
           "time_info": "19时25分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普政府停摆事件对数据有太多的影响。 在正常情况下，政府关门会造成信心崩塌。 总统特朗普会陈述经济的实情。",
+          "url": "https://wallstreetcn.com/livenews/3017769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "白宫高级官员表示，美国总统特朗普致力于持续停止暴力，并期望柬埔寨和泰国政府充分履行其结束这场冲突的承诺。",
           "url": "https://flash.jin10.com/detail/20251209045331690800",
           "source": "金十数据",
@@ -1439,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "“影子美联储主席”哈塞特：无论特朗普提出什么要求，我都照做",
+          "url": "https://wallstreetcn.com/livenews/3017765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "白宫新闻秘书莱维特表示，美国总统特朗普今日将在宾州发表利好经济的讲话。",
@@ -1474,6 +706,17 @@
           "time_info": "21时42分"
         },
         {
+          "title": "特朗普接受美媒采访谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
+          "url": "https://wallstreetcn.com/livenews/3017764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "俄总统新闻秘书：目前没有普京与特朗普新年前会晤的消息",
           "url": "https://wallstreetcn.com/livenews/3017247",
           "source": "华尔街见闻-快讯",
@@ -1502,7 +745,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -1579,7 +822,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -1608,414 +851,844 @@
       ]
     },
     {
-      "keyword_group": "谷歌 英伟达 阿里巴巴",
-      "match_count": 34,
+      "keyword_group": "AI 人工智能 算力",
+      "match_count": 69,
       "titles": [
         {
-          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
-          "url": "https://wallstreetcn.com/articles/3760903",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时02分 ~ 22时30分]"
-        },
-        {
-          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
-          "url": "https://www.cls.cn/detail/2223487",
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://www.cls.cn/detail/2223956",
           "source": "财联社热门",
           "ranks": [
-            4,
+            12,
+            5,
             3,
+            2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时53分 ~ 17时31分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
           ],
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[16时38分 ~ 22时30分]"
         },
         {
-          "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
-          "url": "https://www.cls.cn/detail/2223271",
+          "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
+          "url": "https://www.cls.cn/detail/2223631",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时53分 ~ 18时33分]"
+        },
+        {
+          "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
+          "url": "https://www.zhihu.com/question/1981321831689511959",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 10时03分]"
+        },
+        {
+          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
+          "url": "https://wallstreetcn.com/articles/3760893",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时36分 ~ 17时31分]"
+        },
+        {
+          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
+          "url": "https://www.cls.cn/detail/2223368",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 15时28分]"
+        },
+        {
+          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
+          "url": "https://www.cls.cn/detail/2223769",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时41分 ~ 20时58分]"
+        },
+        {
+          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
+          "url": "https://wallstreetcn.com/articles/3760976",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[16时38分 ~ 23时32分]"
+        },
+        {
+          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
+          "url": "https://www.zhihu.com/question/1980612606218756126",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            3,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时53分 ~ 19时25分]"
+        },
+        {
+          "title": "NMIXX翻唱UP主AI版大东北",
+          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[16时38分 ~ 23时32分]"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[18时32分 ~ 23时32分]"
+        },
+        {
+          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
+          "url": "https://wallstreetcn.com/articles/3760975",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时31分 ~ 22时30分]"
+        },
+        {
+          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            12,
+            14,
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[13时27分 ~ 23时32分]"
+        },
+        {
+          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[15时28分 ~ 23时32分]"
+        },
+        {
+          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
+          "url": "https://www.zhihu.com/question/1980286689260900620",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            7,
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 15时28分]"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，中方回应",
+          "url": "https://news.ifeng.com/c/8owfgsEZQEu",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时38分 ~ 21时42分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
           "source": "财联社热门",
           "ranks": [
             12,
             11,
-            7,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 15时28分]"
         },
         {
-          "title": "英伟达获准对华出售H200芯片",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8E%B7%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
+          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
+          "appearance_count": 8,
+          "time_info": "[20时57分 ~ 23时32分]"
         },
         {
-          "title": "英伟达回应被允许向中国售H200芯片",
-          "url": "https://www.toutiao.com/trending/7581364257980321322/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
-        },
-        {
-          "title": "【焦点复盘】市场再陷缩量普跌，资金持续抱团英伟达链，商业航天概念表现分化",
-          "url": "https://www.cls.cn/detail/2224158",
-          "source": "财联社热门",
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时32分 ~ 21时42分]"
+        },
+        {
+          "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
+          "url": "https://www.cls.cn/detail/2223334",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 14时41分]"
+        },
+        {
+          "title": "【每日收评】两市成交额重返2万亿！创业板指涨超2.5%，算力硬件、商业航天联袂领涨",
+          "url": "https://www.cls.cn/detail/2222837",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[20时57分 ~ 22时30分]"
+          "time_info": "[00时36分 ~ 05时22分]"
         },
         {
-          "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
-          "url": "https://wallstreetcn.com/livenews/3017098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时23分]"
-        },
-        {
-          "title": "英伟达股价短线从183美元附近快速上涨，刷新日高至188美元，日内整体涨幅迅速扩大至2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3017114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 04时31分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)美股盘后涨幅扩大至2.2%。",
-          "url": "https://flash.jin10.com/detail/20251209054521705800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "美国部分芯片股盘后走强，英伟达(NVDA.O)涨1.2%，AMD(AMD.O)涨近1%，英特尔(INTC.O)涨0.4%。",
-          "url": "https://flash.jin10.com/detail/20251209053351805800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "中方回应美将对华出售英伟达H200芯片",
-          "url": "https://www.toutiao.com/trending/7581381032269021211/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 18时33分]"
-        },
-        {
-          "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1981651554999169255",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
-        },
-        {
-          "title": "美利率决议前市场谨慎，美股指期货集体转跌，欧美债市承压，英伟达涨幅收窄，现货黄金重新站上4200美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时29分 ~ 22时30分]"
-        },
-        {
-          "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
-          "url": "https://flash.jin10.com/detail/20251209041755526800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时22分]"
-        },
-        {
-          "title": "受消息面影响，英伟达(NVDA.O)盘后上涨近1%。",
-          "url": "https://flash.jin10.com/detail/20251209053043481800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "英伟达美股盘后涨1.4%。英特尔涨0.37%，AMD涨0.67%。",
-          "url": "https://wallstreetcn.com/livenews/3017174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "谷歌与XREAL联合发布Project Aura",
-          "url": "https://wallstreetcn.com/livenews/3017367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时27分]"
-        },
-        {
-          "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2224567",
+          "title": "【每日收评】三大指数冲高回落涨跌互现，全市场超4000股飘绿，算力硬件股持续走强",
+          "url": "https://www.cls.cn/detail/2224101",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时29分 ~ 22时30分]"
+          "appearance_count": 6,
+          "time_info": "[21时41分 ~ 23时32分]"
         },
         {
-          "title": "英伟达(NVDA.O)涨幅扩大至3%。",
-          "url": "https://flash.jin10.com/detail/20251209021320565800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时23分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3017167",
+          "title": "创业板指涨超1%，沪指跌0.04%，深成指涨0.31%，算力硬件、创新药、影视、商业航天等方向领涨，沪深京三市上涨个股超2200只。",
+          "url": "https://wallstreetcn.com/livenews/3017296",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
-          "url": "https://flash.jin10.com/detail/20251209034556231800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时22分]"
-        },
-        {
-          "title": "英伟达盘后涨1.2%",
-          "url": "https://www.toutiao.com/trending/7580642994786058282/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
-        },
-        {
-          "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
-          "url": "https://flash.jin10.com/detail/20251209161206794800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "欧盟将调查谷歌是否违反竞争法",
-          "url": "https://wallstreetcn.com/livenews/3017511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "英伟达美股盘前涨幅收窄至1%。",
-          "url": "https://wallstreetcn.com/livenews/3017613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "英伟达美股盘后涨幅扩大至2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3017185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "英伟达：向经美国商务部审核批准的商业客户提供H200，实现了对美国极为有利的审慎平衡。",
-          "url": "https://flash.jin10.com/detail/20251209060524608800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3017543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "英伟达(NVDA.O)盘前涨幅收窄至0.6%，此前涨超2%。",
-          "url": "https://flash.jin10.com/detail/20251209185126759800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "英伟达(NVDA.O)股价迅速扩大至2%。",
-          "url": "https://flash.jin10.com/detail/20251209015818666800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "如何看待英伟达获准对华销售H200芯片",
-          "url": "https://www.toutiao.com/trending/7581668194423672370/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片，收取25%的分成",
-          "url": "https://wallstreetcn.com/livenews/3017241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
         {
-          "title": "英伟达：向商业客户供应H200是一种值得肯定的举措",
-          "url": "https://wallstreetcn.com/livenews/3017314",
+          "title": "摩根大通CEO戴蒙：（谈人工智能）也许有一天，我们会工作不那么辛苦，但生活却更加美好。",
+          "url": "https://flash.jin10.com/detail/20251209093951615800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "微软首席执行官在X平台发文表示，微软将投入175亿美元支持印度的AI发展。",
+          "url": "https://flash.jin10.com/detail/20251209211204523800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
+          "title": "布鲁克菲尔德与卡塔尔联手启动200亿美元AI基建投资",
+          "url": "https://flash.jin10.com/detail/20251209181911754800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "群核科技发布Aholo空间智能开放平台，CEO陈航：AI只会让设计师能做的事越来越多",
+          "url": "https://wallstreetcn.com/livenews/3017625",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
+          "url": "https://flash.jin10.com/detail/20251209161413716800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "据华尔街日报：Anthropic与埃森哲达成三年协议，将联合销售人工智能服务。",
+          "url": "https://flash.jin10.com/detail/20251209203053294800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "Aware 首席信息官警告人工智能融资将亮起 \"橙色 \"灯",
+          "url": "https://wallstreetcn.com/livenews/3017286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
+          "url": "https://wallstreetcn.com/livenews/3017099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 03时23分]"
+        },
+        {
+          "title": "摩根大通CEO戴蒙召集亚马逊创始人贝佐斯等人组建顾问超级小组，助力提高美国韧性的计划。10月，摩根大通的负责人宣布了一项1.5万亿美元的计划，旨在加强美国的稀土和人工智能等关键技术。",
+          "url": "https://flash.jin10.com/detail/20251209055332882800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "A股算力概念再度拉升，宏景科技、东方材料触及涨停，此前中创环保、鸿博股份涨停，慧辰股份、光环新网、奥飞数据、平治信息等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3017446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时28分]"
+        },
+        {
+          "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
+          "url": "https://wallstreetcn.com/livenews/3017096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21,
             28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 03时23分]"
+        },
+        {
+          "title": "美国食品药品监督管理局（FDA）：已批准首个基于人工智能的药物开发工具——基于人工智能的非酒精性脂肪性肝炎组织学测量工具（AIM-NASH）。",
+          "url": "https://flash.jin10.com/detail/20251209054059438800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "微软：将在未来四年内向印度的人工智能和云计算领域投资175亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3017724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时30分]"
+        },
+        {
+          "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
+          "url": "https://www.zhihu.com/question/1981675433712976771",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 20时58分]"
+        },
+        {
+          "title": "A股收盘：创业板指冲高回落涨0.61%，算力硬件、福建板块持续走强",
+          "url": "https://wallstreetcn.com/livenews/3017466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 16时38分]"
+        },
+        {
+          "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
+          "url": "https://wallstreetcn.com/livenews/3017156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时26分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
+          "url": "https://flash.jin10.com/detail/20251209021608071800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 03时23分]"
+        },
+        {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
+          "url": "https://wallstreetcn.com/livenews/3017432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时28分]"
+        },
+        {
+          "title": "12月9日午间收评：创业板指半日涨超1%，算力硬件股持续走强",
+          "url": "https://wallstreetcn.com/livenews/3017353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时35分]"
+        },
+        {
+          "title": "综合知情人士透露的消息和条款清单来看，软银和英伟达正在洽谈投资人工智能公司Skild AI。 Skild AI可能会按140亿美元估值融资10亿美元。 谈判细节仍存在变数，但该交易预计将在圣诞节前完成。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3017070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时26分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：在谷歌实验室的实验性人工智能应用Doppl中推出可购物的时尚发现信息流。",
+          "url": "https://flash.jin10.com/detail/20251209020747486800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 03时23分]"
+        },
+        {
+          "title": "OpenAI报告称：企业人工智能应用激增",
+          "url": "https://wallstreetcn.com/livenews/3017061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时26分]"
+        },
+        {
+          "title": "奈飞(NFLX.O)首席执行官：公司计划利用人工智能提升流媒体平台的个性化推荐和广告效果。",
+          "url": "https://flash.jin10.com/detail/20251209034031634800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时22分]"
+        },
+        {
+          "title": "商汤医疗：信任、数据与商业模式是当前AI医疗三大瓶颈",
+          "url": "https://wallstreetcn.com/livenews/3017622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-09）",
+          "url": "https://flash.jin10.com/detail/20251209115134820800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "存储AI初创公司Fal按45亿美元估值融资，由Sequoia（红杉资本）领投。",
+          "url": "https://wallstreetcn.com/livenews/3017744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        },
+        {
+          "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
+          "url": "https://flash.jin10.com/detail/20251209161139815800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "努比亚总裁：AI手机发展势不可逆；抖音集团李亮：AI一定是未来",
+          "url": "https://wallstreetcn.com/livenews/3017390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
+          "url": "https://wallstreetcn.com/articles/3760944",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "达利欧：未来两年全球经济“岌岌可危”，不要因为AI估值过高就急于退出",
+          "url": "https://wallstreetcn.com/articles/3760952",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "谷歌：首款人工智能眼镜将于2026年问世",
+          "url": "https://flash.jin10.com/detail/20251209023449862800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "OpenAI：推出我们的首期OpenAI认证课程。",
+          "url": "https://flash.jin10.com/detail/20251209221233954800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        },
+        {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
+          "url": "https://flash.jin10.com/detail/20251209140918642800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "特朗普预告：本周将签行政令 为AI制定统一国家规则",
+          "url": "https://www.cls.cn/detail/2223447",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)宣布加大在加拿大的投入，斥资190亿加元布局人工智能。",
+          "url": "https://flash.jin10.com/detail/20251209190226779800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "摩根大通公布2026年全球另类投资展望，强调了人工智能繁荣时期私人市场投资者的机会。",
+          "url": "https://flash.jin10.com/detail/20251209220107980800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特在华尔街日报CEO委员会峰会上表示：人工智能（AI）对生产力的作用比电脑更大。 预计AI并不会造成大规模失业。 AI将是一件好事，就像电脑那样。",
+          "url": "https://wallstreetcn.com/livenews/3017766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "英伟达(NVDA.O)盘前涨2%，消息面上，特朗普称批准向中国出售英伟达H200人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20251209170417929800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "字节跳动李亮：AI手机助手的本质是机主授权",
+          "url": "https://wallstreetcn.com/livenews/3017448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "Brookfield与卡塔尔携手开展200亿美元人工智能投资项目。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3017572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3017485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "蚂蚁旗下通用AI助手灵光上线网页版",
+          "url": "https://wallstreetcn.com/livenews/3017332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "摩根大通：预计2026年新兴市场股票表现将优于发达市场。 认为中国人工智能股票比美国同业的价格更优惠。",
+          "url": "https://wallstreetcn.com/livenews/3017702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
+          "title": "微软宣布未来四年将在印度投入175亿美元发展人工智能",
+          "url": "https://flash.jin10.com/detail/20251209215045442800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        },
+        {
+          "title": "Meta可能在明年初推出新AI大模型Avocado",
+          "url": "https://flash.jin10.com/detail/20251209214816921800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        },
+        {
+          "title": "中信证券：空间算力进一步打开行业天花板，为相关产业链带来巨大的发展契机",
+          "url": "https://wallstreetcn.com/livenews/3017239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "消息人士称，软银、英伟达拟以140亿美元估值投资Skild AI，SKILD AI本轮融资有望筹集超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20251208233633646800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -2102,8 +1775,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时57分 ~ 22时30分]"
+          "appearance_count": 8,
+          "time_info": "[20时57分 ~ 23时32分]"
+        },
+        {
+          "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "澜起科技港股上市获中国证监会备案",
@@ -2288,9 +1972,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数跌幅收窄至不足1.7%，重新逼近7710点，美股开盘后一度跌2.01%、刷新日低至7680.18点。 热门中概股里，文远知行目前跌5.4%，贝壳跌4.4%，理想跌4.2%，百度跌4%，小鹏跌3.7%，名创优品、阿特斯太阳能至少跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3017771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-09）",
@@ -2321,7 +2016,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -2416,8 +2111,416 @@
       ]
     },
     {
+      "keyword_group": "谷歌 英伟达 阿里巴巴",
+      "match_count": 34,
+      "titles": [
+        {
+          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[10时02分 ~ 23时32分]"
+        },
+        {
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://www.cls.cn/detail/2223487",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时53分 ~ 17时31分]"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[16时38分 ~ 23时32分]"
+        },
+        {
+          "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
+          "url": "https://www.cls.cn/detail/2223271",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 13时27分]"
+        },
+        {
+          "title": "【焦点复盘】市场再陷缩量普跌，资金持续抱团英伟达链，商业航天概念表现分化",
+          "url": "https://www.cls.cn/detail/2224158",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[20时57分 ~ 23时32分]"
+        },
+        {
+          "title": "英伟达获准对华出售H200芯片",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8E%B7%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
+          "title": "英伟达回应被允许向中国售H200芯片",
+          "url": "https://www.toutiao.com/trending/7581364257980321322/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
+          "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
+          "url": "https://wallstreetcn.com/livenews/3017098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 03时23分]"
+        },
+        {
+          "title": "英伟达股价短线从183美元附近快速上涨，刷新日高至188美元，日内整体涨幅迅速扩大至2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3017114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时31分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘后涨幅扩大至2.2%。",
+          "url": "https://flash.jin10.com/detail/20251209054521705800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "美国部分芯片股盘后走强，英伟达(NVDA.O)涨1.2%，AMD(AMD.O)涨近1%，英特尔(INTC.O)涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20251209053351805800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2224567",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时29分 ~ 23时32分]"
+        },
+        {
+          "title": "中方回应美将对华出售英伟达H200芯片",
+          "url": "https://www.toutiao.com/trending/7581381032269021211/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 18时33分]"
+        },
+        {
+          "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1981651554999169255",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
+          "title": "美利率决议前市场谨慎，美股指期货集体转跌，欧美债市承压，英伟达涨幅收窄，现货黄金重新站上4200美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        },
+        {
+          "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
+          "url": "https://flash.jin10.com/detail/20251209041755526800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时22分]"
+        },
+        {
+          "title": "受消息面影响，英伟达(NVDA.O)盘后上涨近1%。",
+          "url": "https://flash.jin10.com/detail/20251209053043481800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "英伟达美股盘后涨1.4%。英特尔涨0.37%，AMD涨0.67%。",
+          "url": "https://wallstreetcn.com/livenews/3017174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "谷歌与XREAL联合发布Project Aura",
+          "url": "https://wallstreetcn.com/livenews/3017367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时27分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)涨幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20251209021320565800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 03时23分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3017167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
+          "url": "https://flash.jin10.com/detail/20251209034556231800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时22分]"
+        },
+        {
+          "title": "英伟达盘后涨1.2%",
+          "url": "https://www.toutiao.com/trending/7580642994786058282/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
+          "url": "https://flash.jin10.com/detail/20251209161206794800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "欧盟将调查谷歌是否违反竞争法",
+          "url": "https://wallstreetcn.com/livenews/3017511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "英伟达美股盘前涨幅收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3017613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "英伟达美股盘后涨幅扩大至2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3017185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "英伟达：向经美国商务部审核批准的商业客户提供H200，实现了对美国极为有利的审慎平衡。",
+          "url": "https://flash.jin10.com/detail/20251209060524608800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3017543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "英伟达(NVDA.O)盘前涨幅收窄至0.6%，此前涨超2%。",
+          "url": "https://flash.jin10.com/detail/20251209185126759800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "英伟达(NVDA.O)股价迅速扩大至2%。",
+          "url": "https://flash.jin10.com/detail/20251209015818666800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "如何看待英伟达获准对华销售H200芯片",
+          "url": "https://www.toutiao.com/trending/7581668194423672370/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片，收取25%的分成",
+          "url": "https://wallstreetcn.com/livenews/3017241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "英伟达：向商业客户供应H200是一种值得肯定的举措",
+          "url": "https://wallstreetcn.com/livenews/3017314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "电力 能源 储能",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "报告：美国防部计划大规模囤积关键矿产，全球能源转型遭“资源截流”",
@@ -2434,6 +2537,17 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时36分 ~ 14时41分]"
+        },
+        {
+          "title": "美国寻求深化与印度的国防和能源合作。",
+          "url": "https://flash.jin10.com/detail/20251209231643422800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "报道：Ananym Capital 参股西门子能源，要求分拆风电业务",
@@ -2524,6 +2638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，半导体ETF跌约0.7%，网络股指数ETF跌约0.5%，全球科技股指数ETF跌次%，银行业ETF、能源业ETF涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3017763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "德加能源宣布电池系列产品涨价",
