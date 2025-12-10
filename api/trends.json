@@ -1,8 +1,84 @@
 {
-  "generated_at": "2025-12-11T02:39:28.661730+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2025-12-11T03:24:21.334661+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI 人工智能 算力",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
+          "url": "https://www.cls.cn/detail/2225488",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时24分]"
+        },
+        {
+          "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
+          "url": "https://wallstreetcn.com/articles/3761127",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时24分]"
+        },
+        {
+          "title": "【每日收评】三大指数探底回升涨跌不一，海南板块全天强势，算力硬件股午后再度回暖",
+          "url": "https://www.cls.cn/detail/2225395",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时24分]"
+        },
+        {
+          "title": "罗永浩闫俊杰谈中美AI发展差异",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            26,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时39分]"
+        },
+        {
+          "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3018538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时29分]"
+        },
+        {
+          "title": "Starcloud在太空中训练首个AI模型，轨道数据中心竞争升温",
+          "url": "https://wallstreetcn.com/livenews/3018588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 英伟达 阿里巴巴",
       "match_count": 6,
@@ -15,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时24分]"
         },
         {
           "title": "消息人士：谷歌(GOOG.O)还可做出更多调整以避免罚款。",
@@ -37,8 +113,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时24分]"
         },
         {
           "title": "英伟达被曝开发“芯片定位”技术",
@@ -46,11 +122,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 03时24分]"
         },
         {
           "title": "消息人士：谷歌(GOOG.O)或将因Google Play违反欧盟规则而被欧盟处以罚款；罚款措施或将于2026年第一季度出台。",
@@ -92,17 +169,6 @@
           "time_info": "01时29分"
         },
         {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普将在未来1-2周对美联储主席人选做最终决定。 被列为候选人，我为此感到荣幸。",
-          "url": "https://wallstreetcn.com/livenews/3018582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
           "title": "特朗普发飙怒斥记者",
           "url": "https://www.douyin.com/hot/2332016",
           "source": "抖音",
@@ -112,6 +178,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普将在未来1-2周对美联储主席人选做最终决定。 被列为候选人，我为此感到荣幸。",
+          "url": "https://wallstreetcn.com/livenews/3018582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时24分]"
+        },
+        {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时24分]"
         },
         {
           "title": "美国副总统万斯：拜登疯狂的政策让美国家庭在自己的国家都无法过上体面的生活。 特朗普总统通过减税、提供更高薪的工作以及投资美国工业，正一步步地让美国再次成为工薪家庭能够负担得起的地方。",
@@ -124,17 +213,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时29分]"
-        },
-        {
-          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
-          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
         },
         {
           "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
@@ -150,73 +228,8 @@
       ]
     },
     {
-      "keyword_group": "AI 人工智能 算力",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
-          "url": "https://www.cls.cn/detail/2225488",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
-        },
-        {
-          "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
-          "url": "https://wallstreetcn.com/articles/3761127",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
-        },
-        {
-          "title": "【每日收评】三大指数探底回升涨跌不一，海南板块全天强势，算力硬件股午后再度回暖",
-          "url": "https://www.cls.cn/detail/2225395",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
-        },
-        {
-          "title": "罗永浩闫俊杰谈中美AI发展差异",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            26,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
-        },
-        {
-          "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3018538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时29分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 a股 港股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -227,8 +240,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时24分]"
         },
         {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
@@ -239,8 +252,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时24分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -250,8 +263,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 03时24分]"
+        },
+        {
+          "title": "美股三大股指小幅走高，道指涨0.5%，标普500指数涨0.2%，纳指跌幅收窄至0.1%。",
+          "url": "https://flash.jin10.com/detail/20251211030239633800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
@@ -267,8 +291,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时24分]"
         },
         {
           "title": "财晓得｜星空之下，生意之上，中国商业航天的万亿赛道",
@@ -280,8 +304,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时24分]"
         }
       ]
     },
@@ -296,11 +320,12 @@
           "ranks": [
             10,
             20,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时24分]"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA原油库存下降181万桶，分析师预期减少215.583万桶，之前一周增加57.4万桶。 美国炼油厂正生产着自2019年1月以来最多的柴油，并且仅在2018年（同期）的季节性基础上生产量超过了现在。 在经历了四周的库存下降后，库欣（Cushing）的库存最终有所增加，但就一年中的这个时间而言，库存量仍处于2007年以来的最低水平。 航空燃油的需求已从上个月因政府关闭导致航班中断而引起的短暂下滑中反弹。",
@@ -329,8 +354,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时24分]"
         }
       ]
     },
