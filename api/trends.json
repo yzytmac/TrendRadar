@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-11T14:42:58.595453+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2025-12-11T15:31:13.270203+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
+          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时00分 ~ 15时31分]"
+        },
         {
           "title": "高市早苗求见特朗普",
           "url": "https://news.ifeng.com/c/8oz1gOzpqEt",
@@ -20,16 +32,17 @@
           "time_info": "[04时32分 ~ 10时06分]"
         },
         {
-          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
-          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
-          "source": "凤凰网",
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            5
+            10,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时00分 ~ 14时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 15时31分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -41,19 +54,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时39分 ~ 07时40分]"
-        },
-        {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 14时42分]"
         },
         {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
@@ -158,6 +158,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时29分]"
+        },
+        {
+          "title": "美威胁国际刑事法院：不要调查特朗普",
+          "url": "https://www.toutiao.com/trending/7582367829178269750/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
         },
         {
           "title": "“特朗普黄金卡”开始接受申请",
@@ -505,7 +516,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -520,8 +531,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 14时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 15时31分]"
+        },
+        {
+          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
+          "url": "https://www.cls.cn/detail/2225983",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 15时31分]"
+        },
+        {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 15时31分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -553,6 +588,28 @@
           "time_info": "[00时39分 ~ 12时01分]"
         },
         {
+          "title": "男子AI生成车展低俗视频造谣被拘",
+          "url": "https://www.toutiao.com/trending/7582391057200074250/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时00分 ~ 15时31分]"
+        },
+        {
+          "title": "男子AI生成车展低俗视频被拘",
+          "url": "https://www.douyin.com/hot/2333057",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时00分 ~ 15时31分]"
+        },
+        {
           "title": "网警查处一起AI生成虚假低俗视频案",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -575,17 +632,6 @@
           "time_info": "[00时39分 ~ 06时27分]"
         },
         {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 14时42分]"
-        },
-        {
           "title": "男子AI生成车展虚假低俗视频被拘",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
           "source": "bilibili 热搜",
@@ -597,40 +643,6 @@
           "time_info": "[10时06分 ~ 14时42分]"
         },
         {
-          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
-          "url": "https://www.cls.cn/detail/2225983",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 14时42分]"
-        },
-        {
-          "title": "男子AI生成车展低俗视频造谣被拘",
-          "url": "https://www.toutiao.com/trending/7582391057200074250/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时00分 ~ 14时42分]"
-        },
-        {
-          "title": "男子AI生成车展低俗视频被拘",
-          "url": "https://www.douyin.com/hot/2333057",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时00分 ~ 14时42分]"
-        },
-        {
           "title": "OpenAI：所有安卓设备上的ChatGPT服务已全面恢复。",
           "url": "https://flash.jin10.com/detail/20251211073101861800",
           "source": "金十数据",
@@ -640,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "我国AI产业规模突破9000亿元",
+          "url": "https://www.douyin.com/hot/2332984",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 15时31分]"
         },
         {
           "title": "野村：韩国首尔综合指数明年上半年料触及5000点，受AI资本支出激增推动",
@@ -691,17 +714,6 @@
           "time_info": "[04时32分 ~ 05时29分]"
         },
         {
-          "title": "我国AI产业规模突破9000亿元",
-          "url": "https://www.douyin.com/hot/2332984",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 14时42分]"
-        },
-        {
           "title": "国产算力最大重组案终止 海光曙光“双龙头”加速开放生态布局 产业正经历结构性演进",
           "url": "https://www.cls.cn/detail/2225842",
           "source": "财联社热门",
@@ -712,6 +724,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时06分 ~ 12时01分]"
+        },
+        {
+          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
+          "url": "https://www.zhihu.com/question/1982385153180394991",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 15时31分]"
         },
         {
           "title": "千亿合并计划终止，海光信息回应：与曙光仍将保持算力全链条协同发展",
@@ -771,6 +795,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时29分]"
+        },
+        {
+          "title": "站在 2025 年年末，你认为 AI 究竟是真革命还是虚假繁荣？",
+          "url": "https://www.zhihu.com/question/1974921641634064010",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
         },
         {
           "title": "网警：男子AI生成车展低俗视频被拘",
@@ -883,17 +918,6 @@
           "time_info": "04时32分"
         },
         {
-          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
-          "url": "https://www.zhihu.com/question/1982385153180394991",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
           "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
           "url": "https://flash.jin10.com/detail/20251211064706062800",
           "source": "金十数据",
@@ -927,6 +951,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "Baird将Adobe目标价从425美元下调至410美元；将甲骨文目标价从315美元下调至300美元。",
+          "url": "https://wallstreetcn.com/livenews/3019009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "罗永浩与闫俊杰聊AI终极问题",
           "url": "https://www.douyin.com/hot/2332688",
           "source": "抖音",
@@ -936,6 +971,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "投行Baird：将甲骨文(ORCL.N)目标价从315美元下调至300美元。",
+          "url": "https://flash.jin10.com/detail/20251211144209926800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     },
@@ -943,6 +989,31 @@
       "keyword_group": "美股 a股 港股",
       "match_count": 26,
       "titles": [
+        {
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时40分 ~ 15时31分]"
+        },
+        {
+          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
+          "url": "https://www.cls.cn/detail/2225967",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时40分 ~ 15时31分]"
+        },
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
           "url": "https://wallstreetcn.com/articles/3760999",
@@ -956,30 +1027,6 @@
           "time_info": "[00时39分 ~ 06时27分]"
         },
         {
-          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
-          "url": "https://wallstreetcn.com/articles/3761091",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时40分 ~ 14时42分]"
-        },
-        {
-          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
-          "url": "https://www.cls.cn/detail/2225967",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时40分 ~ 14时42分]"
-        },
-        {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
           "url": "https://wallstreetcn.com/articles/3761064",
           "source": "华尔街见闻",
@@ -989,8 +1036,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 14时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 15时31分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -1159,7 +1206,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -1244,27 +1291,8 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "硅谷为何陷入电力困局",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A1%85%E8%B0%B7%E4%B8%BA%E4%BD%95%E9%99%B7%E5%85%A5%E7%94%B5%E5%8A%9B%E5%9B%B0%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            20,
-            9,
-            7,
-            1,
-            11,
-            25,
-            28,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 14时42分]"
-        },
         {
           "title": "2028年的货已经卖光！美国电力设备龙头强势突破历史新高",
           "url": "https://www.cls.cn/detail/2225910",
@@ -1279,17 +1307,38 @@
           "time_info": "[06时27分 ~ 14时42分]"
         },
         {
+          "title": "硅谷为何陷入电力困局",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%85%E8%B0%B7%E4%B8%BA%E4%BD%95%E9%99%B7%E5%85%A5%E7%94%B5%E5%8A%9B%E5%9B%B0%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            20,
+            9,
+            7,
+            1,
+            11,
+            25,
+            28,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 15时31分]"
+        },
+        {
           "title": "维修成本翻倍 新能源车为何修不起",
           "url": "https://www.baidu.com/s?wd=%E7%BB%B4%E4%BF%AE%E6%88%90%E6%9C%AC%E7%BF%BB%E5%80%8D+%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BA%E4%BD%95%E4%BF%AE%E4%B8%8D%E8%B5%B7",
           "source": "百度热搜",
           "ranks": [
             21,
             5,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时00分 ~ 14时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时00分 ~ 15时31分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.6%。 热门中概股里，阿特斯太阳能初步收涨6.1%，贝壳、小马智行、晶科能源涨超3%，世纪互联则跌4.3%。",
@@ -1320,7 +1369,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -1383,6 +1432,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "两部门：原则上仅允许同一集团内同一省（区、市）的新能源发电企业进行集中报价 禁止跨集团、跨省（区、市）集中报价",
+          "url": "https://wallstreetcn.com/livenews/3019015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "中石油经济技术研究院：到2035年，油气仍将占中国一次能源需求的25%以上。",
           "url": "https://flash.jin10.com/detail/20251211122407079800",
           "source": "金十数据",
@@ -1392,6 +1452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        },
+        {
+          "title": "中汽协：11月新能源汽车出口30万辆，同比增长2.6倍",
+          "url": "https://wallstreetcn.com/livenews/3019005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "中石油经济技术研究院：中国一次能源需求将于2035年达到峰值，为50亿吨油当量，比2024年预测水平高出1亿吨。",
@@ -1414,6 +1485,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "中汽协：11月新能源汽车国内销量152.2万辆 同比增长6.5%",
+          "url": "https://wallstreetcn.com/livenews/3018996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "据俄新社：俄罗斯能源部预计，2025年石油炼制、天然气和煤炭产量将保持2024年的水平。",
+          "url": "https://flash.jin10.com/detail/20251211143223652800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     },
@@ -1421,6 +1514,18 @@
       "keyword_group": "谷歌 英伟达 阿里巴巴",
       "match_count": 13,
       "titles": [
+        {
+          "title": "【早报】美联储宣布：降息25个基点！鲍威尔重磅发声；中方正考虑限制获取英伟达H200芯片？外交部回应",
+          "url": "https://www.cls.cn/detail/2225988",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时40分 ~ 15时31分]"
+        },
         {
           "title": "外媒称中方正考虑限制获取英伟达H200芯片，外交部回应",
           "url": "https://www.cls.cn/detail/2225351",
@@ -1433,18 +1538,6 @@
           "time_info": "[00时39分 ~ 05时29分]"
         },
         {
-          "title": "【早报】美联储宣布：降息25个基点！鲍威尔重磅发声；中方正考虑限制获取英伟达H200芯片？外交部回应",
-          "url": "https://www.cls.cn/detail/2225988",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时40分 ~ 14时42分]"
-        },
-        {
           "title": "英伟达被曝开发“芯片定位”技术",
           "url": "https://news.ifeng.com/c/8oyQ1CN6GlB",
           "source": "凤凰网",
@@ -1454,6 +1547,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时39分 ~ 07时40分]"
+        },
+        {
+          "title": "英伟达又搞小动作，防着中国？",
+          "url": "https://news.ifeng.com/c/8ozfYrHQfYN",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时00分 ~ 15时31分]"
         },
         {
           "title": "英伟达被曝开发“芯片定位”技术",
@@ -1470,18 +1575,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时29分 ~ 06时27分]"
-        },
-        {
-          "title": "英伟达又搞小动作，防着中国？",
-          "url": "https://news.ifeng.com/c/8ozfYrHQfYN",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时00分 ~ 14时42分]"
         },
         {
           "title": "甲骨文：Oracle Pro得到与Meta和英伟达合同的提振。",
@@ -1578,7 +1671,7 @@
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "华为高管称机械硬盘 HDD 是唯一未实现国产化的存储器件，这反映出我国存储产业存在哪些挑战？",
@@ -1589,8 +1682,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时00分 ~ 14时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时00分 ~ 15时31分]"
         },
         {
           "title": "美国对中国大陆芯片出口抽成25%，台湾又要“接盘”？",
@@ -1601,8 +1694,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 14时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 15时31分]"
         },
         {
           "title": "江苏“十五五”规划建议：积极部署类脑计算、光量子芯片等创新应用技术 加快通用大模型和垂直领域大模型研发",
@@ -1610,11 +1703,23 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时00分 ~ 14时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时00分 ~ 15时31分]"
+        },
+        {
+          "title": "意法半导体：与欧洲投资银行达成5亿欧元融资协议。该协议是欧洲投资银行批准的10亿欧元信贷额度的一部分。首期5亿欧元融资协议的签署将支持意大利和法国加快研发及大规模芯片制造。",
+          "url": "https://flash.jin10.com/detail/20251211150432213800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "12月以来超200家A股公司迎券商调研 存储芯片概念受关注",
@@ -1626,6 +1731,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "天量支出吓崩股价？甲骨文电话会紧急救火：“客户自带芯片”将拯救现金流，“我们没有疯狂举债”",
+          "url": "https://wallstreetcn.com/articles/3761149",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 15时31分]"
         },
         {
           "title": "上证指数早盘收报3882.72点，跌0.46%。 深证成指早盘收报13292.61点，跌0.18%。 创业板指早盘收报3218.55点，涨0.30%。 沪深300早盘收报4582.51点，跌0.20%。 科创50早盘收报1333.71点，跌0.97%。 中证500早盘收报7129.62点，跌0.37%。 中证1000早盘收报7369.58点，跌0.52%。",
@@ -1652,15 +1768,26 @@
           "time_info": "[00时39分 ~ 01时29分]"
         },
         {
-          "title": "天量支出吓崩股价？甲骨文电话会紧急救火：“客户自带芯片”将拯救现金流，“我们没有疯狂举债”",
-          "url": "https://wallstreetcn.com/articles/3761149",
-          "source": "华尔街见闻",
+          "title": "意法半导体：与欧洲投资银行达成5亿欧元融资协议。 该协议是欧洲投资银行批准的10亿欧元信贷额度的一部分。 首期5亿欧元融资协议的签署将支持意大利和法国加快研发及大规模芯片制造。 融资旨在提升欧洲竞争力与自主性。",
+          "url": "https://wallstreetcn.com/livenews/3019023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "上证指数收报3873.32点，跌0.70%。 深证成指收报13147.39点，跌1.27%。 创业板指收报3163.67点，跌1.41%。 沪深300收报4552.18点，跌0.86%。 科创50收报1325.83点，跌1.55%。 中证500收报7082.89点，跌1.02%。 中证1000收报7312.00点，跌1.30%。",
+          "url": "https://wallstreetcn.com/livenews/3019020",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "15时31分"
         },
         {
           "title": "上证指数开盘报3903.89点，涨0.09%。 深证成指开盘报13333.29点，涨0.13%。 创业板指开盘报3210.55点，涨0.05%。 沪深300开盘报4597.19点，涨0.12%。 科创50开盘报1349.67点，涨0.22%。 中证500开盘报7171.21点，涨0.21%。 中证1000开盘报7421.79点，涨0.18%。",
@@ -1677,7 +1804,7 @@
     },
     {
       "keyword_group": "商业航天 中国卫星 中国卫通",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "一图看懂 | 中国商业航天IPO热潮来袭，“火箭天团”背后影子股曝光",
@@ -1716,6 +1843,17 @@
           "time_info": "10时06分"
         },
         {
+          "title": "A股收盘：北证50指数大涨近4%，商业航天概念股持续活跃",
+          "url": "https://wallstreetcn.com/livenews/3019021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "A股商业航天概念继续走强，再升科技4连板，华菱线缆涨停，瑞华泰、广联航空、通光线缆、航宇科技等多股高开。",
           "url": "https://wallstreetcn.com/livenews/3018805",
           "source": "华尔街见闻-快讯",
@@ -1737,11 +1875,12 @@
           "url": "https://wallstreetcn.com/livenews/3018995",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时31分]"
         }
       ]
     },
