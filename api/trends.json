@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T12:01:06.502477+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2025-12-11T12:43:50.712171+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时43分]"
         },
         {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
@@ -110,6 +110,18 @@
           "time_info": "[02时39分 ~ 03时24分]"
         },
         {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 12时43分]"
+        },
+        {
           "title": "美国副总统万斯：拜登疯狂的政策让美国家庭在自己的国家都无法过上体面的生活。 特朗普总统通过减税、提供更高薪的工作以及投资美国工业，正一步步地让美国再次成为工薪家庭能够负担得起的地方。",
           "url": "https://flash.jin10.com/detail/20251211003604206800",
           "source": "金十数据",
@@ -120,18 +132,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时29分]"
-        },
-        {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时01分]"
         },
         {
           "title": "美国总统特朗普：我们有“很好的借口”拦截“委内瑞拉油轮”。",
@@ -481,7 +481,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -495,8 +495,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 12时43分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -528,6 +528,17 @@
           "time_info": "[00时39分 ~ 12时01分]"
         },
         {
+          "title": "网警查处一起AI生成虚假低俗视频案",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 12时43分]"
+        },
+        {
           "title": "【每日收评】三大指数探底回升涨跌不一，海南板块全天强势，算力硬件股午后再度回暖",
           "url": "https://www.cls.cn/detail/2225395",
           "source": "财联社热门",
@@ -537,17 +548,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时39分 ~ 06时27分]"
-        },
-        {
-          "title": "网警查处一起AI生成虚假低俗视频案",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时01分]"
         },
         {
           "title": "OpenAI：所有安卓设备上的ChatGPT服务已全面恢复。",
@@ -561,15 +561,72 @@
           "time_info": "07时40分"
         },
         {
+          "title": "TCL2025年AI应用创造综合效益超10亿元",
+          "url": "https://wallstreetcn.com/livenews/3018926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "人工智能独角兽企业稀宇和智谱据悉计划很快进行香港IPO。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3018925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 12时43分]"
+        },
+        {
+          "title": "男子AI生成车展虚假低俗视频被拘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 12时43分]"
+        },
+        {
           "title": "野村：韩国首尔综合指数明年上半年料触及5000点，受AI资本支出激增推动",
           "url": "https://wallstreetcn.com/livenews/3018915",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时43分]"
+        },
+        {
+          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
+          "url": "https://www.cls.cn/detail/2225983",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 12时43分]"
         },
         {
           "title": "鲍威尔：我认为，人工智能（AI）让使用它的人们具有更高的生产力。",
@@ -584,38 +641,26 @@
           "time_info": "[04时32分 ~ 05时29分]"
         },
         {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
+          "title": "男子AI生成车展低俗视频造谣被拘",
+          "url": "https://www.toutiao.com/trending/7582391057200074250/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时01分]"
+          "time_info": "[12时00分 ~ 12时43分]"
         },
         {
-          "title": "男子AI生成车展虚假低俗视频被拘",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "bilibili 热搜",
+          "title": "男子AI生成车展低俗视频被拘",
+          "url": "https://www.douyin.com/hot/2333057",
+          "source": "抖音",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时01分]"
-        },
-        {
-          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
-          "url": "https://www.cls.cn/detail/2225983",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时01分]"
+          "time_info": "[12时00分 ~ 12时43分]"
         },
         {
           "title": "国产算力最大重组案终止 海光曙光“双龙头”加速开放生态布局 产业正经历结构性演进",
@@ -641,28 +686,6 @@
           "time_info": "[05时28分 ~ 07时40分]"
         },
         {
-          "title": "男子AI生成车展低俗视频造谣被拘",
-          "url": "https://www.toutiao.com/trending/7582391057200074250/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
-        },
-        {
-          "title": "男子AI生成车展低俗视频被拘",
-          "url": "https://www.douyin.com/hot/2333057",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
-        },
-        {
           "title": "鲍威尔：就业增长被夸，这并没有争议。 人工智能（AI）可能是就业疲软的原因之一，但其影响程度并不大。 AI对就业的影响肯定没有体现在裁员中。",
           "url": "https://wallstreetcn.com/livenews/3018632",
           "source": "华尔街见闻-快讯",
@@ -685,6 +708,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时29分]"
+        },
+        {
+          "title": "华为、支付宝、中移互联网合作布局AI+5G新通话DC生态",
+          "url": "https://wallstreetcn.com/livenews/3018896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时43分]"
         },
         {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
@@ -743,17 +778,6 @@
           "time_info": "05时29分"
         },
         {
-          "title": "华为、支付宝、中移互联网合作布局AI+5G新通话DC生态",
-          "url": "https://wallstreetcn.com/livenews/3018896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
           "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
           "url": "https://flash.jin10.com/detail/20251211040355307800",
           "source": "金十数据",
@@ -763,6 +787,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-11）",
+          "url": "https://flash.jin10.com/detail/20251211115728901800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "OpenAI：为网络安全防范工作组巩固多个模型。 正准备为AI模型提供安全防范措施。 将成立“前沿风险委员会”。 训练模型来安全地响应那些有害的（用户/网络）请求。",
@@ -847,8 +882,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 12时43分]"
         },
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -859,8 +894,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 12时01分]"
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 12时43分]"
+        },
+        {
+          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
+          "url": "https://www.cls.cn/detail/2225967",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 12时43分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -873,18 +920,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时29分 ~ 06时27分]"
-        },
-        {
-          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
-          "url": "https://www.cls.cn/detail/2225967",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 12时01分]"
         },
         {
           "title": "近日多家A股公司披露外汇套期保值额度 总额度大幅提升",
@@ -943,6 +978,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时27分]"
+        },
+        {
+          "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3018895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时43分]"
+        },
+        {
+          "title": "纳斯达克100指数期货跌1%，此前甲骨文美股盘后发布财报，股价大跌。",
+          "url": "https://wallstreetcn.com/livenews/3018880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时43分]"
         },
         {
           "title": "中兴通讯A股跌近7%，港股大跌8.3%。",
@@ -1033,17 +1092,6 @@
           "time_info": "05时29分"
         },
         {
-          "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3018895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
           "title": "新思科技Synopsys第四财季营收22.6亿美元，同比增长38%。 预计2026财年营收95.6亿-96.6亿美元，分析师预期96.3亿美元。 预计第一财季营收23.7亿-24.2亿美元，分析师预期23.6亿美元。 新思科技美股盘后涨6%。",
           "url": "https://wallstreetcn.com/livenews/3018670",
           "source": "华尔街见闻-快讯",
@@ -1061,18 +1109,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "纳斯达克100指数期货跌1%，此前甲骨文美股盘后发布财报，股价大跌。",
-          "url": "https://wallstreetcn.com/livenews/3018880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -1127,6 +1164,18 @@
           "time_info": "[00时39分 ~ 07时40分]"
         },
         {
+          "title": "【早报】美联储宣布：降息25个基点！鲍威尔重磅发声；中方正考虑限制获取英伟达H200芯片？外交部回应",
+          "url": "https://www.cls.cn/detail/2225988",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 12时43分]"
+        },
+        {
           "title": "英伟达被曝开发“芯片定位”技术",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%A2%AB%E6%9B%9D%E5%BC%80%E5%8F%91%E2%80%9C%E8%8A%AF%E7%89%87%E5%AE%9A%E4%BD%8D%E2%80%9D%E6%8A%80%E6%9C%AF",
           "source": "百度热搜",
@@ -1141,29 +1190,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时29分 ~ 06时27分]"
-        },
-        {
-          "title": "【早报】美联储宣布：降息25个基点！鲍威尔重磅发声；中方正考虑限制获取英伟达H200芯片？外交部回应",
-          "url": "https://www.cls.cn/detail/2225988",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 12时01分]"
-        },
-        {
-          "title": "朱啸虎：英伟达回调一下更健康",
-          "url": "https://wallstreetcn.com/livenews/3018914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
         },
         {
           "title": "甲骨文：Oracle Pro得到与Meta和英伟达合同的提振。",
@@ -1199,6 +1225,18 @@
           "time_info": "01时29分"
         },
         {
+          "title": "朱啸虎：英伟达回调一下更健康",
+          "url": "https://wallstreetcn.com/livenews/3018914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时43分]"
+        },
+        {
           "title": "甲骨文(ORCL.N)：将继续从英伟达采购最新GPU，需做好准备，并能够部署客户想购买的任何芯片。",
           "url": "https://flash.jin10.com/detail/20251211050715203800",
           "source": "金十数据",
@@ -1218,8 +1256,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时43分]"
         },
         {
           "title": "消息人士：谷歌(GOOG.O)或将因Google Play违反欧盟规则而被欧盟处以罚款；罚款措施或将于2026年第一季度出台。",
@@ -1258,7 +1296,7 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "硅谷为何陷入电力困局",
@@ -1270,11 +1308,12 @@
             9,
             7,
             1,
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 12时43分]"
         },
         {
           "title": "2028年的货已经卖光！美国电力设备龙头强势突破历史新高",
@@ -1286,8 +1325,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时27分 ~ 12时01分]"
+          "appearance_count": 6,
+          "time_info": "[06时27分 ~ 12时43分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.6%。 热门中概股里，阿特斯太阳能初步收涨6.1%，贝壳、小马智行、晶科能源涨超3%，世纪互联则跌4.3%。",
@@ -1319,8 +1358,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时43分]"
         },
         {
           "title": "维修成本翻倍 新能源车为何修不起",
@@ -1330,8 +1369,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时43分]"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA原油库存下降181万桶，分析师预期减少215.583万桶，之前一周增加57.4万桶。 美国炼油厂正生产着自2019年1月以来最多的柴油，并且仅在2018年（同期）的季节性基础上生产量超过了现在。 在经历了四周的库存下降后，库欣（Cushing）的库存最终有所增加，但就一年中的这个时间而言，库存量仍处于2007年以来的最低水平。 航空燃油的需求已从上个月因政府关闭导致航班中断而引起的短暂下滑中反弹。",
@@ -1344,6 +1383,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时29分]"
+        },
+        {
+          "title": "中石油经济技术研究院：到2035年，化石能源需求将达到127亿吨标准油当量，较2025年增加4亿吨。",
+          "url": "https://flash.jin10.com/detail/20251211121244583800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "美联储主席鲍威尔：长期利率上升可能源于对更高增长的预期。",
@@ -1392,8 +1442,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时43分]"
         },
         {
           "title": "12月以来超200家A股公司迎券商调研 存储芯片概念受关注",
@@ -1414,8 +1464,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 12时43分]"
         },
         {
           "title": "江苏“十五五”规划建议：积极部署类脑计算、光量子芯片等创新应用技术 加快通用大模型和垂直领域大模型研发",
@@ -1425,8 +1475,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时43分]"
+        },
+        {
+          "title": "上证指数早盘收报3882.72点，跌0.46%。 深证成指早盘收报13292.61点，跌0.18%。 创业板指早盘收报3218.55点，涨0.30%。 沪深300早盘收报4582.51点，跌0.20%。 科创50早盘收报1333.71点，跌0.97%。 中证500早盘收报7129.62点，跌0.37%。 中证1000早盘收报7369.58点，跌0.52%。",
+          "url": "https://wallstreetcn.com/livenews/3018905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "time_info": "[12时01分 ~ 12时43分]"
         },
         {
           "title": "英特尔和AMD被指控“蓄意无视”，未能阻止其芯片流入俄制武器",
@@ -1439,17 +1501,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时29分]"
-        },
-        {
-          "title": "上证指数早盘收报3882.72点，跌0.46%。 深证成指早盘收报13292.61点，跌0.18%。 创业板指早盘收报3218.55点，涨0.30%。 沪深300早盘收报4582.51点，跌0.20%。 科创50早盘收报1333.71点，跌0.97%。 中证500早盘收报7129.62点，跌0.37%。 中证1000早盘收报7369.58点，跌0.52%。",
-          "url": "https://wallstreetcn.com/livenews/3018905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
         },
         {
           "title": "上证指数开盘报3903.89点，涨0.09%。 深证成指开盘报13333.29点，涨0.13%。 创业板指开盘报3210.55点，涨0.05%。 沪深300开盘报4597.19点，涨0.12%。 科创50开盘报1349.67点，涨0.22%。 中证500开盘报7171.21点，涨0.21%。 中证1000开盘报7421.79点，涨0.18%。",
