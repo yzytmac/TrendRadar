@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-11T07:40:24.681047+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2025-12-11T10:06:46.592519+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
           "url": "https://news.ifeng.com/c/8oz1gOzpqEt",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时32分 ~ 07时40分]"
+          "appearance_count": 6,
+          "time_info": "[04时32分 ~ 10时06分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -134,6 +135,18 @@
           "time_info": "[04时32分 ~ 05时29分]"
         },
         {
+          "title": "“特朗普黄金卡”开始接受申请",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 10时06分]"
+        },
+        {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
           "url": "https://flash.jin10.com/detail/20251211054743918800",
           "source": "金十数据",
@@ -151,7 +164,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -162,7 +175,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -187,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
@@ -239,7 +263,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -253,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普回应美联储降息：幅度太小",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%EF%BC%9A%E5%B9%85%E5%BA%A6%E5%A4%AA%E5%B0%8F",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "特朗普继续批评鲍威尔，声称美联储降息幅度本来可以翻倍的",
@@ -305,7 +340,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -338,9 +373,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美国总统特朗普：（谈乌克兰问题）他们希望我们在周末前往欧洲参加一场会议。我们将根据他们带回的内容做出判断。",
@@ -398,17 +444,6 @@
           "time_info": "05时29分"
         },
         {
-          "title": "“特朗普黄金卡”开始接受申请",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
           "title": "特朗普证实美国在委内瑞拉附近扣押一艘油轮",
           "url": "https://flash.jin10.com/detail/20251211044315426800",
           "source": "金十数据",
@@ -426,228 +461,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 a股 港股",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时27分]"
-        },
-        {
-          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
-          "url": "https://wallstreetcn.com/articles/3761064",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时40分]"
-        },
-        {
-          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2225788",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 06时27分]"
-        },
-        {
-          "title": "近日多家A股公司披露外汇套期保值额度 总额度大幅提升",
-          "url": "https://wallstreetcn.com/livenews/3018718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
-          "url": "https://wallstreetcn.com/articles/3761091",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "周三（12月10日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.63%，报92755美元，在美联储宣布降息、鲍威尔新闻发布会、美股收盘之后这段时间冲高回落。 CME以太币期货DCR主力合约涨0.82%，报3364.50美元，鲍威尔新闻发布会临近结束时也一度刷新日高。 美股加密货币与加密货币关联指数跌1.47%，报71.88点。 最近24小时，MarketVector数字资产100小盘指数跌0.86%，暂报4175.18点，曾在鲍威尔新闻发布会临近结束时刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3018682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251211050826516800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时27分]"
-        },
-        {
-          "title": "金十图示：2025年12月10日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251211050549928800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时27分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 银行股走强",
-          "url": "https://flash.jin10.com/detail/20251211050116386800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时27分]"
-        },
-        {
-          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
-          "url": "https://www.cls.cn/detail/2225967",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨1.43%，报326.61点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.50%，报2326.70点。",
-          "url": "https://wallstreetcn.com/livenews/3018679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "美股三大股指小幅走高，道指涨0.5%，标普500指数涨0.2%，纳指跌幅收窄至0.1%。",
-          "url": "https://flash.jin10.com/detail/20251211030239633800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "Gemini Space Station Inc.（GEMI）美股盘后涨15%。",
-          "url": "https://wallstreetcn.com/livenews/3018677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "区域银行ETF收涨超3.4%，在美联储降息日领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3018674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜微软收跌超2.7%，特斯拉、亚马逊至少涨1.4%",
-          "url": "https://wallstreetcn.com/livenews/3018673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "周三（12月10日）纽约尾盘，彭博谷物分类指数跌0.39%，报29.7937点。 CBOT玉米期货跌0.89%，CBOT小麦期货跌0.98%。 CBOT大豆期货涨0.44%，美股开盘以来持续反弹。",
-          "url": "https://wallstreetcn.com/livenews/3018646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "新思科技Synopsys第四财季营收22.6亿美元，同比增长38%。 预计2026财年营收95.6亿-96.6亿美元，分析师预期96.3亿美元。 预计第一财季营收23.7亿-24.2亿美元，分析师预期23.6亿美元。 新思科技美股盘后涨6%。",
-          "url": "https://wallstreetcn.com/livenews/3018670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "批量提前结募，港股主题基金欲快速建仓",
-          "url": "https://wallstreetcn.com/livenews/3018689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "提升A股配置，基金“专业买手”布局跨年行情",
-          "url": "https://wallstreetcn.com/livenews/3018687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时40分"
         }
@@ -655,7 +469,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -665,11 +479,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 10时06分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -696,17 +511,6 @@
           "time_info": "[00时39分 ~ 06时27分]"
         },
         {
-          "title": "OpenAI：所有安卓设备上的ChatGPT服务已全面恢复。",
-          "url": "https://flash.jin10.com/detail/20251211073101861800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
           "source": "bilibili 热搜",
@@ -718,8 +522,30 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 07时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 10时06分]"
+        },
+        {
+          "title": "OpenAI：所有安卓设备上的ChatGPT服务已全面恢复。",
+          "url": "https://flash.jin10.com/detail/20251211073101861800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "网警查处一起AI生成虚假低俗视频案",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "鲍威尔：我认为，人工智能（AI）让使用它的人们具有更高的生产力。",
@@ -781,6 +607,61 @@
           "time_info": "[00时39分 ~ 01时29分]"
         },
         {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.toutiao.com/trending/7582391057200074250/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "男子AI生成车展虚假低俗视频被拘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "市场消息：日本铠侠（Kioxia）将于2026年为人工智能数据中心生产下一代存储芯片。",
+          "url": "https://flash.jin10.com/detail/20251211094530353800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
+          "url": "https://www.cls.cn/detail/2225983",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "Starcloud在太空中训练首个AI模型，轨道数据中心竞争升温",
           "url": "https://wallstreetcn.com/livenews/3018588",
           "source": "华尔街见闻-快讯",
@@ -801,6 +682,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "国产算力最大重组案终止 海光曙光“双龙头”加速开放生态布局 产业正经历结构性演进",
+          "url": "https://www.cls.cn/detail/2225842",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
@@ -831,7 +723,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -853,7 +745,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -864,7 +756,252 @@
           "ranks": [
             17
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 a股 港股",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时27分]"
+        },
+        {
+          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
+          "url": "https://wallstreetcn.com/articles/3761064",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 10时06分]"
+        },
+        {
+          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2225788",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 06时27分]"
+        },
+        {
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 10时06分]"
+        },
+        {
+          "title": "近日多家A股公司披露外汇套期保值额度 总额度大幅提升",
+          "url": "https://wallstreetcn.com/livenews/3018718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "周三（12月10日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.63%，报92755美元，在美联储宣布降息、鲍威尔新闻发布会、美股收盘之后这段时间冲高回落。 CME以太币期货DCR主力合约涨0.82%，报3364.50美元，鲍威尔新闻发布会临近结束时也一度刷新日高。 美股加密货币与加密货币关联指数跌1.47%，报71.88点。 最近24小时，MarketVector数字资产100小盘指数跌0.86%，暂报4175.18点，曾在鲍威尔新闻发布会临近结束时刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3018682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
+          "url": "https://www.cls.cn/detail/2225967",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 10时06分]"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251211050826516800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时27分]"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251211050549928800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时27分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 银行股走强",
+          "url": "https://flash.jin10.com/detail/20251211050116386800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时27分]"
+        },
+        {
+          "title": "中兴通讯A股跌近7%，港股大跌8.3%。",
+          "url": "https://wallstreetcn.com/livenews/3018815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨1.43%，报326.61点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.50%，报2326.70点。",
+          "url": "https://wallstreetcn.com/livenews/3018679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美股三大股指小幅走高，道指涨0.5%，标普500指数涨0.2%，纳指跌幅收窄至0.1%。",
+          "url": "https://flash.jin10.com/detail/20251211030239633800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "Gemini Space Station Inc.（GEMI）美股盘后涨15%。",
+          "url": "https://wallstreetcn.com/livenews/3018677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "A股福建板块盘初走低，欣贺股份、舒华体育双双跌停，德艺文创跌超10%，新华都、安记食品、中国武夷、海欣食品、厦门空港等跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3018808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "区域银行ETF收涨超3.4%，在美联储降息日领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3018674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜微软收跌超2.7%，特斯拉、亚马逊至少涨1.4%",
+          "url": "https://wallstreetcn.com/livenews/3018673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "周三（12月10日）纽约尾盘，彭博谷物分类指数跌0.39%，报29.7937点。 CBOT玉米期货跌0.89%，CBOT小麦期货跌0.98%。 CBOT大豆期货涨0.44%，美股开盘以来持续反弹。",
+          "url": "https://wallstreetcn.com/livenews/3018646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "新思科技Synopsys第四财季营收22.6亿美元，同比增长38%。 预计2026财年营收95.6亿-96.6亿美元，分析师预期96.3亿美元。 预计第一财季营收23.7亿-24.2亿美元，分析师预期23.6亿美元。 新思科技美股盘后涨6%。",
+          "url": "https://wallstreetcn.com/livenews/3018670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "批量提前结募，港股主题基金欲快速建仓",
+          "url": "https://wallstreetcn.com/livenews/3018689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "提升A股配置，基金“专业买手”布局跨年行情",
+          "url": "https://wallstreetcn.com/livenews/3018687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         }
@@ -872,7 +1009,7 @@
     },
     {
       "keyword_group": "谷歌 英伟达 阿里巴巴",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "外媒称中方正考虑限制获取英伟达H200芯片，外交部回应",
@@ -946,6 +1083,18 @@
           "time_info": "01时29分"
         },
         {
+          "title": "【早报】美联储宣布：降息25个基点！鲍威尔重磅发声；中方正考虑限制获取英伟达H200芯片？外交部回应",
+          "url": "https://www.cls.cn/detail/2225988",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 10时06分]"
+        },
+        {
           "title": "甲骨文(ORCL.N)：将继续从英伟达采购最新GPU，需做好准备，并能够部署客户想购买的任何芯片。",
           "url": "https://flash.jin10.com/detail/20251211050715203800",
           "source": "金十数据",
@@ -969,15 +1118,15 @@
           "time_info": "01时29分"
         },
         {
-          "title": "【早报】美联储宣布：降息25个基点！鲍威尔重磅发声；中方正考虑限制获取英伟达H200芯片？外交部回应",
-          "url": "https://www.cls.cn/detail/2225988",
-          "source": "财联社热门",
+          "title": "恒指高开0.66%，报25710.61点；恒生科技指数涨0.55%。汇丰控股、泡泡玛特涨超2%，阿里巴巴、网易、哔哩哔哩、华虹半导体等涨超1%。京东工业上市首日低开7.8%。",
+          "url": "https://wallstreetcn.com/livenews/3018792",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时40分"
+          "time_info": "10时06分"
         },
         {
           "title": "谷歌(GOOG.O)：推出适用于移动网页的YouTube Shorts广告服务。",
@@ -1008,8 +1157,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 10时06分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.6%。 热门中概股里，阿特斯太阳能初步收涨6.1%，贝壳、小马智行、晶科能源涨超3%，世纪互联则跌4.3%。",
@@ -1039,11 +1188,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时40分]"
+          "appearance_count": 3,
+          "time_info": "[06时27分 ~ 10时06分]"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA原油库存下降181万桶，分析师预期减少215.583万桶，之前一周增加57.4万桶。 美国炼油厂正生产着自2019年1月以来最多的柴油，并且仅在2018年（同期）的季节性基础上生产量超过了现在。 在经历了四周的库存下降后，库欣（Cushing）的库存最终有所增加，但就一年中的这个时间而言，库存量仍处于2007年以来的最低水平。 航空燃油的需求已从上个月因政府关闭导致航班中断而引起的短暂下滑中反弹。",
@@ -1094,7 +1244,7 @@
     },
     {
       "keyword_group": "商业航天 中国卫星 中国卫通",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "一图看懂 | 中国商业航天IPO热潮来袭，“火箭天团”背后影子股曝光",
@@ -1120,12 +1270,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时39分 ~ 07时40分]"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.02%，深成指涨0.48%，贵金属、可控核聚变、电网设备、商业航天等方向领涨，沪深京三市上涨个股近1600只。",
+          "url": "https://wallstreetcn.com/livenews/3018812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "A股商业航天概念继续走强，再升科技4连板，华菱线缆涨停，瑞华泰、广联航空、通光线缆、航宇科技等多股高开。",
+          "url": "https://wallstreetcn.com/livenews/3018805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "12月以来超200家A股公司迎券商调研 存储芯片概念受关注",
@@ -1134,7 +1306,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -1149,6 +1321,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时29分]"
+        },
+        {
+          "title": "美国对中国大陆芯片出口抽成25%，台湾又要“接盘”？",
+          "url": "https://news.ifeng.com/c/8ozNb3RIbCJ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "上证指数开盘报3903.89点，涨0.09%。 深证成指开盘报13333.29点，涨0.13%。 创业板指开盘报3210.55点，涨0.05%。 沪深300开盘报4597.19点，涨0.12%。 科创50开盘报1349.67点，涨0.22%。 中证500开盘报7171.21点，涨0.21%。 中证1000开盘报7421.79点，涨0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3018794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
@@ -1166,8 +1360,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 10时06分]"
         }
       ]
     }
