@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T07:26:49.170137+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2025-12-12T10:06:17.745354+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 46,
+      "match_count": 55,
       "titles": [
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -31,8 +31,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 10时06分]"
+        },
+        {
+          "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
+          "url": "https://wallstreetcn.com/articles/3761175",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美国财长贝森特：人工智能将成为经济增长的最大单一来源。 人工智能设施附近的家庭将有同样的能源成本。",
@@ -41,7 +52,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -63,9 +74,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
+          "url": "https://www.cls.cn/detail/2227243",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
@@ -195,7 +217,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -206,9 +228,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761222",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "OpenAI：在ChatGPT中，GPT-5.1仍将以旧版模型的形式向付费用户开放三个月。",
@@ -228,9 +261,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "A股算力硬件股反复活跃，德科立、联特科技涨超10%，新易盛、瑞斯康达、剑桥科技、汇绿生态等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3019521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "CoreWeave宣布达成协议，为Runway的下一代AI视频模型提供算力支持。",
@@ -261,7 +316,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -272,7 +327,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -294,9 +349,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
+          "url": "https://wallstreetcn.com/articles/3761169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "OpenAI：GPT-5.2-PRO的定价为每100万个输入Token为21美元，每100万个输出Token为168美元。",
@@ -321,13 +387,24 @@
           "time_info": "04时31分"
         },
         {
+          "title": "GPT-5.2来了！OpenAI最新发布",
+          "url": "https://www.baidu.com/s?wd=GPT-5.2%E6%9D%A5%E4%BA%86%EF%BC%81OpenAI%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "市场消息：博通(AVGO.O)不预计OpenAI会在2026年带来太多的营收。",
           "url": "https://flash.jin10.com/detail/20251212065338671800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -338,7 +415,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -371,9 +448,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "OpenAI：正式推出GPT-5.2",
@@ -393,7 +481,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -426,7 +514,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -528,23 +616,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
+          "url": "https://wallstreetcn.com/livenews/3019491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
           "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 10时06分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -566,7 +666,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -577,7 +677,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -588,7 +688,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -599,9 +699,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：关于泰国和柬埔寨问题，我得打几个电话。",
+          "url": "https://flash.jin10.com/detail/20251212093208416800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "据AXIOS网站：特朗普政府计划任命一名美国少将指挥驻加沙国际稳定部队（ISF）。",
@@ -821,6 +932,39 @@
           "time_info": "[03时25分 ~ 04时31分]"
         },
         {
+          "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1982382778923365984",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "加州州长再批特朗普：最具破坏性总统",
+          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "市场消息：美国财政部计划扩大特朗普政府为企业提供的税收减免，该方案将扩大研发企业税收减免的适用范围。",
           "url": "https://flash.jin10.com/detail/20251212032152670800",
           "source": "金十数据",
@@ -838,7 +982,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -893,7 +1037,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -931,6 +1075,17 @@
           "time_info": "03时25分"
         },
         {
+          "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
+          "url": "https://wallstreetcn.com/livenews/3019493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "特朗普称赞股市再创新高",
           "url": "https://flash.jin10.com/detail/20251211234650410800",
           "source": "金十数据",
@@ -956,7 +1111,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -980,6 +1135,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2227262",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 10时06分]"
         },
         {
           "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股收盘）",
@@ -1018,17 +1185,6 @@
           "time_info": "[06时27分 ~ 07时26分]"
         },
         {
-          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2227262",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
           "title": "美股收盘：道指创新高 甲骨文跌超10%",
           "url": "https://flash.jin10.com/detail/20251212050039144800",
           "source": "金十数据",
@@ -1057,9 +1213,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-12-12）",
+          "url": "https://flash.jin10.com/detail/20251212091239305800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美债收益率于美股盘中持续走高",
@@ -1068,9 +1235,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-12）",
+          "url": "https://flash.jin10.com/detail/20251212090313715800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "博通美股盘后跌3.36%。",
@@ -1079,7 +1257,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -1153,7 +1331,7 @@
     },
     {
       "keyword_group": "谷歌 英伟达 阿里巴巴",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "据The Information：英伟达(NVDA.O)将举办数据中心电力短缺问题峰会。",
@@ -1259,6 +1437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "【恒指高开0.9%，恒生科技指数涨1.02%】京东健康涨超3%，蔚来涨超2%，网易涨近2%，快手、阿里巴巴等涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3019507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "消息人士：谷歌(GOOG.O)为遵守具有里程碑意义的欧盟新规所做的努力仍显不足，其明年将因偏袒自家服务而面临欧盟罚款。",
@@ -1394,7 +1583,7 @@
     },
     {
       "keyword_group": "商业航天 中国卫星 中国卫通",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
@@ -1402,11 +1591,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 10时06分]"
         },
         {
           "title": "【焦点复盘】沪指放量跌0.7%录得日线3连阴，商业航天概念一枝独秀，摩尔线程总市值突破4400亿",
@@ -1420,12 +1610,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时39分 ~ 07时26分]"
+        },
+        {
+          "title": "A股商业航天概念再度拉升，华菱线缆、中超控股2连板，东方通信、长城电工、航天长峰涨停，创远信科、亚光科技、超捷股份、天力复合、国瓷材料涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3019519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“存储荒”前所未有！瑞银：DRAM短缺料至2027年 DDR Q4料涨价35%",
@@ -1452,6 +1653,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时39分 ~ 07时26分]"
+        },
+        {
+          "title": "上证指数开盘报3869.41点，跌0.10%。 深证成指开盘报13174.45点，涨0.21%。 创业板指开盘报3172.73点，涨0.29%。 沪深300开盘报4558.74点，涨0.14%。 科创50开盘报1324.30点，跌0.12%。 中证500开盘报7088.10点，涨0.07%。 中证1000开盘报7312.87点，涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3019510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际 东芯股份 炬光科技",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股芯片股走低，华虹半导体跌超5%，中芯国际跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3019541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     }
