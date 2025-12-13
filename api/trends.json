@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T07:26:26.193838+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2025-12-13T09:59:35.047506+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -31,18 +31,6 @@
           "time_info": "[02时40分 ~ 06时26分]"
         },
         {
-          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761222",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时26分]"
-        },
-        {
           "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
           "url": "https://www.cls.cn/detail/2228432",
           "source": "财联社热门",
@@ -51,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 09时59分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -63,19 +51,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 09时59分]"
         },
         {
-          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
-          "url": "https://flash.jin10.com/detail/20251213034901959800",
-          "source": "金十数据",
+          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761222",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时30分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 07时26分]"
         },
         {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
@@ -102,6 +91,18 @@
           "time_info": "[00时34分 ~ 06时26分]"
         },
         {
+          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
+          "url": "https://flash.jin10.com/detail/20251213034901959800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时30分 ~ 09时59分]"
+        },
+        {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
           "url": "https://wallstreetcn.com/livenews/3020118",
           "source": "华尔街见闻-快讯",
@@ -117,13 +118,37 @@
           "time_info": "[03时23分 ~ 07时26分]"
         },
         {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 09时59分]"
+        },
+        {
+          "title": "长沙交警配发AI眼镜",
+          "url": "https://www.toutiao.com/trending/7582600366945632265/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "AI担忧加剧，博通引发科技股抛售潮，标普、道指跌离历史高位，美元跌破98，白银跌",
           "url": "https://wallstreetcn.com/articles/3761271",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -137,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
@@ -203,8 +239,8 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
           "source": "财联社热门",
           "ranks": [
             11,
@@ -212,7 +248,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
+          "time_info": "[07时26分 ~ 09时59分]"
         },
         {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
@@ -260,15 +296,26 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "09时59分"
+        },
+        {
+          "title": "谷歌推出AI语音同声传译功能 不知道对方是哪国人也能用",
+          "url": "https://www.cls.cn/detail/2228546",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
@@ -351,7 +398,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
@@ -361,8 +408,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 09时59分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -376,49 +436,38 @@
           "time_info": "[00时34分 ~ 07时26分]"
         },
         {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时26分]"
-        },
-        {
           "title": "特朗普称泰柬同意全面停火",
           "url": "https://news.ifeng.com/c/8p2IYwR0WoN",
           "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
-          "url": "https://wallstreetcn.com/livenews/3020161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美国总统特朗普：泰国与柬埔寨处于不错的形势。",
-          "url": "https://wallstreetcn.com/livenews/3020160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            1,
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普称泰柬已同意停火 泰方否认",
+          "url": "https://flash.jin10.com/detail/20251213092752773800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "09时59分"
+        },
+        {
+          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
+          "url": "https://flash.jin10.com/detail/20251213092310404800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
@@ -486,6 +535,30 @@
           "time_info": "[01时26分 ~ 02时40分]"
         },
         {
+          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
+          "url": "https://wallstreetcn.com/livenews/3020161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 09时59分]"
+        },
+        {
+          "title": "美国总统特朗普：泰国与柬埔寨处于不错的形势。",
+          "url": "https://wallstreetcn.com/livenews/3020160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 09时59分]"
+        },
+        {
           "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
           "url": "https://flash.jin10.com/detail/20251213021141343800",
           "source": "金十数据",
@@ -526,6 +599,17 @@
           "time_info": "[02时40分 ~ 05时24分]"
         },
         {
+          "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
+          "url": "https://www.cls.cn/detail/2228568",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
           "url": "https://flash.jin10.com/detail/20251213000409005800",
           "source": "金十数据",
@@ -535,6 +619,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
+          "url": "https://wallstreetcn.com/livenews/3020166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "特朗普：我应当在与美联储讨论利率方面发挥作用",
+          "url": "https://wallstreetcn.com/livenews/3020165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "特朗普：泰国和柬埔寨已同意今晚起停止交火",
@@ -581,6 +687,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "消息人士：特朗普政府今年不太可能敲定2026年的生物燃料配额",
+          "url": "https://flash.jin10.com/detail/20251213040502297800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "Tilray Brands Inc.涨40%，AdvisorShares Cannabis ETF涨35%，创2022年以来最大盘中涨幅。 媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
           "url": "https://wallstreetcn.com/livenews/3020048",
           "source": "华尔街见闻-快讯",
@@ -590,6 +707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "特朗普称泰柬双方同意停火",
+          "url": "https://www.toutiao.com/trending/7582909402869452342/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     },
@@ -671,7 +799,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -709,11 +837,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 09时59分]"
         },
         {
           "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
@@ -721,11 +850,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 09时59分]"
         },
         {
           "title": "金十图示：2025年12月12日（周五）美股热门股票行情一览（美股盘中）",
@@ -774,6 +904,46 @@
       ]
     },
     {
+      "keyword_group": "芯片 科创 存储",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "戴尔科技计划上调旗下所有商用产品的价格。 戴尔将于12月17日提价，这与内存芯片需求有关。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3020059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时26分]"
+        },
+        {
+          "title": "报道：英特尔将以约16亿美元收购芯片公司SambaNova",
+          "url": "https://wallstreetcn.com/livenews/3020164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "据美媒Insider：戴尔(DELL.N)计划上调全线商用产品价格，涨价与内存芯片需求有关。",
+          "url": "https://flash.jin10.com/detail/20251212232844853800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "电力 能源 储能",
       "match_count": 2,
       "titles": [
@@ -783,11 +953,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 09时59分]"
         },
         {
           "title": "土耳其外交部声明：土耳其呼吁安排暂停针对黑海航行安全和能源/港口基础设施的袭击，以防止事态升级。",
@@ -803,31 +974,19 @@
       ]
     },
     {
-      "keyword_group": "芯片 科创 存储",
-      "match_count": 2,
+      "keyword_group": "商业航天 中国卫星 中国卫通",
+      "match_count": 1,
       "titles": [
         {
-          "title": "戴尔科技计划上调旗下所有商用产品的价格。 戴尔将于12月17日提价，这与内存芯片需求有关。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3020059",
-          "source": "华尔街见闻-快讯",
+          "title": "A股探底回升，创业板涨0.97%，可控核聚变、商业航天领涨，电网设备走强，港股高开高走，恒指、恒科指涨超1%，科技股普涨，有色强势",
+          "url": "https://wallstreetcn.com/articles/3761243",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            29
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
-        },
-        {
-          "title": "据美媒Insider：戴尔(DELL.N)计划上调全线商用产品价格，涨价与内存芯片需求有关。",
-          "url": "https://flash.jin10.com/detail/20251212232844853800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "09时59分"
         }
       ]
     }
