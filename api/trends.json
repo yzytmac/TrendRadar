@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-14T14:38:30.002174+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2025-12-14T15:25:27.350166+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
+          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 15时25分]"
+        },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
@@ -100,17 +111,6 @@
           "time_info": "[00时31分 ~ 04时28分]"
         },
         {
-          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
-          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时12分 ~ 14时38分]"
-        },
-        {
           "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
           "url": "https://flash.jin10.com/detail/20251213211438744800",
           "source": "金十数据",
@@ -132,6 +132,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
+          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 15时25分]"
         },
         {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
@@ -158,17 +169,6 @@
           "time_info": "[04时28分 ~ 07时24分]"
         },
         {
-          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
-          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时12分 ~ 14时38分]"
-        },
-        {
           "title": "美士兵遇袭死亡 特朗普誓言报复",
           "url": "https://www.toutiao.com/trending/7583408102318489643/",
           "source": "今日头条",
@@ -188,8 +188,32 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 15时25分]"
+        },
+        {
+          "title": "特朗普对其经济政策能否助力中期选举存疑",
+          "url": "https://flash.jin10.com/detail/20251214101831272800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时02分 ~ 14时38分]"
+          "time_info": "[12时03分 ~ 15时25分]"
+        },
+        {
+          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
+          "url": "https://flash.jin10.com/detail/20251214100231761800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 15时25分]"
         },
         {
           "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
@@ -201,30 +225,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 03时21分]"
-        },
-        {
-          "title": "特朗普对其经济政策能否助力中期选举存疑",
-          "url": "https://flash.jin10.com/detail/20251214101831272800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 14时38分]"
-        },
-        {
-          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
-          "url": "https://flash.jin10.com/detail/20251214100231761800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 14时38分]"
         },
         {
           "title": "特朗普说中国团结一心干大事",
@@ -295,6 +295,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "特朗普的和平梦要在东南亚碎了吗",
+          "url": "https://www.toutiao.com/trending/7583581680191933971/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "特朗普或因说漏嘴致间谍曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%9B%A0%E8%AF%B4%E6%BC%8F%E5%98%B4%E8%87%B4%E9%97%B4%E8%B0%8D%E6%9B%9D%E5%85%89%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -355,8 +366,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 14时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 15时25分]"
         },
         {
           "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
@@ -391,6 +402,17 @@
           "time_info": "[00时31分 ~ 14时38分]"
         },
         {
+          "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力芯片龙头赫然在列",
+          "url": "https://www.cls.cn/detail/2228757",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 15时25分]"
+        },
+        {
           "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
           "url": "https://wallstreetcn.com/articles/3761321",
           "source": "华尔街见闻",
@@ -416,19 +438,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 14时38分]"
-        },
-        {
-          "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力芯片龙头赫然在列",
-          "url": "https://www.cls.cn/detail/2228757",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时12分 ~ 14时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 15时25分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -440,6 +451,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 07时24分]"
+        },
+        {
+          "title": "华尔街日报：OpenAI将取消员工股权归属期",
+          "url": "https://flash.jin10.com/detail/20251214105538781800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 15时25分]"
         },
         {
           "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
@@ -468,18 +491,6 @@
           "time_info": "[00时32分 ~ 07时24分]"
         },
         {
-          "title": "华尔街日报：OpenAI将取消员工股权归属期",
-          "url": "https://flash.jin10.com/detail/20251214105538781800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 14时38分]"
-        },
-        {
           "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
           "url": "https://wallstreetcn.com/livenews/3020234",
           "source": "华尔街见闻-快讯",
@@ -490,6 +501,45 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 04时28分]"
+        },
+        {
+          "title": "广东人工智能和机器人产业核心指标位列全国第一",
+          "url": "https://wallstreetcn.com/livenews/3020326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 15时25分]"
+        },
+        {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时25分]"
+        },
+        {
+          "title": "近一个月这些上市公司被“踏破门槛”！算力芯片“双龙头”获机构组团调研，机构来访接待量居前的个股名单一览",
+          "url": "https://www.cls.cn/detail/2228810",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时25分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -504,53 +554,17 @@
           "time_info": "[10时12分 ~ 12时03分]"
         },
         {
-          "title": "广东人工智能和机器人产业核心指标位列全国第一",
-          "url": "https://wallstreetcn.com/livenews/3020326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 14时38分]"
-        },
-        {
-          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
-          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时38分]"
-        },
-        {
-          "title": "近一个月这些上市公司被“踏破门槛”！算力芯片“双龙头”获机构组团调研，机构来访接待量居前的个股名单一览",
-          "url": "https://www.cls.cn/detail/2228810",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时38分]"
-        },
-        {
           "title": "广东人工智能核心产业规模达2200亿元",
           "url": "https://wallstreetcn.com/livenews/3020340",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时25分]"
         },
         {
           "title": "姚期智院士：人工智能要从模仿走向推理，从局部技能到全身协同",
@@ -561,8 +575,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时25分]"
         },
         {
           "title": "抖音推出“AI时代前沿学科共建计划”，百门名校公开课助推知识普惠",
@@ -655,8 +669,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 14时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 15时25分]"
         },
         {
           "title": "累计金额超1375亿！1468家A股上市公司今年以来实施回购，个股回购额排行榜出炉",
@@ -668,8 +682,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 14时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 15时25分]"
         },
         {
           "title": "评论员：4000点后A股喘息式调整",
@@ -732,6 +746,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "紫晶存储欺诈发行案宣判：10名高管全部领刑，1.7万投资者获赔超10亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32173635",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时25分]"
+        },
+        {
           "title": "紫晶存储欺诈发行案宣判：10名高管全部领刑 交纳12.75亿元承诺金用于投资者赔付",
           "url": "https://wallstreetcn.com/livenews/3020318",
           "source": "华尔街见闻-快讯",
@@ -742,17 +767,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时03分 ~ 13时27分]"
-        },
-        {
-          "title": "紫晶存储欺诈发行案宣判：10名高管全部领刑，1.7万投资者获赔超10亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32173635",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
         }
       ]
     },
