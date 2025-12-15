@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T12:07:59.052885+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2025-12-15T13:32:42.449297+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力芯片龙头赫然在列",
@@ -43,6 +43,17 @@
           "time_info": "[00时31分 ~ 07时24分]"
         },
         {
+          "title": "深成指午后跌超1%，沪指跌0.29%，创业板指跌1.72%，光模块、锂矿、AI手机、半导体等方向跌幅居前，沪深京三市下跌个股超2800只。",
+          "url": "https://wallstreetcn.com/livenews/3020711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
           "url": "https://wallstreetcn.com/livenews/3020397",
           "source": "华尔街见闻-快讯",
@@ -53,6 +64,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时36分]"
+        },
+        {
+          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
+          "url": "https://www.cls.cn/detail/2229152",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时32分]"
         },
         {
           "title": "据华尔街日报：咨询公司Teneo的调查显示，80%的小型企业首席执行官和31%的大型企业首席执行官预计2026年上半年全球经济将有所改善。首席执行官们将继续在人工智能上投入资金，尽管回报参差不齐。",
@@ -67,26 +89,16 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
-          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
-          "url": "https://www.cls.cn/detail/2229152",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
           "title": "李飞飞自曝世界模型公司招聘要求：AI技能比大学文凭更重要",
           "url": "https://www.cls.cn/detail/2229051",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时32分]"
         },
         {
           "title": "年终排名将揭晓，绩优基金“角力”AI重仓股",
@@ -106,15 +118,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-15）",
+          "url": "https://flash.jin10.com/detail/20251215115553831800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -158,6 +181,19 @@
           "time_info": "[03时21分 ~ 07时24分]"
         },
         {
+          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
+          "url": "https://www.cls.cn/detail/2229153",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时32分]"
+        },
+        {
           "title": "美国总统特朗普：通胀“完全被抵消了”，你们不希望看到通缩。 从许多方面来看，通缩情况都比通胀更糟。",
           "url": "https://wallstreetcn.com/livenews/3020430",
           "source": "华尔街见闻-快讯",
@@ -187,6 +223,20 @@
           "time_info": "[04时29分 ~ 07时24分]"
         },
         {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时32分]"
+        },
+        {
           "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
           "url": "https://flash.jin10.com/detail/20251214211648647800",
           "source": "金十数据",
@@ -200,31 +250,6 @@
           "time_info": "[00时31分 ~ 05时24分]"
         },
         {
-          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
-          "url": "https://www.cls.cn/detail/2229153",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时07分]"
-        },
-        {
-          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
-          "url": "https://wallstreetcn.com/articles/3761378",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时07分]"
-        },
-        {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
           "url": "https://flash.jin10.com/detail/20251215045241134800",
           "source": "金十数据",
@@ -236,12 +261,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时24分 ~ 07时24分]"
+        },
+        {
+          "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
+          "url": "https://www.toutiao.com/trending/7583736813425066020/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "人形机器人细分龙头年内涨超300% 梳理产业链成本占比居前A股名单",
@@ -286,11 +322,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时32分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -302,6 +339,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "十大券商看后市｜A股跨年行情蓄势待发，布局春季躁动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32177110",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "A股大消费板块集体拉升，食品、乳业、零售、白酒等纷纷走强，欢乐家、皇氏集团、均瑶健康、阳光乳业、百大集团、东百集团、皇台酒业等多股涨停，骑士乳业涨超10%。",
@@ -332,7 +380,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
@@ -361,11 +409,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时32分]"
         },
         {
           "title": "国家统计局：11月规上工业电力生产保持增长",
@@ -385,7 +434,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
@@ -393,7 +442,7 @@
     },
     {
       "keyword_group": "芯片 科创 存储",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "紫晶存储欺诈发行案宣判：10名高管全部领刑，1.7万投资者获赔超10亿元",
@@ -411,26 +460,38 @@
           "time_info": "[00时31分 ~ 10时10分]"
         },
         {
-          "title": "新型生物芯片助力病毒抗体快速筛查",
-          "url": "https://wallstreetcn.com/livenews/3020668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
           "title": "上证指数早盘收报3884.93点，跌0.11%。 深证成指早盘收报13164.03点，跌0.71%。 创业板指早盘收报3153.07点，跌1.29%。 沪深300早盘收报4573.30点，跌0.17%。 科创50早盘收报1331.33点，跌1.30%。 中证500早盘收报7137.42点，跌0.45%。 中证1000早盘收报7335.05点，跌0.49%。",
           "url": "https://wallstreetcn.com/livenews/3020660",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "新型生物芯片助力病毒抗体快速筛查",
+          "url": "https://wallstreetcn.com/livenews/3020668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时32分]"
+        },
+        {
+          "title": "证监会：启动实施深化创业板改革 加快科创板“1+6”改革举措落地",
+          "url": "https://wallstreetcn.com/livenews/3020678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
@@ -445,9 +506,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际 东芯股份 炬光科技",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒生科技指数日内跌幅扩大至2%。华虹半导体跌超7%，百度、快手跌超4%，中芯国际跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3020701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
@@ -461,11 +539,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时32分]"
         }
       ]
     }
