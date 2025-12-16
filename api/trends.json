@@ -1,208 +1,44 @@
 {
-  "generated_at": "2025-12-17T02:52:42.896594+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2025-12-17T03:25:24.381595+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 人工智能 算力",
-      "match_count": 16,
+      "keyword_group": "特朗普",
+      "match_count": 20,
       "titles": [
         {
-          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
-          "url": "https://wallstreetcn.com/articles/3761466",
-          "source": "华尔街见闻",
+          "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
+          "url": "https://flash.jin10.com/detail/20251217031120622800",
+          "source": "金十数据",
           "ranks": [
-            2,
             1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
-          "title": "OpenAI：我们将发布一项新的评估FrontierScience，用于衡量专家级的科学推理能力。FrontierScience包含两个题型：奥林匹克赛题，用于评估奥林匹克竞赛式的科学推理能力；研究赛题，用于评估现实世界中的科研能力。",
-          "url": "https://flash.jin10.com/detail/20251217010715480800",
+          "title": "白宫新闻秘书莱维特：特朗普将于明天前往多佛空军基地，出席在叙利亚阵亡美军士兵的移交仪式。",
+          "url": "https://flash.jin10.com/detail/20251217030906763800",
           "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "OpenAI：面向所有用户在ChatGPT中推出全新图像模型及功能。 同时，在API端以GPT Image 1.5的形式上线。",
-          "url": "https://wallstreetcn.com/livenews/3021861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "03时25分"
         },
         {
-          "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
-          "url": "https://wallstreetcn.com/articles/3761448",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时52分]"
-        },
-        {
-          "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
-          "url": "https://www.cls.cn/detail/2231043",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时31分]"
-        },
-        {
-          "title": "即梦AI上新，支持声音、画面同步生成",
-          "url": "https://wallstreetcn.com/livenews/3021804",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普可能会在周三披露2026年政策方向。",
+          "url": "https://wallstreetcn.com/livenews/3021872",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普没有比Wiles更棒或更忠诚的顾问了。 有关Vanity Fair（名利场）的大部分内容失实。",
-          "url": "https://wallstreetcn.com/livenews/3021803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)：推出SAM Audio，一款用于声音分割的AI模型。",
-          "url": "https://flash.jin10.com/detail/20251217000241230800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
-          "url": "https://wallstreetcn.com/livenews/3021857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "成都35所中小学试点AI批改作业",
-          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD35%E6%89%80%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%AF%95%E7%82%B9AI%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
-          "url": "https://flash.jin10.com/detail/20251217021028425800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "Doordash在美国旧金山和纽约市测试基于AI的、用于发现餐厅的APP。",
-          "url": "https://wallstreetcn.com/livenews/3021846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "哈塞特：人工智能将带动生产率增长2.5%-3%",
-          "url": "https://wallstreetcn.com/livenews/3021800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "埃森哲将收购人工智能数据中心工程与咨询公司DLB Associates 65%的股权。",
-          "url": "https://flash.jin10.com/detail/20251217002108283800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
-          "url": "https://flash.jin10.com/detail/20251217015359218800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "城堡投资创始人肯·格里芬：人工智能将对经济产生显著但有限的影响。",
-          "url": "https://flash.jin10.com/detail/20251216232420345800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "美国总统特朗普：12月17日美东时间21:00（18日北京时间10:00）将发表全国讲话。",
-          "url": "https://wallstreetcn.com/livenews/3021864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "03时25分"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -212,8 +48,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时25分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普周三晚的讲话将着重介绍政绩。",
+          "url": "https://flash.jin10.com/detail/20251217030747404800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
@@ -223,8 +70,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时25分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普将就其历史性成就发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251217030647775800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普将谈论未来展望，或许会预告新年政策。",
+          "url": "https://flash.jin10.com/detail/20251217030552131800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -235,8 +104,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时25分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -248,8 +117,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时25分]"
         },
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -257,11 +126,24 @@
           "source": "知乎",
           "ranks": [
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时25分]"
+        },
+        {
+          "title": "美国总统特朗普：12月17日美东时间21:00（18日北京时间10:00）将发表全国讲话。",
+          "url": "https://wallstreetcn.com/livenews/3021864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时25分]"
         },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
@@ -287,6 +169,30 @@
           "time_info": "[00时38分 ~ 01时31分]"
         },
         {
+          "title": "美国总统特朗普：将于明晚9点（北京时间次日上午10:00）在白宫向全国发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251217022634818800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时25分]"
+        },
+        {
+          "title": "美国纽约州起诉特朗普政府阻挠电动汽车基础设施建设资金。",
+          "url": "https://flash.jin10.com/detail/20251217022052073800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时25分]"
+        },
+        {
           "title": "Citadel创始人Ken Griffin：与美国白宫和美联储保持距离具有重要意义。 美国总统（特朗普）脑子中对下一任美联储主席有不错的人选。 我自己不会对下一任美联储主席的人选发表看法。",
           "url": "https://wallstreetcn.com/livenews/3021809",
           "source": "华尔街见闻-快讯",
@@ -297,28 +203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时31分]"
-        },
-        {
-          "title": "美国总统特朗普：将于明晚9点（北京时间次日上午10:00）在白宫向全国发表讲话。",
-          "url": "https://flash.jin10.com/detail/20251217022634818800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "美国纽约州起诉特朗普政府阻挠电动汽车基础设施建设资金。",
-          "url": "https://flash.jin10.com/detail/20251217022052073800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
         },
         {
           "title": "据英国金融时报：特朗普政府在关键会议前抨击世贸组织。",
@@ -356,6 +240,195 @@
       ]
     },
     {
+      "keyword_group": "AI 人工智能 算力",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
+          "url": "https://wallstreetcn.com/articles/3761466",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时25分]"
+        },
+        {
+          "title": "OpenAI：我们将发布一项新的评估FrontierScience，用于衡量专家级的科学推理能力。FrontierScience包含两个题型：奥林匹克赛题，用于评估奥林匹克竞赛式的科学推理能力；研究赛题，用于评估现实世界中的科研能力。",
+          "url": "https://flash.jin10.com/detail/20251217010715480800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
+          "url": "https://wallstreetcn.com/articles/3761448",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时25分]"
+        },
+        {
+          "title": "OpenAI：面向所有用户在ChatGPT中推出全新图像模型及功能。 同时，在API端以GPT Image 1.5的形式上线。",
+          "url": "https://wallstreetcn.com/livenews/3021861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时25分]"
+        },
+        {
+          "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
+          "url": "https://www.cls.cn/detail/2231043",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
+          "url": "https://wallstreetcn.com/livenews/3021857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时25分]"
+        },
+        {
+          "title": "Doordash在美国旧金山和纽约市测试基于AI的、用于发现餐厅的APP。",
+          "url": "https://wallstreetcn.com/livenews/3021846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时25分]"
+        },
+        {
+          "title": "即梦AI上新，支持声音、画面同步生成",
+          "url": "https://wallstreetcn.com/livenews/3021804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普没有比Wiles更棒或更忠诚的顾问了。 有关Vanity Fair（名利场）的大部分内容失实。",
+          "url": "https://wallstreetcn.com/livenews/3021803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)：推出SAM Audio，一款用于声音分割的AI模型。",
+          "url": "https://flash.jin10.com/detail/20251217000241230800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "成都35所中小学试点AI批改作业",
+          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD35%E6%89%80%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%AF%95%E7%82%B9AI%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
+          "url": "https://flash.jin10.com/detail/20251217021028425800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "哈塞特：人工智能将带动生产率增长2.5%-3%",
+          "url": "https://wallstreetcn.com/livenews/3021800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "埃森哲将收购人工智能数据中心工程与咨询公司DLB Associates 65%的股权。",
+          "url": "https://flash.jin10.com/detail/20251217002108283800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
+          "url": "https://flash.jin10.com/detail/20251217015359218800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "城堡投资创始人肯·格里芬：人工智能将对经济产生显著但有限的影响。",
+          "url": "https://flash.jin10.com/detail/20251216232420345800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 中国卫星 中国卫通",
       "match_count": 3,
       "titles": [
@@ -367,8 +440,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时25分]"
         },
         {
           "title": "中国卫星与美「星链」卫星惊险「擦肩」，相距仅 200 米，到底怎么回事？为什么会出现这一状况？",
@@ -377,11 +450,12 @@
           "ranks": [
             14,
             12,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时25分]"
         },
         {
           "title": "【每日收评】三大指数均跌超1%，全市场超4300股飘绿，商业航天午后探底回升",
@@ -409,19 +483,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时25分]"
         },
         {
           "title": "美股延续跌势，标普500指数下跌0.7%，纳斯达克指数下跌0.4%，道指下跌0.9%。",
           "url": "https://flash.jin10.com/detail/20251217021740972800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时25分]"
         }
       ]
     },
@@ -436,11 +511,12 @@
           "ranks": [
             21,
             20,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时25分]"
         }
       ]
     },
@@ -453,11 +529,12 @@
           "url": "https://wallstreetcn.com/livenews/3021847",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时25分]"
         }
       ]
     }
