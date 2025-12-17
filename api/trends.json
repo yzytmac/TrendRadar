@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T20:58:17.918523+08:00",
-  "total_titles_processed": 1831,
+  "generated_at": "2025-12-17T21:39:23.681019+08:00",
+  "total_titles_processed": 1921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 47,
+      "match_count": 53,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -68,11 +68,12 @@
           "ranks": [
             10,
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 20时58分]"
+          "appearance_count": 7,
+          "time_info": "[17时34分 ~ 21时39分]"
         },
         {
           "title": "我会努力跑在AI的前面",
@@ -86,6 +87,30 @@
           "time_info": "17时34分"
         },
         {
+          "title": "上海市通信管理局副局长戴斌：上海将推动算网协同 引导算力中心向智算中心倾斜",
+          "url": "https://wallstreetcn.com/livenews/3022445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "A股国产算力再添一员！沐曦股份登陆科创板 行业进入“拼产能、拼生态”关键阶段",
+          "url": "https://www.cls.cn/detail/2232260",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时32分 ~ 21时39分]"
+        },
+        {
           "title": "OpenAI：我们将发布一项新的评估FrontierScience，用于衡量专家级的科学推理能力。FrontierScience包含两个题型：奥林匹克赛题，用于评估奥林匹克竞赛式的科学推理能力；研究赛题，用于评估现实世界中的科研能力。",
           "url": "https://flash.jin10.com/detail/20251217010715480800",
           "source": "金十数据",
@@ -95,18 +120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
-        },
-        {
-          "title": "A股国产算力再添一员！沐曦股份登陆科创板 行业进入“拼产能、拼生态”关键阶段",
-          "url": "https://www.cls.cn/detail/2232260",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时32分 ~ 20时58分]"
         },
         {
           "title": "OpenAI：面向所有用户在ChatGPT中推出全新图像模型及功能。 同时，在API端以GPT Image 1.5的形式上线。",
@@ -324,6 +337,17 @@
           "time_info": "15时29分"
         },
         {
+          "title": "上海落实“算力强基揭榜行动”最新成果：跨域异构算力调度完成商用验证",
+          "url": "https://wallstreetcn.com/livenews/3022440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "Meta Platforms(META.O)：推出SAM Audio，一款用于声音分割的AI模型。",
           "url": "https://flash.jin10.com/detail/20251217000241230800",
           "source": "金十数据",
@@ -357,13 +381,35 @@
           "time_info": "15时29分"
         },
         {
+          "title": "美联储理事沃勒：就业市场非常疲软，目前的就业增长情况不佳。 美国就业增长接近于零。 美联储的降息举措对就业市场有所帮助。 2026年经济形势可能会更好，希望这能提振就业市场。 通胀仍高于目标，但预计未来几个月会回落。 通胀预期保持稳定。 目前还不清楚人工智能将对就业市场产生什么影响。",
+          "url": "https://wallstreetcn.com/livenews/3022436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
+          "url": "https://wallstreetcn.com/articles/3761532",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "Hut 8盘前大涨，与Anthropic达成70亿美元人工智能基础设施交易",
           "url": "https://wallstreetcn.com/livenews/3022402",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -418,9 +464,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "何小鹏：当前没有AI泡沫，未来AI的市场有着巨大机遇",
@@ -465,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "市场消息：人工智能芯片初创公司Mythic融资1.25亿美元，以挑战英伟达(NVDA.O)。",
+          "url": "https://flash.jin10.com/detail/20251217210102400800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "据悉OpenAI商谈从亚马逊融资100亿美元",
@@ -616,6 +684,20 @@
           "time_info": "[11时57分 ~ 17时34分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[13时30分 ~ 21时39分]"
+        },
+        {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
           "url": "https://m.thepaper.cn/newsDetail_forward_32158017",
           "source": "澎湃新闻",
@@ -630,19 +712,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时38分 ~ 12时39分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时30分 ~ 20时58分]"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -1110,7 +1179,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "一签赚近30万！沐曦股份刷新A股纪录 相较可比公司估值如何？",
@@ -1179,6 +1248,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时38分 ~ 19时27分]"
+        },
+        {
+          "title": "美股期货短线走低，纳指期货日内涨幅收窄至0.12%，标普500指数期货涨幅收窄至0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3022443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "沐曦股份上市首日大涨692.95%，最新收盘价跻身A股第三",
@@ -1357,7 +1437,7 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "2026年新能源供给比重将持续提升",
@@ -1518,6 +1598,17 @@
           "time_info": "16时39分"
         },
         {
+          "title": "研究机构：德国2025年能源需求或将降至历史低位",
+          "url": "https://flash.jin10.com/detail/20251217205734097800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "受委内瑞拉石油制裁影响，欧洲能源股上涨",
           "url": "https://flash.jin10.com/detail/20251217164625282800",
           "source": "金十数据",
@@ -1667,11 +1758,12 @@
           "url": "https://www.zhihu.com/question/1970631480595190298",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 20时58分]"
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 21时39分]"
         },
         {
           "title": "港股收盘：恒生指数收涨0.92%，恒生科技指数收涨1.03%。腾讯、阿里巴巴涨超1%，美团、中芯国际涨近2%。",
@@ -1778,7 +1870,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
