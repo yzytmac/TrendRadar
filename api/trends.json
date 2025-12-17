@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T07:26:46.964902+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2025-12-17T10:01:53.417329+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -18,11 +18,27 @@
             11,
             6,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时01分]"
+        },
+        {
+          "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32158017",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时01分]"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -40,21 +56,6 @@
           "url": "https://news.ifeng.com/c/8p8hxedgU29",
           "source": "凤凰网",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时26分]"
-        },
-        {
-          "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32158017",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            9,
-            8,
             7
           ],
           "is_new": false,
@@ -86,6 +87,17 @@
           "time_info": "03时25分"
         },
         {
+          "title": "委内瑞拉副总统：特朗普正以威胁手段图谋掠夺本国资源。",
+          "url": "https://wallstreetcn.com/livenews/3022047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普将于明天前往多佛空军基地，出席在叙利亚阵亡美军士兵的移交仪式。",
           "url": "https://flash.jin10.com/detail/20251217030906763800",
           "source": "金十数据",
@@ -95,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
+          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普周三晚的讲话将着重介绍政绩。",
@@ -128,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "特朗普签署公告，进一步限制外国公民入境美国",
+          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普将谈论未来展望，或许会预告新年政策。",
@@ -285,6 +319,28 @@
           "time_info": "00时38分"
         },
         {
+          "title": "评论员：特朗普越来越像拜登",
+          "url": "https://www.toutiao.com/trending/7584323902441000490/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "特朗普下令封锁所有受制裁委油轮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
           "url": "https://wallstreetcn.com/livenews/3021805",
           "source": "华尔街见闻-快讯",
@@ -302,7 +358,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -316,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "布伦特原油上涨0.75%，报59.36美元。特朗普称已下令封锁所有进出委内瑞拉受制裁油轮。",
+          "url": "https://wallstreetcn.com/livenews/3022010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "特朗普政府扩大对外国公民入境美国的限制",
@@ -338,12 +405,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "特朗普称认定委政府是“恐怖组织”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%A4%E5%AE%9A%E5%A7%94%E6%94%BF%E5%BA%9C%E6%98%AF%E2%80%9C%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -354,8 +432,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时01分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -479,6 +557,17 @@
           "time_info": "[00时38分 ~ 01时31分]"
         },
         {
+          "title": "创业板指涨超1%，沪指涨0.18%，深成指涨0.78%，锂矿、算力硬件、贵金属、消费电子等方向领涨，沪深京三市上涨个股近3000只。",
+          "url": "https://wallstreetcn.com/livenews/3022036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "Meta Platforms(META.O)：推出SAM Audio，一款用于声音分割的AI模型。",
           "url": "https://flash.jin10.com/detail/20251217000241230800",
           "source": "金十数据",
@@ -570,7 +659,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
@@ -583,6 +672,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 06时26分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
+          "url": "https://www.cls.cn/detail/2231583",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 10时01分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股收盘）",
@@ -621,6 +722,18 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
+          "title": "A股因何调整？公募激辩未来走势，大摩：2026年更多外资回归中国市场",
+          "url": "https://www.cls.cn/detail/2231375",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 10时01分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 特斯拉创新高",
           "url": "https://flash.jin10.com/detail/20251217050135170800",
           "source": "金十数据",
@@ -645,17 +758,6 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
-          "title": "A股因何调整？公募激辩未来走势，大摩：2026年更多外资回归中国市场",
-          "url": "https://www.cls.cn/detail/2231375",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
           "title": "美股延续跌势，标普500指数下跌0.7%，纳斯达克指数下跌0.4%，道指下跌0.9%。",
           "url": "https://flash.jin10.com/detail/20251217021740972800",
           "source": "金十数据",
@@ -666,17 +768,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 03时25分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
-          "url": "https://www.cls.cn/detail/2231583",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨3.1%，时隔一年再创收盘历史新高",
@@ -699,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "A股公司今年以来斥资逾9440亿元购买理财产品",
+          "url": "https://wallstreetcn.com/livenews/3022002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
@@ -767,7 +869,7 @@
     },
     {
       "keyword_group": "商业航天 中国卫星 中国卫通",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【数据看盘】实力游资集体出逃商业航天概念股 7.61亿元资金抢筹永辉超市",
@@ -793,8 +895,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时01分]"
         },
         {
           "title": "【每日收评】三大指数均跌超1%，全市场超4300股飘绿，商业航天午后探底回升",
@@ -806,6 +908,73 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "12月17日投资避雷针：航天信息、航天工程、航天长峰等密集澄清 主营业务不涉及商业航天",
+          "url": "https://www.cls.cn/detail/2231648",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "洛阳钼业 江西铜业 铜陵有色 北方铜业 紫金矿业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "恒指高开0.03%，报25243.59点；恒生科技指数涨0.09%。翰森制药、紫金矿业、吉利汽车涨超1%，小米涨0.9%；中国海洋石油、恒安国际跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3022017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "洛阳钼业10亿美元巴西掘金背后",
+          "url": "https://www.toutiao.com/trending/7584433941353139758/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 科创 存储",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数开盘报3822.51点，跌0.06%。 深证成指开盘报12927.39点，涨0.10%。 创业板指开盘报3072.62点，涨0.03%。 沪深300开盘报4499.77点，涨0.05%。 科创50开盘报1294.70点，涨0.10%。 中证500开盘报7002.51点，涨0.02%。 中证1000开盘报7178.31点，跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3022020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "苹果与印度芯片制造商洽谈iPhone芯片封装事宜。（印度经济时报）",
+          "url": "https://wallstreetcn.com/livenews/3022003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
