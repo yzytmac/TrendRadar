@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T20:56:58.215706+08:00",
-  "total_titles_processed": 1846,
+  "generated_at": "2025-12-18T21:42:08.759518+08:00",
+  "total_titles_processed": 1936,
   "failed_sources": [],
   "trends": [
     {
@@ -203,6 +203,17 @@
           "time_info": "[16时37分 ~ 17时34分]"
         },
         {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 21时42分]"
+        },
+        {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
           "url": "https://flash.jin10.com/detail/20251218000612267800",
           "source": "金十数据",
@@ -295,17 +306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
-        },
-        {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
         },
         {
           "title": "联邦上诉法院暂允特朗普在华盛顿保留国民警卫队部署",
@@ -501,7 +501,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -545,7 +545,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -567,7 +567,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -589,7 +589,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -608,7 +608,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -620,8 +620,35 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时27分 ~ 20时56分]"
+          "appearance_count": 18,
+          "time_info": "[06时27分 ~ 21时42分]"
+        },
+        {
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时37分 ~ 21时42分]"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时42分 ~ 21时42分]"
         },
         {
           "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
@@ -635,33 +662,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时02分 ~ 16时38分]"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时42分 ~ 20时56分]"
-        },
-        {
-          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
-          "url": "https://www.cls.cn/detail/2233335",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时37分 ~ 20时56分]"
         },
         {
           "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
@@ -744,6 +744,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时02分 ~ 15时28分]"
+        },
+        {
+          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
+          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
         },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。",
@@ -839,6 +850,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时41分 ~ 04时32分]"
+        },
+        {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 21时42分]"
         },
         {
           "title": "邢自强：中国在人工智能上的投资十分有效",
@@ -972,7 +995,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1151,17 +1174,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
-        },
-        {
-          "title": "豆包AI视频能说方言了",
-          "url": "https://www.douyin.com/hot/2340352",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
         }
       ]
     },
@@ -1514,6 +1526,30 @@
           "time_info": "[03时25分 ~ 04时32分]"
         },
         {
+          "title": "明年将续写芯片股牛市？大摩“首选榜单”出炉：英伟达地位稳固！",
+          "url": "https://www.cls.cn/detail/2233456",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 21时42分]"
+        },
+        {
+          "title": "摩尔线程有没有机会追上英伟达？",
+          "url": "https://www.zhihu.com/question/633883979",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 21时42分]"
+        },
+        {
           "title": "港股收盘：恒生指数收涨0.12%，恒生科技指数收跌0.73%。小米集团跌近2.5%，阿里巴巴、比亚迪股份、舜宇光学科技均跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3022988",
           "source": "华尔街见闻-快讯",
@@ -1586,17 +1622,6 @@
           "time_info": "[14时42分 ~ 15时28分]"
         },
         {
-          "title": "明年将续写芯片股牛市？大摩“首选榜单”出炉：英伟达地位稳固！",
-          "url": "https://www.cls.cn/detail/2233456",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
           "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
           "url": "https://flash.jin10.com/detail/20251218050114407800",
           "source": "金十数据",
@@ -1619,17 +1644,6 @@
           "time_info": "00时37分"
         },
         {
-          "title": "摩尔线程有没有机会追上英伟达？",
-          "url": "https://www.zhihu.com/question/633883979",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
           "title": "白银成全球第四大资产 市值超越谷歌",
           "url": "https://flash.jin10.com/detail/20251218105307391800",
           "source": "金十数据",
@@ -1644,7 +1658,7 @@
     },
     {
       "keyword_group": "电力 能源 储能",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "炒作新能源汽车负面信息团伙被打掉",
@@ -1695,6 +1709,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "欧洲央行：最新评估再次确认，通胀将在中期稳定在2%的目标水平。 最新预测显示，2025年总体通胀率平均为2.1%，2026年为1.9%，2027年为1.8%，2028年为2.0%。 剔除能源和食品后的通胀率，预测2025年平均为2.4%，2026年为2.2%，2027年为1.9%，2028年为2.0%。 2026年通胀预期已上调，主要原因是预计服务业通胀将更缓慢下降。 坚定确保通胀在中期稳定于2%的目标水平。 经济增长预计将强于9月的预测，主要受内需驱动。 经济增长预期已上调至2025年1.4%、2026年1.2%、2027年1.4%，预计2028年仍为1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3023160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "半导体ETF收跌3.6%，领跌美股行业ETF，标普能源板块反弹2.2%",
           "url": "https://wallstreetcn.com/livenews/3022615",
           "source": "华尔街见闻-快讯",
@@ -1737,7 +1762,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1751,6 +1776,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美国11月未季调能源通胀年率 4.2%。",
+          "url": "https://flash.jin10.com/detail/20251218213052343800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
@@ -1801,8 +1837,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时02分 ~ 20时56分]"
+          "appearance_count": 16,
+          "time_info": "[10时02分 ~ 21时42分]"
         },
         {
           "title": "本田将因芯片短缺削减日本和中国的产量。（日经）",
@@ -2009,8 +2045,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 20时56分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时42分]"
         },
         {
           "title": "12月18日午间收评：创业板指半日跌1.81%，商业航天概念再度爆发",
