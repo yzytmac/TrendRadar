@@ -1,11 +1,648 @@
 {
-  "generated_at": "2025-12-18T21:42:08.759518+08:00",
-  "total_titles_processed": 1936,
+  "generated_at": "2025-12-18T22:31:00.415405+08:00",
+  "total_titles_processed": 2042,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI 人工智能 算力",
+      "match_count": 54,
+      "titles": [
+        {
+          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
+          "url": "https://wallstreetcn.com/articles/3761550",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[06时27分 ~ 22时31分]"
+        },
+        {
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时37分 ~ 21时42分]"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[14时42分 ~ 22时31分]"
+        },
+        {
+          "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
+          "url": "https://www.cls.cn/detail/2232914",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时02分 ~ 16时38分]"
+        },
+        {
+          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
+          "url": "https://www.cls.cn/detail/2233153",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时31分 ~ 19时26分]"
+        },
+        {
+          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
+          "url": "https://wallstreetcn.com/articles/3761532",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 16时38分]"
+        },
+        {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 13时31分]"
+        },
+        {
+          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
+          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时41分 ~ 22时31分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量涨超3%，算力硬件股集体反弹，大金融午后异动拉升",
+          "url": "https://www.cls.cn/detail/2232317",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时28分]"
+        },
+        {
+          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1984670354627651255",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时42分 ~ 17时34分]"
+        },
+        {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 15时28分]"
+        },
+        {
+          "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。",
+          "url": "https://wallstreetcn.com/livenews/3022549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时33分 ~ 22时31分]"
+        },
+        {
+          "title": "Atlas Cloud AI：初始投资约2.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20251218010322438800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时56分 ~ 22时31分]"
+        },
+        {
+          "title": "美国银行警告称，股市泡沫风险依然存在，但认为人工智能领域仍有更大的上涨空间。",
+          "url": "https://flash.jin10.com/detail/20251218121012213800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时31分]"
+        },
+        {
+          "title": "AI制药公司英矽智能今起招股，拟主板发行，礼来腾讯认基石",
+          "url": "https://wallstreetcn.com/livenews/3022822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 13时31分]"
+        },
+        {
+          "title": "元宝AI靠人工？腾讯回应",
+          "url": "https://wallstreetcn.com/livenews/3022852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时42分]"
+        },
+        {
+          "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
+          "url": "https://wallstreetcn.com/livenews/3022526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
+        },
+        {
+          "title": "ThaiSweet樱花舞MV",
+          "url": "https://s.weibo.com/weibo?q=ThaiSweet%E6%A8%B1%E8%8A%B1%E8%88%9EMV&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 04时32分]"
+        },
+        {
+          "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
+          "url": "https://www.zhihu.com/question/1984925319061267264",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时31分]"
+        },
+        {
+          "title": "邢自强：中国在人工智能上的投资十分有效",
+          "url": "https://wallstreetcn.com/livenews/3023069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时26分]"
+        },
+        {
+          "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构，DeSantis将率领AGI团队。 AGI团队将驱动公司在AI、量子计算方面的努力。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。 Rohit Prasad将在年底离职。",
+          "url": "https://wallstreetcn.com/livenews/3022549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时25分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-18）",
+          "url": "https://flash.jin10.com/detail/20251218120050426800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时31分]"
+        },
+        {
+          "title": "马斯克：xAI可能会看到AGI在2026年超越人类智慧。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3022597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时27分]"
+        },
+        {
+          "title": "AI天才少女罗福莉小米首秀",
+          "url": "https://www.toutiao.com/trending/7584807839307140654/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
+          "url": "https://flash.jin10.com/detail/20251218010152851800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "湖南：优化算力高效供给 联动运营商、重点企业加大算力设施投入",
+          "url": "https://wallstreetcn.com/livenews/3022847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "OpenAI董事长布雷特·泰勒表示，该公司的发展受限于算力资源的获取。",
+          "url": "https://flash.jin10.com/detail/20251218091357602800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：现在说人工智能的影响是否持久还为时过早。",
+          "url": "https://flash.jin10.com/detail/20251218220622459800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "AI热潮难再雨露均沾 摩根大通警示美股极端拥挤 并点名六只高风险个股",
+          "url": "https://wallstreetcn.com/livenews/3023201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
+          "url": "https://flash.jin10.com/detail/20251218063011323800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：支持人工智能监管。",
+          "url": "https://flash.jin10.com/detail/20251218090821652800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "韩国计划孵化万家AI等硬科技初创企业",
+          "url": "https://wallstreetcn.com/livenews/3023014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "上海算力综合指数连续多年居全国前列，在用数据中心达136个",
+          "url": "https://wallstreetcn.com/livenews/3023199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "从夯到夯评2025AI五大进展",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E5%A4%AF%E8%AF%842025AI%E4%BA%94%E5%A4%A7%E8%BF%9B%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：投资在很大程度上归因于人工智能。",
+          "url": "https://flash.jin10.com/detail/20251218220535033800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们尚未向OpenAI支付一分钱。",
+          "url": "https://flash.jin10.com/detail/20251218090552054800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
+          "url": "https://wallstreetcn.com/livenews/3022640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "创业板指缩量跌超2%，AI医疗、商业航天概念逆势大涨",
+          "url": "https://wallstreetcn.com/livenews/3022932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：AI正影响（欧元区经济）增长。 现在判断AI影响是否会长期存在还言之过早。",
+          "url": "https://wallstreetcn.com/livenews/3023194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "商汤科技、大晓机器人与中科曙光正式达成战略合作，将共建国产化“算力基础设施+世界模型+具身智能 ”生态",
+          "url": "https://wallstreetcn.com/livenews/3022923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "甲骨文AI光环褪色 股价较9月高点接近腰斩",
+          "url": "https://flash.jin10.com/detail/20251218003153204800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋表态支持人工智能监管。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3022704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "Meta前首席AI科学家Yann LeCun为其新的人工智能初创公司Advanced Machine Intelligence Labs设定了30亿欧元的估值。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3023041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "营收指引远超预期，美光科技乘AI东风业绩“狂飙”",
+          "url": "https://flash.jin10.com/detail/20251218051441855800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "金十数据整理：科技巨头打响“AI军备赛”，钱都烧向了哪里？（二）",
+          "url": "https://flash.jin10.com/detail/20251218174438346800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "据英国金融时报：Meta Platforms(META.O)前首席AI科学家杨立昆（Yann LeCun）为其新的人工智能初创公司设定了30亿欧元的估值。",
+          "url": "https://flash.jin10.com/detail/20251218174226959800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "中国人工智能公司扎堆赴港IPO：澜起科技和兆易创新拟最早年初上市",
+          "url": "https://wallstreetcn.com/livenews/3022503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "据Business Insider：马斯克称，xAI可能在2026年展现出超越人类智能的通用人工智能。",
+          "url": "https://flash.jin10.com/detail/20251218042922594800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋称公司尚未向 OpenAI 提供任何资金支持。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3022705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "字节宣布AI节省计划",
+          "url": "https://wallstreetcn.com/livenews/3022785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "马斯克新战书：xAI最早明年实现AGI",
+          "url": "https://www.toutiao.com/trending/7584818579814154278/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "“Physical AI第一股”五一视界在香港市场开启招股",
+          "url": "https://wallstreetcn.com/livenews/3022701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -102,6 +739,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时37分 ~ 19时26分]"
+        },
+        {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时56分 ~ 22时31分]"
         },
         {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
@@ -203,15 +851,15 @@
           "time_info": "[16时37分 ~ 17时34分]"
         },
         {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
+          "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2233937",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 21时42分]"
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时31分]"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -607,579 +1255,8 @@
       ]
     },
     {
-      "keyword_group": "AI 人工智能 算力",
-      "match_count": 48,
-      "titles": [
-        {
-          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
-          "url": "https://wallstreetcn.com/articles/3761550",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时27分 ~ 21时42分]"
-        },
-        {
-          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
-          "url": "https://www.cls.cn/detail/2233335",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时37分 ~ 21时42分]"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时42分 ~ 21时42分]"
-        },
-        {
-          "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
-          "url": "https://www.cls.cn/detail/2232914",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时02分 ~ 16时38分]"
-        },
-        {
-          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
-          "url": "https://www.cls.cn/detail/2233153",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时31分 ~ 19时26分]"
-        },
-        {
-          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
-          "url": "https://wallstreetcn.com/articles/3761532",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 16时38分]"
-        },
-        {
-          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 13时31分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量涨超3%，算力硬件股集体反弹，大金融午后异动拉升",
-          "url": "https://www.cls.cn/detail/2232317",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 05时28分]"
-        },
-        {
-          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1984670354627651255",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时42分 ~ 17时34分]"
-        },
-        {
-          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
-          "url": "https://www.cls.cn/detail/2232894",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时02分 ~ 15时28分]"
-        },
-        {
-          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
-          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
-        },
-        {
-          "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。",
-          "url": "https://wallstreetcn.com/livenews/3022549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "Atlas Cloud AI：初始投资约2.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20251218010322438800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国银行警告称，股市泡沫风险依然存在，但认为人工智能领域仍有更大的上涨空间。",
-          "url": "https://flash.jin10.com/detail/20251218121012213800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时31分]"
-        },
-        {
-          "title": "AI制药公司英矽智能今起招股，拟主板发行，礼来腾讯认基石",
-          "url": "https://wallstreetcn.com/livenews/3022822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 13时31分]"
-        },
-        {
-          "title": "元宝AI靠人工？腾讯回应",
-          "url": "https://wallstreetcn.com/livenews/3022852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时42分]"
-        },
-        {
-          "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
-          "url": "https://wallstreetcn.com/livenews/3022526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时29分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 20时56分]"
-        },
-        {
-          "title": "ThaiSweet樱花舞MV",
-          "url": "https://s.weibo.com/weibo?q=ThaiSweet%E6%A8%B1%E8%8A%B1%E8%88%9EMV&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时41分 ~ 04时32分]"
-        },
-        {
-          "title": "豆包AI视频能说方言了",
-          "url": "https://www.douyin.com/hot/2340352",
-          "source": "抖音",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 21时42分]"
-        },
-        {
-          "title": "邢自强：中国在人工智能上的投资十分有效",
-          "url": "https://wallstreetcn.com/livenews/3023069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时26分]"
-        },
-        {
-          "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构，DeSantis将率领AGI团队。 AGI团队将驱动公司在AI、量子计算方面的努力。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。 Rohit Prasad将在年底离职。",
-          "url": "https://wallstreetcn.com/livenews/3022549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时25分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-18）",
-          "url": "https://flash.jin10.com/detail/20251218120050426800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时31分]"
-        },
-        {
-          "title": "马斯克：xAI可能会看到AGI在2026年超越人类智慧。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3022597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时27分]"
-        },
-        {
-          "title": "AI天才少女罗福莉小米首秀",
-          "url": "https://www.toutiao.com/trending/7584807839307140654/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
-        },
-        {
-          "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
-          "url": "https://flash.jin10.com/detail/20251218010152851800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "湖南：优化算力高效供给 联动运营商、重点企业加大算力设施投入",
-          "url": "https://wallstreetcn.com/livenews/3022847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "OpenAI董事长布雷特·泰勒表示，该公司的发展受限于算力资源的获取。",
-          "url": "https://flash.jin10.com/detail/20251218091357602800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
-          "url": "https://flash.jin10.com/detail/20251218063011323800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：支持人工智能监管。",
-          "url": "https://flash.jin10.com/detail/20251218090821652800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "韩国计划孵化万家AI等硬科技初创企业",
-          "url": "https://wallstreetcn.com/livenews/3023014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "从夯到夯评2025AI五大进展",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E5%A4%AF%E8%AF%842025AI%E4%BA%94%E5%A4%A7%E8%BF%9B%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我们尚未向OpenAI支付一分钱。",
-          "url": "https://flash.jin10.com/detail/20251218090552054800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
-          "url": "https://wallstreetcn.com/livenews/3022640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "创业板指缩量跌超2%，AI医疗、商业航天概念逆势大涨",
-          "url": "https://wallstreetcn.com/livenews/3022932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "商汤科技、大晓机器人与中科曙光正式达成战略合作，将共建国产化“算力基础设施+世界模型+具身智能 ”生态",
-          "url": "https://wallstreetcn.com/livenews/3022923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "甲骨文AI光环褪色 股价较9月高点接近腰斩",
-          "url": "https://flash.jin10.com/detail/20251218003153204800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋表态支持人工智能监管。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3022704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "Meta前首席AI科学家Yann LeCun为其新的人工智能初创公司Advanced Machine Intelligence Labs设定了30亿欧元的估值。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3023041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "营收指引远超预期，美光科技乘AI东风业绩“狂飙”",
-          "url": "https://flash.jin10.com/detail/20251218051441855800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "金十数据整理：科技巨头打响“AI军备赛”，钱都烧向了哪里？（二）",
-          "url": "https://flash.jin10.com/detail/20251218174438346800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "据英国金融时报：Meta Platforms(META.O)前首席AI科学家杨立昆（Yann LeCun）为其新的人工智能初创公司设定了30亿欧元的估值。",
-          "url": "https://flash.jin10.com/detail/20251218174226959800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "中国人工智能公司扎堆赴港IPO：澜起科技和兆易创新拟最早年初上市",
-          "url": "https://wallstreetcn.com/livenews/3022503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "据Business Insider：马斯克称，xAI可能在2026年展现出超越人类智能的通用人工智能。",
-          "url": "https://flash.jin10.com/detail/20251218042922594800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋称公司尚未向 OpenAI 提供任何资金支持。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3022705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "字节宣布AI节省计划",
-          "url": "https://wallstreetcn.com/livenews/3022785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "马斯克新战书：xAI最早明年实现AGI",
-          "url": "https://www.toutiao.com/trending/7584818579814154278/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "“Physical AI第一股”五一视界在香港市场开启招股",
-          "url": "https://wallstreetcn.com/livenews/3022701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 a股 港股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -1403,6 +1480,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3023190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "A股锂电池板块震荡走低，华盛锂电跌超9%，海科新源、天华新能、永太科技、多氟多、恩捷股份等跌幅居前。",
           "url": "https://wallstreetcn.com/livenews/3022921",
           "source": "华尔街见闻-快讯",
@@ -1412,6 +1500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-18）",
+          "url": "https://flash.jin10.com/detail/20251218220135518800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
@@ -1439,8 +1538,20 @@
     },
     {
       "keyword_group": "谷歌 英伟达 阿里巴巴",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "明年将续写芯片股牛市？大摩“首选榜单”出炉：英伟达地位稳固！",
+          "url": "https://www.cls.cn/detail/2233456",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时56分 ~ 22时31分]"
+        },
         {
           "title": "英伟达董事哈维-琼斯出售持有三十多年的4,400万美元股票",
           "url": "https://wallstreetcn.com/livenews/3022651",
@@ -1524,17 +1635,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 04时32分]"
-        },
-        {
-          "title": "明年将续写芯片股牛市？大摩“首选榜单”出炉：英伟达地位稳固！",
-          "url": "https://www.cls.cn/detail/2233456",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 21时42分]"
         },
         {
           "title": "摩尔线程有没有机会追上英伟达？",
@@ -1644,6 +1744,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美股科技股盘前走高，英伟达美股盘前涨超2%，AMD涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3023184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "白银成全球第四大资产 市值超越谷歌",
           "url": "https://flash.jin10.com/detail/20251218105307391800",
           "source": "金十数据",
@@ -1715,7 +1826,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1784,7 +1895,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1837,8 +1948,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时02分 ~ 21时42分]"
+          "appearance_count": 18,
+          "time_info": "[10时02分 ~ 22时31分]"
         },
         {
           "title": "本田将因芯片短缺削减日本和中国的产量。（日经）",
@@ -2045,8 +2156,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 21时42分]"
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 22时31分]"
         },
         {
           "title": "12月18日午间收评：创业板指半日跌1.81%，商业航天概念再度爆发",
