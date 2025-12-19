@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T06:27:35.880359+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2025-12-20T07:25:59.187074+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
@@ -16,11 +16,12 @@
             5,
             6,
             12,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时25分]"
         },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -31,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时25分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -54,11 +55,12 @@
             27,
             28,
             25,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时25分]"
         },
         {
           "title": "金十提示：美国总统特朗普讲话结束。",
@@ -69,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时27分]"
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 07时25分]"
         },
         {
           "title": "美国总统特朗普：保险公司必须赚更少的钱。",
@@ -81,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时27分]"
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 07时25分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -94,6 +96,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普：保险公司会议旨在降低价格。",
+          "url": "https://flash.jin10.com/detail/20251220040213570800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 07时25分]"
         },
         {
           "title": "九家制药商与特朗普签署价格协议以避免关税。",
@@ -118,27 +132,39 @@
           "time_info": "04时31分"
         },
         {
+          "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
+          "url": "https://wallstreetcn.com/livenews/3024186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
+          "url": "https://flash.jin10.com/detail/20251220040203208800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 07时25分]"
+        },
+        {
           "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3024182",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "美国总统特朗普：保险公司会议旨在降低价格。",
-          "url": "https://flash.jin10.com/detail/20251220040213570800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时27分]"
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时25分]"
         },
         {
           "title": "特朗普签署太空行政令，直觉机器公司及航天板块股价应声大涨",
@@ -166,18 +192,6 @@
           "time_info": "[04时31分 ~ 05时25分]"
         },
         {
-          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
-          "url": "https://flash.jin10.com/detail/20251220040203208800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时27分]"
-        },
-        {
           "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
           "url": "https://flash.jin10.com/detail/20251220035945921800",
           "source": "金十数据",
@@ -186,8 +200,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时27分]"
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
+          "url": "https://flash.jin10.com/detail/20251220034545979800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普与九家药企达成协议 大幅降低药价",
+          "url": "https://flash.jin10.com/detail/20251220034432259800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 07时25分]"
+        },
+        {
+          "title": "美国总统特朗普：英国国家医疗服务体系将支付公平份额，我们也期望其他欧洲国家这样做，否则将征收关税。",
+          "url": "https://flash.jin10.com/detail/20251220033347525800",
+          "source": "金十数据",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 07时25分]"
         },
         {
           "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
@@ -203,30 +253,6 @@
           "time_info": "[02时39分 ~ 04时31分]"
         },
         {
-          "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
-          "url": "https://flash.jin10.com/detail/20251220034545979800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时27分]"
-        },
-        {
-          "title": "特朗普与九家药企达成协议 大幅降低药价",
-          "url": "https://flash.jin10.com/detail/20251220034432259800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时27分]"
-        },
-        {
           "title": "特朗普下令暂停“绿卡抽签”",
           "url": "https://www.toutiao.com/trending/7584652634205585450/",
           "source": "今日头条",
@@ -237,18 +263,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 01时24分]"
-        },
-        {
-          "title": "美国总统特朗普：英国国家医疗服务体系将支付公平份额，我们也期望其他欧洲国家这样做，否则将征收关税。",
-          "url": "https://flash.jin10.com/detail/20251220033347525800",
-          "source": "金十数据",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时27分]"
         },
         {
           "title": "美国总统特朗普：我所发出的关税威胁强迫医药行业（与我）达成协议。",
@@ -399,7 +413,7 @@
     },
     {
       "keyword_group": "AI 人工智能 算力",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -408,11 +422,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时23分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[01时23分 ~ 07时25分]"
         },
         {
           "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
@@ -420,11 +435,45 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时25分]"
+        },
+        {
+          "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
+          "url": "https://wallstreetcn.com/livenews/3024191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "“四巫日”成交量创纪录，AI股助纳指收高，日元单日贬值超220点，白银新高破67",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
+          "url": "https://www.zhihu.com/question/1984644910364774911",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "消息人士：人工智能芯片公司Cerebras在推迟后即将提交美国IPO申请。",
@@ -463,6 +512,18 @@
           "time_info": "[04时31分 ~ 05时25分]"
         },
         {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时25分]"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)已为留任的人工智能研究员上调薪酬。",
           "url": "https://flash.jin10.com/detail/20251220025354643800",
           "source": "金十数据",
@@ -472,17 +533,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        },
-        {
-          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
-          "url": "https://wallstreetcn.com/articles/3761711",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
         },
         {
           "title": "联合国贸发会议：2033年人工智能将成最具主导性前沿技术",
@@ -510,8 +560,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时25分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -531,22 +581,36 @@
           "url": "https://wallstreetcn.com/articles/3761680",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时25分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
           "url": "https://wallstreetcn.com/livenews/3024176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时25分]"
+        },
+        {
+          "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3024174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时25分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -559,17 +623,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时24分]"
-        },
-        {
-          "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3024174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
         },
         {
           "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股盘中）",
@@ -604,11 +657,24 @@
           "url": "https://wallstreetcn.com/livenews/3024180",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时25分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
+          "url": "https://wallstreetcn.com/livenews/3024168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时25分]"
         },
         {
           "title": "本周，标普大致持平整体V形走势，道指累跌0.6%，纳指累涨0.4%，半导体指数累涨0.4%，银行指数涨0.4%，科技股七巨头指数涨0.8%。 周五当天，标普500指数初步收涨0.8%，科技板块涨1.9%，工业板块涨0.8%，公用事业板块跌1.3%。 纳斯达克100指数初步收涨1.2%，成分股中，美光科技涨6.7%，AMD涨6.2%，Axon涨5.5%，拉姆研究涨4.7%，Strategy涨4.4%，康卡斯特跌2.4%，Atlassian跌2.5%，露露柠檬跌2.6%。 英伟达初步收涨3.8%，领跑道指成分股，波音涨3.1%，思科、高盛、卡特彼勒涨1.8%，麦当劳、VZ、SHW跌超1%，家得宝跌2.6%，耐克跌10.7%。",
@@ -620,17 +686,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
-          "url": "https://wallstreetcn.com/livenews/3024168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
         },
         {
           "title": "美国联邦贸易委员会（FTC）：英伟达(NVDA.O)与英特尔(INTC.O)的交易已获美国反垄断机构批准。",
