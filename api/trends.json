@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T22:28:37.303783+08:00",
-  "total_titles_processed": 1758,
+  "generated_at": "2025-12-22T23:30:05.422951+08:00",
+  "total_titles_processed": 1853,
   "failed_sources": [],
   "trends": [
     {
@@ -73,6 +73,20 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时30分 ~ 23时30分]"
+        },
+        {
           "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
           "url": "https://wallstreetcn.com/articles/3761798",
           "source": "华尔街见闻",
@@ -98,6 +112,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 10时11分]"
+        },
+        {
+          "title": "【每日收评】沪指高开高走重返3900点！全市场超百股涨停，海南、算力硬件板块联袂领涨",
+          "url": "https://www.cls.cn/detail/2236495",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时36分 ~ 23时30分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -142,32 +170,29 @@
           "time_info": "[13时31分 ~ 18时31分]"
         },
         {
-          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
-          "url": "https://wallstreetcn.com/articles/3761823",
-          "source": "华尔街见闻",
+          "title": "UP主用AI改写三体名场面",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时30分 ~ 22时28分]"
-        },
-        {
-          "title": "【每日收评】沪指高开高走重返3900点！全市场超百股涨停，海南、算力硬件板块联袂领涨",
-          "url": "https://www.cls.cn/detail/2236495",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            11,
-            10
+            4,
+            24,
+            26,
+            29
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[17时36分 ~ 22时28分]"
+          "time_info": "[12时08分 ~ 23时30分]"
+        },
+        {
+          "title": "AI定格|2025·强国脉动",
+          "url": "https://www.toutiao.com/trending/7586532944194502707/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时39分 ~ 23时30分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -182,31 +207,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时36分 ~ 07时25分]"
-        },
-        {
-          "title": "UP主用AI改写三体名场面",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            24,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时39分]"
-        },
-        {
-          "title": "AI定格|2025·强国脉动",
-          "url": "https://www.toutiao.com/trending/7586532944194502707/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时28分]"
         },
         {
           "title": "现代汽车集团将阐述通过人机协作加速人工智能机器人商业化的战略。",
@@ -238,7 +238,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -464,8 +464,348 @@
       ]
     },
     {
+      "keyword_group": "美股 a股 港股",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
+          "url": "https://www.cls.cn/detail/2235475",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 10时11分]"
+        },
+        {
+          "title": "累计金额超890亿！520家A股上市公司股东今年以来实施增持，增持金额排行榜出炉",
+          "url": "https://www.cls.cn/detail/2235436",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时25分]"
+        },
+        {
+          "title": "A股跨年加春季躁动行情拉开帷幕？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2235729",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            8,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时22分 ~ 13时31分]"
+        },
+        {
+          "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
+          "url": "https://www.cls.cn/detail/2235799",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 15时31分]"
+        },
+        {
+          "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时38分 ~ 19时24分]"
+        },
+        {
+          "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
+          "url": "https://wallstreetcn.com/articles/3761811",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时31分 ~ 23时30分]"
+        },
+        {
+          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
+          "url": "https://wallstreetcn.com/articles/3761788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时25分]"
+        },
+        {
+          "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
+          "url": "https://www.cls.cn/detail/2235419",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时26分]"
+        },
+        {
+          "title": "港股恒指年内飙涨33%创五年最佳 多家机构预测明年突破30000点",
+          "url": "https://www.cls.cn/detail/2236211",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时38分 ~ 20时56分]"
+        },
+        {
+          "title": "广发证券所长助理、首席策略刘晨明：40%新经济利润占比重塑A股研判逻辑",
+          "url": "https://wallstreetcn.com/livenews/3024742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3024485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "中国神华公布超1300亿并购计划 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2235677",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 12时08分]"
+        },
+        {
+          "title": "今日港股四只新股上市，印象大红袍、华芢生物、明基医院、南华期货挂牌，截至早盘收盘，分别下跌25%、8.5%、42.3%和20.7%。",
+          "url": "https://wallstreetcn.com/livenews/3024682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时31分]"
+        },
+        {
+          "title": "A股机器人概念股异动拉升，首开股份直线涨停，景兴纸业、襄阳轴承、长盛轴承等冲高。",
+          "url": "https://wallstreetcn.com/livenews/3024712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时44分]"
+        },
+        {
+          "title": "北京智谱华章港股IPO获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3024971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时39分]"
+        },
+        {
+          "title": "MiniMax Group Inc.港股IPO获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3024970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时39分]"
+        },
+        {
+          "title": "A股逾百股涨停",
+          "url": "https://www.toutiao.com/trending/7586556291720462355/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 19时24分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3025002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时30分]"
+        },
+        {
+          "title": "华尔街普遍看好2026年美股前景 这或许是个隐忧",
+          "url": "https://wallstreetcn.com/livenews/3024941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时39分]"
+        },
+        {
+          "title": "“港股GPU第一股”壁仞科技香港IPO最高发售价每股19.60港元，预计1月2日开始交易",
+          "url": "https://wallstreetcn.com/livenews/3024473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "华纳兄弟探索公司（WBD）美股盘初涨3.9%，Paramount SkyDance（派拉蒙天舞）涨3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222090505668800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222090337480800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3024927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "A股锂电池板块震荡走强，恩捷股份午后涨停，壹石通、星云股份、金圆股份、星源材质、中矿资源、盐湖股份等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3024719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "今日沪市A股主力资金增仓前十",
+          "url": "https://www.toutiao.com/trending/7585650111787810842/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251222223624364800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
+          "title": "A股食品股尾盘异动，安记食品直线涨停，海欣食品、立高食品、安琪酵母、紫燕食品、好想你等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3024748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -520,6 +860,17 @@
           "time_info": "[00时31分 ~ 18时31分]"
         },
         {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时36分 ~ 23时30分]"
+        },
+        {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
           "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
           "source": "澎湃新闻",
@@ -533,8 +884,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时31分 ~ 22时28分]"
+          "appearance_count": 16,
+          "time_info": "[13时31分 ~ 23时30分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -590,17 +941,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时36分 ~ 22时28分]"
         },
         {
           "title": "特朗普表态：必须是“超级鸽派”！",
@@ -781,6 +1121,17 @@
           "time_info": "16时39分"
         },
         {
+          "title": "白宫官员：美国总统特朗普和美国国防部长赫格塞思将于周一就造船业发表声明。",
+          "url": "https://flash.jin10.com/detail/20251222225324934800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "市场消息：在美国总统特朗普任命格陵兰岛特使后，丹麦外交大臣长将召见美国驻丹麦大使。",
           "url": "https://flash.jin10.com/detail/20251222174043679800",
           "source": "金十数据",
@@ -816,325 +1167,8 @@
       ]
     },
     {
-      "keyword_group": "美股 a股 港股",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
-          "url": "https://www.cls.cn/detail/2235475",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 10时11分]"
-        },
-        {
-          "title": "累计金额超890亿！520家A股上市公司股东今年以来实施增持，增持金额排行榜出炉",
-          "url": "https://www.cls.cn/detail/2235436",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "A股跨年加春季躁动行情拉开帷幕？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2235729",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9,
-            8,
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 13时31分]"
-        },
-        {
-          "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
-          "url": "https://www.cls.cn/detail/2235799",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时11分 ~ 15时31分]"
-        },
-        {
-          "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时38分 ~ 19时24分]"
-        },
-        {
-          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
-          "url": "https://wallstreetcn.com/articles/3761788",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
-          "url": "https://www.cls.cn/detail/2235419",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时26分]"
-        },
-        {
-          "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
-          "url": "https://wallstreetcn.com/articles/3761811",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时31分 ~ 22时28分]"
-        },
-        {
-          "title": "港股恒指年内飙涨33%创五年最佳 多家机构预测明年突破30000点",
-          "url": "https://www.cls.cn/detail/2236211",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时38分 ~ 20时56分]"
-        },
-        {
-          "title": "广发证券所长助理、首席策略刘晨明：40%新经济利润占比重塑A股研判逻辑",
-          "url": "https://wallstreetcn.com/livenews/3024742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3024485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "中国神华公布超1300亿并购计划 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2235677",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 12时08分]"
-        },
-        {
-          "title": "今日港股四只新股上市，印象大红袍、华芢生物、明基医院、南华期货挂牌，截至早盘收盘，分别下跌25%、8.5%、42.3%和20.7%。",
-          "url": "https://wallstreetcn.com/livenews/3024682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时31分]"
-        },
-        {
-          "title": "A股机器人概念股异动拉升，首开股份直线涨停，景兴纸业、襄阳轴承、长盛轴承等冲高。",
-          "url": "https://wallstreetcn.com/livenews/3024712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时44分]"
-        },
-        {
-          "title": "北京智谱华章港股IPO获中国证监会备案",
-          "url": "https://wallstreetcn.com/livenews/3024971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 21时39分]"
-        },
-        {
-          "title": "MiniMax Group Inc.港股IPO获中国证监会备案",
-          "url": "https://wallstreetcn.com/livenews/3024970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 21时39分]"
-        },
-        {
-          "title": "A股逾百股涨停",
-          "url": "https://www.toutiao.com/trending/7586556291720462355/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时36分 ~ 19时24分]"
-        },
-        {
-          "title": "华尔街普遍看好2026年美股前景 这或许是个隐忧",
-          "url": "https://wallstreetcn.com/livenews/3024941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 21时39分]"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3025002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "“港股GPU第一股”壁仞科技香港IPO最高发售价每股19.60港元，预计1月2日开始交易",
-          "url": "https://wallstreetcn.com/livenews/3024473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-22）",
-          "url": "https://flash.jin10.com/detail/20251222090505668800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-12-22）",
-          "url": "https://flash.jin10.com/detail/20251222090337480800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3024927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "A股锂电池板块震荡走强，恩捷股份午后涨停，壹石通、星云股份、金圆股份、星源材质、中矿资源、盐湖股份等涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3024719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "今日沪市A股主力资金增仓前十",
-          "url": "https://www.toutiao.com/trending/7585650111787810842/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "A股食品股尾盘异动，安记食品直线涨停，海欣食品、立高食品、安琪酵母、紫燕食品、好想你等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3024748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "电力 能源 储能",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "张玉卓：接续发力新能源 超前谋划量子科技",
@@ -1203,7 +1237,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -1217,6 +1251,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF、能源业ETF至多涨1.53%，全球科技股指数ETF、银行业ETF、科技行业ETF至多涨0.89%，网络股指数ETF涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3025022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初涨约0.4%。 热门中概股阿特斯太阳能涨超10%，携程涨超2.2%，晶科能源涨约2%，大全新能源涨超1.3%，理想、网易至多涨超0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3025021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "乌克兰能源设施遭袭 部分地区大范围停电",
@@ -1247,7 +1303,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         }
@@ -1265,8 +1321,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时36分 ~ 22时28分]"
+          "appearance_count": 10,
+          "time_info": "[17时36分 ~ 23时30分]"
+        },
+        {
+          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时39分 ~ 23时30分]"
         },
         {
           "title": "押注“圣诞行情”！美股期货走高，英伟达盘前涨2%，黄金站上4400，白银续刷新高，油价反弹超1%",
@@ -1280,17 +1347,6 @@
           "time_info": "[20时55分 ~ 20时56分]"
         },
         {
-          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时28分]"
-        },
-        {
           "title": "英伟达美股盘前拉升， 现涨近2%",
           "url": "https://wallstreetcn.com/livenews/3024963",
           "source": "华尔街见闻-快讯",
@@ -1301,6 +1357,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时56分 ~ 21时39分]"
+        },
+        {
+          "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2236882",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时39分 ~ 23时30分]"
         },
         {
           "title": "阿里巴巴在狮腾控股的持股比例从18.77%降至16.97%。",
@@ -1325,17 +1393,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时36分 ~ 18时31分]"
-        },
-        {
-          "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2236882",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时28分]"
         },
         {
           "title": "英伟达(NVDA.O)盘前拉升，上涨1.8%。",
@@ -1545,8 +1602,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时30分 ~ 22时28分]"
+          "appearance_count": 9,
+          "time_info": "[18时30分 ~ 23时30分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
