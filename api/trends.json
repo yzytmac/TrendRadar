@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T18:30:48.875306+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2025-12-24T19:26:01.092122+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时01分 ~ 18时30分]"
+          "appearance_count": 13,
+          "time_info": "[12时01分 ~ 19时26分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -118,11 +118,12 @@
             21,
             23,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时36分 ~ 18时30分]"
+          "appearance_count": 26,
+          "time_info": "[00时36分 ~ 19时26分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -136,6 +137,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时26分]"
         },
         {
           "title": "美军将建造“特朗普级”战舰",
@@ -165,18 +178,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 05时26分]"
-        },
-        {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时30分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -252,6 +253,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 02时40分]"
+        },
+        {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 19时26分]"
         },
         {
           "title": "美国最高法院拒绝允许美国总统特朗普向芝加哥地区部署国民警卫队。",
@@ -388,17 +400,6 @@
           "time_info": "[02时40分 ~ 04时30分]"
         },
         {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时30分]"
-        },
-        {
           "title": "解析美军制造特朗普级战舰",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%86%9B%E5%88%B6%E9%80%A0%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E8%88%B0",
           "source": "bilibili 热搜",
@@ -494,6 +495,17 @@
           "time_info": "[15时29分 ~ 15时30分]"
         },
         {
+          "title": "特朗普的金色舰队实力如何",
+          "url": "https://www.toutiao.com/trending/7587343371690053139/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
+        },
+        {
           "title": "特朗普大战新闻界究竟想要什么",
           "url": "https://www.toutiao.com/trending/7586913852173418515/",
           "source": "今日头条",
@@ -527,6 +539,17 @@
           "time_info": "17时31分"
         },
         {
+          "title": "新公布爱泼斯坦案文件涉特朗普 美司法部：部分内容不实",
+          "url": "https://wallstreetcn.com/livenews/3026175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "法官裁定维持特朗普提出的10万美元H-1B签证申请费。",
           "url": "https://wallstreetcn.com/livenews/3025869",
           "source": "华尔街见闻-快讯",
@@ -536,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-24）",
+          "url": "https://flash.jin10.com/detail/20251224182355031800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "白宫顾问哈塞特：美国总统特朗普有一批出色的美联储候选人。",
@@ -585,7 +619,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
@@ -625,15 +659,15 @@
           "time_info": "[00时36分 ~ 16时37分]"
         },
         {
-          "title": "耐克美股盘前涨超2%，苹果首席执行官蒂姆·库克于12月22日购入价值295万美元的耐克股票。",
-          "url": "https://wallstreetcn.com/livenews/3026156",
+          "title": "英特尔美股盘前跌近1%，据报道，英伟达测试了英特尔的18A工艺，但已暂缓推进。",
+          "url": "https://wallstreetcn.com/livenews/3026192",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时30分"
+          "time_info": "19时26分"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-24）",
@@ -682,6 +716,30 @@
           "time_info": "[04时29分 ~ 12时01分]"
         },
         {
+          "title": "A股喜提六连阳 还能涨吗",
+          "url": "https://www.toutiao.com/trending/7587319094953643556/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时26分]"
+        },
+        {
+          "title": "耐克美股盘前涨超2%，苹果首席执行官蒂姆·库克于12月22日购入价值295万美元的耐克股票。",
+          "url": "https://wallstreetcn.com/livenews/3026156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 19时26分]"
+        },
+        {
           "title": "UiPath美股盘后涨5.4%。",
           "url": "https://wallstreetcn.com/livenews/3025791",
           "source": "华尔街见闻-快讯",
@@ -727,17 +785,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时30分]"
-        },
-        {
-          "title": "A股喜提六连阳 还能涨吗",
-          "url": "https://www.toutiao.com/trending/7587319094953643556/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[17时31分 ~ 18时30分]"
         },
         {
@@ -944,6 +991,19 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
+          "url": "https://www.cls.cn/detail/2238769",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 19时26分]"
+        },
+        {
           "title": "【焦点复盘】沪指日线5连阳创1个月新高，半导体设备股持续火爆，3只上市新股均触发二次临停",
           "url": "https://www.cls.cn/detail/2237793",
           "source": "财联社热门",
@@ -955,17 +1015,16 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
-          "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
-          "url": "https://www.cls.cn/detail/2238769",
-          "source": "财联社热门",
+          "title": "美国为何提前两年预告对华半导体加税",
+          "url": "https://www.toutiao.com/trending/7587318705801924146/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            2,
-            1
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时30分]"
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 19时26分]"
         },
         {
           "title": "外交部回应美方拟对中国半导体产业征收关税：坚决反对无理打压中国产业",
@@ -993,26 +1052,16 @@
           "time_info": "[16时37分 ~ 18时30分]"
         },
         {
-          "title": "美国为何提前两年预告对华半导体加税",
-          "url": "https://www.toutiao.com/trending/7587318705801924146/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时30分]"
-        },
-        {
           "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
           "url": "https://m.thepaper.cn/newsDetail_forward_32244733",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时30分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 19时26分]"
         },
         {
           "title": "恒指高开0.02%，报25780.09点；恒生科技指数涨0.07%。中芯国际涨2.1%，华虹半导体涨1.5%。",
@@ -1158,6 +1207,18 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
+          "title": "【每日收评】沪指涨0.53%实现6连阳，商业航天概念卷土重来，算力硬件方向反复活跃",
+          "url": "https://www.cls.cn/detail/2238921",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 19时26分]"
+        },
+        {
           "title": "12月24日午间收评：三大指数小幅上涨，商业航天概念再度爆发",
           "url": "https://wallstreetcn.com/livenews/3025965",
           "source": "华尔街见闻-快讯",
@@ -1169,17 +1230,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时01分 ~ 13时31分]"
-        },
-        {
-          "title": "【每日收评】沪指涨0.53%实现6连阳，商业航天概念卷土重来，算力硬件方向反复活跃",
-          "url": "https://www.cls.cn/detail/2238921",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时30分]"
         }
       ]
     },
@@ -1241,8 +1291,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时30分]"
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 19时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光模块",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【焦点复盘】市场现缩量普涨行情，全市场超百股涨逾10%，光模块龙头总市值突破7000亿",
+          "url": "https://www.cls.cn/detail/2238991",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
         }
       ]
     },
@@ -1290,11 +1357,12 @@
           "url": "https://www.cls.cn/detail/2238953",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时30分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 19时26分]"
         }
       ]
     },
