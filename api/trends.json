@@ -1,95 +1,67 @@
 {
-  "generated_at": "2025-12-25T01:23:42.271960+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2025-12-25T02:38:33.494654+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
+      "keyword_group": "美股 a股 港股",
+      "match_count": 9,
       "titles": [
         {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
+          "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251225020922155800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
-        },
-        {
-          "title": "美国加州放弃追讨联邦高铁拨款，打算等特朗普下野了再继续推进项目",
-          "url": "https://wallstreetcn.com/livenews/3026295",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2025年12月24日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251225020759823800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "02时38分"
         },
         {
-          "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
-          "url": "https://wallstreetcn.com/livenews/3026284",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大股指齐涨 标普500续创新高",
+          "url": "https://flash.jin10.com/detail/20251225020220573800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            11
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
-        },
-        {
-          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
-          "url": "https://wallstreetcn.com/articles/3761983",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 a股 港股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
-          "url": "https://wallstreetcn.com/livenews/3026294",
+          "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3026315",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "02时38分"
+        },
+        {
+          "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
+          "url": "https://wallstreetcn.com/livenews/3026294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时38分]"
         },
         {
           "title": "2025年A股诞生7只十倍股",
@@ -100,8 +72,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
@@ -140,8 +112,94 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
+          "url": "https://wallstreetcn.com/livenews/3026317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
+          "url": "https://wallstreetcn.com/livenews/3026284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时38分]"
+        },
+        {
+          "title": "美国加州放弃追讨联邦高铁拨款，打算等特朗普下野了再继续推进项目",
+          "url": "https://wallstreetcn.com/livenews/3026295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时38分]"
+        },
+        {
+          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
+          "url": "https://wallstreetcn.com/articles/3761983",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时38分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
@@ -163,8 +221,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "标普500指数收涨22.26点，涨幅0.32%，报6932.05点，继续创收盘历史新高。 道琼斯工业平均指数收涨288.75点，涨幅0.60%，报48731.16点，突破12月11日所创收盘历史最高位48704.01点。 纳斯达克综合指数（纳指）收涨51.463点，涨幅0.22%，报23613.307点。 纳斯达克100指数收涨68.316点，涨幅0.27%，报25656.146点。 纳斯达克生物科技指数收涨0.69%，报5843.74点。 费城半导体指数收涨0.28%，报7204.368点。 费城证交所KBW银行指数收涨0.71%，报168.48点。 道琼斯KBW地区银行指数收涨0.13%，报127.66点。",
+          "url": "https://wallstreetcn.com/livenews/3026306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         }
       ]
     },
@@ -198,8 +267,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时38分]"
         }
       ]
     },
@@ -216,8 +285,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时38分]"
         }
       ]
     },
@@ -234,8 +303,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时38分]"
         }
       ]
     },
