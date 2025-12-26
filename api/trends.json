@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T20:55:37.778304+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2025-12-26T21:37:53.999485+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时06分 ~ 20时55分]"
+          "appearance_count": 16,
+          "time_info": "[10时06分 ~ 21时37分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时01分 ~ 16时36分]"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时29分 ~ 21时37分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -73,17 +84,6 @@
           "time_info": "[03时21分 ~ 07时26分]"
         },
         {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 20时55分]"
-        },
-        {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
           "url": "https://flash.jin10.com/detail/20251226070310001800",
           "source": "金十数据",
@@ -95,24 +95,13 @@
           "time_info": "07时26分"
         },
         {
-          "title": "乌方称特朗普与泽连斯基拟周日会面 寻求敲定和平协议",
-          "url": "https://flash.jin10.com/detail/20251226203140257800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
           "title": "泽连斯基：预计周日在佛罗里达与特朗普会面。 将与特朗普讨论安全保障和经济问题。",
           "url": "https://wallstreetcn.com/livenews/3027347",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -166,6 +155,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时34分 ~ 04时31分]"
+        },
+        {
+          "title": "乌方称特朗普与泽连斯基拟周日会面 寻求敲定和平协议",
+          "url": "https://flash.jin10.com/detail/20251226203140257800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时37分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -227,6 +228,17 @@
           "time_info": "18时29分"
         },
         {
+          "title": "泽连斯基：预计将于周日在佛罗里达与特朗普会面",
+          "url": "https://wallstreetcn.com/livenews/3027347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
           "url": "https://flash.jin10.com/detail/20251226065412046800",
           "source": "金十数据",
@@ -260,6 +272,61 @@
           "time_info": "15时28分"
         },
         {
+          "title": "乌克兰总统泽连斯基：想与特朗普讨论对俄罗斯施加额外压力的问题。",
+          "url": "https://flash.jin10.com/detail/20251226205730248800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：无法确定周日与美国总统特朗普的会晤是否会促成任何协议的签署。",
+          "url": "https://flash.jin10.com/detail/20251226205149177800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰将在与特朗普的会晤中提出那些缺乏妥协空间的问题。",
+          "url": "https://flash.jin10.com/detail/20251226204831614800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：预计将于周日在佛罗里达与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251226204630246800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：计划与美国总统特朗普讨论安全保障和重建问题。",
+          "url": "https://flash.jin10.com/detail/20251226204553454800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "泽连斯基称近期将与美总统特朗普会面",
           "url": "https://wallstreetcn.com/livenews/3027103",
           "source": "华尔街见闻-快讯",
@@ -285,7 +352,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -308,8 +375,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 20时55分]"
+          "appearance_count": 7,
+          "time_info": "[17时29分 ~ 21时37分]"
         },
         {
           "title": "A股霸气拿下8连阳释放何种信号",
@@ -387,6 +454,18 @@
           "time_info": "[12时01分 ~ 12时43分]"
         },
         {
+          "title": "中国人民银行：着力健全有利于“长钱长投”的制度政策环境 显著提高各类中长期资金实际投资A股的规模和比例",
+          "url": "https://wallstreetcn.com/livenews/3027333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时37分]"
+        },
+        {
           "title": "A股大金融板块震荡走强，海联金汇涨停，中银证券冲击涨停，兴业证券涨超6%，指南针、国盛证券、东方财富等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3026995",
           "source": "华尔街见闻-快讯",
@@ -421,6 +500,17 @@
           "time_info": "15时28分"
         },
         {
+          "title": "央行报告：着力健全有利于“长钱长投”的制度政策环境 显著提高各类中长期资金实际投资A股的规模和比例",
+          "url": "https://www.cls.cn/detail/2241471",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "A股海南自贸区板块再度拉升，京粮控股直线涨停，神农种业涨超10%，康芝药业、海南瑞泽、海南橡胶、海南矿业等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3026947",
           "source": "华尔街见闻-快讯",
@@ -452,17 +542,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "中国人民银行：着力健全有利于“长钱长投”的制度政策环境 显著提高各类中长期资金实际投资A股的规模和比例",
-          "url": "https://wallstreetcn.com/livenews/3027333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
         },
         {
           "title": "A股光伏板块盘初拉升，亿晶光电直线涨停，钧达股份涨超8%，阳光电源、TCL中环、隆基绿能、大全能源等跟涨。",
@@ -565,11 +644,12 @@
           "url": "https://www.cls.cn/detail/2241294",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时37分]"
         },
         {
           "title": "商业火箭企业适用科创板第五套上市标准细化规则发布",
@@ -580,8 +660,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 20时55分]"
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 21时37分]"
         },
         {
           "title": "科创板“1+6”改革举措加快落地，商业火箭企业IPO适用指引出炉",
@@ -713,6 +793,71 @@
       ]
     },
     {
+      "keyword_group": "商业航天",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【每日收评】沪指迎7连阳！商业航天概念持续爆发，市场再现10连板个股",
+          "url": "https://www.cls.cn/detail/2240009",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时26分]"
+        },
+        {
+          "title": "【每日收评】沪指放量震荡微涨0.1%，全市场超3400股收跌，商业航天概念持续火爆",
+          "url": "https://www.cls.cn/detail/2241103",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时29分 ~ 21时37分]"
+        },
+        {
+          "title": "深成指涨超1%，沪指涨0.41%，创业板指涨0.89%，海南自贸区、光伏、锂电池、商业航天等方向领涨，沪深京三市上涨个股近2900只。",
+          "url": "https://wallstreetcn.com/livenews/3027008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时29分]"
+        },
+        {
+          "title": "昊志机电：公司留意到近期市场对于机器人、商业航天的热点概念关注度颇高。现阶段，公司主轴类产品为公司核心收入来源，与此同时，公司正在积极开拓机器人、商业航天领域的业务，截至2025年9月30日，公司在机器人、商业航天领域的业务合计占主营业务收入约1%。",
+          "url": "https://wallstreetcn.com/livenews/3027296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "为何中国卫星成了商业航天的龙头",
+          "url": "https://www.toutiao.com/trending/7588105705421278747/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "低空经济",
       "match_count": 5,
       "titles": [
@@ -773,11 +918,12 @@
           "url": "https://wallstreetcn.com/livenews/3027316",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时37分]"
         }
       ]
     },
@@ -833,60 +979,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【每日收评】沪指迎7连阳！商业航天概念持续爆发，市场再现10连板个股",
-          "url": "https://www.cls.cn/detail/2240009",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时26分]"
-        },
-        {
-          "title": "【每日收评】沪指放量震荡微涨0.1%，全市场超3400股收跌，商业航天概念持续火爆",
-          "url": "https://www.cls.cn/detail/2241103",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 20时55分]"
-        },
-        {
-          "title": "深成指涨超1%，沪指涨0.41%，创业板指涨0.89%，海南自贸区、光伏、锂电池、商业航天等方向领涨，沪深京三市上涨个股近2900只。",
-          "url": "https://wallstreetcn.com/livenews/3027008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时29分]"
-        },
-        {
-          "title": "昊志机电：公司留意到近期市场对于机器人、商业航天的热点概念关注度颇高。现阶段，公司主轴类产品为公司核心收入来源，与此同时，公司正在积极开拓机器人、商业航天领域的业务，截至2025年9月30日，公司在机器人、商业航天领域的业务合计占主营业务收入约1%。",
-          "url": "https://wallstreetcn.com/livenews/3027296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
         }
       ]
     },
@@ -1060,22 +1152,41 @@
           "url": "https://wallstreetcn.com/livenews/3027308",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时37分]"
         },
         {
           "title": "芯原股份：新签订单24.94亿元，较去年第四季度全期大幅增长129.94%",
           "url": "https://wallstreetcn.com/livenews/3027307",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
+          "url": "https://www.cls.cn/detail/2241363",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时55分"
+          "time_info": "21时37分"
         }
       ]
     },
@@ -1115,6 +1226,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时41分 ~ 15时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "臻镭科技",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "臻镭科技：因公司涉嫌信息披露违法违规，中国证监会决定对公司予以立案。",
+          "url": "https://wallstreetcn.com/livenews/3027354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
