@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T10:04:03.630110+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2025-12-27T11:58:06.592303+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 10时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 11时58分]"
         },
         {
           "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 10时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 11时58分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -50,11 +50,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 10时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 11时58分]"
         },
         {
           "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
@@ -64,8 +65,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 11时58分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -78,6 +79,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
+          "url": "https://www.zhihu.com/question/1988017332140864055",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 11时58分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -105,6 +118,17 @@
           "time_info": "[07时26分 ~ 10时04分]"
         },
         {
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 11时58分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨1.45%，报363.21点，时隔一个交易日再创收盘历史新高，本周累计上涨4.43%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.04%，报2572.35点，也时隔一天再创收盘历史新高，本周累涨4.53%，周一美股开盘时“跳空”走高，后续持续高位震荡。",
           "url": "https://wallstreetcn.com/livenews/3027473",
           "source": "华尔街见闻-快讯",
@@ -117,17 +141,6 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
-          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
-          "url": "https://www.zhihu.com/question/1988017332140864055",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
           "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
           "url": "https://wallstreetcn.com/livenews/3027472",
           "source": "华尔街见闻-快讯",
@@ -138,17 +151,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
         },
         {
           "title": "标普500续创新高 “圣诞老人行情”预期支撑美股",
@@ -181,7 +183,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -192,7 +194,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -203,7 +205,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -233,7 +235,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -256,6 +258,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 07时26分]"
+        },
+        {
+          "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
+          "url": "https://news.ifeng.com/c/8pQ4NhlD6Ve",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 11时58分]"
         },
         {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
@@ -286,15 +300,26 @@
           "time_info": "[01时24分 ~ 07时26分]"
         },
         {
-          "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
-          "url": "https://news.ifeng.com/c/8pQ4NhlD6Ve",
-          "source": "凤凰网",
+          "title": "美国总统特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
+          "url": "https://wallstreetcn.com/livenews/3027528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "根据白宫的指引，特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
+          "url": "https://flash.jin10.com/detail/20251227111701825800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "俄罗斯副外长Ryabkov：在（俄罗斯总统普京与美国总统特朗普）达成的Ankorage Agreements（安克雷奇协议）之外，不可能达成其他协议。（塔斯社）",
@@ -340,7 +365,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -381,7 +406,7 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "上交所发布！商业火箭企业适用科创板第五套上市标准 制度包容性、适应性进一步提升",
@@ -394,8 +419,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 10时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 11时58分]"
         },
         {
           "title": "商业火箭企业适用科创板第五套上市标准 科创板“1+6”改革举措加快落地",
@@ -407,8 +432,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 10时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 11时58分]"
         },
         {
           "title": "商业火箭企业适用科创板第五套上市标准细化规则发布",
@@ -421,6 +446,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 07时26分]"
+        },
+        {
+          "title": "商业火箭科创板上市标准落地！",
+          "url": "https://wallstreetcn.com/articles/3762139",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
         }
       ]
     },
@@ -437,19 +473,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 10时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 11时58分]"
         },
         {
           "title": "下周存储龙头解禁市值超百亿元",
           "url": "https://wallstreetcn.com/livenews/3027514",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 11时58分]"
         }
       ]
     },
@@ -482,6 +519,23 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克转发粉丝“DogeDesigner”的帖子，声称Grok的日活跃用户在过去28天里增长了66.17%。",
+          "url": "https://flash.jin10.com/detail/20251227110815326800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
       "match_count": 1,
       "titles": [
@@ -495,6 +549,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为终端宣布华为Mate 70 Air 16GB版本正式开售，搭载麒麟9020A芯片，配备6500mAh大容量电池。",
+          "url": "https://wallstreetcn.com/livenews/3027520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         }
       ]
     }
