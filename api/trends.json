@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T15:26:38.133313+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2025-12-28T16:34:53.644342+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -71,28 +71,6 @@
           "time_info": "[00时32分 ~ 06时26分]"
         },
         {
-          "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
-          "url": "https://flash.jin10.com/detail/20251228145227378800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
-          "url": "https://flash.jin10.com/detail/20251228144705189800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
           "title": "特朗普与泽连斯基会晤时间有所调整",
           "url": "https://flash.jin10.com/detail/20251228094750696800",
           "source": "金十数据",
@@ -103,6 +81,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时24分 ~ 12时12分]"
+        },
+        {
+          "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
+          "url": "https://flash.jin10.com/detail/20251228145227378800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
+          "url": "https://flash.jin10.com/detail/20251228144705189800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时34分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -124,8 +126,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 15时26分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 16时34分]"
         },
         {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
@@ -162,6 +164,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时24分 ~ 12时12分]"
+        },
+        {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "特朗普为美国带来了什么改变",
@@ -211,7 +224,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
@@ -223,8 +236,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 15时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 16时34分]"
         },
         {
           "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
@@ -243,11 +256,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时24分 ~ 15时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 16时34分]"
         },
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -256,11 +270,12 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 16时34分]"
         },
         {
           "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
@@ -269,11 +284,23 @@
           "ranks": [
             13,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 16时34分]"
+        },
+        {
+          "title": "元旦周重磅日程：美联储主席或揭晓，巴菲特退休，“港股GPU第一股”挂牌",
+          "url": "https://wallstreetcn.com/articles/3762120",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     },
@@ -291,8 +318,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时24分 ~ 15时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 16时34分]"
         },
         {
           "title": "白银价格狂飙，马斯克直言：这不好",
@@ -303,11 +330,12 @@
             9,
             17,
             20,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时24分 ~ 15时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 16时34分]"
         },
         {
           "title": "马斯克1个表情评宇树机器人踹工程师",
@@ -328,11 +356,12 @@
             17,
             9,
             8,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 16时34分]"
         },
         {
           "title": "白银价格屡创新高 马斯克：这可不好",
@@ -363,8 +392,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 15时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 16时34分]"
         },
         {
           "title": "四大人形机器人横评",
@@ -423,8 +452,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 15时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 16时34分]"
         }
       ]
     },
