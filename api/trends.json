@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T19:26:14.083127+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2025-12-29T20:58:38.091731+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
@@ -99,6 +99,18 @@
           "time_info": "[00时32分 ~ 06时26分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时45分 ~ 20时58分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3027672",
           "source": "华尔街见闻-快讯",
@@ -137,18 +149,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时14分 ~ 16时40分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时45分 ~ 19时26分]"
         },
         {
           "title": "特朗普与普京通话：均认为临时停火只会延长俄乌冲突",
@@ -578,7 +578,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -754,7 +754,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -927,7 +927,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -1034,6 +1034,17 @@
           "time_info": "16时40分"
         },
         {
+          "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "多家A股公司打响年末“保壳大战”",
           "url": "https://wallstreetcn.com/livenews/3027711",
           "source": "华尔街见闻-快讯",
@@ -1057,28 +1068,42 @@
           "time_info": "[18时31分 ~ 19时26分]"
         },
         {
-          "title": "A股创年内连涨纪录 是新起点吗",
-          "url": "https://www.toutiao.com/trending/7589207018947218963/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 19时26分]"
-        },
-        {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
           "url": "https://www.cls.cn/detail/2242969",
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时58分]"
+        },
+        {
+          "title": "A股创年内连涨纪录 是新起点吗",
+          "url": "https://www.toutiao.com/trending/7589207018947218963/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时58分]"
+        },
+        {
+          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
+          "url": "https://wallstreetcn.com/articles/3762226",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时31分 ~ 19时26分]"
+          "time_info": "[19时25分 ~ 20时58分]"
         },
         {
           "title": "A股医药商业股持续下挫，漱玉平民跌超18%，人民同泰、达嘉维康、英特集团、药易购均跌逾5%，华人健康、重药控股、开开实业等跟跌。",
@@ -1091,17 +1116,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时35分 ~ 14时45分]"
-        },
-        {
-          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
-          "url": "https://wallstreetcn.com/articles/3762226",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
         },
         {
           "title": "A股收盘：沪指冲高回落录得9连阳，机器人、商业航天概念持续爆发",
@@ -1321,6 +1335,18 @@
           "time_info": "[10时22分 ~ 16时40分]"
         },
         {
+          "title": "年末商业航天板块“起飞”：15股股价翻倍，超捷股份涨超2倍",
+          "url": "https://www.cls.cn/detail/2242775",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时58分]"
+        },
+        {
           "title": "12月29日午间收评：沪指半日涨0.31%，机器人、商业航天概念延续强势",
           "url": "https://wallstreetcn.com/livenews/3027871",
           "source": "华尔街见闻-快讯",
@@ -1333,28 +1359,29 @@
           "time_info": "[12时14分 ~ 13时35分]"
         },
         {
-          "title": "年末商业航天板块“起飞”：15股股价翻倍，超捷股份涨超2倍",
-          "url": "https://www.cls.cn/detail/2242775",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 19时26分]"
-        },
-        {
           "title": "【每日收评】三大指数震荡分化涨跌不一，沪指录得9连阳，商业航天持续爆发",
           "url": "https://www.cls.cn/detail/2242902",
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 19时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时58分]"
+        },
+        {
+          "title": "超捷股份：公司关注到近期市场对于商业航天的热点概念关注度很高。截至2025年9月30日，公司商业航天业务营业收入占公司营业收入的比重约5%，现阶段该业务尚处于小批量交付阶段，对公司整体业绩影响较小。",
+          "url": "https://wallstreetcn.com/livenews/3028104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时58分]"
         },
         {
           "title": "商业低轨卫星运营子公司营收占比低于1% 450亿商业航天概念股发布异动公告|盘后公告集锦",
@@ -1366,17 +1393,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
-        },
-        {
-          "title": "超捷股份：公司关注到近期市场对于商业航天的热点概念关注度很高。截至2025年9月30日，公司商业航天业务营业收入占公司营业收入的比重约5%，现阶段该业务尚处于小批量交付阶段，对公司整体业绩影响较小。",
-          "url": "https://wallstreetcn.com/livenews/3028104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
         }
       ]
     },
@@ -1429,52 +1445,20 @@
       ]
     },
     {
-      "keyword_group": "存储",
+      "keyword_group": "半导体",
       "match_count": 3,
       "titles": [
         {
-          "title": "如何看待存储器价格暴涨，手机和电脑明年真会涨 1000 元以上吗？",
-          "url": "https://www.zhihu.com/question/1987821073870395080",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 19时26分]"
-        },
-        {
-          "title": "微信回应存储空间占用变多：占用空间40GB以上的用户，聊天记录平均占比达70%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272920",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 19时26分]"
-        },
-        {
-          "title": "影视飓风将上调部分存储卡价格",
-          "url": "https://wallstreetcn.com/livenews/3027942",
+          "title": "【紫光国微：筹划购买瑞能半导控股权，股票停牌】紫光国微公告，公司正在筹划以发行股份及支付现金的方式，购买南昌建恩半导体产业投资中心、北京广盟半导体产业投资中心、天津瑞芯半导体产业投资中心等交易对方持有的瑞能半导体科技股份有限公司控股权或全部股权，并募集配套资金事项。根据深圳证券交易所的相关规定，经公司申请，公司股票自2025年12月30日开市时起开始停牌。",
+          "url": "https://wallstreetcn.com/livenews/3028169",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            27
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 15时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 2,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
         {
           "title": "西安半导体产业链发展基金成立，出资额10亿",
           "url": "https://wallstreetcn.com/livenews/3027977",
@@ -1498,6 +1482,51 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时31分 ~ 19时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何看待存储器价格暴涨，手机和电脑明年真会涨 1000 元以上吗？",
+          "url": "https://www.zhihu.com/question/1987821073870395080",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 20时58分]"
+        },
+        {
+          "title": "微信回应存储空间占用变多：占用空间40GB以上的用户，聊天记录平均占比达70%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272920",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 20时58分]"
+        },
+        {
+          "title": "影视飓风将上调部分存储卡价格",
+          "url": "https://wallstreetcn.com/livenews/3027942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 15时32分]"
         }
       ]
     },
@@ -1532,6 +1561,63 @@
       ]
     },
     {
+      "keyword_group": "人形机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
+          "url": "https://www.cls.cn/detail/2241816",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时26分]"
+        },
+        {
+          "title": "华为增资人形机器人赛道",
+          "url": "https://wallstreetcn.com/livenews/3028148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国电电力：控股子公司与宁德时代新能源科技股份有限公司等共同投建大渡河丹巴水电站项目，项目动态总投资152.73亿元",
+          "url": "https://wallstreetcn.com/livenews/3028107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "国电电力：控股子公司与宁德时代等共同投建大渡河丹巴水电站项目，项目动态总投资152.73亿元",
+          "url": "https://wallstreetcn.com/livenews/3028107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片",
       "match_count": 1,
       "titles": [
@@ -1547,24 +1633,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时22分 ~ 13时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
-          "url": "https://www.cls.cn/detail/2241816",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时26分]"
         }
       ]
     },
@@ -1613,28 +1681,29 @@
           "url": "https://wallstreetcn.com/livenews/3028127",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时58分]"
         }
       ]
     },
     {
-      "keyword_group": "宁德时代",
+      "keyword_group": "赣锋锂业",
       "match_count": 1,
       "titles": [
         {
-          "title": "国电电力：控股子公司与宁德时代新能源科技股份有限公司等共同投建大渡河丹巴水电站项目，项目动态总投资152.73亿元",
-          "url": "https://wallstreetcn.com/livenews/3028107",
+          "title": "赣锋锂业：公司涉嫌内幕交易罪单位犯罪 收到宜春市公安局移送起诉告知书",
+          "url": "https://wallstreetcn.com/livenews/3028165",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时26分"
+          "time_info": "20时58分"
         }
       ]
     }
