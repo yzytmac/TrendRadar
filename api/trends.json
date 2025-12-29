@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T21:43:59.746969+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2025-12-29T22:28:48.878398+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时45分 ~ 22时28分]"
         },
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -54,18 +66,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 05时25分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时45分 ~ 21时43分]"
         },
         {
           "title": "乌克兰总统办公室：乌克兰总统泽连斯基和美国总统特朗普将与欧洲领导人举行电话会议。",
@@ -471,6 +471,18 @@
           "time_info": "[05时25分 ~ 06时26分]"
         },
         {
+          "title": "泽连斯基列举与特朗普会晤成果：美方确认安全保障协议将提交国会，战后经济重建方案获推进",
+          "url": "https://flash.jin10.com/detail/20251229213129062800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时28分]"
+        },
+        {
           "title": "俄罗斯总统新闻秘书佩斯科夫：普京和特朗普近期将再次通话，普京与泽连斯基通话目前不在议程之内。（IFX）",
           "url": "https://wallstreetcn.com/livenews/3028074",
           "source": "华尔街见闻-快讯",
@@ -592,17 +604,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
-        },
-        {
-          "title": "泽连斯基列举与特朗普会晤成果：美方确认安全保障协议将提交国会，战后经济重建方案获推进",
-          "url": "https://flash.jin10.com/detail/20251229213129062800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "特朗普见泽连斯基前后均与普京通话",
@@ -938,7 +939,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -1010,6 +1011,20 @@
           "time_info": "[10时22分 ~ 15时32分]"
         },
         {
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 22时28分]"
+        },
+        {
           "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
           "url": "https://wallstreetcn.com/articles/3762238",
           "source": "华尔街见闻",
@@ -1034,6 +1049,17 @@
           "time_info": "[00时32分 ~ 05时25分]"
         },
         {
+          "title": "受科技股拖累，美股指期货走低，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "美股股指期货周一基本平开。",
           "url": "https://flash.jin10.com/detail/20251229070023196800",
           "source": "金十数据",
@@ -1056,20 +1082,6 @@
           "time_info": "16时40分"
         },
         {
-          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
-          "url": "https://www.cls.cn/detail/2242969",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 21时43分]"
-        },
-        {
           "title": "多家A股公司打响年末“保壳大战”",
           "url": "https://wallstreetcn.com/livenews/3027711",
           "source": "华尔街见闻-快讯",
@@ -1079,6 +1091,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "越疆：建议于深圳证券交易所进行A股上市计划",
+          "url": "https://wallstreetcn.com/livenews/3028205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
+          "url": "https://wallstreetcn.com/articles/3762226",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 22时28分]"
         },
         {
           "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
@@ -1091,18 +1126,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时31分 ~ 19时26分]"
-        },
-        {
-          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
-          "url": "https://wallstreetcn.com/articles/3762226",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 21时43分]"
         },
         {
           "title": "A股创年内连涨纪录 是新起点吗",
@@ -1151,6 +1174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2243270",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "A股脑机接口板块持续走强，翔宇医疗涨近10%，三博脑科涨超8%，创新医疗涨超7%，美好医疗、爱朋医疗跟涨。",
@@ -1347,24 +1381,25 @@
           "time_info": "[10时22分 ~ 16时40分]"
         },
         {
-          "title": "年末商业航天板块“起飞”：15股股价翻倍，超捷股份涨超2倍",
-          "url": "https://www.cls.cn/detail/2242775",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 21时43分]"
-        },
-        {
           "title": "【每日收评】三大指数震荡分化涨跌不一，沪指录得9连阳，商业航天持续爆发",
           "url": "https://www.cls.cn/detail/2242902",
           "source": "财联社热门",
           "ranks": [
             12,
             11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 22时28分]"
+        },
+        {
+          "title": "年末商业航天板块“起飞”：15股股价翻倍，超捷股份涨超2倍",
+          "url": "https://www.cls.cn/detail/2242775",
+          "source": "财联社热门",
+          "ranks": [
+            8,
             9
           ],
           "is_new": false,
@@ -1512,8 +1547,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时40分 ~ 21时43分]"
+          "appearance_count": 8,
+          "time_info": "[16时40分 ~ 22时28分]"
         },
         {
           "title": "微信回应存储空间占用变多：占用空间40GB以上的用户，聊天记录平均占比达70%",
@@ -1526,8 +1561,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时40分 ~ 21时43分]"
+          "appearance_count": 8,
+          "time_info": "[16时40分 ~ 22时28分]"
         },
         {
           "title": "影视飓风将上调部分存储卡价格",
@@ -1604,9 +1639,50 @@
       ]
     },
     {
+      "keyword_group": "算力",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海：用好“算力券、模型券、语料券”等加大对消费类大模型的支持力度",
+          "url": "https://wallstreetcn.com/livenews/3028078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时26分]"
+        },
+        {
+          "title": "浙江：进一步优化算力布局，引导更多资金向人工智能企业倾斜",
+          "url": "https://wallstreetcn.com/livenews/3028200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中国卫星",
       "match_count": 2,
       "titles": [
+        {
+          "title": "中国卫星尾盘涨停 今年暴涨超200%",
+          "url": "https://www.toutiao.com/trending/7588891489582923827/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时28分]"
+        },
         {
           "title": "4连板中国卫星：股价脱离基本面 存在估值偏高、换手率较高风险",
           "url": "https://wallstreetcn.com/livenews/3028077",
@@ -1618,17 +1694,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时31分 ~ 19时26分]"
-        },
-        {
-          "title": "中国卫星尾盘涨停 今年暴涨超200%",
-          "url": "https://www.toutiao.com/trending/7588891489582923827/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         }
       ]
     },
@@ -1676,24 +1741,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时22分 ~ 13时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海：用好“算力券、模型券、语料券”等加大对消费类大模型的支持力度",
-          "url": "https://wallstreetcn.com/livenews/3028078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时26分]"
         }
       ]
     },
