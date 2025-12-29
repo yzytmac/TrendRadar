@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T20:58:38.091731+08:00",
-  "total_titles_processed": 1576,
+  "generated_at": "2025-12-29T21:43:59.746969+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -56,6 +56,18 @@
           "time_info": "[00时32分 ~ 05时25分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时45分 ~ 21时43分]"
+        },
+        {
           "title": "乌克兰总统办公室：乌克兰总统泽连斯基和美国总统特朗普将与欧洲领导人举行电话会议。",
           "url": "https://flash.jin10.com/detail/20251228225633143800",
           "source": "金十数据",
@@ -97,18 +109,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 06时26分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时45分 ~ 20时58分]"
         },
         {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
@@ -594,6 +594,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "泽连斯基列举与特朗普会晤成果：美方确认安全保障协议将提交国会，战后经济重建方案获推进",
+          "url": "https://flash.jin10.com/detail/20251229213129062800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "特朗普见泽连斯基前后均与普京通话",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%81%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%89%8D%E5%90%8E%E5%9D%87%E4%B8%8E%E6%99%AE%E4%BA%AC%E9%80%9A%E8%AF%9D%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -999,6 +1010,17 @@
           "time_info": "[10时22分 ~ 15时32分]"
         },
         {
+          "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 21时43分]"
+        },
+        {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
           "url": "https://flash.jin10.com/detail/20251228222030090800",
           "source": "金十数据",
@@ -1034,15 +1056,18 @@
           "time_info": "16时40分"
         },
         {
-          "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
-          "url": "https://wallstreetcn.com/articles/3762238",
-          "source": "华尔街见闻",
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
           "ranks": [
-            5
+            13,
+            10,
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时43分]"
         },
         {
           "title": "多家A股公司打响年末“保壳大战”",
@@ -1068,17 +1093,16 @@
           "time_info": "[18时31分 ~ 19时26分]"
         },
         {
-          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
-          "url": "https://www.cls.cn/detail/2242969",
-          "source": "财联社热门",
+          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
+          "url": "https://wallstreetcn.com/articles/3762226",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
             10,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时58分]"
+          "time_info": "[19时25分 ~ 21时43分]"
         },
         {
           "title": "A股创年内连涨纪录 是新起点吗",
@@ -1092,18 +1116,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时31分 ~ 20时58分]"
-        },
-        {
-          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
-          "url": "https://wallstreetcn.com/articles/3762226",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 20时58分]"
         },
         {
           "title": "A股医药商业股持续下挫，漱玉平民跌超18%，人民同泰、达嘉维康、英特集团、药易购均跌逾5%，华人健康、重药控股、开开实业等跟跌。",
@@ -1343,8 +1355,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时58分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时43分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡分化涨跌不一，沪指录得9连阳，商业航天持续爆发",
+          "url": "https://www.cls.cn/detail/2242902",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时43分]"
         },
         {
           "title": "12月29日午间收评：沪指半日涨0.31%，机器人、商业航天概念延续强势",
@@ -1357,19 +1382,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时14分 ~ 13时35分]"
-        },
-        {
-          "title": "【每日收评】三大指数震荡分化涨跌不一，沪指录得9连阳，商业航天持续爆发",
-          "url": "https://www.cls.cn/detail/2242902",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时58分]"
         },
         {
           "title": "超捷股份：公司关注到近期市场对于商业航天的热点概念关注度很高。截至2025年9月30日，公司商业航天业务营业收入占公司营业收入的比重约5%，现阶段该业务尚处于小批量交付阶段，对公司整体业绩影响较小。",
@@ -1455,7 +1467,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1500,8 +1512,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 20时58分]"
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 21时43分]"
         },
         {
           "title": "微信回应存储空间占用变多：占用空间40GB以上的用户，聊天记录平均占比达70%",
@@ -1510,11 +1522,12 @@
           "ranks": [
             19,
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 20时58分]"
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 21时43分]"
         },
         {
           "title": "影视飓风将上调部分存储卡价格",
@@ -1581,11 +1594,41 @@
           "url": "https://wallstreetcn.com/livenews/3028148",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 21时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国卫星",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "4连板中国卫星：股价脱离基本面 存在估值偏高、换手率较高风险",
+          "url": "https://wallstreetcn.com/livenews/3028077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时26分]"
+        },
+        {
+          "title": "中国卫星尾盘涨停 今年暴涨超200%",
+          "url": "https://www.toutiao.com/trending/7588891489582923827/",
+          "source": "今日头条",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "21时43分"
         }
       ]
     },
@@ -1611,7 +1654,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
@@ -1655,24 +1698,6 @@
       ]
     },
     {
-      "keyword_group": "中国卫星",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "4连板中国卫星：股价脱离基本面 存在估值偏高、换手率较高风险",
-          "url": "https://wallstreetcn.com/livenews/3028077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "中国卫通",
       "match_count": 1,
       "titles": [
@@ -1682,11 +1707,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 20时58分]"
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 21时43分]"
         }
       ]
     },
@@ -1699,11 +1725,12 @@
           "url": "https://wallstreetcn.com/livenews/3028165",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 21时43分]"
         }
       ]
     }
