@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T14:42:52.962757+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2025-12-31T15:30:41.320540+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 14时42分]"
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 15时30分]"
         },
         {
           "title": "一夜亏185万！跟大V打新港股遇“杀猪盘”",
@@ -62,11 +62,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 14时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时35分 ~ 15时30分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -102,17 +103,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 06时27分]"
-        },
-        {
-          "title": "“港股GPU第一股”壁仞科技港股暗盘涨超80%。",
-          "url": "https://wallstreetcn.com/livenews/3029127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
         },
         {
           "title": "A股有色板块早盘拉升，江西铜业冲击涨停，云南铜业、盛达资源、国城矿业、精艺股份、紫金矿业等涨超5%。",
@@ -163,6 +153,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时26分 ~ 07时25分]"
+        },
+        {
+          "title": "“港股GPU第一股”壁仞科技港股暗盘涨超80%。",
+          "url": "https://wallstreetcn.com/livenews/3029127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时30分]"
         },
         {
           "title": "生物科技ETF收跌将近1.1%，领跌美股行业ETF，能源ETF涨约0.8%",
@@ -246,6 +248,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "金十数据整理：A股每日市场要闻回顾（2025-12-31）",
+          "url": "https://flash.jin10.com/detail/20251231151622928800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
           "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251231013021067800",
           "source": "金十数据",
@@ -255,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "A股2025年收官：沪指11连阳全年涨超18%，创业板指全年涨近50%",
+          "url": "https://wallstreetcn.com/livenews/3029152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-31）",
@@ -376,15 +400,19 @@
           "time_info": "07时25分"
         },
         {
-          "title": "报道：特朗普移动推迟原定今年底交付智能手机的计划",
-          "url": "https://wallstreetcn.com/livenews/3029129",
-          "source": "华尔街见闻-快讯",
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
           "ranks": [
-            1
+            13,
+            10,
+            5,
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 15时30分]"
         },
         {
           "title": "外交部回应特朗普谈解放军军演",
@@ -425,17 +453,16 @@
           "time_info": "[05时26分 ~ 06时27分]"
         },
         {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
+          "title": "报道：特朗普移动推迟原定今年底交付智能手机的计划",
+          "url": "https://wallstreetcn.com/livenews/3029129",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            10,
-            5
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 14时42分]"
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时30分]"
         },
         {
           "title": "据英国金融时报：由特朗普集团推出的手机公司Trump Mobile已推迟原定于今年年底发售金色智能手机的计划。",
@@ -460,6 +487,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时25分]"
+        },
+        {
+          "title": "国台办回应特朗普称不担心台海局势",
+          "url": "https://www.toutiao.com/trending/7589884892247543346/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 15时30分]"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -509,17 +548,6 @@
           "time_info": "[01时27分 ~ 02时41分]"
         },
         {
-          "title": "国台办回应特朗普称不担心台海局势",
-          "url": "https://www.toutiao.com/trending/7589884892247543346/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
           "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
           "url": "https://flash.jin10.com/detail/20251230232531255800",
           "source": "金十数据",
@@ -559,7 +587,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         }
@@ -567,7 +595,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
@@ -631,6 +659,18 @@
           "time_info": "[05时26分 ~ 06时27分]"
         },
         {
+          "title": "马斯克：Cybercab将于明年4月份量产",
+          "url": "https://www.toutiao.com/trending/7589217378653290537/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
+        },
+        {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
           "url": "https://flash.jin10.com/detail/20251231012608769800",
           "source": "金十数据",
@@ -662,6 +702,109 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 07时25分]"
+        },
+        {
+          "title": "中国存储芯片第一股来了！长鑫科技科创板IPO获受理，预先审阅机制首单，拟募资295亿元",
+          "url": "https://wallstreetcn.com/articles/3762337",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 15时30分]"
+        },
+        {
+          "title": "拟募资295亿元！长鑫科技科创板IPO获受理 已完成两轮预审问询回复 2025年有望扭亏",
+          "url": "https://www.cls.cn/detail/2244775",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 13时32分]"
+        },
+        {
+          "title": "上证指数早盘收报3962.24点，跌0.07%。 深证成指早盘收报13513.21点，跌0.67%。 创业板指早盘收报3207.24点，跌1.10%。 沪深300早盘收报4630.63点，跌0.44%。 科创50早盘收报1347.95点，跌0.88%。 中证500早盘收报7444.43点，跌0.19%。 中证1000早盘收报7583.94点，跌0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3029073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时32分]"
+        },
+        {
+          "title": "长鑫科技科创板IPO已受理，拟融资295亿元",
+          "url": "https://wallstreetcn.com/livenews/3028850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时27分]"
+        },
+        {
+          "title": "财联社、《科创板日报》年度评选推出“2025中国十大AI风云人物”",
+          "url": "https://www.cls.cn/detail/2244555",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "上证指数收报3968.84点，涨0.09%。 深证成指收报13525.02点，跌0.58%。 创业板指收报3203.17点，跌1.23%。 沪深300收报4629.94点，跌0.46%。 科创50收报1344.20点，跌1.15%。 中证500收报7465.57点，涨0.09%。 中证1000收报7595.28点，跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3029147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
+          "title": "上证指数开盘报3968.73点，涨0.09%。 深证成指开盘报13627.26点，涨0.17%。 创业板指开盘报3247.74点，涨0.15%。 沪深300开盘报4656.48点，涨0.11%。 科创50开盘报1367.17点，涨0.54%。 中证500开盘报7473.75点，涨0.20%。 中证1000开盘报7606.65点，涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3029000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         }
       ]
     },
@@ -761,98 +904,6 @@
       ]
     },
     {
-      "keyword_group": "科创",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 07时25分]"
-        },
-        {
-          "title": "拟募资295亿元！长鑫科技科创板IPO获受理 已完成两轮预审问询回复 2025年有望扭亏",
-          "url": "https://www.cls.cn/detail/2244775",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 13时32分]"
-        },
-        {
-          "title": "中国存储芯片第一股来了！长鑫科技科创板IPO获受理，预先审阅机制首单，拟募资295亿元",
-          "url": "https://wallstreetcn.com/articles/3762337",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 14时42分]"
-        },
-        {
-          "title": "上证指数早盘收报3962.24点，跌0.07%。 深证成指早盘收报13513.21点，跌0.67%。 创业板指早盘收报3207.24点，跌1.10%。 沪深300早盘收报4630.63点，跌0.44%。 科创50早盘收报1347.95点，跌0.88%。 中证500早盘收报7444.43点，跌0.19%。 中证1000早盘收报7583.94点，跌0.18%。",
-          "url": "https://wallstreetcn.com/livenews/3029073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时32分]"
-        },
-        {
-          "title": "长鑫科技科创板IPO已受理，拟融资295亿元",
-          "url": "https://wallstreetcn.com/livenews/3028850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时27分]"
-        },
-        {
-          "title": "财联社、《科创板日报》年度评选推出“2025中国十大AI风云人物”",
-          "url": "https://www.cls.cn/detail/2244555",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "上证指数开盘报3968.73点，涨0.09%。 深证成指开盘报13627.26点，涨0.17%。 创业板指开盘报3247.74点，涨0.15%。 沪深300开盘报4656.48点，涨0.11%。 科创50开盘报1367.17点，涨0.54%。 中证500开盘报7473.75点，涨0.20%。 中证1000开盘报7606.65点，涨0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3029000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天",
       "match_count": 7,
       "titles": [
@@ -894,6 +945,30 @@
           "time_info": "[00时35分 ~ 06时27分]"
         },
         {
+          "title": "商业航天高位回调，机器人概念强势崛起，能否接棒领涨？",
+          "url": "https://www.cls.cn/detail/2244856",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 15时30分]"
+        },
+        {
+          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
+          "url": "https://www.cls.cn/detail/2245117",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 15时30分]"
+        },
+        {
           "title": "商业航天概念再度走强，泰尔股份5连板，雷科防务、宏英智能、顺灏股份涨停，太力科技涨超10%，广联航空、信维通信、烽火通信、乾照光电等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3029014",
           "source": "华尔街见闻-快讯",
@@ -905,35 +980,13 @@
           "time_info": "10时08分"
         },
         {
-          "title": "商业航天高位回调，机器人概念强势崛起，能否接棒领涨？",
-          "url": "https://www.cls.cn/detail/2244856",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
           "title": "海南：抢抓商业航天发展战略机遇期狠抓重大牵引性项目建设",
           "url": "https://www.cls.cn/detail/2244792",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
-          "url": "https://www.cls.cn/detail/2245117",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         }
@@ -941,7 +994,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "标普500指数收跌9.50点，跌幅0.14%，报6896.24点。 道琼斯工业平均指数收跌94.87点，跌幅0.20%，报48367.06点。 纳斯达克综合指数（纳指）收跌55.27点，跌幅0.24%，报23419.08点。 纳斯达克100指数收跌63.00点，跌幅0.25%，报25462.561点。 纳斯达克生物科技指数收跌1.03%，报5707.25点。 费城半导体指数收跌0.13%，报7169.099点。 费城证交所KBW银行指数收跌0.56%，报165.55点。 道琼斯KBW地区银行指数收跌0.78%，报125.26点。",
@@ -964,6 +1017,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）富时中国A50指数成分股今日收盘行情一览：银行、保险、证券走势分化，酿酒行业全线下跌，半导体多数走低",
+          "url": "https://flash.jin10.com/detail/20251231150340494800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         },
         {
           "title": "恒生科技指数日内跌超1%。携程集团跌超3%，网易跌近3%，华虹半导体逆市涨超1%。",
@@ -1002,8 +1066,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 15时30分]"
         }
       ]
     },
