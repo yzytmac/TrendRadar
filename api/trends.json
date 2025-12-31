@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T01:25:14.012419+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-01-01T02:38:09.732956+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
@@ -27,19 +27,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "港股2025年终盘点：恒指涨近28%领跑全球、华虹大涨240%，阿里领衔互联网反攻、南向资金狂买1.4万亿",
           "url": "https://wallstreetcn.com/articles/3762299",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -49,8 +50,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260101013121522800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260101013023765800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF跌0.36%，网络股指数ETF跌0.2%，能源业ETF跌0.1%，科技行业ETF涨0.1%，全球科技股指数ETF涨0.15%。",
@@ -74,11 +97,24 @@
           "url": "https://flash.jin10.com/detail/20260101010133280800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 02时38分]"
+        },
+        {
+          "title": "特朗普喊话“把索马里人送回去” 斥其祖国“全球最烂”",
+          "url": "https://flash.jin10.com/detail/20260101004424120800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 02时38分]"
         },
         {
           "title": "非洲股市收盘播报｜周三（12月31日），南非富时/JSE非洲领先40可交易指数收跌0.69%，报10.8万点，大致持稳于12月24日所创历史最高位（接近11.0万点）附近。 南非股市2025年累计上涨大约46.35%，虽然屡屡遭到特朗普政府的威胁，但月线上仍然全年走高、连续四个季度走强，并连续三年上涨。",
@@ -91,17 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时25分]"
-        },
-        {
-          "title": "特朗普喊话“把索马里人送回去” 斥其祖国“全球最烂”",
-          "url": "https://flash.jin10.com/detail/20260101004424120800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时25分"
         }
       ]
     },
@@ -117,8 +142,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "蓝箭航天科创板IPO获受理 拟融资75亿元",
@@ -128,8 +153,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时38分]"
         }
       ]
     },
@@ -145,8 +170,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -156,8 +181,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时38分]"
         }
       ]
     },
@@ -174,8 +199,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时38分]"
         }
       ]
     },
@@ -206,11 +231,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%8A%AF%E7%89%87%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 02时38分]"
         }
       ]
     },
@@ -226,8 +252,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时38分]"
         }
       ]
     }
