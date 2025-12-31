@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T15:30:41.320540+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2025-12-31T16:38:16.218073+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -21,6 +21,18 @@
           "time_info": "[00时35分 ~ 07时25分]"
         },
         {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 16时38分]"
+        },
+        {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
           "url": "https://wallstreetcn.com/articles/3762305",
           "source": "华尔街见闻",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时35分 ~ 05时26分]"
-        },
-        {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 15时30分]"
         },
         {
           "title": "一夜亏185万！跟大V打新港股遇“杀猪盘”",
@@ -237,6 +237,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "A股2025年收官：沪指全年收涨超18%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A12025%E5%B9%B4%E6%94%B6%E5%AE%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%85%A8%E5%B9%B4%E6%94%B6%E6%B6%A8%E8%B6%8518%25",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251231013358697800",
           "source": "金十数据",
@@ -254,7 +265,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -276,9 +287,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
+        },
+        {
+          "title": "A股七只股票市值超万亿 农业银行登顶榜首",
+          "url": "https://wallstreetcn.com/livenews/3029179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-31）",
@@ -494,11 +516,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时30分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 16时38分]"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -590,6 +613,248 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "中国存储芯片第一股来了！长鑫科技科创板IPO获受理，预先审阅机制首单，拟募资295亿元",
+          "url": "https://wallstreetcn.com/articles/3762337",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时07分 ~ 16时38分]"
+        },
+        {
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 07时25分]"
+        },
+        {
+          "title": "拟募资295亿元！长鑫科技科创板IPO获受理 已完成两轮预审问询回复 2025年有望扭亏",
+          "url": "https://www.cls.cn/detail/2244775",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 13时32分]"
+        },
+        {
+          "title": "上证指数早盘收报3962.24点，跌0.07%。 深证成指早盘收报13513.21点，跌0.67%。 创业板指早盘收报3207.24点，跌1.10%。 沪深300早盘收报4630.63点，跌0.44%。 科创50早盘收报1347.95点，跌0.88%。 中证500早盘收报7444.43点，跌0.19%。 中证1000早盘收报7583.94点，跌0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3029073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时32分]"
+        },
+        {
+          "title": "长鑫科技科创板IPO已受理，拟融资295亿元",
+          "url": "https://wallstreetcn.com/livenews/3028850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时27分]"
+        },
+        {
+          "title": "苏州：到2028年新增3万个科创项目 拥有科技型企业超10万家",
+          "url": "https://wallstreetcn.com/livenews/3029200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "财联社、《科创板日报》年度评选推出“2025中国十大AI风云人物”",
+          "url": "https://www.cls.cn/detail/2244555",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "长鑫科技冲刺科创板 DRAM扩产周期下 哪些公司望分一杯羹？",
+          "url": "https://www.cls.cn/detail/2244868",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "上证指数收报3968.84点，涨0.09%。 深证成指收报13525.02点，跌0.58%。 创业板指收报3203.17点，跌1.23%。 沪深300收报4629.94点，跌0.46%。 科创50收报1344.20点，跌1.15%。 中证500收报7465.57点，涨0.09%。 中证1000收报7595.28点，跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3029147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
+          "title": "上证指数开盘报3968.73点，涨0.09%。 深证成指开盘报13627.26点，涨0.17%。 创业板指开盘报3247.74点，涨0.15%。 沪深300开盘报4656.48点，涨0.11%。 科创50开盘报1367.17点，涨0.54%。 中证500开盘报7473.75点，涨0.20%。 中证1000开盘报7606.65点，涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3029000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "英媒：美政府已颁发许可证，批准韩企向中国出口芯片制造设备",
+          "url": "https://www.cls.cn/detail/2244756",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 12时03分]"
+        },
+        {
+          "title": "英媒：美政府批准韩企向中国出口芯片制造设备",
+          "url": "https://news.ifeng.com/c/8pWXXu6Vf9x",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "突发！7倍芯片概念股明起停牌核查|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2244602",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "美批准韩企向中国出口芯片制造设备",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%89%B9%E5%87%86%E9%9F%A9%E4%BC%81%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E8%AE%BE%E5%A4%87%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "美批准韩企向中国出口芯片制造设备",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%89%B9%E5%87%86%E9%9F%A9%E4%BC%81%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E8%AE%BE%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "英媒：美政府已颁发许可证，批准韩企向中国出口芯片制造设备",
+          "url": "https://news.ifeng.com/c/8pWXXu6Vf9x",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "英媒：美政府已颁发许可证，批准韩企向中国出口芯片制造设备",
+          "url": "https://wallstreetcn.com/livenews/3028950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "英伟达就新的H200芯片订单联系台积电。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3029184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "消息人士：为满足客户强劲的需求，英伟达正就新款H200芯片订单接洽台积电；英伟达目前H200芯片库存仅有70万颗，而订单量已达200万颗；台积电预计于2026年第二季度开始扩建产能的工作。",
+          "url": "https://flash.jin10.com/detail/20251231154356035800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "北交所新股N蘅东光高开超1000%，报350元/股，公司是光通信精密器件供应商，曾承担过400G超高密度无源多芯光子连接组件及系统关键技术研究、多通道高速硅光芯片及光引擎集成关键技术研发等省市级重大课题。",
+          "url": "https://wallstreetcn.com/livenews/3029004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         }
       ]
     },
@@ -706,204 +971,6 @@
       ]
     },
     {
-      "keyword_group": "科创",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 07时25分]"
-        },
-        {
-          "title": "中国存储芯片第一股来了！长鑫科技科创板IPO获受理，预先审阅机制首单，拟募资295亿元",
-          "url": "https://wallstreetcn.com/articles/3762337",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 15时30分]"
-        },
-        {
-          "title": "拟募资295亿元！长鑫科技科创板IPO获受理 已完成两轮预审问询回复 2025年有望扭亏",
-          "url": "https://www.cls.cn/detail/2244775",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 13时32分]"
-        },
-        {
-          "title": "上证指数早盘收报3962.24点，跌0.07%。 深证成指早盘收报13513.21点，跌0.67%。 创业板指早盘收报3207.24点，跌1.10%。 沪深300早盘收报4630.63点，跌0.44%。 科创50早盘收报1347.95点，跌0.88%。 中证500早盘收报7444.43点，跌0.19%。 中证1000早盘收报7583.94点，跌0.18%。",
-          "url": "https://wallstreetcn.com/livenews/3029073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时32分]"
-        },
-        {
-          "title": "长鑫科技科创板IPO已受理，拟融资295亿元",
-          "url": "https://wallstreetcn.com/livenews/3028850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时27分]"
-        },
-        {
-          "title": "财联社、《科创板日报》年度评选推出“2025中国十大AI风云人物”",
-          "url": "https://www.cls.cn/detail/2244555",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "上证指数收报3968.84点，涨0.09%。 深证成指收报13525.02点，跌0.58%。 创业板指收报3203.17点，跌1.23%。 沪深300收报4629.94点，跌0.46%。 科创50收报1344.20点，跌1.15%。 中证500收报7465.57点，涨0.09%。 中证1000收报7595.28点，跌0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3029147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
-          "title": "上证指数开盘报3968.73点，涨0.09%。 深证成指开盘报13627.26点，涨0.17%。 创业板指开盘报3247.74点，涨0.15%。 沪深300开盘报4656.48点，涨0.11%。 科创50开盘报1367.17点，涨0.54%。 中证500开盘报7473.75点，涨0.20%。 中证1000开盘报7606.65点，涨0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3029000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "英媒：美政府已颁发许可证，批准韩企向中国出口芯片制造设备",
-          "url": "https://www.cls.cn/detail/2244756",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时03分]"
-        },
-        {
-          "title": "英媒：美政府批准韩企向中国出口芯片制造设备",
-          "url": "https://news.ifeng.com/c/8pWXXu6Vf9x",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "突发！7倍芯片概念股明起停牌核查|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2244602",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "美批准韩企向中国出口芯片制造设备",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%89%B9%E5%87%86%E9%9F%A9%E4%BC%81%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E8%AE%BE%E5%A4%87%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "美批准韩企向中国出口芯片制造设备",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%89%B9%E5%87%86%E9%9F%A9%E4%BC%81%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E8%AE%BE%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "英媒：美政府已颁发许可证，批准韩企向中国出口芯片制造设备",
-          "url": "https://news.ifeng.com/c/8pWXXu6Vf9x",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "英媒：美政府已颁发许可证，批准韩企向中国出口芯片制造设备",
-          "url": "https://wallstreetcn.com/livenews/3028950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "北交所新股N蘅东光高开超1000%，报350元/股，公司是光通信精密器件供应商，曾承担过400G超高密度无源多芯光子连接组件及系统关键技术研究、多通道高速硅光芯片及光引擎集成关键技术研发等省市级重大课题。",
-          "url": "https://wallstreetcn.com/livenews/3029004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天",
       "match_count": 7,
       "titles": [
@@ -950,11 +1017,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时30分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 16时38分]"
         },
         {
           "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
@@ -962,11 +1030,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时30分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 16时38分]"
         },
         {
           "title": "商业航天概念再度走强，泰尔股份5连板，雷科防务、宏英智能、顺灏股份涨停，太力科技涨超10%，广联航空、信维通信、烽火通信、乾照光电等跟涨。",
@@ -1025,7 +1094,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -1066,8 +1135,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时32分 ~ 15时30分]"
+          "appearance_count": 5,
+          "time_info": "[13时32分 ~ 16时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国估值最高的人形机器人公司出现",
+          "url": "https://www.toutiao.com/trending/7589825757577219627/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     },
