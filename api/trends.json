@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T05:26:21.143230+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-01-02T06:27:18.580905+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 06时27分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -25,11 +25,12 @@
           "ranks": [
             3,
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 05时26分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 06时27分]"
         },
         {
           "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
@@ -40,11 +41,12 @@
             6,
             9,
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 05时26分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 06时27分]"
         },
         {
           "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
@@ -52,11 +54,25 @@
           "source": "金十数据",
           "ranks": [
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 06时27分]"
+        },
+        {
+          "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
+          "url": "https://flash.jin10.com/detail/20260102030004557800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 06时27分]"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -70,18 +86,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 02时39分]"
-        },
-        {
-          "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
-          "url": "https://flash.jin10.com/detail/20260102030004557800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时26分]"
         },
         {
           "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
@@ -98,6 +102,34 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
+          "url": "https://www.cls.cn/detail/2245979",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 06时27分]"
+        },
+        {
+          "title": "马斯克暗示将继续资助美国共和党",
+          "url": "https://flash.jin10.com/detail/20260102051812047800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科创",
       "match_count": 2,
       "titles": [
@@ -109,8 +141,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 06时27分]"
         },
         {
           "title": "【早报】今起存量“公积金+商贷”利率将同步下调；蓝箭航天科创板IPO获受理",
@@ -120,8 +152,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 06时27分]"
         }
       ]
     },
@@ -137,11 +169,12 @@
             11,
             15,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 06时27分]"
         },
         {
           "title": "台积电量产的2纳米芯片是什么原理",
@@ -149,11 +182,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 06时27分]"
         }
       ]
     },
@@ -169,25 +203,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 05时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
-          "url": "https://www.cls.cn/detail/2245979",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 06时27分]"
         }
       ]
     },
@@ -203,8 +220,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 06时27分]"
         }
       ]
     },
@@ -220,8 +237,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 06时27分]"
         }
       ]
     }
