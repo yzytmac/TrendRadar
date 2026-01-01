@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T18:31:10.406464+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-01-01T19:24:44.141792+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "特朗普称“凯旋门”将于两个月内开建",
@@ -278,8 +289,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时25分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[10时25分 ~ 19时24分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -418,8 +429,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时34分 ~ 18时31分]"
+          "appearance_count": 9,
+          "time_info": "[13时34分 ~ 19时24分]"
         },
         {
           "title": "马斯克：Neuralink将于2026年开始大规模生产脑机接口设备，并转向精简、几乎完全自动化的手术流程。",
@@ -447,8 +458,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时42分 ~ 18时31分]"
+          "appearance_count": 8,
+          "time_info": "[14时42分 ~ 19时24分]"
         },
         {
           "title": "华虹半导体：拟以82.7亿元人民币收购华力微电子股权",
@@ -489,8 +500,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时25分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[10时25分 ~ 19时24分]"
         },
         {
           "title": "蓝箭航天科创板IPO获受理 拟融资75亿元",
@@ -502,8 +513,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时33分 ~ 18时31分]"
+          "appearance_count": 24,
+          "time_info": "[00时33分 ~ 19时24分]"
         },
         {
           "title": "中国存储芯片第一股来了！长鑫科技科创板IPO获受理，预先审阅机制首单，拟募资295亿元",
@@ -537,18 +548,6 @@
           "time_info": "[00时33分 ~ 13时34分]"
         },
         {
-          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
-          "url": "https://www.cls.cn/detail/2245529",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 07时26分]"
-        },
-        {
           "title": "突发！300亿商业航天概念股涉嫌信息披露违法违规被证监会立案|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2245906",
           "source": "财联社热门",
@@ -559,8 +558,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时13分 ~ 18时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 19时24分]"
+        },
+        {
+          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
+          "url": "https://www.cls.cn/detail/2245529",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 07时26分]"
         }
       ]
     },
