@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T15:31:31.380017+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-01-02T16:38:05.843265+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -17,8 +17,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 15时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 16时38分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -28,11 +28,12 @@
             12,
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[12时06分 ~ 16时38分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -46,15 +47,28 @@
           "time_info": "07时27分"
         },
         {
+          "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
+          "url": "https://wallstreetcn.com/articles/3762441",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 16时38分]"
+        },
+        {
           "title": "港股光伏板块走强，协鑫新能源涨超20%，协鑫科技涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3029761",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 16时38分]"
         },
         {
           "title": "百度集团港股涨超6%，此前公司在香港交易所公告称，建议分拆昆仑芯在港交所主板独立上市。",
@@ -69,16 +83,16 @@
           "time_info": "[10时10分 ~ 12时06分]"
         },
         {
-          "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
-          "url": "https://wallstreetcn.com/articles/3762441",
+          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
+          "url": "https://wallstreetcn.com/articles/3762449",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时31分]"
+          "time_info": "[15时31分 ~ 16时38分]"
         },
         {
           "title": "港股创新药概念股持续走高，晶泰控股涨超6%，恒瑞医药涨超5%，四环医药涨超4%，信达生物、药明生物涨超3%，百济神州涨超2%。",
@@ -117,6 +131,18 @@
           "time_info": "[10时10分 ~ 12时06分]"
         },
         {
+          "title": "兴业证券：2026年港股市场将延续牛市格局，行情节奏如“火炬登山”般震荡上行",
+          "url": "https://wallstreetcn.com/livenews/3029751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 16时38分]"
+        },
+        {
           "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
           "url": "https://wallstreetcn.com/livenews/3029712",
           "source": "华尔街见闻-快讯",
@@ -127,6 +153,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 13时32分]"
+        },
+        {
+          "title": "港股2026年开门红：百度大涨9%",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A12026%E5%B9%B4%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%9A%E7%99%BE%E5%BA%A6%E5%A4%A7%E6%B6%A89%25",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
         },
         {
           "title": "A股会延续牛市吗",
@@ -140,6 +177,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "港股2026年开门红：恒生指数收盘涨2.76%，恒生科技指数涨4%，壁仞科技涨约76%",
+          "url": "https://wallstreetcn.com/livenews/3029770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "【2026年第一个交易日，港股高开】香港恒生指数开盘涨0.34%，恒生科技指数涨0.58%。携程集团、网易涨超2%，理想汽车、京东健康等涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3029693",
           "source": "华尔街见闻-快讯",
@@ -149,28 +197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
-        },
-        {
-          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "兴业证券：2026年港股市场将延续牛市格局，行情节奏如“火炬登山”般震荡上行",
-          "url": "https://wallstreetcn.com/livenews/3029751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
         },
         {
           "title": "百度集团港股大涨超8%。此前公司在香港交易所公告称，建议分拆昆仑芯在港交所主板独立上市。",
@@ -198,7 +224,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -284,6 +310,18 @@
           "time_info": "[00时35分 ~ 02时39分]"
         },
         {
+          "title": "特朗普承认服用阿司匹林",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 16时38分]"
+        },
+        {
           "title": "特朗普承认手上瘀伤是服用药物造成",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
           "source": "百度热搜",
@@ -319,6 +357,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "美国总统特朗普：如果伊朗开枪并暴力杀害和平抗议者，美利坚合众国将向他们提供援助。我们已严阵以待，蓄势待发。",
+          "url": "https://flash.jin10.com/detail/20260102155924046800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "特朗普宣布从芝加哥等三座城市撤军",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%AD%89%E4%B8%89%E5%BA%A7%E5%9F%8E%E5%B8%82%E6%92%A4%E5%86%9B",
           "source": "百度热搜",
@@ -341,24 +390,13 @@
           "time_info": "10时10分"
         },
         {
-          "title": "特朗普承认服用阿司匹林",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
           "title": "特朗普的关税大棒挥不下去了吗",
           "url": "https://www.toutiao.com/trending/7590646791305956874/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
@@ -376,8 +414,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 15时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 16时38分]"
         },
         {
           "title": "【早报】今起存量“公积金+商贷”利率将同步下调；蓝箭航天科创板IPO获受理",
@@ -389,8 +427,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 15时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 16时38分]"
         },
         {
           "title": "金风科技大涨超14%，蓝箭航天科创板IPO申请获受理",
@@ -421,17 +459,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
-          "url": "https://www.cls.cn/detail/2245979",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 07时27分]"
-        },
-        {
           "title": "马斯克称脑机设备今年启动“大规模生产” 植入方式也有关键进步",
           "url": "https://www.cls.cn/detail/2246232",
           "source": "财联社热门",
@@ -441,8 +468,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 16时38分]"
+        },
+        {
+          "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
+          "url": "https://www.cls.cn/detail/2245979",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时27分]"
         },
         {
           "title": "马斯克暗示将继续资助美国共和党",
@@ -472,8 +510,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 15时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 16时38分]"
         },
         {
           "title": "香港恒生科技指数涨超4%。恒生指数涨超2%。华虹半导体涨超10%，百度集团涨近9%，中芯国际涨超5%。",
@@ -481,11 +519,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 15时31分]"
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 16时38分]"
         },
         {
           "title": "恒生指数早盘涨2.18%，恒生科技指数涨3.38%。壁仞科技上市首日涨超72%；华虹半导体涨超9%，百度集团涨超7%，三花智控涨超6%，网易涨超5%，理想汽车涨超4%，中芯国际涨超4%，金风科技涨超17%，德林控股涨超14%。",
@@ -568,7 +607,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
