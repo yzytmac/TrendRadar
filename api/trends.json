@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T00:43:14.544075+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-01-16T01:39:24.766193+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -26,19 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普的医疗计划将要求企业公布被拒索赔的百分比，以及在索赔上支付的收入占管理费用的百分比。",
-          "url": "https://flash.jin10.com/detail/20260116002852870800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
         },
         {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
@@ -47,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         },
@@ -58,20 +47,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普的医疗计划将要求企业公布被拒索赔的百分比，以及在索赔上支付的收入占管理费用的百分比。",
+          "url": "https://flash.jin10.com/detail/20260116002852870800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时39分]"
         },
         {
           "title": "特朗普直播打瞌睡被小女孩发现",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%B4%E6%92%AD%E6%89%93%E7%9E%8C%E7%9D%A1%E8%A2%AB%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%8E%B0%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -81,8 +83,44 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
+        },
+        {
+          "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
+          "url": "https://wallstreetcn.com/livenews/3038125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "time_info": "[00时43分 ~ 01时39分]"
+        },
+        {
+          "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。 对美国公司和美国人来说，欧盟科技罚款都非常不公平。",
+          "url": "https://wallstreetcn.com/livenews/3038123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时39分]"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：（在面对特朗普吞并野心方面）格陵兰可以依靠欧盟。",
+          "url": "https://wallstreetcn.com/livenews/3038117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时39分]"
         },
         {
           "title": "美国白宫：美国总统特朗普的医疗保健计划将包括一项保险费用分摊削减计划。",
@@ -91,7 +129,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         },
@@ -102,7 +140,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         },
@@ -113,18 +151,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
-          "url": "https://wallstreetcn.com/livenews/3038125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         },
@@ -135,29 +162,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。 对美国公司和美国人来说，欧盟科技罚款都非常不公平。",
-          "url": "https://wallstreetcn.com/livenews/3038123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "欧盟委员会主席冯德莱恩：（在面对特朗普吞并野心方面）格陵兰可以依靠欧盟。",
-          "url": "https://wallstreetcn.com/livenews/3038117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         },
@@ -168,7 +173,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         },
@@ -179,7 +184,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         },
@@ -190,9 +195,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "特朗普发布“伟大医疗计划”：聚焦药价与透明度 大选前夕豪赌医改",
+          "url": "https://flash.jin10.com/detail/20260116004031147800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
@@ -201,9 +217,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普的医疗计划旨在针对药房福利管理机构的支付。",
+          "url": "https://flash.jin10.com/detail/20260116002858964800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         }
       ]
     },
@@ -216,11 +243,12 @@
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -230,8 +258,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
         },
         {
           "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
@@ -241,19 +269,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
         },
         {
           "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32388823",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
         },
         {
           "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
@@ -262,7 +291,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         }
@@ -280,19 +309,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
         },
         {
           "title": "【焦点复盘】创业板指低开高走涨0.56%，两市成交额跌破3万亿，半导体、算力硬件股卷土重来",
           "url": "https://www.cls.cn/detail/2259030",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
         },
         {
           "title": "报告：AI推动半导体行业营收在2026年首次突破1万亿美元",
@@ -301,7 +331,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         }
@@ -319,19 +349,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
         },
         {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
           "url": "https://www.cls.cn/detail/2258951",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
         }
       ]
     },
@@ -344,22 +375,41 @@
           "url": "https://www.zhihu.com/question/1993035109318796739",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
         },
         {
           "title": "全球人形机器人市场将迎爆发式增长 投资者如何抢先布局？一文剖析",
           "url": "https://www.cls.cn/detail/2258998",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芯片荒叠加贸易战 加拿大汽车业领跌",
+          "url": "https://flash.jin10.com/detail/20260116005114759800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         }
       ]
     },
@@ -374,7 +424,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         }
