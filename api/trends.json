@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T22:31:56.006255+08:00",
-  "total_titles_processed": 1991,
+  "generated_at": "2026-01-16T23:32:09.570161+08:00",
+  "total_titles_processed": 2071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 100,
+      "match_count": 103,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时43分 ~ 22时31分]"
+          "appearance_count": 13,
+          "time_info": "[14时43分 ~ 23时32分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -92,8 +92,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时05分 ~ 22时31分]"
+          "appearance_count": 14,
+          "time_info": "[12时05分 ~ 23时32分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -118,8 +118,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时39分 ~ 22时31分]"
+          "appearance_count": 10,
+          "time_info": "[16时39分 ~ 23时32分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -129,11 +129,24 @@
             18,
             17,
             15,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时34分 ~ 22时31分]"
+          "appearance_count": 9,
+          "time_info": "[17时34分 ~ 23时32分]"
+        },
+        {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时26分 ~ 23时32分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -145,6 +158,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时42分 ~ 04时34分]"
+        },
+        {
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时26分 ~ 23时32分]"
         },
         {
           "title": "美国正向中东增派包括航母在内的兵力，特朗普希望任何对伊朗的军事行动均为“快速、决定性打击”",
@@ -189,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "马查多“献诺奖”，特朗普“笑纳”，颁奖方尴尬",
+          "url": "https://wallstreetcn.com/livenews/3038897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美国白宫：特朗普提议的成本分摊计划可能使最常见的奥巴马医改计划保费降低逾10%。",
@@ -359,18 +397,6 @@
           "time_info": "[02时46分 ~ 04时34分]"
         },
         {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 22时31分]"
-        },
-        {
           "title": "“特朗普级”军舰造价或创美历史新高，高达220亿美元",
           "url": "https://wallstreetcn.com/livenews/3038447",
           "source": "华尔街见闻-快讯",
@@ -405,19 +431,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 22时31分]"
         },
         {
           "title": "特朗普直播打瞌睡被小女孩发现",
@@ -667,7 +680,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -722,7 +735,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -821,7 +834,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -914,6 +927,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "Vistra（VST）跌7.3%，星牌能源（CEG）跌6.9%。 美国总统特朗普推动通过电力拍卖，让数据中心承担飙涨的电力成本。",
+          "url": "https://wallstreetcn.com/livenews/3038883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国总统特朗普：希望降低保险费，并要求保险公司对成本负责。",
           "url": "https://flash.jin10.com/detail/20260116000715536800",
           "source": "金十数据",
@@ -997,7 +1021,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1074,7 +1098,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1107,7 +1131,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1123,13 +1147,24 @@
           "time_info": "21时44分"
         },
         {
+          "title": "特朗普政府或将签署一项遏制电价的协议，美国电力公司股价下跌，Talen能源(TLN.O)下跌8%，Vistra能源(VST.N)下跌6.9%，星座能源(CEG.O)下跌6.3%。",
+          "url": "https://flash.jin10.com/detail/20260116223126356800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "委内瑞拉反对派领导人马查多：委内瑞拉人“支持美国总统特朗普的行动”。",
           "url": "https://flash.jin10.com/detail/20260116214042937800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1159,7 +1194,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -1170,8 +1205,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时11分 ~ 22时31分]"
+          "appearance_count": 17,
+          "time_info": "[10时11分 ~ 23时32分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1247,6 +1282,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 05时29分]"
+        },
+        {
+          "title": "今天是A股站上4100点的第6天",
+          "url": "https://www.toutiao.com/trending/7595955025646456370/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "A股四连跌退守4100点是何信号",
@@ -1428,7 +1474,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1442,6 +1488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260116225402994800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。",
@@ -1483,9 +1540,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，半导体ETF涨1.97%，科技行业ETF涨0.89%，全球科技股指数ETF涨0.63%，能源业ETF、银行业ETF、网络股指数ETF等至多涨0.13%，医疗ETF跌0.27%，公用事业ETF跌0.96%。",
+          "url": "https://wallstreetcn.com/livenews/3038880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2026-01-16）",
@@ -1494,7 +1562,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1519,6 +1587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "美股开盘，道指涨54点、标普500指数涨0.18%、纳指涨0.4%。美光科技(MU.O)涨4.8%，其董事会成员Teyin Liu斥资约780万美元增持公司股份。诺和诺德(NVO.N)涨4.6%，英国监管机构批准以更高剂量的Wegovy治疗肥胖。纳斯达克中国金龙指数跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20260116223032607800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "A股碳化硅概念股震荡走强，三安光电、通富微电双双涨停，天岳先进此前20cm涨停，晶升股份涨超10%，晶盛机电、露笑科技等涨幅居前。",
@@ -1572,8 +1651,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时31分 ~ 23时32分]"
+        },
+        {
+          "title": "沪指险守4100点，两市ETF成交再创历史天量，电网设备走强，半导体产业链爆发，碳酸锂跌停",
+          "url": "https://wallstreetcn.com/articles/3763433",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[15时31分 ~ 22时31分]"
+          "time_info": "[17时34分 ~ 23时32分]"
         },
         {
           "title": "美国白宫宣布对特定半导体等加征25%关税",
@@ -1599,29 +1690,30 @@
           "time_info": "[00时42分 ~ 06时29分]"
         },
         {
-          "title": "沪指险守4100点，两市ETF成交再创历史天量，电网设备走强，半导体产业链爆发，碳酸锂跌停",
-          "url": "https://wallstreetcn.com/articles/3763433",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时34分 ~ 22时31分]"
-        },
-        {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
           "url": "https://www.cls.cn/detail/2260348",
           "source": "财联社热门",
           "ranks": [
             11,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时32分 ~ 22时31分]"
+          "appearance_count": 8,
+          "time_info": "[18时32分 ~ 23时32分]"
+        },
+        {
+          "title": "中国攻克半导体材料世界难题",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%94%BB%E5%85%8B%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E4%B8%96%E7%95%8C%E9%9A%BE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时31分 ~ 23时32分]"
         },
         {
           "title": "【数读IPO】国产半导体细分领域头部供应商今日申购",
@@ -1658,17 +1750,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
-        },
-        {
-          "title": "中国攻克半导体材料世界难题",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%94%BB%E5%85%8B%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E4%B8%96%E7%95%8C%E9%9A%BE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
         },
         {
           "title": "恒指高开0.64%，报27094.85点；恒生科技指数涨0.94%。商汤、阿里巴巴涨2%，比亚迪股份、中芯国际、华虹半导体等涨超1%。",
@@ -1841,8 +1922,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时32分 ~ 22时31分]"
+          "appearance_count": 15,
+          "time_info": "[13时32分 ~ 23时32分]"
         },
         {
           "title": "马斯克明确要每年生产1万艘星舰飞船 商业航天中长期成长空间巨大",
@@ -1895,7 +1976,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         }
@@ -2094,8 +2175,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 22时31分]"
+          "appearance_count": 7,
+          "time_info": "[10时11分 ~ 23时32分]"
         },
         {
           "title": "蜂云时代受邀赴工信部 探讨太空计算与新型算力产业布局",
