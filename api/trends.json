@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T15:31:48.144464+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-01-16T16:39:21.636122+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 82,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时11分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时11分 ~ 16时39分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时11分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时11分 ~ 16时39分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -61,8 +61,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时05分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[12时05分 ~ 16时39分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -74,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时28分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[07时28分 ~ 16时39分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -83,11 +83,23 @@
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时43分 ~ 16时39分]"
+        },
+        {
+          "title": "特朗普称“阻挠达成俄乌和平协议的人是泽连斯基”，泽连斯基表态",
+          "url": "https://wallstreetcn.com/livenews/3038633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -165,6 +177,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 16时39分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -324,18 +349,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 15时31分]"
         },
         {
           "title": "特朗普直播打瞌睡被小女孩发现",
@@ -744,6 +757,17 @@
           "time_info": "12时05分"
         },
         {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "声明显示：美国总统特朗普要求国会通过其医改方案。",
           "url": "https://flash.jin10.com/detail/20260116000730852800",
           "source": "金十数据",
@@ -923,7 +947,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -938,6 +962,18 @@
           "time_info": "[00时42分 ~ 07时28分]"
         },
         {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时11分 ~ 16时39分]"
+        },
+        {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
@@ -950,28 +986,17 @@
           "time_info": "[00时42分 ~ 06时29分]"
         },
         {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时11分 ~ 15时31分]"
-        },
-        {
           "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
           "url": "https://wallstreetcn.com/articles/3763340",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 15时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时42分 ~ 16时39分]"
         },
         {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
@@ -998,17 +1023,6 @@
           "time_info": "[00时42分 ~ 05时29分]"
         },
         {
-          "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，白银走V收复盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
           "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
           "url": "https://www.cls.cn/detail/2259861",
           "source": "财联社热门",
@@ -1018,8 +1032,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 16时39分]"
+        },
+        {
+          "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，白银走V收复盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "A股半导体板块午后持续走强，天岳先进20CM封板涨停，江波龙涨超10%，通富微电、德明利等跟涨。",
@@ -1114,6 +1139,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "广东清远：“十四五”期间新增A股上市企业数居粤东西北前列",
+          "url": "https://wallstreetcn.com/livenews/3038620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "航空业ETF收涨约2.3%，和半导体ETF领跑美股行业ETF，标普能源板块跌0.9%",
           "url": "https://wallstreetcn.com/livenews/3038225",
           "source": "华尔街见闻-快讯",
@@ -1123,6 +1159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌0.29%，恒生科技指数收跌0.11%。港股半导体股普涨，兆易创新涨超16%，华虹半导体涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3038614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "A股三大指数高开 换电等概念走强",
@@ -1147,6 +1194,17 @@
           "time_info": "12时05分"
         },
         {
+          "title": "A股四连跌退守4100点是何信号",
+          "url": "https://www.toutiao.com/trending/7595855444258590249/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "（美股）费城金银指数收涨0.36%，报394.75点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.18%，报2762.08点，也继续创收盘历史新高，北京时间22:30美股开盘之前主要维持微跌状态、持稳于2750点上方，之后跳水至2718.19点，03:24刷新日高至2775点上方。 （美股）原材料指数涨0.13%，报252.76点。 （美股）金属与矿业指数涨0.65%，报244.57点。",
           "url": "https://wallstreetcn.com/livenews/3038238",
           "source": "华尔街见闻-快讯",
@@ -1169,6 +1227,17 @@
           "time_info": "10时11分"
         },
         {
+          "title": "A股收盘：沪指险守4100点",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E9%99%A9%E5%AE%884100%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "A股碳化硅概念股震荡走强，三安光电、通富微电双双涨停，天岳先进此前20cm涨停，晶升股份涨超10%，晶盛机电、露笑科技等涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3038494",
           "source": "华尔街见闻-快讯",
@@ -1186,7 +1255,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1260,11 +1329,12 @@
           "url": "https://www.cls.cn/detail/2260120",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 16时39分]"
         },
         {
           "title": "创业板指涨超1%，沪指涨0.59%，深成指涨0.74%，电网设备、半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近4000只。",
@@ -1306,7 +1376,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1362,6 +1432,18 @@
           "time_info": "[10时11分 ~ 12时05分]"
         },
         {
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 16时39分]"
+        },
+        {
           "title": "美国政府批准向中国出口英伟达 H200 芯片，这对中国 AI 算力市场和国产芯片发展意味着什么？",
           "url": "https://www.zhihu.com/question/1994735533826471246",
           "source": "知乎",
@@ -1371,17 +1453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
-        },
-        {
-          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
-          "url": "https://www.cls.cn/detail/2259986",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
         },
         {
           "title": "花旗：台积电先进制程芯片供应或维持紧俏",
@@ -1429,11 +1500,12 @@
           "ranks": [
             14,
             16,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 16时39分]"
         },
         {
           "title": "马斯克明确要每年生产1万艘星舰飞船 商业航天中长期成长空间巨大",
@@ -1503,7 +1575,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1522,7 +1594,7 @@
     },
     {
       "keyword_group": "商业航天",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国航天科技集团：2026年要全力突破重复使用火箭技术，大力发展商业航天、低空经济等战新产业",
@@ -1557,12 +1629,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
+          "url": "https://www.cls.cn/detail/2259812",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     },
     {
       "keyword_group": "人形机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
@@ -1592,6 +1675,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时42分 ~ 03时31分]"
+        },
+        {
+          "title": "业内首例！数千小时人形机器人训练数据交付 智元机器人为采购方",
+          "url": "https://www.cls.cn/detail/2260010",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     },
@@ -1669,7 +1763,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
