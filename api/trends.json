@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-17T16:34:47.998512+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-01-17T17:27:55.338809+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
+        {
+          "title": "特朗普：这是卡尼该做的事，签协议是好事",
+          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时04分 ~ 17时27分]"
+        },
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
           "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
@@ -17,20 +29,36 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 16时34分]"
+          "appearance_count": 11,
+          "time_info": "[07时27分 ~ 17时27分]"
         },
         {
-          "title": "特朗普：这是卡尼该做的事，签协议是好事",
-          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
-          "source": "凤凰网",
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            4
+            7,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 16时34分]"
+          "appearance_count": 10,
+          "time_info": "[10时04分 ~ 17时27分]"
+        },
+        {
+          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
+          "url": "https://wallstreetcn.com/articles/3763493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时04分 ~ 17时27分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -45,19 +73,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时38分 ~ 13时27分]"
-        },
-        {
-          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 16时34分]"
         },
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
@@ -83,20 +98,6 @@
           "time_info": "[00时38分 ~ 07时27分]"
         },
         {
-          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
-          "url": "https://wallstreetcn.com/articles/3763493",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 16时34分]"
-        },
-        {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
           "url": "https://www.cls.cn/detail/2260948",
           "source": "财联社热门",
@@ -107,8 +108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 16时34分]"
+          "appearance_count": 10,
+          "time_info": "[10时04分 ~ 17时27分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -254,6 +255,19 @@
           "time_info": "[00时38分 ~ 01时31分]"
         },
         {
+          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 17时27分]"
+        },
+        {
           "title": "特朗普扬言接管格陵兰 俄罗斯回应：从国际法看非同寻常 将持续关注局势",
           "url": "https://www.cls.cn/detail/2260775",
           "source": "财联社热门",
@@ -303,18 +317,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 16时34分]"
         },
         {
           "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
@@ -610,6 +612,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://wallstreetcn.com/articles/3763499",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "特朗普关税案迎来关键窗口 1月20日或见分晓",
           "url": "https://flash.jin10.com/detail/20260117002346672800",
           "source": "金十数据",
@@ -660,9 +673,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "特朗普被曝2017年就想入侵委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7595827633294147635/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "美国明尼苏达州抗议持续 特朗普称局势“失控”",
@@ -778,7 +802,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -804,8 +828,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 16时34分]"
+          "appearance_count": 11,
+          "time_info": "[07时27分 ~ 17时27分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -818,8 +842,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 16时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 17时27分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -848,17 +872,6 @@
           "time_info": "[05时28分 ~ 10时05分]"
         },
         {
-          "title": "官媒：A股不要“疯牛”要“长牛”",
-          "url": "https://www.toutiao.com/trending/7595911602277793819/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
           "title": "网络股ETF收跌将近0.9%，领跌美股行业ETF，半导体ETF涨1%",
           "url": "https://wallstreetcn.com/livenews/3039017",
           "source": "华尔街见闻-快讯",
@@ -881,6 +894,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时28分 ~ 10时05分]"
+        },
+        {
+          "title": "官媒：A股不要“疯牛”要“长牛”",
+          "url": "https://www.toutiao.com/trending/7595911602277793819/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时27分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
@@ -917,6 +942,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "A股为何四连跌退守4100点",
+          "url": "https://www.toutiao.com/trending/7595882246855200306/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股盘中）",
@@ -966,8 +1002,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时58分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[11时58分 ~ 17时27分]"
         },
         {
           "title": "沪指险守4100点，两市ETF成交再创历史天量，电网设备走强，半导体产业链爆发，碳酸锂跌停",
@@ -1005,22 +1041,24 @@
             15,
             20,
             23,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 17时27分]"
         },
         {
           "title": "中国攻克半导体材料世界难题",
           "url": "https://www.toutiao.com/trending/7595717085641539620/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时27分]"
         },
         {
           "title": "本周，标普累跌0.2%，道指累跌0.2%，纳指累跌0.5%，半导体指数涨3.9%，科技股七巨头指数跌1.4%，华尔街大行拉开四季度业绩报告序幕之际，银行指数跌1.6%。 周五当天，标普500指数初步微幅收跌，房地产板块涨1.2%，科技板块涨0.2%，电信板块跌0.7%。 纳斯达克100指数初步微幅收跌，成分股中，核电股CEG跌9.6%，Atlassian跌6.4%，Applovin跌6.4%，Palantir跌3.3%，博通涨2.6%，吉利德科学涨3.1%，美光科技涨7.4%。 Salesforce初步收跌2.8%，联合健康、3M跌超2%，领跌道指成分股，苹果跌1%，微软涨0.7%，霍尼韦尔、美国运通、IBM涨超2%。 费城半导体指数涨1.1%，银行指数跌0.3%。",
@@ -1049,30 +1087,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 16时34分]"
-        },
-        {
-          "title": "中国芯片迎来最大IPO",
-          "url": "https://www.toutiao.com/trending/7596197374788111914/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 17时27分]"
         },
         {
           "title": "中国芯片制造核心装备取得重要突破",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BF%83%E8%A3%85%E5%A4%87%E5%8F%96%E5%BE%97%E9%87%8D%E8%A6%81%E7%AA%81%E7%A0%B4",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时27分]"
+        },
+        {
+          "title": "中国芯片迎来最大IPO",
+          "url": "https://www.toutiao.com/trending/7596197374788111914/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时27分]"
         },
         {
           "title": "据英国《金融时报》：英伟达(NVDA.O)供应商暂停H200芯片关键组件的生产。",
@@ -1090,6 +1130,21 @@
           "time_info": "[10时05分 ~ 14时39分]"
         },
         {
+          "title": "美国商务部长：韩国存储芯片企业若不在美国投资，可能面临高达100%的关税",
+          "url": "https://wallstreetcn.com/livenews/3039083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            14,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 17时27分]"
+        },
+        {
           "title": "美商务部长：若韩企不增加对美投资，将面临100%的芯片关税",
           "url": "https://flash.jin10.com/detail/20260117115345531800",
           "source": "金十数据",
@@ -1098,20 +1153,6 @@
             11,
             19,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 16时34分]"
-        },
-        {
-          "title": "美国商务部长：韩国存储芯片企业若不在美国投资，可能面临高达100%的关税",
-          "url": "https://wallstreetcn.com/livenews/3039083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            14,
-            18
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -1161,6 +1202,19 @@
           "time_info": "[00时38分 ~ 07时27分]"
         },
         {
+          "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
+          "url": "https://wallstreetcn.com/articles/3763508",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 17时27分]"
+        },
+        {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
           "url": "https://wallstreetcn.com/livenews/3039069",
           "source": "华尔街见闻-快讯",
@@ -1175,18 +1229,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时05分 ~ 15时26分]"
-        },
-        {
-          "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
-          "url": "https://wallstreetcn.com/articles/3763508",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 16时34分]"
         }
       ]
     },
@@ -1206,8 +1248,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时39分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[12时39分 ~ 17时27分]"
         },
         {
           "title": "商业航天企业中科宇航完成上市辅导",
@@ -1219,33 +1261,36 @@
             14,
             19,
             22,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 17时27分]"
         },
         {
           "title": "商业航天企业中科宇航完成上市辅导",
           "url": "https://flash.jin10.com/detail/20260117155020536800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时27分]"
         },
         {
           "title": "2026年民营商业航天火箭发射首战告捷",
           "url": "https://www.toutiao.com/trending/7595634973274128425/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时27分]"
         }
       ]
     },
@@ -1279,8 +1324,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 16时34分]"
+          "appearance_count": 10,
+          "time_info": "[10时04分 ~ 17时27分]"
         }
       ]
     },
