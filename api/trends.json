@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-01-24T07:28:40.183134+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-01-24T10:07:04.029104+08:00",
+  "total_titles_processed": 727,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
+          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时07分]"
+        },
+        {
+          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
+          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时07分]"
+        },
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
           "url": "https://news.ifeng.com/c/8q9KkztYYLL",
@@ -30,28 +52,6 @@
           "time_info": "[00时39分 ~ 07时28分]"
         },
         {
-          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
-          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时28分]"
-        },
-        {
-          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
-          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时28分]"
-        },
-        {
           "title": "中方回应特朗普称将于4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
@@ -59,11 +59,12 @@
             5,
             3,
             18,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 10时07分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -73,8 +74,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时07分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -88,8 +89,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时07分]"
         },
         {
           "title": "加州州长怒批特朗普的腐败和贪污",
@@ -111,9 +112,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
+          "url": "https://wallstreetcn.com/livenews/3043204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
+          "url": "https://flash.jin10.com/detail/20260124093450741800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
+          "url": "https://flash.jin10.com/detail/20260124090807365800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
@@ -198,6 +232,18 @@
           "time_info": "[04时34分 ~ 07时28分]"
         },
         {
+          "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448273",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 10时07分]"
+        },
+        {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
           "url": "https://wallstreetcn.com/livenews/3043143",
           "source": "华尔街见闻-快讯",
@@ -208,6 +254,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时28分]"
+        },
+        {
+          "title": "报道：特朗普要求格陵兰全面放开军事限制",
+          "url": "https://wallstreetcn.com/articles/3764043",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
         },
         {
           "title": "瑞士财长：瑞士政府目前尚未能够就特朗普的“和平委员会”事宜展开讨论，不过可能会出现一些法律和政治方面的障碍。",
@@ -222,6 +279,28 @@
           "time_info": "[00时39分 ~ 01时31分]"
         },
         {
+          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
+        },
+        {
+          "title": "特朗普卡尼“口水仗”升级",
+          "url": "https://www.toutiao.com/trending/7597980626083610630/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
+        },
+        {
           "title": "欧洲军工股普遍收涨。 捷克国防企业捷克奥斯洛伐克集团（CSG）荷兰阿姆斯特丹上市首日收涨31.4%，报32.85欧元，此前给出的IPO发行价为每股25欧元。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨2.20%，本周累计下跌1.96%，整体持续走低，投资者关注美国总统特朗普对格陵兰问题的态度。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.46%，本周累跌0.86%。",
           "url": "https://wallstreetcn.com/livenews/3043069",
           "source": "华尔街见闻-快讯",
@@ -233,21 +312,76 @@
           "time_info": "[02时43分 ~ 03时30分]"
         },
         {
-          "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448273",
-          "source": "澎湃新闻",
+          "title": "英首相说特朗普言论极具侮辱性",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%A6%96%E7%9B%B8%E8%AF%B4%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AE%BA%E6%9E%81%E5%85%B7%E4%BE%AE%E8%BE%B1%E6%80%A7%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
+        },
+        {
+          "title": "卢拉批评特朗普：试图组建所谓“和平委员会”取代联合国",
+          "url": "https://wallstreetcn.com/livenews/3043195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "10时07分"
+        },
+        {
+          "title": "斯塔默要求特朗普道歉，白宫回应",
+          "url": "https://wallstreetcn.com/livenews/3043194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
+          "url": "https://flash.jin10.com/detail/20260124082538327800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
+          "url": "https://wallstreetcn.com/livenews/3043186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "特朗普：万斯将于2月前往阿塞拜疆和亚美尼亚。 感谢亚美尼亚和阿塞拜疆领导人达成和平协议。 美国将加强与亚美尼亚的核合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3043175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "一图看懂 | A股掀起“商业航天热”，开年产业重要信息全梳理",
@@ -273,6 +407,18 @@
           "time_info": "[00时39分 ~ 04时34分]"
         },
         {
+          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 10时07分]"
+        },
+        {
           "title": "Sable Offshore（SOC）美股下跌13%。",
           "url": "https://flash.jin10.com/detail/20260124023319046800",
           "source": "金十数据",
@@ -285,26 +431,27 @@
           "time_info": "[03时30分 ~ 07时28分]"
         },
         {
-          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
           "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
           "url": "https://wallstreetcn.com/livenews/3043162",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
+          "url": "https://www.cls.cn/detail/2268496",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 10时07分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报434.46点，本周累上涨9.99%，整体持续走高。 （全球时段）纽约证交所ARCA金矿开采商指数涨2.38%，报3039.09点，本周累涨10.09%。 （美股）原材料指数收涨1.26%，报265.28点，本周累涨5.18%。 （美股）金属与矿业指数收涨1.91%，报252.45点，本周累涨4.36%。",
@@ -379,17 +526,6 @@
           "time_info": "[06时25分 ~ 07时28分]"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
-          "url": "https://www.cls.cn/detail/2268496",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
           "title": "美股银矿股上涨，Hecla Mining上涨1.3%，Coeur Mining上涨0.3%，ABRDN实物白银股票ETF上涨4%，Global X白银矿业ETF上涨1.8%，iShares白银信托上涨4%。",
           "url": "https://flash.jin10.com/detail/20260124001040870800",
           "source": "金十数据",
@@ -399,12 +535,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "港股开年回购超110亿港元",
+          "url": "https://wallstreetcn.com/livenews/3043181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
@@ -416,6 +563,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时39分 ~ 07时28分]"
+        },
+        {
+          "title": "马斯克“钦定”太空光伏：3年100GW，最优能源方案，效率5倍碾压",
+          "url": "https://wallstreetcn.com/premium/articles/3764000?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
         }
       ]
     },
@@ -437,6 +595,23 @@
       ]
     },
     {
+      "keyword_group": "科创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多只省级社保科创基金完成备案，耐心资本加速“奔赴”科技创新",
+          "url": "https://wallstreetcn.com/livenews/3043183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储",
       "match_count": 1,
       "titles": [
@@ -449,8 +624,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时07分]"
         }
       ]
     },
@@ -464,11 +639,46 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宇树、智元竞逐出货量第一背后：2026人形机器人迎规模化应用“大考”",
+          "url": "https://www.cls.cn/detail/2268349",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中微公司",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中微公司预计2025年净利润同比增长约28.74%至34.93%，刻蚀与薄膜设备驱动营收增长超36%| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764036",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
         }
       ]
     },
@@ -482,11 +692,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时07分]"
         }
       ]
     },
@@ -501,11 +712,12 @@
           "ranks": [
             16,
             20,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时07分]"
         }
       ]
     },
