@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T10:27:38.300929+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-01-26T12:21:02.460286+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 10时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时21分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
@@ -65,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 10时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时21分]"
         },
         {
           "title": "10亿美元一席！特朗普任“主席”",
@@ -145,6 +145,28 @@
           "time_info": "[00时34分 ~ 06时28分]"
         },
         {
+          "title": "一天过去，特朗普从愤怒变成“非常难过”",
+          "url": "https://news.ifeng.com/c/8qDlBtHaTST",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 12时21分]"
+        },
+        {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 12时21分]"
+        },
+        {
           "title": "市场消息：俄罗斯副外长里亚布科夫证实，特朗普已收到访俄邀请。",
           "url": "https://flash.jin10.com/detail/20260125223326726800",
           "source": "金十数据",
@@ -194,28 +216,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 05时26分]"
-        },
-        {
-          "title": "一天过去，特朗普从愤怒变成“非常难过”",
-          "url": "https://news.ifeng.com/c/8qDlBtHaTST",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "特朗普称现在阻止白宫宴会厅建设“为时已晚”",
@@ -320,7 +320,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -331,7 +331,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
@@ -339,7 +339,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
@@ -408,13 +408,35 @@
           "time_info": "[00时34分 ~ 06时28分]"
         },
         {
+          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 12时21分]"
+        },
+        {
+          "title": "A股2月有望再度迎来核心做多窗口？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2268929",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 12时21分]"
+        },
+        {
           "title": "A股三大指数集体翻绿，创业板指跌近1%。",
           "url": "https://wallstreetcn.com/livenews/3043556",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -425,68 +447,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "太火爆！商业航天投资人不够用了",
-          "url": "https://www.cls.cn/detail/2268916",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4,
-            3
-          ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 10时27分]"
-        },
-        {
-          "title": "商业航天抢滩2026：蓝箭航天、星河动力、中科宇航三大总工程师同台披露最新时间表",
-          "url": "https://www.cls.cn/detail/2268972",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
         {
-          "title": "商业航天所有卡脖子技术均已攻克，这个行业就要爆发",
-          "url": "https://news.ifeng.com/c/8qDpqsMYzoQ",
-          "source": "凤凰网",
+          "title": "A股大金融板块集体走强，财通证券冲击涨停，兴业证券、新华保险、中国太保、宁波银行涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3043612",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "太火爆！商业航天投资人不够用了",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AA%E7%81%AB%E7%88%86%EF%BC%81%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%8A%95%E8%B5%84%E4%BA%BA%E4%B8%8D%E5%A4%9F%E7%94%A8%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "12时21分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "爱芯元智半导体股份有限公司通过港交所聆讯",
@@ -514,15 +494,82 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
+          "title": "金十图示：2026年01月26日（周一）富时中国A50指数成分股午盘收盘行情一览：银行、保险、证券、石油等板块普涨，半导体、酿酒板块集体走低",
+          "url": "https://flash.jin10.com/detail/20260126113454943800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "创业板指跌超1%，沪指跌0.2%，深成指跌0.81%，半导体芯片、商业航天、机器人、AI应用等方向跌幅居前，沪深京三市下跌个股近4000只。",
           "url": "https://wallstreetcn.com/livenews/3043566",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "太火爆！商业航天投资人不够用了",
+          "url": "https://www.cls.cn/detail/2268916",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时21分]"
+        },
+        {
+          "title": "商业航天抢滩2026：蓝箭航天、星河动力、中科宇航三大总工程师同台披露最新时间表",
+          "url": "https://www.cls.cn/detail/2268972",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 12时21分]"
+        },
+        {
+          "title": "商业航天所有卡脖子技术均已攻克，这个行业就要爆发",
+          "url": "https://news.ifeng.com/c/8qDpqsMYzoQ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 12时21分]"
+        },
+        {
+          "title": "太火爆！商业航天投资人不够用了",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AA%E7%81%AB%E7%88%86%EF%BC%81%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%8A%95%E8%B5%84%E4%BA%BA%E4%B8%8D%E5%A4%9F%E7%94%A8%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 12时21分]"
         }
       ]
     },
@@ -548,11 +595,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 10时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时21分]"
         },
         {
           "title": "开启存储下一个大机会！韩媒详解黄仁勋“神秘推理上下文内存平台”",
@@ -560,11 +608,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 07时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 12时21分]"
         }
       ]
     },
@@ -582,19 +631,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 10时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时21分]"
         },
         {
           "title": "未来三年存储业务有望实现持续增长 存储芯片概念股单日涨近19% 本周机构密集调研相关上市公司",
           "url": "https://www.cls.cn/detail/2268967",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 12时21分]"
         }
       ]
     },
@@ -610,8 +660,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 10时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时21分]"
         },
         {
           "title": "中国卫星技术全球顶流",
@@ -625,6 +675,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时31分 ~ 06时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数早盘收报4141.01点，涨0.12%。 深证成指早盘收报14332.86点，跌0.74%。 创业板指早盘收报3320.81点，跌0.86%。 沪深300早盘收报4715.12点，涨0.27%。 科创50早盘收报1538.21点，跌1.00%。 中证500早盘收报8522.32点，跌0.79%。 中证1000早盘收报8365.64点，跌1.24%。",
+          "url": "https://wallstreetcn.com/livenews/3043644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         }
       ]
     },
@@ -656,7 +723,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
