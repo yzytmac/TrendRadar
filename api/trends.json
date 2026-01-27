@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-01-28T00:39:11.556920+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-28T01:35:34.388056+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美国总统特朗普：（谈美联储）希望利率下降。",
+          "url": "https://flash.jin10.com/detail/20260128010825738800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美国总统特朗普：与叙利亚总统进行了精彩对话。",
+          "url": "https://flash.jin10.com/detail/20260128010748956800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时35分]"
+        },
+        {
+          "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
+          "url": "https://wallstreetcn.com/livenews/3044866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：纽约市价值 172 亿美元的隧道项目因特朗普政府在去年十月暂停拨款而面临风险。",
+          "url": "https://flash.jin10.com/detail/20260127232506292800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "波音(BA.N)首席执行官：特朗普政府理解商业航空航天产业对美国经济的重要性。",
+          "url": "https://flash.jin10.com/detail/20260128002342619800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股 a股 港股",
       "match_count": 5,
@@ -15,8 +87,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时35分]"
         },
         {
           "title": "美股部分中概股走势强劲",
@@ -25,7 +97,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -36,7 +108,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -48,8 +120,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时35分]"
         },
         {
           "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
@@ -59,47 +131,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
-        },
-        {
-          "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
-          "url": "https://wallstreetcn.com/livenews/3044866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "美国参议院少数党领袖舒默：纽约市价值 172 亿美元的隧道项目因特朗普政府在去年十月暂停拨款而面临风险。",
-          "url": "https://flash.jin10.com/detail/20260127232506292800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时35分]"
         }
       ]
     },
@@ -112,11 +145,12 @@
           "url": "https://www.cls.cn/detail/2271239",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时35分]"
         },
         {
           "title": "时隔6年首次易主！白酒股均价遭半导体反超，3成标的近期回撤超一成",
@@ -126,8 +160,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时35分]"
         }
       ]
     },
@@ -143,19 +177,37 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时35分]"
         },
         {
           "title": "业内：存储器芯片短缺将持续到明年",
           "url": "https://www.toutiao.com/trending/7599830367638437897/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Pilot Travel Centers（伯克希尔哈撒韦附属公司）与马斯克旗下特斯拉公司达成合作伙伴关系协议。 特斯拉将帮助Pilot在美国加利福尼亚、弗吉尼亚、内华达、新墨西哥、以及得克萨斯等州打造重型电动半拖车充电网络。",
+          "url": "https://wallstreetcn.com/livenews/3044876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
         }
       ]
     },
@@ -171,8 +223,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时35分]"
         }
       ]
     }
