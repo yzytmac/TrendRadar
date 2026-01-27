@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T22:38:03.860518+08:00",
-  "total_titles_processed": 1968,
+  "generated_at": "2026-01-27T23:37:18.810731+08:00",
+  "total_titles_processed": 2062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -73,11 +73,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时29分 ~ 22时38分]"
+          "appearance_count": 19,
+          "time_info": "[07时29分 ~ 23时37分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -130,6 +131,18 @@
           "time_info": "[14时46分 ~ 21时04分]"
         },
         {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时40分 ~ 23时37分]"
+        },
+        {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
@@ -139,18 +152,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 05时31分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 22时38分]"
         },
         {
           "title": "特朗普：提高对韩国多种商品关税税率至25%",
@@ -636,7 +637,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -724,7 +725,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -768,9 +769,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
+        },
+        {
+          "title": "市场消息：特朗普政府因委内瑞拉海岸附近一起船只袭击事件造成两人死亡而遭起诉。",
+          "url": "https://flash.jin10.com/detail/20260127225034479800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "民调显示特朗普移民政策支持率创其本届任期内新低",
@@ -790,7 +802,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         }
@@ -798,7 +810,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -809,8 +821,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时30分 ~ 22时38分]"
+          "appearance_count": 21,
+          "time_info": "[06时30分 ~ 23时37分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -854,7 +866,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -876,7 +888,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -965,6 +977,18 @@
           "time_info": "[18时36分 ~ 21时04分]"
         },
         {
+          "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
+          "url": "https://www.cls.cn/detail/2271670",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时37分 ~ 23时37分]"
+        },
+        {
           "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
           "url": "https://flash.jin10.com/detail/20260127060902912800",
           "source": "金十数据",
@@ -1023,17 +1047,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时31分]"
-        },
-        {
-          "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
-          "url": "https://www.cls.cn/detail/2271670",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
         },
         {
           "title": "A股商业航天板块短线拉升，盛路通信涨停，航宇微涨超10%，三角防务、欧科亿、鼎通科技涨幅居前。",
@@ -1278,13 +1291,24 @@
           "time_info": "21时04分"
         },
         {
+          "title": "行业ETF美股盘初多数上涨，半导体ETF涨1.23%，全球科技股指数ETF涨1.2%，科技行业ETF涨1.07%，网络股指数ETF涨0.8%，银行业ETF涨0.38%，医疗业ETF跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "康宁美股盘前涨8.5%，报道：Meta准备向康宁公司支付高达60亿美元用于购买光纤电缆",
           "url": "https://wallstreetcn.com/livenews/3044789",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -1339,11 +1363,12 @@
             10,
             11,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 22时38分]"
+          "appearance_count": 8,
+          "time_info": "[17时40分 ~ 23时37分]"
         },
         {
           "title": "时隔6年首次易主！白酒股均价遭半导体反超，3成标的近期回撤超一成",
@@ -1352,11 +1377,12 @@
           "ranks": [
             11,
             12,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 22时38分]"
+          "appearance_count": 8,
+          "time_info": "[17时40分 ~ 23时37分]"
         },
         {
           "title": "盈新发展：拟以5.2亿元收购长兴半导体60%股权",
@@ -1433,6 +1459,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "中微半导、国科微部分芯片涨价",
+          "url": "https://www.cls.cn/detail/2271491",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时04分 ~ 23时37分]"
+        },
+        {
           "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
           "url": "https://www.cls.cn/detail/2270449",
           "source": "财联社热门",
@@ -1443,18 +1482,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时29分 ~ 12时12分]"
-        },
-        {
-          "title": "中微半导、国科微部分芯片涨价",
-          "url": "https://www.cls.cn/detail/2271491",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时04分 ~ 22时38分]"
         },
         {
           "title": "微软发布第二代AI芯片Maia 200 ，希望降低对英伟达的依赖",
@@ -1528,8 +1555,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 22时38分]"
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 23时37分]"
         },
         {
           "title": "上证指数早盘收报4134.03点，涨0.03%。 深证成指早盘收报14262.96点，跌0.37%。 创业板指早盘收报3333.91点，涨0.44%。 沪深300早盘收报4720.86点，涨0.30%。 科创50早盘收报1541.52点，涨0.57%。 中证500早盘收报8449.83点，跌0.67%。 中证1000早盘收报8273.26点，跌1.10%。",
