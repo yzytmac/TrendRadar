@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T13:35:00.366403+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-01-27T14:47:08.050156+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -17,6 +17,52 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时42分 ~ 07时30分]"
+        },
+        {
+          "title": "特朗普：提高对韩国关税",
+          "url": "https://news.ifeng.com/c/8qFDsemU0yq",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 14时47分]"
+        },
+        {
+          "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
+          "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 14时47分]"
+        },
+        {
+          "title": "韩国人还在睡梦中，特朗普突然下手了",
+          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 14时47分]"
+        },
+        {
+          "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
+          "url": "https://www.cls.cn/detail/2270513",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 14时47分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -43,38 +89,29 @@
           "time_info": "[00时42分 ~ 12时12分]"
         },
         {
-          "title": "特朗普：提高对韩国关税",
-          "url": "https://news.ifeng.com/c/8qFDsemU0yq",
-          "source": "凤凰网",
+          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
+          "url": "https://www.cls.cn/detail/2270546",
+          "source": "财联社热门",
           "ranks": [
-            1,
+            6,
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 13时35分]"
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 14时47分]"
         },
         {
-          "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
-          "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
-          "source": "凤凰网",
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 13时35分]"
-        },
-        {
-          "title": "韩国人还在睡梦中，特朗普突然下手了",
-          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 13时35分]"
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 14时47分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -88,39 +125,16 @@
           "time_info": "[00时42分 ~ 05时31分]"
         },
         {
-          "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
-          "url": "https://www.cls.cn/detail/2270513",
+          "title": "特朗普：提高对韩国多种商品关税税率至25%",
+          "url": "https://www.cls.cn/detail/2270499",
           "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 13时35分]"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时29分 ~ 13时35分]"
-        },
-        {
-          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
-          "url": "https://www.cls.cn/detail/2270546",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 13时35分]"
+          "time_info": "[10时24分 ~ 14时47分]"
         },
         {
           "title": "韩总统府称将围绕特朗普加关税一事开会研究对策",
@@ -154,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "无视特朗普关税威胁 韩股收盘首破5000点创新高",
+          "url": "https://flash.jin10.com/detail/20260127143735189800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
@@ -277,18 +302,6 @@
           "time_info": "[06时31分 ~ 07时30分]"
         },
         {
-          "title": "特朗普：提高对韩国多种商品关税税率至25%",
-          "url": "https://www.cls.cn/detail/2270499",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 13时35分]"
-        },
-        {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元持股将多达16%",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
@@ -408,6 +421,17 @@
           "time_info": "[06时31分 ~ 07时30分]"
         },
         {
+          "title": "韩国人还在睡梦中特朗普突然下手",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
+        },
+        {
           "title": "美国白宫：总统特朗普将于周二前往艾奥瓦州就经济发表演讲。",
           "url": "https://flash.jin10.com/detail/20260127023746619800",
           "source": "金十数据",
@@ -430,6 +454,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时30分 ~ 04时35分]"
+        },
+        {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
         },
         {
           "title": "美国白宫：总统特朗普在周一与沃尔兹（明尼苏达州州长）的通话中概述了恢复秩序的路径；如果实施这些措施，将不再需要海关和边境巡逻队。总统特朗普呼吁国会通过立法，废除“庇护城市”政策。",
@@ -517,7 +552,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -679,8 +714,19 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时30分 ~ 14时47分]"
+        },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
           "url": "https://wallstreetcn.com/articles/3764111",
@@ -691,17 +737,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 05时31分]"
-        },
-        {
-          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时30分 ~ 13时35分]"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -726,17 +761,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时29分 ~ 13时35分]"
-        },
-        {
-          "title": "A股大飞机板块持续拉升，航发控制、航发科技涨停，图南股份涨超10%，航亚科技、航发动力、国机精工、飞沃科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3044467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
         },
         {
           "title": "行业景气度回暖叠加政策利好，逾50家生物医药A股公司2025年业绩预盈",
@@ -786,6 +810,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时30分]"
+        },
+        {
+          "title": "A股大飞机板块持续拉升，航发控制、航发科技涨停，图南股份涨超10%，航亚科技、航发动力、国机精工、飞沃科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3044467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 14时47分]"
         },
         {
           "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
@@ -842,7 +878,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -853,7 +889,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -891,6 +927,28 @@
           "time_info": "06时31分"
         },
         {
+          "title": "A股算力概念股震荡回升，宏景科技20cm涨停，云赛智联触及涨停，协创数据、世纪恒通、奥飞数据、润建股份、并行科技、青云科技冲高。",
+          "url": "https://wallstreetcn.com/livenews/3044489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "A股半导体产业链拉升，华天科技反包涨停，华虹公司涨超6%，此前东芯股份、康强电子涨停，明微电子、盛科通信、普冉股份、国民技术、兴福电子等多股涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3044484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "联合健康美股盘后跳水超9%，CVS跌超10%，投资者关注与医疗保健费率相关的报道。",
           "url": "https://wallstreetcn.com/livenews/3044203",
           "source": "华尔街见闻-快讯",
@@ -900,6 +958,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "A股三大指数午后集体翻红，创业板指涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3044477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨将近3%，Meta涨2%，特斯拉跌约3.1%",
@@ -990,8 +1059,20 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "半导体景气蔓延？业内预测：春节后设计环节涨价态势或明朗",
+          "url": "https://www.cls.cn/detail/2270783",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 14时47分]"
+        },
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
           "url": "https://wallstreetcn.com/livenews/3044110",
@@ -1005,17 +1086,6 @@
           "time_info": "[00时42分 ~ 01时37分]"
         },
         {
-          "title": "半导体景气蔓延？业内预测：春节后设计环节涨价态势或明朗",
-          "url": "https://www.cls.cn/detail/2270783",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 13时35分]"
-        },
-        {
           "title": "金十图示：2026年01月27日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、保险、半导体等板块普涨，酿酒、煤炭等板块表现低迷",
           "url": "https://flash.jin10.com/detail/20260127113511899800",
           "source": "金十数据",
@@ -1025,6 +1095,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "创业板指涨超1%，早盘一度跌超1%，沪指涨0.29%，深成指涨0.09%，半导体芯片、培育钻石、商业航天、光伏设备等方向领涨，沪深京三市上涨个股超1800只。",
+          "url": "https://wallstreetcn.com/livenews/3044480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上证指数早盘收报4134.03点，涨0.03%。 深证成指早盘收报14262.96点，跌0.37%。 创业板指早盘收报3333.91点，涨0.44%。 沪深300早盘收报4720.86点，涨0.30%。 科创50早盘收报1541.52点，涨0.57%。 中证500早盘收报8449.83点，跌0.67%。 中证1000早盘收报8273.26点，跌1.10%。",
+          "url": "https://wallstreetcn.com/livenews/3044419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "上证指数开盘报4125.22点，跌0.18%。 深证成指开盘报14283.78点，跌0.23%。 创业板指开盘报3316.02点，跌0.09%。 沪深300开盘报4705.17点，跌0.04%。 科创50开盘报1530.07点，跌0.18%。 中证500开盘报8464.65点，跌0.49%。 中证1000开盘报8325.43点，跌0.48%。",
+          "url": "https://wallstreetcn.com/livenews/3044313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "科创50指数涨幅扩大至1%，现报1548.66点。",
+          "url": "https://wallstreetcn.com/livenews/3044471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
@@ -1053,8 +1173,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 13时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 14时47分]"
         },
         {
           "title": "海南国际商业航天发射公司发布多份采购公告 拟采购发射任务氦气、液氧液氮、液态甲烷",
@@ -1112,34 +1232,6 @@
       ]
     },
     {
-      "keyword_group": "科创",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上证指数早盘收报4134.03点，涨0.03%。 深证成指早盘收报14262.96点，跌0.37%。 创业板指早盘收报3333.91点，涨0.44%。 沪深300早盘收报4720.86点，涨0.30%。 科创50早盘收报1541.52点，涨0.57%。 中证500早盘收报8449.83点，跌0.67%。 中证1000早盘收报8273.26点，跌1.10%。",
-          "url": "https://wallstreetcn.com/livenews/3044419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "上证指数开盘报4125.22点，跌0.18%。 深证成指开盘报14283.78点，跌0.23%。 创业板指开盘报3316.02点，跌0.09%。 沪深300开盘报4705.17点，跌0.04%。 科创50开盘报1530.07点，跌0.18%。 中证500开盘报8464.65点，跌0.49%。 中证1000开盘报8325.43点，跌0.48%。",
-          "url": "https://wallstreetcn.com/livenews/3044313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "有色金属",
       "match_count": 1,
       "titles": [
@@ -1171,6 +1263,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华虹公司",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华虹公司午后涨超8%，股价再创历史新高，总市值突破2000亿。",
+          "url": "https://wallstreetcn.com/livenews/3044493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     }
