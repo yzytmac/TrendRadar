@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T04:39:11.469562+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-01-30T05:35:47.685594+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 05时35分]"
         },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -26,19 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 04时39分]"
-        },
-        {
-          "title": "新西兰总理：拒绝加入美国总统特朗普所谓“和平委员会”的邀请。",
-          "url": "https://wallstreetcn.com/livenews/3046673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 05时35分]"
         },
         {
           "title": "美国总统特朗普：与礼来制药老板对话。",
@@ -89,6 +78,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 04时39分]"
+        },
+        {
+          "title": "新西兰总理：拒绝加入美国总统特朗普所谓“和平委员会”的邀请。",
+          "url": "https://wallstreetcn.com/livenews/3046673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时35分]"
         },
         {
           "title": "美国总统特朗普：下周将宣布美联储主席人选。",
@@ -389,7 +390,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -650,7 +651,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -660,8 +661,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 05时35分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -671,8 +672,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 05时35分]"
         },
         {
           "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
@@ -698,6 +699,39 @@
           "time_info": "00时53分"
         },
         {
+          "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3046680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260130050645865800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260130050643601800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "加密货币市场在美股开盘前后加速下跌",
           "url": "https://wallstreetcn.com/livenews/3046613",
           "source": "华尔街见闻-快讯",
@@ -709,6 +743,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "Robinhood(HOOD.O)美股盘后涨3%。",
+          "url": "https://flash.jin10.com/detail/20260130050229767800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260130013040868800",
           "source": "金十数据",
@@ -718,6 +763,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美国考虑利用美股经纪商Robinhood为儿童设立“特朗普账户”。",
+          "url": "https://flash.jin10.com/detail/20260130050156352800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 微软跌近10%",
+          "url": "https://flash.jin10.com/detail/20260130050123427800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
@@ -744,8 +811,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 05时35分]"
         },
         {
           "title": "沪指震荡收涨，白酒爆发、贵州茅台涨逾8%，地产大涨，恒科指跌1%，芯片调整，沪金银铜飙升",
@@ -756,8 +823,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 05时35分]"
         }
       ]
     },
@@ -773,8 +840,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 05时35分]"
         }
       ]
     },
@@ -790,8 +857,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 05时35分]"
         }
       ]
     },
@@ -805,11 +872,12 @@
           "source": "微博",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时57分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[02时57分 ~ 05时35分]"
         }
       ]
     }
