@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T07:33:17.445718+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-01-29T10:36:11.646656+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -60,11 +60,12 @@
           "ranks": [
             12,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 07时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 10时36分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
@@ -75,11 +76,34 @@
             6,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 07时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 10时36分]"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
+        },
+        {
+          "title": "据华尔街日报：法官暂时禁止美国总统特朗普政府拘留明尼苏达州难民。",
+          "url": "https://flash.jin10.com/detail/20260129103233843800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "美国财长贝森特接受CBS新闻采访，为总统特朗普的司法部刑事调查美联储主席鲍威尔一事“辩护”。 贝森特声称：美联储的独立性不等于“无需担责”。",
@@ -154,6 +178,17 @@
           "time_info": "[00时48分 ~ 01时39分]"
         },
         {
+          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
+          "url": "https://www.cls.cn/detail/2273332",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
+        },
+        {
           "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
           "url": "https://flash.jin10.com/detail/20260129002349346800",
           "source": "金十数据",
@@ -176,6 +211,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时47分]"
+        },
+        {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上讲话：（在获得捐款后）赞赏戴尔科技。",
@@ -259,6 +305,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时32分 ~ 07时33分]"
+        },
+        {
+          "title": "如何看待特朗普宣布对韩国加征关税",
+          "url": "https://www.toutiao.com/trending/7600378750789845033/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
         },
         {
           "title": "特朗普政府将召集高管，讨论加密货币立法。 白宫将于下周一会见银行业高管和加密货币行业高管。（路透）",
@@ -415,6 +472,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "韩国产业部：韩国产业部长将访问美国，商讨美国总统特朗普提高对韩国商品关税的问题。",
+          "url": "https://flash.jin10.com/detail/20260129100419679800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
           "title": "美国财长贝森特：在飞机上与总统特朗普长时间谈论美联储主席。 美联储主席候选人的规模没有变化（既没有增加、也没有减少）。 现在仍然还有四位候选人。 我不会推荐美联储主席，只是（向特朗普）提供建议而已。",
           "url": "https://wallstreetcn.com/livenews/3045676",
           "source": "华尔街见闻-快讯",
@@ -429,7 +497,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -454,8 +522,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 07时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 10时36分]"
+        },
+        {
+          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
+          "url": "https://www.cls.cn/detail/2273407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时32分 ~ 10时36分]"
         },
         {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
@@ -497,7 +577,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -523,17 +603,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时35分]"
-        },
-        {
-          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
-          "url": "https://www.cls.cn/detail/2273407",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 07时33分]"
         },
         {
           "title": "瑞银：美联储仍将成为美股的顺风因素",
@@ -567,6 +636,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "A股三大指数集体翻绿，沪深京三市下跌个股超2500只。",
+          "url": "https://wallstreetcn.com/livenews/3046011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股收盘）",
@@ -619,7 +699,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -641,7 +721,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -714,7 +794,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -725,7 +805,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -736,7 +816,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -747,7 +827,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -758,7 +838,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -769,7 +849,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -780,7 +860,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -791,7 +871,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -802,7 +882,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -813,7 +893,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -824,7 +904,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         }
@@ -832,7 +912,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "深圳：鼓励智能家居企业加快适配国产操作系统和芯片",
@@ -865,7 +945,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -876,7 +956,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -887,7 +967,69 @@
           "ranks": [
             16
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "三星电子：代工业务计划于2029年量产1.4纳米芯片。",
+          "url": "https://flash.jin10.com/detail/20260129100729089800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "三星：泰勒芯片厂有望于2026年投产。",
+          "url": "https://wallstreetcn.com/livenews/3045986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
+          "url": "https://wallstreetcn.com/livenews/3045838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时35分]"
+        },
+        {
+          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
+          "url": "https://wallstreetcn.com/livenews/3046012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "特斯拉将停产Model S和X，将美国Fremont工厂的生产线转至制造人形机器人Optimus。",
+          "url": "https://wallstreetcn.com/livenews/3045875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         }
@@ -933,8 +1075,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 07时33分]"
+          "appearance_count": 4,
+          "time_info": "[07时32分 ~ 10时36分]"
         },
         {
           "title": "存储需求强劲推动订单翻倍、上调2026年增长指引，阿斯麦四季度业绩炸裂，股价大涨10%一度触及停牌 |见闻财报",
@@ -947,35 +1089,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时35分 ~ 07时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
-          "url": "https://wallstreetcn.com/livenews/3045838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时35分]"
-        },
-        {
-          "title": "特斯拉将停产Model S和X，将美国Fremont工厂的生产线转至制造人形机器人Optimus。",
-          "url": "https://wallstreetcn.com/livenews/3045875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时33分"
         }
       ]
     },
