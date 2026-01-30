@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T12:46:36.389558+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-01-30T13:53:57.237546+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 85,
       "titles": [
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -31,6 +31,30 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 05时35分]"
+        },
+        {
+          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
+          "url": "https://wallstreetcn.com/articles/3764534",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时53分]"
+        },
+        {
+          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
+          "url": "https://www.cls.cn/detail/2275048",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时53分]"
         },
         {
           "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
@@ -63,7 +87,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -79,28 +103,6 @@
           "time_info": "07时34分"
         },
         {
-          "title": "美国白宫：美国总统特朗普将于美国东部时间周五下午2点（北京时间次日凌晨3点）参加一场政策会议。",
-          "url": "https://flash.jin10.com/detail/20260130123023173800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
-          "url": "https://wallstreetcn.com/articles/3764534",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
           "title": "美国总统特朗普：我正与国会紧密合作，以确保我们能够及时为政府提供充足资金，毫不拖延。",
           "url": "https://flash.jin10.com/detail/20260130071202348800",
           "source": "金十数据",
@@ -110,17 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
-          "url": "https://www.cls.cn/detail/2275048",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
         },
         {
           "title": "特朗普与前美联储理事沃什会面",
@@ -244,6 +235,18 @@
           "time_info": "[01时43分 ~ 02时58分]"
         },
         {
+          "title": "美国白宫：美国总统特朗普将于美国东部时间周五下午2点（北京时间次日凌晨3点）参加一场政策会议。",
+          "url": "https://flash.jin10.com/detail/20260130123023173800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时53分]"
+        },
+        {
           "title": "墨西哥总统辛鲍姆：我们（墨西哥方面/墨方和美国总统特朗普）的目标是，尽快与加拿大总理卡尼通电话。",
           "url": "https://wallstreetcn.com/livenews/3046594",
           "source": "华尔街见闻-快讯",
@@ -292,6 +295,39 @@
           "time_info": "[03时36分 ~ 04时39分]"
         },
         {
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 13时53分]"
+        },
+        {
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 13时53分]"
+        },
+        {
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 13时53分]"
+        },
+        {
           "title": "特朗普：普京同意停火一周，以便乌方渡过严寒",
           "url": "https://wallstreetcn.com/livenews/3046644",
           "source": "华尔街见闻-快讯",
@@ -303,6 +339,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时58分 ~ 04时39分]"
+        },
+        {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 13时53分]"
         },
         {
           "title": "美国总统特朗普声称：将索马里海盗列入“类似贩毒船只”清单。",
@@ -329,17 +376,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时58分 ~ 04时39分]"
-        },
-        {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 12时46分]"
         },
         {
           "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
@@ -376,17 +412,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时58分]"
-        },
-        {
-          "title": "特朗普：计划30日公布美联储下任主席提名",
-          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 12时46分]"
         },
         {
           "title": "美国总统特朗普：我们将开始打击陆路入境的毒品，你们很快就会看到。",
@@ -449,17 +474,6 @@
           "time_info": "[02时58分 ~ 03时36分]"
         },
         {
-          "title": "特朗普宣布国家紧急状态",
-          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 12时46分]"
-        },
-        {
           "title": "特朗普：普京同意停火一周",
           "url": "https://flash.jin10.com/detail/20260130011030336800",
           "source": "金十数据",
@@ -520,17 +534,6 @@
           "time_info": "[02时58分 ~ 03时36分]"
         },
         {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 12时46分]"
-        },
-        {
           "title": "美国总统特朗普：不想让房价下跌，将推高现存房主的住宅价值。",
           "url": "https://flash.jin10.com/detail/20260130013218508800",
           "source": "金十数据",
@@ -566,6 +569,17 @@
           "time_info": "04时39分"
         },
         {
+          "title": "特朗普今夜将签署行政令并出席政策会议 是否涉及美联储新主席提名未明",
+          "url": "https://flash.jin10.com/detail/20260130130553138800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "在特朗普宣布与古巴相关的贸易威胁后，现货黄金突破5430美元/盎司，日内涨1.17%。",
           "url": "https://flash.jin10.com/detail/20260130070435032800",
           "source": "金十数据",
@@ -586,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "美国白宫官员：美国总统特朗普并未暗示美国会取消对在役加拿大制造飞机的认证。",
+          "url": "https://flash.jin10.com/detail/20260130130036264800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -742,6 +767,17 @@
           "time_info": "10时36分"
         },
         {
+          "title": "美国白宫：美国总统特朗普将于美国东部时间周五上午11点（北京时间周六零点）签署行政命令。",
+          "url": "https://flash.jin10.com/detail/20260130123131643800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "特朗普最新回应美军机南海坠毁",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -803,7 +839,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -935,7 +971,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -954,7 +990,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -988,8 +1024,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 12时46分]"
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 13时53分]"
         },
         {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
@@ -1000,8 +1036,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 12时46分]"
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 13时53分]"
         },
         {
           "title": "苹果股价美股盘后出现两波冲高回落行情，目前涨超0.9%。 业绩报告披露后，CEO库克和CFO正参与分析师电话会议。",
@@ -1038,6 +1074,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "A股液冷服务器概念震荡走强，科创新源20cm涨停，淳中科技、英维克、捷邦科技、飞荣达、飞龙股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3047004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3046680",
           "source": "华尔街见闻-快讯",
@@ -1049,6 +1096,17 @@
           "time_info": "05时35分"
         },
         {
+          "title": "A股机器人概念股午后震荡拉升，天奇股份、百达精工涨停，欧科亿涨超10%，华依科技、卡倍亿、绿的谐波跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3047001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260130050645865800",
           "source": "金十数据",
@@ -1058,6 +1116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "A股算力硬件股午后持续走高，杰普特、致尚科技20cm涨停，天孚通信大涨14%创历史新高，新易盛、罗博特科、德科立涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3046999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股收盘）",
@@ -1162,7 +1231,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "沪指震荡收涨，白酒爆发、贵州茅台涨逾8%，地产大涨，恒科指跌1%，芯片调整，沪金银铜飙升",
@@ -1176,8 +1245,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时52分 ~ 12时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 13时53分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -1219,9 +1288,70 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "北京君正：公司存储芯片、计算芯片部分产品陆续调价",
+          "url": "https://wallstreetcn.com/livenews/3046986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美联储决议无新意，希捷飙升引领存储板块大涨，黄金涨破5400，纽银涨10%，油价四个月新高",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 06时38分]"
+        },
+        {
+          "title": "存储大厂喜报连连！闪迪业绩、指引双超预期 盘后股价大涨15%",
+          "url": "https://www.cls.cn/detail/2274996",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时53分]"
+        },
+        {
+          "title": "苹果被问及是否会因为存储成本上涨而涨价，CEO库克称自己不希望（外界）臆测。",
+          "url": "https://wallstreetcn.com/livenews/3046732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "“存储荒”将愈演愈烈？行业人士敦促消费者抢先购买手机、电脑",
+          "url": "https://www.cls.cn/detail/2275179",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     },
@@ -1259,46 +1389,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美联储决议无新意，希捷飙升引领存储板块大涨，黄金涨破5400，纽银涨10%，油价四个月新高",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时38分]"
-        },
-        {
-          "title": "苹果被问及是否会因为存储成本上涨而涨价，CEO库克称自己不希望（外界）臆测。",
-          "url": "https://wallstreetcn.com/livenews/3046732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "存储大厂喜报连连！闪迪业绩、指引双超预期 盘后股价大涨15%",
-          "url": "https://www.cls.cn/detail/2274996",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时46分"
         }
@@ -1334,27 +1425,20 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 1,
+      "keyword_group": "有色金属",
+      "match_count": 2,
       "titles": [
         {
-          "title": "据知情人士透露，马斯克旗下SpaceX考虑与特斯拉合并，或者与xAI合并。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3046720",
-          "source": "华尔街见闻-快讯",
+          "title": "创业板V型反弹涨0.8%，算力硬件逆势反弹，有色金属集体大跌，黄金股跌停，恒科指跌超1%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3764538",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            21
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "有色金属",
-      "match_count": 1,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
         {
           "title": "有色金属多股跌停",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E%E5%A4%9A%E8%82%A1%E8%B7%8C%E5%81%9C%23&t=31&band_rank=12&Refer=top",
@@ -1370,7 +1454,7 @@
     },
     {
       "keyword_group": "紫金矿业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "紫金矿业创始人泪洒现场",
@@ -1384,6 +1468,35 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时57分 ~ 07时34分]"
+        },
+        {
+          "title": "据悉紫金矿业(02899.HK)15亿美元可换债券发行在10分钟内获得足额认购。",
+          "url": "https://flash.jin10.com/detail/20260130134100344800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据知情人士透露，马斯克旗下SpaceX考虑与特斯拉合并，或者与xAI合并。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3046720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时34分]"
         }
       ]
     },
