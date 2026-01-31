@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T21:02:22.531805+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-01-31T22:32:12.817040+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
@@ -27,11 +27,12 @@
           "ranks": [
             3,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时50分 ~ 21时02分]"
+          "appearance_count": 26,
+          "time_info": "[00时50分 ~ 22时32分]"
         },
         {
           "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
@@ -85,6 +86,21 @@
           "time_info": "[00时50分 ~ 15时35分]"
         },
         {
+          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
+          "url": "https://www.cls.cn/detail/2276487",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[14时50分 ~ 22时32分]"
+        },
+        {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
           "url": "https://wallstreetcn.com/premium/articles/3764615?layout=wscn-layout",
           "source": "华尔街见闻",
@@ -94,22 +110,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时31分 ~ 21时02分]"
-        },
-        {
-          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
-          "url": "https://www.cls.cn/detail/2276487",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时50分 ~ 21时02分]"
+          "appearance_count": 16,
+          "time_info": "[10时31分 ~ 22时32分]"
         },
         {
           "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
@@ -144,8 +146,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时39分 ~ 21时02分]"
+          "appearance_count": 15,
+          "time_info": "[12时39分 ~ 22时32分]"
         },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
@@ -199,8 +201,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时33分 ~ 21时02分]"
+          "appearance_count": 19,
+          "time_info": "[06时33分 ~ 22时32分]"
         },
         {
           "title": "特朗普：提名凯文·沃什出任美联储主席",
@@ -242,6 +244,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时50分 ~ 06时34分]"
+        },
+        {
+          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
+          "url": "https://wallstreetcn.com/articles/3764621",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时39分 ~ 22时32分]"
         },
         {
           "title": "特朗普驱赶ABC记者",
@@ -294,18 +308,6 @@
           "time_info": "[00时50分 ~ 04时39分]"
         },
         {
-          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
-          "url": "https://wallstreetcn.com/articles/3764621",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 21时02分]"
-        },
-        {
           "title": "观察丨美伊开打风险在回落？专家：特朗普虚实难辨，威胁与对话并存",
           "url": "https://m.thepaper.cn/newsDetail_forward_32502341",
           "source": "澎湃新闻",
@@ -317,6 +319,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时34分 ~ 18时33分]"
+        },
+        {
+          "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
+          "url": "https://wallstreetcn.com/livenews/3047706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "美国总统特朗普：向伊朗派遣军舰，如果达不成协议会发生什么，就拭目以待了。",
@@ -367,6 +380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "特朗普：明尼苏达州州长要么是腐败之人，要么能力不足",
+          "url": "https://flash.jin10.com/detail/20260131213021035800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "美国总统特朗普将于十分钟后出席一场政策会议。",
@@ -470,6 +494,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时35分]"
+        },
+        {
+          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
+          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 22时32分]"
         },
         {
           "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
@@ -583,17 +618,6 @@
           "time_info": "[01时40分 ~ 02时54分]"
         },
         {
-          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
-          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 21时02分]"
-        },
-        {
           "title": "美国参议院民主党领导人Schumer：如果总统特朗普对美联储继续“仇深似海”（vendetta），参议院就不可以推动他的美联储主席提名人沃什的确认程序。",
           "url": "https://wallstreetcn.com/livenews/3047544",
           "source": "华尔街见闻-快讯",
@@ -628,6 +652,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时39分]"
+        },
+        {
+          "title": "斯塔默反问特朗普不是也想来中国吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%AF%E5%A1%94%E9%BB%98%E5%8F%8D%E9%97%AE%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%98%AF%E4%B9%9F%E6%83%B3%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%90%97%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "特朗普又破防了",
@@ -775,8 +810,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时31分 ~ 21时02分]"
+          "appearance_count": 16,
+          "time_info": "[10时31分 ~ 22时32分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -813,8 +848,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时31分 ~ 21时02分]"
+          "appearance_count": 16,
+          "time_info": "[10时31分 ~ 22时32分]"
         },
         {
           "title": "鹰派预期抬升，美股指齐跌，闪迪冲高回落仍涨7%，商品遭遇黑色星期五，地缘风险撑原油收涨",
@@ -878,6 +913,18 @@
           "time_info": "[05时35分 ~ 07时33分]"
         },
         {
+          "title": "应声20CM涨停！A股年报行情纵深推进，11家上市公司净利最高同比预增超10倍",
+          "url": "https://www.cls.cn/detail/2276497",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 22时32分]"
+        },
+        {
           "title": "美股三大指数飘绿 黄金白银深夜暴跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%A3%98%E7%BB%BF+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%B7%B1%E5%A4%9C%E6%9A%B4%E8%B7%8C",
           "source": "百度热搜",
@@ -914,17 +961,6 @@
           "time_info": "[06时34分 ~ 07时33分]"
         },
         {
-          "title": "应声20CM涨停！A股年报行情纵深推进，11家上市公司净利最高同比预增超10倍",
-          "url": "https://www.cls.cn/detail/2276497",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "A股1月收官走出“深V”行情",
           "url": "https://www.toutiao.com/trending/7601039362419212330/",
           "source": "今日头条",
@@ -950,8 +986,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时31分 ~ 21时02分]"
+          "appearance_count": 16,
+          "time_info": "[10时31分 ~ 22时32分]"
         },
         {
           "title": "马斯克称曾多次拒绝爱泼斯坦的邀约",
@@ -971,22 +1007,24 @@
           "url": "https://news.ifeng.com/c/8qMn5bUH1gz",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 22时32分]"
         },
         {
           "title": "美司法部公布文件爆“马斯克曾协调个人日程试图前往爱泼斯坦小岛”，马斯克最新回应",
           "url": "https://wallstreetcn.com/livenews/3047683",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时32分]"
         }
       ]
     },
@@ -1017,8 +1055,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时50分 ~ 21时02分]"
+          "appearance_count": 12,
+          "time_info": "[14时50分 ~ 22时32分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨超1%，算力硬件股集体爆发，资源类周期股批量跌停",
@@ -1109,6 +1147,23 @@
       ]
     },
     {
+      "keyword_group": "芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "北京经济技术开发区：推进数模混合、存算一体等芯片架构研发创新 延伸场景定义芯片、行业专用芯片、使能软件等产业链条",
+          "url": "https://wallstreetcn.com/livenews/3047698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人形机器人",
       "match_count": 1,
       "titles": [
@@ -1139,8 +1194,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时50分 ~ 21时02分]"
+          "appearance_count": 26,
+          "time_info": "[00时50分 ~ 22时32分]"
         }
       ]
     },
