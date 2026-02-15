@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T16:34:46.323557+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-02-15T17:32:52.157191+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -67,6 +67,17 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
+          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
+          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时54分 ~ 17时32分]"
+        },
+        {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8A%E9%87%8D%E4%B8%AD%E6%96%B9+%E6%9C%89%E4%BA%BA%E6%83%B3%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -103,15 +114,15 @@
           "time_info": "[00时30分 ~ 03时25分]"
         },
         {
-          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
-          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
+          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
+          "url": "https://news.ifeng.com/c/8qlaP330gp4",
           "source": "凤凰网",
           "ranks": [
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 16时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -119,11 +130,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时55分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[14时55分 ~ 17时32分]"
         },
         {
           "title": "曝特朗普发涉种族主义视频被批后发怒",
@@ -147,30 +159,32 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时34分]"
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 17时32分]"
         },
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
           "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时32分]"
         },
         {
           "title": "奥巴马回应被特朗普恶搞成猴",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%B4%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时32分]"
         },
         {
           "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
@@ -182,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://www.toutiao.com/trending/7606703474663063593/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         }
       ]
     },
@@ -210,11 +235,12 @@
             12,
             13,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 17时32分]"
         },
         {
           "title": "马斯克预言：2026年底编程或将全面自动化",
@@ -223,11 +249,12 @@
           "ranks": [
             2,
             12,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 16时34分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 17时32分]"
         },
         {
           "title": "马斯克：Grok 4.20版本将于下周发布。相较于4.1版本，此次更新将带来显著改进。",
@@ -235,11 +262,24 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时55分 ~ 17时32分]"
+        },
+        {
+          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
+          "url": "https://flash.jin10.com/detail/20260215144532247800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时55分 ~ 16时34分]"
+          "time_info": "[15时39分 ~ 17时32分]"
         },
         {
           "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
@@ -252,17 +292,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 13时57分]"
-        },
-        {
-          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
-          "url": "https://flash.jin10.com/detail/20260215144532247800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时34分]"
         },
         {
           "title": "马斯克：擎天柱机器人从明年开始将改变人类生活",
@@ -323,8 +352,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 16时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 17时32分]"
         },
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
@@ -350,8 +379,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 16时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 17时32分]"
         }
       ]
     },
@@ -369,8 +398,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 16时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 17时32分]"
         }
       ]
     },
