@@ -1,715 +1,106 @@
 {
-  "generated_at": "2026-02-16T23:41:29.265544+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-02-17T00:44:05.822284+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 21,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
           "url": "https://wallstreetcn.com/articles/3765773",
           "source": "华尔街见闻",
           "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时55分 ~ 23时41分]"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
-          "url": "https://flash.jin10.com/detail/20260215215525567800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
-          "url": "https://wallstreetcn.com/articles/3765769",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时55分 ~ 21时04分]"
-        },
-        {
-          "title": "港股有色金属板块多数走强，洛阳钼业(03993.HK)涨约7%，灵宝黄金(03330.HK)涨超6%、 中国有色矿业(01258.HK)、山东黄金(01787.HK)涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260216095943602800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "港股内房股多数下跌，融创中国(01918.HK)、万科企业(02202.HK)跌近5%，绿城中国(03900.HK)、越秀地产(00123.HK)跌约2%。",
-          "url": "https://flash.jin10.com/detail/20260216095440838800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "美团港股一度跌破80港元",
-          "url": "https://flash.jin10.com/detail/20260216132717058800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
-          "title": "蛇年最后一个交易日港股收涨，MINIMAX-WP涨24.56%",
-          "url": "https://wallstreetcn.com/livenews/3055679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时59分 ~ 17时55分]"
-        },
-        {
-          "title": "MiniMax发布HighSpeed Coding Plan 股价创2026年港股单价纪录",
-          "url": "https://flash.jin10.com/detail/20260216162220696800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 18时52分]"
-        },
-        {
-          "title": "港股半导体板块全线爆发",
-          "url": "https://www.toutiao.com/trending/7607019178361290778/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 17时55分]"
-        },
-        {
-          "title": "港股三大指数均收涨",
-          "url": "https://www.douyin.com/hot/2402867",
-          "source": "抖音",
-          "ranks": [
-            17,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 19时41分]"
-        },
-        {
-          "title": "洛阳钼业港股涨幅扩大至7%，老铺黄金港股涨5.55%，此前获纳入恒生指数成份股。",
-          "url": "https://wallstreetcn.com/livenews/3055662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 15时55分]"
-        },
-        {
-          "title": "蛇年收官战港股收涨，有色板块拉升，MINIMAX-WP暴涨24%、智谱涨4.74%齐创新高",
-          "url": "https://wallstreetcn.com/articles/3765773",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时10分 ~ 14时11分]"
-        },
-        {
-          "title": "港股蛇年收官：恒指低开高收 存储概念及有色金属板块涨幅居前",
-          "url": "https://flash.jin10.com/detail/20260216122521694800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时11分]"
-        },
-        {
-          "title": "港股今日半日市随后休市三日",
-          "url": "https://www.toutiao.com/trending/7606597212106178601/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 14时11分]"
-        },
-        {
-          "title": "蛇年最后一个交易日，港股低开，恒生指数翻红，智谱涨7.6%股价创新高，MINIMAX-WP涨10%",
-          "url": "https://wallstreetcn.com/articles/3765773",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "time_info": "[00时43分 ~ 00时44分]"
         },
         {
           "title": "提醒：美股今日因假期休市一天。",
           "url": "https://wallstreetcn.com/livenews/3055774",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "港股AI应用股走强，阜博集团（03738.HK）领涨14.38%、海致科技集团（02706.HK）涨12.1%、智谱(02513.HK)涨超7%、阅文集团(00772.HK)涨2.53%。",
-          "url": "https://flash.jin10.com/detail/20260216092812837800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "00时44分"
         },
         {
           "title": "美股今日休市一天",
           "url": "https://flash.jin10.com/detail/20260216222506509800",
           "source": "金十数据",
           "ranks": [
-            14
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "蛇年最后一个交易日，港股低开高走，恒指收涨0.52%，科指收涨0.13%。存储概念及有色金属板块走强，澜起科技（06809.HK）收涨14.05%，兆易创新(03986.HK)涨9.78%；此外，受将被纳入恒生指数的消息带动，宁德时代(03750.HK)收涨2.71%，老铺黄金(06181.HK)涨6.64%，洛阳钼业(03993.HK)涨6.35%。（注：受春节假期影响，今日港股仅交易半日，下午休市）",
-          "url": "https://flash.jin10.com/detail/20260216121136127800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "港股开盘，恒指开跌0.25%，科指跌0.19%。新加入的恒指成分股宁德时代(03750.HK)涨超1%，阿里巴巴(09988.HK)跌1.8%。",
-          "url": "https://flash.jin10.com/detail/20260216092312833800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-02-16）",
-          "url": "https://flash.jin10.com/detail/20260216091418679800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "00时44分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 2,
       "titles": [
         {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 10时08分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 10时08分]"
-        },
-        {
-          "title": "奥巴马回应被特朗普恶搞成猿猴",
-          "url": "https://www.douyin.com/hot/2401829",
-          "source": "抖音",
-          "ranks": [
-            25,
-            24,
-            5,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时37分 ~ 07时27分]"
-        },
-        {
-          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
-          "url": "https://news.ifeng.com/c/8qlaP330gp4",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时26分]"
-        },
-        {
-          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
-          "url": "https://flash.jin10.com/detail/20260215212555860800",
+          "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
+          "url": "https://flash.jin10.com/detail/20260216235622274800",
           "source": "金十数据",
           "ranks": [
-            11,
-            20,
-            26
+            4
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
-          "url": "https://flash.jin10.com/detail/20260215211009575800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 16时49分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
-          "url": "https://flash.jin10.com/detail/20260215183847434800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时28分]"
-        },
-        {
-          "title": "市场消息：据报道，特朗普政府最高制裁官员约翰·赫尔利即将卸任负责恐怖主义和金融情报的副部长一职，原因是他与财政部长斯科特·贝森特关系紧张，目前正在讨论他可能出任大使一职。",
-          "url": "https://flash.jin10.com/detail/20260216044651803800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普或支持以色列打击伊朗",
-          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 14时11分]"
-        },
-        {
-          "title": "消息人士：特朗普曾支持以打击伊朗弹道导弹 美军已就协助方案进行讨论",
-          "url": "https://flash.jin10.com/detail/20260216044347034800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时27分]"
-        },
-        {
-          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
-          "url": "https://flash.jin10.com/detail/20260216191824464800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 21时04分]"
-        },
-        {
-          "title": "特朗普签令决定对向古巴提供石油的国家采取关税措施，俄大使：完全疯狂",
-          "url": "https://wallstreetcn.com/livenews/3055714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 21时04分]"
-        },
-        {
-          "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
-          "url": "https://flash.jin10.com/detail/20260216042836136800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时27分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国总统特朗普和匈牙利总理欧尔班有着非常亲密的个人关系，这对双边关系大有裨益。",
-          "url": "https://flash.jin10.com/detail/20260216191100927800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 21时04分]"
-        },
-        {
-          "title": "涉特朗普政府政策，希拉里与捷克副总理上演言语冲突",
-          "url": "https://flash.jin10.com/detail/20260216131526064800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时11分"
+          "time_info": "00时44分"
         },
         {
-          "title": "匈牙利总理欧尔班：自美国总统特朗普上台以来，美匈关系中不存在任何冲突点。",
-          "url": "https://flash.jin10.com/detail/20260216192059299800",
+          "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
+          "url": "https://flash.jin10.com/detail/20260216234427683800",
           "source": "金十数据",
           "ranks": [
-            15
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：如果匈牙利遇到麻烦，特朗普会考虑帮助欧尔班。",
-          "url": "https://flash.jin10.com/detail/20260216185958619800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "美国国务卿卢比奥：与匈牙利的关系极为紧密。 我们不想把任何和平协议强加于乌克兰。 如果匈牙利出现任何金融困难，美国总统唐纳德·特朗普将准备好提供协助。",
-          "url": "https://wallstreetcn.com/livenews/3055729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国总统特朗普坚定致力于你们（匈牙利总理欧尔班）的成功。",
-          "url": "https://flash.jin10.com/detail/20260216185813326800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "00时44分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
           "url": "https://www.cls.cn/detail/2290650",
           "source": "财联社热门",
           "ranks": [
-            12,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时27分 ~ 23时41分]"
-        },
-        {
-          "title": "马斯克：星链“很快”将在地球之外运行",
-          "url": "https://wallstreetcn.com/livenews/3055727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时41分 ~ 21时04分]"
-        },
-        {
-          "title": "马斯克：我的“净资产”几乎完全来自我在特斯拉和SpaceX的股份",
-          "url": "https://flash.jin10.com/detail/20260216062745335800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "马斯克：星链服务太棒了。无论在地球何处，都能提供超高带宽和超低延迟。而且很快它就能不仅局限于地球。",
-          "url": "https://flash.jin10.com/detail/20260216155403584800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "[00时43分 ~ 00时44分]"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
-          "url": "https://wallstreetcn.com/articles/3765760",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 17时55分]"
-        },
         {
           "title": "存储芯片，走向失控",
           "url": "https://wallstreetcn.com/articles/3765777",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时49分 ~ 23时41分]"
-        },
-        {
-          "title": "如何看待字节跳动也开始做 AI 芯片？",
-          "url": "https://www.zhihu.com/question/397296807",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            13,
-            12,
-            11,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时55分 ~ 22时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "智谱：全球范围内对GLM-5的需求激增，全网寻找“算力合伙人”",
-          "url": "https://wallstreetcn.com/livenews/3055686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 18时52分]"
-        },
-        {
-          "title": "智谱：因全球范围内对GLM-5的需求激增 全网寻找“算力合伙人”",
-          "url": "https://flash.jin10.com/detail/20260216140321167800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "低空经济",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "低空经济“飞进”春晚：峰飞航空全球首个eVTOL水上机场亮相",
-          "url": "https://wallstreetcn.com/livenews/3055762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时42分 ~ 23时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "有色金属",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "LME有色金属库存日报",
-          "url": "https://flash.jin10.com/detail/20260216170111092800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 18时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宇树人形机器人化身孙悟空，身披战袍威风十足",
-          "url": "https://wallstreetcn.com/livenews/3055761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时42分 ~ 23时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "宁德时代",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宁德时代(03750.HK)盘初涨幅扩大至3.0%，下月初将正式加入香港恒生指数成份股。",
-          "url": "https://flash.jin10.com/detail/20260216093828340800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "[00时43分 ~ 00时44分]"
         }
       ]
     }
