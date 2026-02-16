@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T05:29:38.195801+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-02-17T06:29:44.355655+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[03时33分 ~ 06时29分]"
         },
         {
           "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
@@ -172,13 +173,24 @@
           "time_info": "[03时33分 ~ 04时32分]"
         },
         {
+          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
           "url": "https://flash.jin10.com/detail/20260217040455048800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
@@ -197,8 +209,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时29分]"
         },
         {
           "title": "提醒：美股今日因假期休市一天。",
@@ -237,8 +249,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时29分]"
         },
         {
           "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
@@ -246,17 +258,18 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[03时33分 ~ 06时29分]"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "存储芯片，走向失控",
@@ -266,8 +279,36 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时29分]"
+        },
+        {
+          "title": "全球领先的金属和电子产品回收商Sims：AI驱动的DDR5芯片迁移正制约DDR4芯片供应。",
+          "url": "https://flash.jin10.com/detail/20260217052828769800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色金属",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球领先的金属和电子产品回收商Sims：预计有色金属市场将保持强劲，关税预计将继续支撑美国黑色和有色金属的需求。",
+          "url": "https://flash.jin10.com/detail/20260217052846924800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         }
       ]
     },
@@ -280,11 +321,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8C%96%E8%BA%AB%E5%AD%99%E6%82%9F%E7%A9%BA",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 05时29分]"
+          "appearance_count": 6,
+          "time_info": "[01时38分 ~ 06时29分]"
         }
       ]
     }
