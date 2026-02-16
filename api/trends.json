@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T06:29:44.355655+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-02-17T07:30:51.907894+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             11,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 07时30分]"
         },
         {
           "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
@@ -149,6 +150,18 @@
           "time_info": "[00时44分 ~ 01时38分]"
         },
         {
+          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时30分]"
+        },
+        {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
           "url": "https://flash.jin10.com/detail/20260217002446619800",
           "source": "金十数据",
@@ -171,17 +184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时33分 ~ 04时32分]"
-        },
-        {
-          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         },
         {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
@@ -209,8 +211,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时30分]"
         },
         {
           "title": "提醒：美股今日因假期休市一天。",
@@ -249,8 +251,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时30分]"
         },
         {
           "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
@@ -259,11 +261,12 @@
           "ranks": [
             4,
             14,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 07时30分]"
         }
       ]
     },
@@ -279,19 +282,50 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时30分]"
         },
         {
           "title": "全球领先的金属和电子产品回收商Sims：AI驱动的DDR5芯片迁移正制约DDR4芯片供应。",
           "url": "https://flash.jin10.com/detail/20260217052828769800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "宇树人形机器人化身孙悟空",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8C%96%E8%BA%AB%E5%AD%99%E6%82%9F%E7%A9%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 07时30分]"
+        },
+        {
+          "title": "这个春节，人形机器人正在实现“能演亦能干”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32618240",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "07时30分"
         }
       ]
     },
@@ -304,29 +338,12 @@
           "url": "https://flash.jin10.com/detail/20260217052846924800",
           "source": "金十数据",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宇树人形机器人化身孙悟空",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8C%96%E8%BA%AB%E5%AD%99%E6%82%9F%E7%A9%BA",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            17
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 06时29分]"
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时30分]"
         }
       ]
     }
