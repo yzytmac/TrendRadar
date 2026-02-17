@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-17T07:30:51.907894+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-02-17T10:06:09.262486+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "特朗普：将间接参与美伊谈判",
+          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3055826",
@@ -113,6 +124,18 @@
           "time_info": "[02时43分 ~ 05时29分]"
         },
         {
+          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 10时06分]"
+        },
+        {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3055802",
           "source": "华尔街见闻-快讯",
@@ -150,18 +173,6 @@
           "time_info": "[00时44分 ~ 01时38分]"
         },
         {
-          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时30分]"
-        },
-        {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
           "url": "https://flash.jin10.com/detail/20260217002446619800",
           "source": "金十数据",
@@ -186,6 +197,28 @@
           "time_info": "[03时33分 ~ 04时32分]"
         },
         {
+          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
+          "url": "https://wallstreetcn.com/livenews/3055862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "特朗普称他将间接参与美国和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3055860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
           "url": "https://flash.jin10.com/detail/20260217040455048800",
           "source": "金十数据",
@@ -200,7 +233,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -211,8 +244,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 10时06分]"
+        },
+        {
+          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
+          "url": "https://wallstreetcn.com/articles/3765796",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
+          "url": "https://wallstreetcn.com/articles/3765781",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "今年已有143家企业递表港股IPO",
+          "url": "https://wallstreetcn.com/livenews/3055863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "提醒：美股今日因假期休市一天。",
@@ -240,7 +306,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -251,8 +317,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 10时06分]"
         },
         {
           "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
@@ -267,6 +333,70 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时33分 ~ 07时30分]"
+        },
+        {
+          "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
+          "url": "https://wallstreetcn.com/livenews/3055869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
+          "url": "https://flash.jin10.com/detail/20260217091405072800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "宇树人形机器人化身孙悟空",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8C%96%E8%BA%AB%E5%AD%99%E6%82%9F%E7%A9%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            17,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时38分 ~ 10时06分]"
+        },
+        {
+          "title": "人形机器人产业化还有多远",
+          "url": "https://www.toutiao.com/trending/7607624909648301587/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "这个春节，人形机器人正在实现“能演亦能干”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32618240",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         }
       ]
     },
@@ -279,11 +409,12 @@
           "url": "https://wallstreetcn.com/articles/3765777",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 10时06分]"
         },
         {
           "title": "全球领先的金属和电子产品回收商Sims：AI驱动的DDR5芯片迁移正制约DDR4芯片供应。",
@@ -296,36 +427,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "宇树人形机器人化身孙悟空",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8C%96%E8%BA%AB%E5%AD%99%E6%82%9F%E7%A9%BA",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时38分 ~ 07时30分]"
-        },
-        {
-          "title": "这个春节，人形机器人正在实现“能演亦能干”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32618240",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时30分"
         }
       ]
     },
