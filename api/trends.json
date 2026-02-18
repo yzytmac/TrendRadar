@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-19T05:36:05.308944+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-02-19T06:35:43.671139+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
+          "url": "https://flash.jin10.com/detail/20260219061414903800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
           "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
@@ -85,7 +96,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -96,7 +107,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -107,7 +118,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -123,13 +134,24 @@
           "time_info": "03时50分"
         },
         {
+          "title": "美国高级官员：特朗普的国家安全顾问今天在白宫战情室会议上讨论了伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260219053215762800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
           "title": "美国总统特朗普：我们可以关照大西洋。",
           "url": "https://wallstreetcn.com/livenews/3056475",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -151,7 +173,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -167,13 +189,24 @@
           "time_info": "03时50分"
         },
         {
+          "title": "美国总统特朗普：（正在白宫旧址上拔地而起的）将是“有史以来最宏伟的宴会厅”——完全由美国爱国者捐助者出资，美国纳税人零成本！",
+          "url": "https://flash.jin10.com/detail/20260219052431658800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
           "title": "特朗普称：若英国对迪戈加西亚岛“失去控制”，将影响盟友地位",
           "url": "https://wallstreetcn.com/livenews/3056471",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -239,7 +272,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -272,7 +305,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -302,20 +335,8 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 05时36分]"
-        },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
           "url": "https://wallstreetcn.com/articles/3765810",
@@ -323,6 +344,18 @@
           "ranks": [
             1,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 06时35分]"
+        },
+        {
+          "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -338,8 +371,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 06时35分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -350,8 +383,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 06时35分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -362,8 +395,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 06时35分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -374,52 +407,67 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 06时35分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
           "url": "https://wallstreetcn.com/livenews/3056498",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时35分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260219051836764800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时35分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260219051816533800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时35分]"
         },
         {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056488",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时35分]"
         },
         {
           "title": "美股高开高走 英伟达收涨1.63%",
@@ -428,7 +476,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -467,7 +515,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -478,7 +526,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         }
@@ -514,8 +562,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 06时35分]"
         }
       ]
     },
@@ -532,8 +580,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 06时35分]"
         }
       ]
     },
