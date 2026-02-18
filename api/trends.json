@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T21:05:08.669193+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2026-02-18T22:44:59.175666+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时44分 ~ 21时05分]"
+          "appearance_count": 7,
+          "time_info": "[16时44分 ~ 22时44分]"
         },
         {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
@@ -307,7 +307,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -513,7 +513,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -524,8 +524,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时09分 ~ 21时05分]"
+          "appearance_count": 12,
+          "time_info": "[10时09分 ~ 22时44分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -549,8 +549,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时59分 ~ 21时05分]"
+          "appearance_count": 23,
+          "time_info": "[00时59分 ~ 22时44分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -558,11 +558,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时09分 ~ 21时05分]"
+          "appearance_count": 12,
+          "time_info": "[10时09分 ~ 22时44分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -595,8 +596,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时49分 ~ 21时05分]"
+          "appearance_count": 6,
+          "time_info": "[17时49分 ~ 22时44分]"
+        },
+        {
+          "title": "美股盘初：黄金股、中概股普涨，英伟达涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3056361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "美股高开，道指涨0.16%、标普500指数涨0.28%、纳指涨0.23%。英伟达(NVDA.O)涨1.8%，Meta与该公司签署数十亿美元多年期协议。纳斯达克中国金龙指数涨0.26%。",
+          "url": "https://flash.jin10.com/detail/20260218223031911800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "美股大类资产类ETF多数下跌，黄金ETF收跌超3.1%，地产ETF涨超0.9%",
@@ -737,9 +760,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股盘中）",
@@ -764,6 +798,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-18）",
+          "url": "https://flash.jin10.com/detail/20260218220340742800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
           "url": "https://wallstreetcn.com/livenews/3056169",
           "source": "华尔街见闻-快讯",
@@ -773,6 +818,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "春晚绝活升级背后：中国人形机器人技术有了哪些新突破？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32624494",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 10时09分]"
+        },
+        {
+          "title": "人形机器人会有失控风险吗",
+          "url": "https://www.douyin.com/hot/2403993",
+          "source": "抖音",
+          "ranks": [
+            25,
+            16,
+            21,
+            23,
+            17,
+            10,
+            20,
+            26,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时59分 ~ 19时39分]"
+        },
+        {
+          "title": "机器人扎堆上春晚，企业坦言订单小、贡献低，这波热度能撑起多高的估值？如何看待人形机器人产业的真实现状？",
+          "url": "https://www.zhihu.com/question/2006838700613600126",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "大陆人形机器人进化神速引岛内热议",
+          "url": "https://www.toutiao.com/trending/7607675186574278699/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 14时02分]"
+        },
+        {
+          "title": "春晚引爆人形机器人产业热潮",
+          "url": "https://www.toutiao.com/trending/7608144389969284671/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 21时05分]"
+        },
+        {
+          "title": "外媒惊叹中国人形机器人发展速度",
+          "url": "https://www.toutiao.com/trending/7607638343538622506/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 04时39分]"
+        },
+        {
+          "title": "多国媒体：春晚人形机器人表演展现中国人工智能飞速发展",
+          "url": "https://wallstreetcn.com/livenews/3056348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         }
       ]
     },
@@ -854,92 +996,6 @@
       ]
     },
     {
-      "keyword_group": "人形机器人",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "春晚绝活升级背后：中国人形机器人技术有了哪些新突破？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32624494",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 10时09分]"
-        },
-        {
-          "title": "人形机器人会有失控风险吗",
-          "url": "https://www.douyin.com/hot/2403993",
-          "source": "抖音",
-          "ranks": [
-            25,
-            16,
-            21,
-            23,
-            17,
-            10,
-            20,
-            26,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时59分 ~ 19时39分]"
-        },
-        {
-          "title": "机器人扎堆上春晚，企业坦言订单小、贡献低，这波热度能撑起多高的估值？如何看待人形机器人产业的真实现状？",
-          "url": "https://www.zhihu.com/question/2006838700613600126",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "大陆人形机器人进化神速引岛内热议",
-          "url": "https://www.toutiao.com/trending/7607675186574278699/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时02分]"
-        },
-        {
-          "title": "春晚引爆人形机器人产业热潮",
-          "url": "https://www.toutiao.com/trending/7608144389969284671/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 21时05分]"
-        },
-        {
-          "title": "外媒惊叹中国人形机器人发展速度",
-          "url": "https://www.toutiao.com/trending/7607638343538622506/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时39分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片",
       "match_count": 3,
       "titles": [
@@ -961,7 +1017,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1062,8 +1118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[04时39分 ~ 21时05分]"
+          "appearance_count": 19,
+          "time_info": "[04时39分 ~ 22时44分]"
         }
       ]
     },
