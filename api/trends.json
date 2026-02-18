@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T22:44:59.175666+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2026-02-18T23:53:14.190855+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -31,6 +31,17 @@
           "time_info": "[03时06分 ~ 15时51分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时44分 ~ 23时53分]"
+        },
+        {
           "title": "美部长与下属传出婚外情，特朗普回应",
           "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
           "source": "凤凰网",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时59分 ~ 07时30分]"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时44分 ~ 22时44分]"
         },
         {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
@@ -98,6 +98,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "美国参议院卫生委员会将于2月25日就美国总统特朗普提名的公共卫生局局长候选人凯西·米恩斯举行听证会。",
+          "url": "https://flash.jin10.com/detail/20260218231039678800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
@@ -356,6 +367,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "特朗普：日本在美投建的天然气电厂将成为全美最大",
+          "url": "https://wallstreetcn.com/livenews/3056374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "美国移民法官终止了美国总统特朗普政府针对哥伦比亚大学学生穆赫辛·马赫达维启动的驱逐程序。",
           "url": "https://flash.jin10.com/detail/20260218045923237800",
           "source": "金十数据",
@@ -513,7 +535,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -524,8 +546,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时09分 ~ 22时44分]"
+          "appearance_count": 14,
+          "time_info": "[10时09分 ~ 23时53分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -549,8 +571,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时59分 ~ 22时44分]"
+          "appearance_count": 25,
+          "time_info": "[00时59分 ~ 23时53分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -559,11 +581,24 @@
           "ranks": [
             13,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时09分 ~ 22时44分]"
+          "appearance_count": 14,
+          "time_info": "[10时09分 ~ 23时53分]"
+        },
+        {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时49分 ~ 23时53分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -577,6 +612,17 @@
           "time_info": "[07时29分 ~ 07时30分]"
         },
         {
+          "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
           "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
           "url": "https://wallstreetcn.com/articles/3765834",
           "source": "华尔街见闻",
@@ -588,16 +634,15 @@
           "time_info": "[17时49分 ~ 18时46分]"
         },
         {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
+          "title": "房利美股价迅速扩大涨幅，上涨4%。",
+          "url": "https://flash.jin10.com/detail/20260218231319433800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时49分 ~ 22时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "美股盘初：黄金股、中概股普涨，英伟达涨约2%",
@@ -606,7 +651,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -617,7 +662,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -695,6 +740,17 @@
           "time_info": "[05时37分 ~ 06时33分]"
         },
         {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
           "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056127",
           "source": "华尔街见闻-快讯",
@@ -743,6 +799,17 @@
           "time_info": "[17时49分 ~ 18时46分]"
         },
         {
+          "title": "美股两房涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3056379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "美股三大股指收涨 贵金属、有色板块跌幅居前",
           "url": "https://flash.jin10.com/detail/20260218050249906800",
           "source": "金十数据",
@@ -771,9 +838,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、区域银行业ETF涨超1%，公用事业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3056367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股盘中）",
@@ -804,9 +882,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
+        },
+        {
+          "title": "美股盘初：黄金股、热门中概股普涨，英伟达涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3056361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
@@ -818,12 +907,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260218223642456800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     },
     {
       "keyword_group": "人形机器人",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "春晚绝活升级背后：中国人形机器人技术有了哪些新突破？",
@@ -894,6 +994,17 @@
           "time_info": "[19时39分 ~ 21时05分]"
         },
         {
+          "title": "春晚人形机器人成外媒报道焦点",
+          "url": "https://www.toutiao.com/trending/7608181984863305755/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
           "title": "外媒惊叹中国人形机器人发展速度",
           "url": "https://www.toutiao.com/trending/7607638343538622506/",
           "source": "今日头条",
@@ -912,7 +1023,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         }
@@ -1036,7 +1147,7 @@
     },
     {
       "keyword_group": "存储",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "一线厂商CEO：这一轮存储超级周期，一辈子只有一次，前无古人后无来者",
@@ -1062,6 +1173,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[06时32分 ~ 17时49分]"
+        },
+        {
+          "title": "华尔街大佬Tepper押注存储：美光持仓激增200%，新买韩国ETF",
+          "url": "https://wallstreetcn.com/articles/3765840",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         }
       ]
     },
@@ -1118,8 +1240,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[04时39分 ~ 22时44分]"
+          "appearance_count": 21,
+          "time_info": "[04时39分 ~ 23时53分]"
         }
       ]
     },
