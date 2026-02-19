@@ -1,33 +1,44 @@
 {
-  "generated_at": "2026-02-20T03:40:36.545406+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-02-20T04:34:11.691937+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
-          "title": "特朗普将因乌克兰问题对俄罗斯所实施的制裁延长一年",
-          "url": "https://flash.jin10.com/detail/20260220030505008800",
+          "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
+          "url": "https://flash.jin10.com/detail/20260220034308215800",
           "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时40分"
+          "time_info": "04时34分"
         },
         {
-          "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
-          "url": "https://wallstreetcn.com/livenews/3056738",
+          "title": "美国总统特朗普：无论如何都会拿下“拯救美国法案”（The Save America Act）。",
+          "url": "https://wallstreetcn.com/livenews/3056754",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗谈判达成协议的时间窗口最多为10到15天。",
+          "url": "https://flash.jin10.com/detail/20260220034222845800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时40分"
+          "time_info": "04时34分"
         },
         {
           "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
@@ -36,11 +47,12 @@
           "ranks": [
             3,
             10,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 03时40分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 04时34分]"
         },
         {
           "title": "特朗普主题ETF管理公司收购MAGA基金",
@@ -49,11 +61,12 @@
           "ranks": [
             4,
             11,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 03时40分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 04时34分]"
         },
         {
           "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
@@ -61,11 +74,88 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时34分]"
+        },
+        {
+          "title": "特朗普将因乌克兰问题对俄罗斯所实施的制裁延长一年",
+          "url": "https://flash.jin10.com/detail/20260220030505008800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时40分]"
+          "time_info": "[03时40分 ~ 04时34分]"
+        },
+        {
+          "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
+          "url": "https://wallstreetcn.com/livenews/3056738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时34分]"
+        },
+        {
+          "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
+          "url": "https://flash.jin10.com/detail/20260220021119038800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时34分]"
+        },
+        {
+          "title": "美国总统特朗普：我很乐意让俄罗斯参与（伊朗谈判的）外交事务。",
+          "url": "https://flash.jin10.com/detail/20260220021016649800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时34分]"
+        },
+        {
+          "title": "特朗普会见印尼总统普拉博沃，签经济安全协议",
+          "url": "https://wallstreetcn.com/livenews/3056728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时34分]"
+        },
+        {
+          "title": "美国总统特朗普：无论如何都会就伊朗问题达成协议。如果未能达成伊朗协议，将会发生非常糟糕的事情。",
+          "url": "https://flash.jin10.com/detail/20260220020836905800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时34分]"
         },
         {
           "title": "特朗普签署“和平委员会”财政决议 誓言要整顿加沙",
@@ -94,6 +184,19 @@
           "time_info": "[01时51分 ~ 03时40分]"
         },
         {
+          "title": "美国美术委员会一致批准白宫宴会厅项目，特朗普发文感谢",
+          "url": "https://flash.jin10.com/detail/20260220015619763800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时34分]"
+        },
+        {
           "title": "特朗普称对台军售要跟中国商量",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%E8%A6%81%E8%B7%9F%E4%B8%AD%E5%9B%BD%E5%95%86%E9%87%8F%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -104,66 +207,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 02时52分]"
-        },
-        {
-          "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
-          "url": "https://flash.jin10.com/detail/20260220021119038800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时40分]"
-        },
-        {
-          "title": "美国总统特朗普：我很乐意让俄罗斯参与（伊朗谈判的）外交事务。",
-          "url": "https://flash.jin10.com/detail/20260220021016649800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时40分]"
-        },
-        {
-          "title": "特朗普会见印尼总统普拉博沃，签经济安全协议",
-          "url": "https://wallstreetcn.com/livenews/3056728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时40分]"
-        },
-        {
-          "title": "美国总统特朗普：无论如何都会就伊朗问题达成协议。如果未能达成伊朗协议，将会发生非常糟糕的事情。",
-          "url": "https://flash.jin10.com/detail/20260220020836905800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时40分]"
-        },
-        {
-          "title": "美国美术委员会一致批准白宫宴会厅项目，特朗普发文感谢",
-          "url": "https://flash.jin10.com/detail/20260220015619763800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时40分]"
         },
         {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
@@ -188,6 +231,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时51分]"
+        },
+        {
+          "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260220034153793800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "美国总统特朗普：前英国王子安德鲁被捕对王室来说非常糟糕。",
+          "url": "https://flash.jin10.com/detail/20260220034121662800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "美国总统特朗普：并不知道外星人是否真实存在。",
+          "url": "https://flash.jin10.com/detail/20260220034054475800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "摩根大通聘请世达律师事务所，应对特朗普迈阿密“销户案”诉讼",
+          "url": "https://wallstreetcn.com/livenews/3056746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
@@ -280,19 +367,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时34分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时34分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -303,8 +391,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时34分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -315,8 +403,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时34分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -326,8 +414,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时34分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -351,33 +439,12 @@
           "url": "https://www.cls.cn/detail/2291708",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时40分]"
-        },
-        {
-          "title": "据The Information：AMD(AMD.O)将为AI基础设施公司Crusoe的3亿美元贷款提供担保，如果该公司缺乏客户，AMD将向其租用芯片。",
-          "url": "https://flash.jin10.com/detail/20260220025038360800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        },
-        {
-          "title": "AMD将支持3亿美元Crosoe贷款。 Crusoe这笔贷款来自高盛集团，将由芯片产品担保。 Crusoe将把AMD芯片作为债务抵押品。 如果没有客户资金，AMD将从Crusoe租赁芯片。 AMD的支持帮助Crusoe将贷款利率锁定在6%附近。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时34分]"
         },
         {
           "title": "“存储荒”愈演愈烈！三星HBM4据称涨价30% 韩国“芯片双雄”积极扩产",
@@ -389,8 +456,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时34分]"
         },
         {
           "title": "黄仁勋预告“前所未见”的芯片新品，下一代Feynman架构或成焦点",
@@ -401,8 +468,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时34分]"
         },
         {
           "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
@@ -411,11 +478,36 @@
           "ranks": [
             5,
             12,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 03时40分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 04时34分]"
+        },
+        {
+          "title": "据The Information：AMD(AMD.O)将为AI基础设施公司Crusoe的3亿美元贷款提供担保，如果该公司缺乏客户，AMD将向其租用芯片。",
+          "url": "https://flash.jin10.com/detail/20260220025038360800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时34分]"
+        },
+        {
+          "title": "AMD将支持3亿美元Crosoe贷款。 Crusoe这笔贷款来自高盛集团，将由芯片产品担保。 Crusoe将把AMD芯片作为债务抵押品。 如果没有客户资金，AMD将从Crusoe租赁芯片。 AMD的支持帮助Crusoe将贷款利率锁定在6%附近。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时34分]"
         }
       ]
     },
@@ -432,8 +524,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时34分]"
         },
         {
           "title": "BE半导体实业公司四季度营收1.664亿欧元，分析师预期1.624亿欧元。 四季度订单2.504亿欧元，分析师预期2.282亿欧元。 四季度毛利润率63.9%，分析师预期62.5%。 预计一季度营收将增长5%-15%。 预计一季度毛利率63%-65%，分析师预期63.2%。 预计一季度资本开支季环比将增长10%-15%。",
@@ -441,11 +533,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时40分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时34分]"
         },
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
@@ -454,9 +547,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 04时34分]"
         }
       ]
     },
@@ -473,8 +566,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时34分]"
         }
       ]
     },
@@ -490,8 +583,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时34分]"
         }
       ]
     }
