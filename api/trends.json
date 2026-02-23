@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T10:09:25.505653+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-02-23T12:59:15.778927+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时59分]"
         },
         {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
@@ -47,11 +47,12 @@
           "url": "https://news.ifeng.com/c/8qxUeFL6TqS",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时59分]"
         },
         {
           "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
@@ -69,11 +70,12 @@
           "url": "https://www.cls.cn/detail/2292246",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时59分]"
         },
         {
           "title": "一名试图闯入特朗普海湖庄园的男子被枪击身亡",
@@ -137,6 +139,28 @@
           "time_info": "[01时26分 ~ 07时26分]"
         },
         {
+          "title": "美贸易代表：特朗普访华不受最高法关税裁决影响",
+          "url": "https://news.ifeng.com/c/8qyOjcC9kzZ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "特朗普的亲家、美驻法大使因“不当言论”被法国外交部召见",
+          "url": "https://news.ifeng.com/c/8qyRMnxS2f3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
           "title": "格陵兰岛总理对美国总统特朗普派遣医疗船前往格陵兰岛的提议说：“不了，谢谢。”",
           "url": "https://flash.jin10.com/detail/20260222222304008800",
           "source": "金十数据",
@@ -154,11 +178,12 @@
           "url": "https://news.ifeng.com/c/8qyEs3M9n4D",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时59分]"
         },
         {
           "title": "美国贸易代表格里尔：鉴于局势的“紧迫性”，美国总统特朗普已将10%的关税提高到15%。",
@@ -171,6 +196,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 04时27分]"
+        },
+        {
+          "title": "男子持枪闯入特朗普住所被击毙",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E9%97%AF%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%80%E8%A2%AB%E5%87%BB%E6%AF%99",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时59分]"
+        },
+        {
+          "title": "连锁反应来了 印度打脸特朗普",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86+%E5%8D%B0%E5%BA%A6%E6%89%93%E8%84%B8%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时59分]"
         },
         {
           "title": "美媒：特朗普倾向未来几天对伊实施初步打击 未来数月可能发动更大规模攻击",
@@ -208,6 +257,17 @@
           "time_info": "[00时31分 ~ 01时26分]"
         },
         {
+          "title": "商务部回应美裁定特朗普关税违法",
+          "url": "https://www.toutiao.com/trending/7609570732955959359/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
           "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
           "url": "https://wallstreetcn.com/livenews/3057256",
           "source": "华尔街见闻-快讯",
@@ -220,13 +280,24 @@
           "time_info": "[00时31分 ~ 01时26分]"
         },
         {
+          "title": "如何看待特朗普关税战被判非法",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E8%A2%AB%E5%88%A4%E9%9D%9E%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
           "title": "韩国产业部长：芯片不受美国总统特朗普最新关税的影响。",
           "url": "https://flash.jin10.com/detail/20260223085113118800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -237,18 +308,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "连锁反应来了 印度打脸特朗普",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86+%E5%8D%B0%E5%BA%A6%E6%89%93%E8%84%B8%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -264,26 +324,26 @@
           "time_info": "07时26分"
         },
         {
-          "title": "男子持枪闯入特朗普住所被击毙",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E9%97%AF%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%80%E8%A2%AB%E5%87%BB%E6%AF%99",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
           "title": "美国官员警告说，如果特朗普下令打击伊朗，伊朗可能会通过真主党或基地组织等代理人对美国在海外的目标进行报复。",
           "url": "https://flash.jin10.com/detail/20260223081143529800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "美国总统特朗普：我们赢得太多了，这不公平。",
+          "url": "https://flash.jin10.com/detail/20260223104454862800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
@@ -300,29 +360,31 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "春节档总票房破40亿！《飞驰人生3》21亿领跑，背后涉及哪些A股公司？",
           "url": "https://www.cls.cn/detail/2292289",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时59分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2292233",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时59分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -333,8 +395,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时59分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -349,26 +411,39 @@
           "time_info": "[00时31分 ~ 07时26分]"
         },
         {
+          "title": "华泰证券港股策略：科技和周期耗材仍是清晰主线",
+          "url": "https://wallstreetcn.com/livenews/3057356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "恒生科技指数日内涨幅扩大至3%，美团涨超5%，华虹半导体、中芯国际涨超4%。 港股大模型概念跌幅扩大，智谱跌超17%，MINIMAX跌超11%。",
           "url": "https://wallstreetcn.com/livenews/3057331",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 12时59分]"
         },
         {
           "title": "春节后A股将会怎么走？以史为鉴这三大板块上涨概率更高，核心受益标的梳理",
           "url": "https://www.cls.cn/detail/2290554",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时59分]"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日港股正常开市，南、北向交易关闭，沪深及北交所、国内期货交易所休市。",
@@ -377,7 +452,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -388,7 +463,35 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SK海力士董事长承诺提高人工智能内存芯片产量",
+          "url": "https://flash.jin10.com/detail/20260223122126699800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "人工智能热潮提振芯片需求 韩国出口延续强劲势头",
+          "url": "https://flash.jin10.com/detail/20260223084535159800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
@@ -403,11 +506,12 @@
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时59分]"
         },
         {
           "title": "智谱发布GLM-5技术细节：工程级智能，适配国产算力",
@@ -416,11 +520,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时59分]"
         }
       ]
     },
@@ -433,28 +538,46 @@
           "url": "https://wallstreetcn.com/livenews/3057329",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 12时59分]"
         }
       ]
     },
     {
-      "keyword_group": "芯片",
+      "keyword_group": "商业航天",
       "match_count": 1,
       "titles": [
         {
-          "title": "人工智能热潮提振芯片需求 韩国出口延续强劲势头",
-          "url": "https://flash.jin10.com/detail/20260223084535159800",
-          "source": "金十数据",
+          "title": "太空制药--商业航天的“新场景”",
+          "url": "https://wallstreetcn.com/articles/3765957",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒生科技指数日内涨幅扩大至4%，美团涨超8%，中芯国际、京东涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3057340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "12时59分"
         }
       ]
     }
