@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T21:05:46.509852+08:00",
-  "total_titles_processed": 1675,
+  "generated_at": "2026-02-25T22:50:18.498841+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 87,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -65,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 21时05分]"
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 22时50分]"
         },
         {
           "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
@@ -105,6 +105,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时07分 ~ 16时51分]"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 22时50分]"
         },
         {
           "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
@@ -190,6 +204,17 @@
           "time_info": "04时37分"
         },
         {
+          "title": "墨西哥总统：曾与美国总统特朗普通话，“让其了解针对墨西哥的情况”。",
+          "url": "https://flash.jin10.com/detail/20260225223331337800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
           "url": "https://flash.jin10.com/detail/20260225041158111800",
           "source": "金十数据",
@@ -234,17 +259,15 @@
           "time_info": "08时03分"
         },
         {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
+          "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
+          "url": "https://news.ifeng.com/c/8r2aEG9ywSj",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            7,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 21时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
@@ -670,7 +693,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -747,7 +770,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -975,7 +998,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 42,
+      "match_count": 49,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1092,6 +1115,17 @@
           "time_info": "[01时13分 ~ 08时03分]"
         },
         {
+          "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
+          "url": "https://wallstreetcn.com/livenews/3058936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "多数保险机构今年计划小幅增配A股",
           "url": "https://wallstreetcn.com/livenews/3058398",
           "source": "华尔街见闻-快讯",
@@ -1114,6 +1148,17 @@
           "time_info": "19时41分"
         },
         {
+          "title": "美股锂矿概念股走强，Sigma Lithium大涨27%，美国雅保涨9.91%，Lithium Argentina AG涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260225223210838800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "春季攻势重燃，机构看好港股市场投资潜力",
           "url": "https://wallstreetcn.com/livenews/3058397",
           "source": "华尔街见闻-快讯",
@@ -1131,7 +1176,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1147,6 +1192,17 @@
           "time_info": "17时55分"
         },
         {
+          "title": "美股开盘，道指涨0.35%、标普500指数涨0.43%、纳指涨0.67%，英伟达(NVDA.O)开涨1%，公司将于盘后公布四季度财报，甲骨文涨2.5%，此前奥本海默将其评级上调至“跑赢大盘”。",
+          "url": "https://flash.jin10.com/detail/20260225223043019800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "ETF市场“冷热不均”，港股主题ETF受青睐",
           "url": "https://wallstreetcn.com/livenews/3058396",
           "source": "华尔街见闻-快讯",
@@ -1156,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "溢价20%仍被抢，逻辑变了？谁在高溢价入局A股定增？哪类行业高溢价？",
@@ -1345,6 +1412,17 @@
           "time_info": "06时34分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-25）",
+          "url": "https://flash.jin10.com/detail/20260225220210090800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3058353",
           "source": "华尔街见闻-快讯",
@@ -1365,6 +1443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3058910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "阶跃星辰据悉计划在港股IPO。（彭博）",
@@ -1395,9 +1484,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "美股期货短线波动不大，美国贸易代表格里尔：正在研究如何实施15%的关税",
+          "url": "https://wallstreetcn.com/livenews/3058905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "A股马年开门红：4003股收涨，油气股掀涨停潮",
@@ -1417,7 +1517,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1469,7 +1569,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "一口气锁定6吉瓦芯片！Meta大单绑定AMD 还顺手收认股权证",
@@ -1540,6 +1640,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时07分 ~ 16时51分]"
+        },
+        {
+          "title": "SK海力士拟在韩国投资150亿美元 以扩建芯片产能",
+          "url": "https://www.cls.cn/detail/2295108",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "SK海力士：将向芯片工厂投资26.6万亿韩元。 SK海力士：计划提前扩大产能 在龙仁的投资规模将大幅增加。",
@@ -1638,6 +1749,59 @@
       ]
     },
     {
+      "keyword_group": "存储",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "众机构唱多三星电子：存储巨头冲击万亿美元市值门槛",
+          "url": "https://www.cls.cn/detail/2294110",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 15时15分]"
+        },
+        {
+          "title": "微软开发出可存储数据上万年的玻璃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32648197",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 08时03分]"
+        },
+        {
+          "title": "静待英伟达财报，美国科技股盘前小幅上涨，存储板块多数上涨，现货黄金日内涨超1%",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "开普云回应重组失败：当前存储行业景气度较高，标的公司对自身估值期望过高",
+          "url": "https://wallstreetcn.com/livenews/3058647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科创",
       "match_count": 3,
       "titles": [
@@ -1673,48 +1837,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "众机构唱多三星电子：存储巨头冲击万亿美元市值门槛",
-          "url": "https://www.cls.cn/detail/2294110",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 15时15分]"
-        },
-        {
-          "title": "微软开发出可存储数据上万年的玻璃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32648197",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 08时03分]"
-        },
-        {
-          "title": "开普云回应重组失败：当前存储行业景气度较高，标的公司对自身估值期望过高",
-          "url": "https://wallstreetcn.com/livenews/3058647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
         }
       ]
     },
