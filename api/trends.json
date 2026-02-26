@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T17:52:05.920203+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-02-26T18:46:39.227660+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -75,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时58分 ~ 17时52分]"
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 18时46分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -111,8 +111,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 17时52分]"
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 18时46分]"
         },
         {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
@@ -208,6 +208,28 @@
           "time_info": "06时35分"
         },
         {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-26）",
+          "url": "https://flash.jin10.com/detail/20260226180905801800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "俄罗斯总统新闻秘书佩斯科夫：目前没有安排普京和特朗普之间的对话。",
           "url": "https://flash.jin10.com/detail/20260226023258257800",
           "source": "金十数据",
@@ -255,7 +277,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -266,8 +288,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时28分 ~ 17时52分]"
+          "appearance_count": 10,
+          "time_info": "[07时28分 ~ 18时46分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -398,6 +420,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "A股分化，沪指微跌，算力硬件集体爆发，人民币升破6.83关口，恒科指大跌近3%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3766223",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 Circle涨超30%",
           "url": "https://flash.jin10.com/detail/20260226050058223800",
           "source": "金十数据",
@@ -426,7 +459,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -453,6 +486,17 @@
           "time_info": "13时59分"
         },
         {
+          "title": "唯品会第四财季调整后每ADS收益5.66元人民币，上年同期5.70元人民币，市场预估5.43元人民币。 第四财季活跃用户数4,530万，同比下降0.9%，市场预估4,608万。 第四财季净营收324.7亿元人民币，同比下降2.3%，市场预估334.9亿元人民币。 预计第一财季净营收263亿元人民币至276亿元人民币，市场预估268.3亿元人民币。 唯品会美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3059496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "A股低空经济概念异动拉升，万丰奥威、中信海直、宗申动力、莱斯信息、深城交、上工申贝等纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/3059332",
           "source": "华尔街见闻-快讯",
@@ -462,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "爱奇艺(IQ.O)美股盘前涨5%，此前公布的财报显示第四季度营收有所增长。",
+          "url": "https://flash.jin10.com/detail/20260226180836459800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
@@ -478,7 +533,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "SK海力士拟在韩国投资150亿美元 以扩建芯片产能",
@@ -516,6 +571,18 @@
           "time_info": "10时03分"
         },
         {
+          "title": "三星存储部门漫天要价，苹果照单全收——三星手机部门被迫采用50%美光存储芯片",
+          "url": "https://wallstreetcn.com/articles/3766227",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 18时46分]"
+        },
+        {
           "title": "英伟达CFO：尖端芯片供应仍然紧张。",
           "url": "https://wallstreetcn.com/livenews/3059086",
           "source": "华尔街见闻-快讯",
@@ -528,17 +595,6 @@
           "time_info": "[06时35分 ~ 07时28分]"
         },
         {
-          "title": "三星存储部门漫天要价，苹果照单全收——三星手机部门被迫采用50%美光存储芯片",
-          "url": "https://wallstreetcn.com/articles/3766227",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 17时52分]"
-        },
-        {
           "title": "上调10%起，又有国产芯片公司宣布涨价",
           "url": "https://wallstreetcn.com/livenews/3059164",
           "source": "华尔街见闻-快讯",
@@ -548,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "蔚来芯片子公司获超22亿首轮融资，投后估值近百亿",
+          "url": "https://wallstreetcn.com/livenews/3059481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "英伟达(NVDA.O)：2026财年毛利率的下降受到了45亿美元费用的影响，该费用与H20芯片的过剩库存及采购履约义务相关。",
@@ -577,8 +644,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时51分 ~ 17时52分]"
+          "appearance_count": 8,
+          "time_info": "[12时51分 ~ 18时46分]"
         },
         {
           "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
@@ -670,11 +737,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 17时52分]"
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 18时46分]"
         },
         {
           "title": "SK海力士与闪迪公司启动下一代存储器“HBF”全球标准化进程",
@@ -777,6 +845,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "再升科技",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "再升科技：关注到有市场信息讨论公司向SpaceX供货相关事项，目前“高硅氧纤维产品”暂无在手订单",
+          "url": "https://wallstreetcn.com/livenews/3059495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         }
       ]
     },
