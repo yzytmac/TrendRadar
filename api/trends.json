@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T15:10:22.333565+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-02-26T16:50:33.300375+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 15时10分]"
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 16时50分]"
         },
         {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
@@ -59,11 +59,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 15时10分]"
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 16时50分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -97,8 +98,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 16时50分]"
         },
         {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
@@ -205,6 +206,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "美国堪萨斯城联储主席Schmid：（总统特朗普的美联储主席提名人）凯文·沃什出任美联储理事将是合适的。",
           "url": "https://wallstreetcn.com/livenews/3058987",
           "source": "华尔街见闻-快讯",
@@ -260,11 +272,12 @@
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 15时10分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 16时50分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -433,7 +446,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -452,7 +465,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "SK海力士拟在韩国投资150亿美元 以扩建芯片产能",
@@ -475,8 +488,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 15时10分]"
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 16时50分]"
         },
         {
           "title": "存储芯片成本持续攀升，手机厂商预计3月初集中调价",
@@ -500,6 +513,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时28分]"
+        },
+        {
+          "title": "三星存储部门漫天要价，苹果照单全收——三星手机部门被迫采用50%美光存储芯片",
+          "url": "https://wallstreetcn.com/articles/3766227",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "上调10%起，又有国产芯片公司宣布涨价",
@@ -582,6 +606,34 @@
       ]
     },
     {
+      "keyword_group": "存储",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "存储全面进入卖方市场：三星100%“试探性涨幅”获苹果照单全收 原计划涨幅60%",
+          "url": "https://www.cls.cn/detail/2295807",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "SK海力士与闪迪公司启动下一代存储器“HBF”全球标准化进程",
+          "url": "https://wallstreetcn.com/livenews/3059311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人形机器人",
       "match_count": 2,
       "titles": [
@@ -619,11 +671,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 15时10分]"
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 16时50分]"
         },
         {
           "title": "2月26日午间收评：创业板指探底回升跌0.39%，算力硬件股集体走强",
@@ -639,19 +692,81 @@
       ]
     },
     {
-      "keyword_group": "存储",
-      "match_count": 1,
+      "keyword_group": "宁德时代",
+      "match_count": 2,
       "titles": [
         {
-          "title": "SK海力士与闪迪公司启动下一代存储器“HBF”全球标准化进程",
-          "url": "https://wallstreetcn.com/livenews/3059311",
+          "title": "恒生指数收盘跌1.44%，恒生科技指数跌2.87%，宁德时代跌约6%",
+          "url": "https://wallstreetcn.com/livenews/3059419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "宁德时代：科技创新公司债券26CATLK1将于2026年2月27日起在深圳证券交易所上市 发行总额为30亿元",
+          "url": "https://wallstreetcn.com/livenews/3059412",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时10分"
+          "time_info": "16时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯原股份",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芯原股份业绩快报：2025年度归母净利润亏损5.28亿元",
+          "url": "https://wallstreetcn.com/livenews/3059439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "摩尔线程",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩尔线程MTT S5000全面适配阿里Qwen3.5三款新模型",
+          "url": "https://wallstreetcn.com/livenews/3059430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "臻镭科技",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "臻镭科技：2025年净利润1.33亿元，同比增长582.01%",
+          "url": "https://wallstreetcn.com/livenews/3059408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     }
