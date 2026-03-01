@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T12:54:42.018449+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-03-01T13:52:54.799940+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 71,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 12时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 13时52分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -150,6 +150,29 @@
           "time_info": "04时27分"
         },
         {
+          "title": "美国总统特朗普：伊朗刚刚表示，他们今天将发动一次力度空前的猛烈袭击。他们最好别那样做。因为如果伊朗敢那样做，我们将以前所未有的力量打击他们。",
+          "url": "https://wallstreetcn.com/livenews/3061070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时52分]"
+        },
+        {
           "title": "特朗普称哈梅内伊“已死”",
           "url": "https://www.toutiao.com/trending/7611690055245021211/",
           "source": "今日头条",
@@ -230,6 +253,19 @@
           "time_info": "[02时34分 ~ 05时22分]"
         },
         {
+          "title": "美以对伊军事打击后，白宫：特朗普仍计划出席共和党筹款活动",
+          "url": "https://wallstreetcn.com/livenews/3061046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时52分]"
+        },
+        {
           "title": "特朗普：对伊朗的不间断打击将持续一周甚至更长时间",
           "url": "https://wallstreetcn.com/livenews/3061008",
           "source": "华尔街见闻-快讯",
@@ -240,30 +276,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "美以对伊军事打击后，白宫：特朗普仍计划出席共和党筹款活动",
-          "url": "https://wallstreetcn.com/livenews/3061046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 12时54分]"
-        },
-        {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 12时54分]"
         },
         {
           "title": "据NBC新闻：美国总统特朗普（被问及谁将接替伊朗最高领袖哈梅内伊时）表示，“我不知道，但总有一天他们会打电话问我想要谁”。他补充道，\"我这么说只是稍微带点讽刺意味。\"",
@@ -303,6 +315,18 @@
           "time_info": "[01时21分 ~ 03时21分]"
         },
         {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时52分]"
+        },
+        {
           "title": "特朗普说美国开始在伊朗实施重大作战行动，美以发动本次袭击的目的是什么？后续还会有哪些行动​？",
           "url": "https://www.zhihu.com/question/2011109082719859902",
           "source": "知乎",
@@ -314,6 +338,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 06时23分]"
+        },
+        {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时52分]"
         },
         {
           "title": "特朗普称此次袭击要摧毁伊朗导弹工业，消灭伊朗海军，伊朗导弹工业、伊朗海军目前处于什么水平？",
@@ -340,16 +375,16 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/livenews/3061056",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            10
+            9,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时14分 ~ 12时54分]"
+          "time_info": "[12时54分 ~ 13时52分]"
         },
         {
           "title": "据NBC新闻：美国副总统万斯、美国能源部长赖特、美国财长贝森特与美国总统特朗普一同关注伊朗袭击事件。",
@@ -388,6 +423,18 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "特朗普称伊朗最高领袖哈梅内伊“已死”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32676301",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时52分]"
+        },
+        {
           "title": "特朗普认为哈梅内伊已死报道准确#",
           "url": "https://wallstreetcn.com/livenews/3060995",
           "source": "华尔街见闻-快讯",
@@ -421,17 +468,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
         },
         {
           "title": "特朗普政府高级官员：伊朗在谈判中拒绝讨论弹道导弹问题。",
@@ -478,15 +514,15 @@
           "time_info": "10时14分"
         },
         {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/livenews/3061056",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗议会议长卡利巴夫向特朗普和内塔尼亚胡喊话，称他们已经越过了红线，“必将为此付出代价”。",
+          "url": "https://flash.jin10.com/detail/20260301132637678800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时54分"
+          "time_info": "13时52分"
         },
         {
           "title": "卡塔尔国家媒体：卡塔尔埃米尔接到美国总统特朗普的电话。",
@@ -498,6 +534,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "特朗普：若伊朗发动猛烈袭击 美国将以史无前例的威力予以回击",
+          "url": "https://flash.jin10.com/detail/20260301132611266800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "美国总统特朗普：因为如果伊朗敢那样做，我们将以前所未有的力量打击他们。",
+          "url": "https://flash.jin10.com/detail/20260301132342672800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗刚刚表示，他们今天将发动一次力度空前的猛烈袭击。他们最好别那样做。",
+          "url": "https://flash.jin10.com/detail/20260301132328483800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "美国白宫：美国总统特朗普与英国、科威特和土耳其领导人通话。",
@@ -531,17 +600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
-        },
-        {
-          "title": "特朗普称伊朗最高领袖哈梅内伊“已死”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32676301",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
         },
         {
           "title": "美国总统特朗普在社交平台发文称，伊朗最高领袖哈梅内伊已死。",
@@ -698,6 +756,17 @@
           "time_info": "10时14分"
         },
         {
+          "title": "特朗普监控伊朗行动照片曝光",
+          "url": "https://www.toutiao.com/trending/7611449201683353107/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "以色列总理办公室确认，以色列总理内塔尼亚胡与美国总统特朗普通电话。",
           "url": "https://flash.jin10.com/detail/20260228233238201800",
           "source": "金十数据",
@@ -769,8 +838,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 12时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 13时52分]"
         },
         {
           "title": "我国首个国家级人形机器人与具身智能标准体系发布",
@@ -795,8 +864,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 12时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时52分]"
         },
         {
           "title": "人形机器人进入宝马工厂，合作方为瑞典公司Hexagon",
@@ -855,8 +924,19 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "市场消息：马斯克称社交媒体平台“X”使用量达到了新高。",
+          "url": "https://flash.jin10.com/detail/20260301133956537800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
         {
           "title": "马斯克在社交媒体平台“X”表示，用户现在可以选择主题了。所以，如果用户厌倦了政治煽动性内容，可以选择其他主题。只需点击\"为你推荐\"即可。",
           "url": "https://flash.jin10.com/detail/20260301015735039800",
@@ -879,11 +959,12 @@
           "url": "https://wallstreetcn.com/livenews/3061063",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时52分]"
         }
       ]
     },
@@ -900,8 +981,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 12时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 13时52分]"
         }
       ]
     },
@@ -922,6 +1003,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时27分 ~ 07时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苏州市智能算力产业创新中心正式成立",
+          "url": "https://wallstreetcn.com/livenews/3061069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         }
       ]
     }
