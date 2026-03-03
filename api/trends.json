@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T12:47:27.834402+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-03-03T13:51:10.492114+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -111,11 +111,12 @@
             18,
             19,
             11,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时45分 ~ 12时47分]"
+          "appearance_count": 14,
+          "time_info": "[01时45分 ~ 13时51分]"
         },
         {
           "title": "特朗普称不达目标不停战",
@@ -134,6 +135,52 @@
           "time_info": "[00时46分 ~ 07时28分]"
         },
         {
+          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
+          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 13时51分]"
+        },
+        {
+          "title": "美国会拟限制特朗普继续对伊动武",
+          "url": "https://www.toutiao.com/trending/7611738955826462762/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 13时51分]"
+        },
+        {
+          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
+          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 13时51分]"
+        },
+        {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 13时51分]"
+        },
+        {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -143,6 +190,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时45分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜特朗普回应是否怕美国本土遭袭",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 13时51分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -167,17 +225,6 @@
           "time_info": "10时07分"
         },
         {
-          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
-          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
           "title": "阿联酋、卡塔尔各自的游说团体劝说美国总统特朗普迅速停止（美国+以色列）与伊朗之间的战争。",
           "url": "https://wallstreetcn.com/livenews/3062064",
           "source": "华尔街见闻-快讯",
@@ -187,28 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
-        },
-        {
-          "title": "美国会拟限制特朗普继续对伊动武",
-          "url": "https://www.toutiao.com/trending/7611738955826462762/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
-          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
@@ -223,18 +248,6 @@
           "time_info": "[01时45分 ~ 02时49分]"
         },
         {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 12时47分]"
-        },
-        {
           "title": "美上诉院驳回特朗普政府推迟关税退税请求",
           "url": "https://flash.jin10.com/detail/20260303032852085800",
           "source": "金十数据",
@@ -245,6 +258,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时37分 ~ 04时39分]"
+        },
+        {
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 13时51分]"
         },
         {
           "title": "特朗普称对伊朗军事行动可能持续4至5周",
@@ -307,17 +331,6 @@
           "time_info": "[03时37分 ~ 04时39分]"
         },
         {
-          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
-          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
           "title": "美媒：特朗普颈部疑似出现皮疹 预计红肿会持续数周",
           "url": "https://flash.jin10.com/detail/20260303040020990800",
           "source": "金十数据",
@@ -346,7 +359,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -439,6 +452,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "据日本共同社：日本首相高市早苗表示，本月晚些时候在华盛顿举行的峰会期间，他将与美国总统特朗普举行“坦诚会谈”，讨论美国和以色列对伊朗发动的袭击事件。",
+          "url": "https://flash.jin10.com/detail/20260303132618373800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "美国联邦巡回上诉法院拒绝了特朗普政府要求推迟关税退款争议程序的请求。",
           "url": "https://flash.jin10.com/detail/20260303031045949800",
           "source": "金十数据",
@@ -511,7 +535,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -525,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "特朗普：美军弹药充足且优质 可“永远打下去且赢得漂亮”",
+          "url": "https://flash.jin10.com/detail/20260303130015137800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "英国首相斯塔默：判断什么对英国最有利是我的职责，而非美国总统特朗普的责任。",
@@ -566,7 +601,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -607,7 +642,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -657,8 +692,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 12时47分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 13时51分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -668,8 +703,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 13时51分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -683,6 +718,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "美股股指期货跌幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3062444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "美股期货跌幅扩大，标普500指数期货日内跌0.5%。",
           "url": "https://wallstreetcn.com/livenews/3062316",
           "source": "华尔街见闻-快讯",
@@ -692,6 +738,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "A股航运板块持续走强，中远海特、凤凰航运拉升封板，中远海发、南京港、招商轮船、锦江航运、中远海能、招商南油等十余只成分股涨停。",
+          "url": "https://wallstreetcn.com/livenews/3062442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
@@ -789,6 +846,17 @@
           "time_info": "[06时28分 ~ 07时28分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 13时51分]"
+        },
+        {
           "title": "中国充电桩“一哥”进军港股",
           "url": "https://www.toutiao.com/trending/7612602052757163526/",
           "source": "今日头条",
@@ -823,6 +891,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "A股天然气板块涨势扩大，南京公用、蓝天燃气、皖天然气、深圳燃气、佛燃能源、成都燃气、重庆燃气等多股封涨停板。",
+          "url": "https://wallstreetcn.com/livenews/3062429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "A股航运板块延续涨势，招商南油2连板，国航远洋、中远海能涨超7%，招商轮船、宁波海运、宁波远洋等多股高开。",
           "url": "https://wallstreetcn.com/livenews/3062291",
           "source": "华尔街见闻-快讯",
@@ -834,13 +913,35 @@
           "time_info": "10时07分"
         },
         {
+          "title": "A股煤炭股午后震荡走高，陕西黑猫涨停，中煤能源、兖矿能源、兰花科创、大有能源、云煤能源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3062423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "港股新能源汽车股午后持续走低，零跑汽车、小鹏汽车跌超5%，蔚来跌4.7%。",
+          "url": "https://wallstreetcn.com/livenews/3062421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "“三桶油”A股连续第二日集体涨停。",
           "url": "https://wallstreetcn.com/livenews/3062385",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -884,7 +985,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         }
@@ -953,6 +1054,45 @@
       ]
     },
     {
+      "keyword_group": "科创",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "科创50指数跌幅扩大至4%，成份股全线下跌。",
+          "url": "https://wallstreetcn.com/livenews/3062438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "上证指数早盘收报4179.46点，跌0.07%。 深证成指早盘收报14314.13点，跌1.05%。 创业板指早盘收报3279.71点，跌0.44%。 沪深300早盘收报4722.54点，跌0.13%。 科创50早盘收报1417.75点，跌3.21%。 中证500早盘收报8466.75点，跌2.21%。 中证1000早盘收报8324.70点，跌1.80%。",
+          "url": "https://wallstreetcn.com/livenews/3062390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "上证指数开盘报4189.41点，涨0.16%。 深证成指开盘报14498.70点，涨0.23%。 创业板指开盘报3316.63点，涨0.68%。 沪深300开盘报4737.32点，涨0.18%。 科创50开盘报1467.76点，涨0.20%。 中证500开盘报8651.06点，跌0.08%。 中证1000开盘报8495.95点，涨0.22%。",
+          "url": "https://wallstreetcn.com/livenews/3062284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片",
       "match_count": 3,
       "titles": [
@@ -1003,7 +1143,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -1013,34 +1153,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上证指数早盘收报4179.46点，跌0.07%。 深证成指早盘收报14314.13点，跌1.05%。 创业板指早盘收报3279.71点，跌0.44%。 沪深300早盘收报4722.54点，跌0.13%。 科创50早盘收报1417.75点，跌3.21%。 中证500早盘收报8466.75点，跌2.21%。 中证1000早盘收报8324.70点，跌1.80%。",
-          "url": "https://wallstreetcn.com/livenews/3062390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "上证指数开盘报4189.41点，涨0.16%。 深证成指开盘报14498.70点，涨0.23%。 创业板指开盘报3316.63点，涨0.68%。 沪深300开盘报4737.32点，涨0.18%。 科创50开盘报1467.76点，涨0.20%。 中证500开盘报8651.06点，跌0.08%。 中证1000开盘报8495.95点，涨0.22%。",
-          "url": "https://wallstreetcn.com/livenews/3062284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1063,8 +1175,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 12时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 13时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "券商晨会精华：商业航天用高性能碳纤维迎量价齐升新周期",
+          "url": "https://www.cls.cn/detail/2300524",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 13时51分]"
         }
       ]
     },
