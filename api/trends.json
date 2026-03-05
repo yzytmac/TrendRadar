@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T03:53:24.382652+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-03-06T04:38:00.838993+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时38分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时38分]"
         },
         {
           "title": "沆瀣一气！53对47，美国会参议院否决限制特朗普战争权力的议案",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时38分]"
         },
         {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
@@ -70,8 +70,44 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时38分]"
+        },
+        {
+          "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
+          "url": "https://wallstreetcn.com/livenews/3064642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时05分 ~ 03时53分]"
+          "time_info": "[03时53分 ~ 04时38分]"
+        },
+        {
+          "title": "美国国土安全部部长将换人，特朗普提名新人选",
+          "url": "https://wallstreetcn.com/livenews/3064640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时38分]"
+        },
+        {
+          "title": "特朗普倾向于解除诺姆的国土安全部长职务（彭博社）",
+          "url": "https://wallstreetcn.com/livenews/3064636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时38分]"
         },
         {
           "title": "美国总统特朗普：（被问及泽连斯基提出协助抵御伊朗无人机的提议）我会接受任何国家的任何援助。",
@@ -85,15 +121,15 @@
           "time_info": "02时05分"
         },
         {
-          "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
-          "url": "https://wallstreetcn.com/livenews/3064642",
+          "title": "美国总统特朗普：无意动用战略石油储备。（路透社）",
+          "url": "https://wallstreetcn.com/livenews/3064652",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时53分"
+          "time_info": "04时38分"
         },
         {
           "title": "特朗普表示，他并未批准那项耗资2亿美元、由国土安全部部长克里斯蒂·诺姆（Kristi Noem）出镜的边境安全广告宣传活动。（路透社）",
@@ -107,17 +143,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "美国国土安全部部长将换人，特朗普提名新人选",
-          "url": "https://wallstreetcn.com/livenews/3064640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
           "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
           "url": "https://www.cls.cn/detail/2303813",
           "source": "财联社热门",
@@ -127,17 +152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "特朗普倾向于解除诺姆的国土安全部长职务（彭博社）",
-          "url": "https://wallstreetcn.com/livenews/3064636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
         },
         {
           "title": "俄勒冈州总检察长：十二个美国州预计将提起诉讼，以阻止特朗普政府最新出台的全球性关税。",
@@ -212,7 +226,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -223,7 +237,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         }
@@ -241,8 +255,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时38分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -252,30 +266,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时38分]"
+        },
+        {
+          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2304327",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时38分]"
         },
         {
           "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260306033140632800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时38分]"
         },
         {
           "title": "金十图示：2026年03月05日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260306033140119800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时38分]"
         },
         {
           "title": "美股道琼斯指数跌幅扩大至2%，报47759.04点。",
@@ -290,15 +318,15 @@
           "time_info": "[02时05分 ~ 03时53分]"
         },
         {
-          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2304327",
-          "source": "财联社热门",
+          "title": "李扬：A股生态正质变，百姓的“压舱石”出现了",
+          "url": "https://finance.ifeng.com/loc/cbslt2026",
+          "source": "凤凰网",
           "ranks": [
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时38分]"
         },
         {
           "title": "据媒体报道，美国十二个州预计将提起诉讼，以阻止特朗普最新实施的全球关税政策。 美股延续跌势，标普500指数跌1.2%。",
@@ -307,17 +335,6 @@
           "ranks": [
             6,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 03时53分]"
-        },
-        {
-          "title": "李扬：A股生态正质变，百姓的“压舱石”出现了",
-          "url": "https://finance.ifeng.com/loc/cbslt2026",
-          "source": "凤凰网",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -359,8 +376,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时38分]"
         },
         {
           "title": "雷军回应手机内存芯片价格上涨",
@@ -371,8 +388,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时38分]"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -407,11 +424,12 @@
           "url": "https://flash.jin10.com/detail/20260306031802688800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时38分]"
         }
       ]
     },
@@ -442,11 +460,12 @@
           "url": "https://www.cls.cn/detail/2304248",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时38分]"
         }
       ]
     },
@@ -462,8 +481,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时38分]"
         }
       ]
     }
