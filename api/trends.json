@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T05:36:18.453945+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-03-06T06:33:12.180126+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 06时33分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 06时33分]"
         },
         {
           "title": "沆瀣一气！53对47，美国会参议院否决限制特朗普战争权力的议案",
@@ -37,8 +37,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 06时33分]"
+        },
+        {
+          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://wallstreetcn.com/articles/3766752",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 06时33分]"
         },
         {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
@@ -52,6 +63,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "美国国防部长赫格塞思：（被问及特朗普有关“有权决定伊朗下一任领导人”的言论）美国并未扩大其在伊朗的军事目标。",
+          "url": "https://flash.jin10.com/detail/20260306061952883800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "美国总统特朗普：不打算动用战略石油储备。",
           "url": "https://flash.jin10.com/detail/20260306014823868800",
           "source": "金十数据",
@@ -61,17 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
-          "url": "https://wallstreetcn.com/articles/3766752",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 05时36分]"
         },
         {
           "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
@@ -87,6 +98,19 @@
           "time_info": "[03时53分 ~ 05时36分]"
         },
         {
+          "title": "美国总统特朗普：无意动用战略石油储备。（路透社）",
+          "url": "https://wallstreetcn.com/livenews/3064652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时33分]"
+        },
+        {
           "title": "美国国土安全部部长将换人，特朗普提名新人选",
           "url": "https://wallstreetcn.com/livenews/3064640",
           "source": "华尔街见闻-快讯",
@@ -98,18 +122,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时53分 ~ 05时36分]"
-        },
-        {
-          "title": "美国总统特朗普：无意动用战略石油储备。（路透社）",
-          "url": "https://wallstreetcn.com/livenews/3064652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
         },
         {
           "title": "特朗普倾向于解除诺姆的国土安全部长职务（彭博社）",
@@ -146,6 +158,28 @@
           "time_info": "02时05分"
         },
         {
+          "title": "美国总统特朗普：将采取进一步措施来减轻石油压力。 石油价格似乎已经基本稳定下来了。",
+          "url": "https://wallstreetcn.com/livenews/3064675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "特朗普要求立即赦免以色列总理",
+          "url": "https://wallstreetcn.com/livenews/3064674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
           "url": "https://www.cls.cn/detail/2303813",
           "source": "财联社热门",
@@ -157,15 +191,37 @@
           "time_info": "02时05分"
         },
         {
+          "title": "特朗普：即将采取进一步措施缓解油市压力",
+          "url": "https://flash.jin10.com/detail/20260306061148335800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "特朗普谈油价：涨就涨吧，军事行动重要得多",
           "url": "https://flash.jin10.com/detail/20260306045155124800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "特朗普：伊朗之后，下一个目标是古巴",
+          "url": "https://flash.jin10.com/detail/20260306061002917800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "俄勒冈州总检察长：十二个美国州预计将提起诉讼，以阻止特朗普政府最新出台的全球性关税。",
@@ -179,15 +235,48 @@
           "time_info": "02时05分"
         },
         {
+          "title": "特朗普：美伊冲突比预期提前，伊朗电话来得有点晚",
+          "url": "https://flash.jin10.com/detail/20260306060654621800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "特朗普政府正在权衡降低油价的所有选项",
           "url": "https://flash.jin10.com/detail/20260306044548051800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "美国众议院未能通过阻止特朗普对伊朗动武的决议",
+          "url": "https://flash.jin10.com/detail/20260306054650104800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "美国总统特朗普：我们敦促世界各地的伊朗外交官申请庇护。",
+          "url": "https://flash.jin10.com/detail/20260306054310849800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "美国总统特朗普：美国拥有海量军火，国防工业正加大生产。无需启动《国防生产法》。",
@@ -201,6 +290,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "美国总统特朗普：我们想先搞定伊朗，但古巴只是时间问题。",
+          "url": "https://flash.jin10.com/detail/20260306054250309800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "美国总统特朗普：伊朗行动进展超预期，不会给出时间表。",
           "url": "https://flash.jin10.com/detail/20260306011731845800",
           "source": "金十数据",
@@ -210,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "美国总统特朗普：呼吁伊朗外交官帮助我们塑造一个更好的伊朗。",
+          "url": "https://flash.jin10.com/detail/20260306054232738800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "美国总统特朗普：目前汽油价格并未大幅上涨；霍尔木兹海峡将保持开放。",
@@ -223,6 +334,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "美国总统特朗普：呼吁伊朗军方放下武器。",
+          "url": "https://flash.jin10.com/detail/20260306054104658800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "美国总统特朗普：挑选（伊朗）新领导人进程尚处初期，伊朗最高领袖哈梅内伊之子当选可能性不大。",
           "url": "https://flash.jin10.com/detail/20260306011442646800",
           "source": "金十数据",
@@ -232,6 +354,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "美国总统特朗普：进一步采取措施以减轻对石油市场的压力迫在眉睫。",
+          "url": "https://flash.jin10.com/detail/20260306054103462800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗正在打电话问怎么达成协议，但有点晚了。",
+          "url": "https://flash.jin10.com/detail/20260306053941666800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "美国总统特朗普：支持库尔德人向伊朗发动攻势；我认为如果他们想这么做，那就太好了。",
@@ -245,6 +389,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "美国总统特朗普：伊朗的防空武器没了，通讯设施和飞机都没了。",
+          "url": "https://flash.jin10.com/detail/20260306053838884800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "美国总统特朗普：马奎恩·马林将于2026年3月31日起担任美国国土安全部部长。",
           "url": "https://flash.jin10.com/detail/20260306024253670800",
           "source": "金十数据",
@@ -254,6 +409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "特朗普要求立即赦免以色列总理",
+          "url": "https://flash.jin10.com/detail/20260306053531815800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "美国总统特朗普提名美国参议员马奎恩·马林接替克里斯蒂·诺姆出任美国国土安全部部长。",
@@ -270,7 +436,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -280,8 +446,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 06时33分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -291,8 +457,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 06时33分]"
         },
         {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
@@ -303,30 +469,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 05时36分]"
-        },
-        {
-          "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
-          "url": "https://wallstreetcn.com/livenews/3064666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收盘转涨0.16%",
-          "url": "https://wallstreetcn.com/livenews/3064665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 06时33分]"
         },
         {
           "title": "李扬：A股生态正质变，百姓的“压舱石”出现了",
@@ -336,8 +480,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 06时33分]"
         },
         {
           "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股盘中）",
@@ -350,6 +494,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 04时38分]"
+        },
+        {
+          "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
+          "url": "https://wallstreetcn.com/livenews/3064666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时33分]"
         },
         {
           "title": "金十图示：2026年03月05日（周四）热门中概股行情一览（美股盘中）",
@@ -376,6 +532,18 @@
           "time_info": "[02时05分 ~ 03时53分]"
         },
         {
+          "title": "美股七巨头收盘播报｜英伟达收盘转涨0.16%",
+          "url": "https://wallstreetcn.com/livenews/3064665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时33分]"
+        },
+        {
           "title": "据媒体报道，美国十二个州预计将提起诉讼，以阻止特朗普最新实施的全球关税政策。 美股延续跌势，标普500指数跌1.2%。",
           "url": "https://wallstreetcn.com/livenews/3064618",
           "source": "华尔街见闻-快讯",
@@ -388,13 +556,24 @@
           "time_info": "[02时05分 ~ 03时53分]"
         },
         {
+          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
+          "url": "https://www.cls.cn/detail/2304478",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
+        },
+        {
           "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260306050553225800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -405,7 +584,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -427,7 +606,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -446,7 +625,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -456,19 +635,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 05时36分]"
-        },
-        {
-          "title": "美国拟设新芯片出口框架：想买芯片需先对美投资",
-          "url": "https://flash.jin10.com/detail/20260306052003159800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 06时33分]"
         },
         {
           "title": "雷军回应手机内存芯片价格上涨",
@@ -477,11 +645,34 @@
           "ranks": [
             30,
             19,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 06时33分]"
+        },
+        {
+          "title": "美国拟设新芯片出口框架：想买芯片需先对美投资",
+          "url": "https://flash.jin10.com/detail/20260306052003159800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
+          "url": "https://wallstreetcn.com/livenews/3064683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "市场消息：美国考虑制定规则，为寻求美国AI芯片的国家设立四个等级，美国考虑新的框架以监管人工智能芯片出口，出口超过20万个美国AI芯片可能需要对美国AI数据中心或安全进行投资。",
@@ -490,7 +681,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -567,8 +758,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 06时33分]"
         }
       ]
     },
@@ -584,8 +775,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 06时33分]"
         }
       ]
     }
