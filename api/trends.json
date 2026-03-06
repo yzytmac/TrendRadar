@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T20:56:52.887414+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2026-03-06T21:57:03.774373+08:00",
+  "total_titles_processed": 1833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[02时05分 ~ 20时56分]"
+          "appearance_count": 24,
+          "time_info": "[02时05分 ~ 21时57分]"
         },
         {
           "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
@@ -75,8 +75,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时04分 ~ 20时56分]"
+          "appearance_count": 15,
+          "time_info": "[10时04分 ~ 21时57分]"
         },
         {
           "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
@@ -187,6 +187,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "美媒：本月非农报告对特朗普极为不利",
+          "url": "https://flash.jin10.com/detail/20260306213951107800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "特朗普在白宫接见梅西",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E6%8E%A5%E8%A7%81%E6%A2%85%E8%A5%BF%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -257,6 +268,18 @@
           "time_info": "[12时42分 ~ 15时39分]"
         },
         {
+          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
+          "url": "https://wallstreetcn.com/articles/3766889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 21时57分]"
+        },
+        {
           "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
           "url": "https://wallstreetcn.com/livenews/3064642",
           "source": "华尔街见闻-快讯",
@@ -294,6 +317,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时53分 ~ 05时36分]"
+        },
+        {
+          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
+          "url": "https://wallstreetcn.com/articles/3766863",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 21时57分]"
         },
         {
           "title": "美国24州联合起诉特朗普政府",
@@ -390,17 +424,6 @@
           "time_info": "13时45分"
         },
         {
-          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
-          "url": "https://wallstreetcn.com/articles/3766889",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
           "title": "特朗普表示，他并未批准那项耗资2亿美元、由国土安全部部长克里斯蒂·诺姆（Kristi Noem）出镜的边境安全广告宣传活动。（路透社）",
           "url": "https://wallstreetcn.com/livenews/3064616",
           "source": "华尔街见闻-快讯",
@@ -410,17 +433,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
-          "url": "https://wallstreetcn.com/articles/3766863",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
         },
         {
           "title": "特朗普要求立即赦免以色列总理内塔尼亚胡",
@@ -575,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "特朗普和海格塞斯今天将与国防公司首席执行官会面。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3065275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "美国总统特朗普：伊朗行动进展超预期，不会给出时间表。",
@@ -734,7 +757,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
@@ -746,8 +769,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时51分 ~ 20时56分]"
+          "appearance_count": 17,
+          "time_info": "[07时51分 ~ 21时57分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -865,6 +888,17 @@
           "time_info": "16时39分"
         },
         {
+          "title": "【美国2月非农就业报告公布后，美国10年期国债收益率短线下挫，现货黄金短线拉升】美元指数短线走低约20点，现报99.1。美股期货短线走低，纳斯达克100指数期货跌近1%。美国10年期国债收益率短线下挫，现报4.164%。现货黄金短线拉升约40美元，现报5118.35美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3065293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "可孚医疗港股上市获中国证监会备案。",
           "url": "https://wallstreetcn.com/livenews/3065224",
           "source": "华尔街见闻-快讯",
@@ -937,6 +971,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时05分 ~ 03时53分]"
+        },
+        {
+          "title": "非农数据疲软提振降息预期，美债走高，美股期指跌幅扩大，WTI原油近两年来首破86美元，现货黄金短线拉升",
+          "url": "https://wallstreetcn.com/articles/3766902",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
         },
         {
           "title": "据媒体报道，美国十二个州预计将提起诉讼，以阻止特朗普最新实施的全球关税政策。 美股延续跌势，标普500指数跌1.2%。",
@@ -1068,7 +1113,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1090,7 +1135,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         }
@@ -1124,8 +1169,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时42分 ~ 20时56分]"
+          "appearance_count": 14,
+          "time_info": "[12时42分 ~ 21时57分]"
         },
         {
           "title": "中东冲突威胁，韩国警告：芯片供应链面临“中断”风险！",
@@ -1323,9 +1368,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 21时57分]"
         },
         {
           "title": "十五五规划里的个人机遇",
