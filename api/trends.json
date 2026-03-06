@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T19:29:46.689814+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2026-03-06T20:56:52.887414+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[02时05分 ~ 19时29分]"
+          "appearance_count": 22,
+          "time_info": "[02时05分 ~ 20时56分]"
         },
         {
           "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
@@ -71,11 +71,12 @@
           "url": "https://news.ifeng.com/c/8rGDBDdQi38",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时04分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[10时04分 ~ 20时56分]"
         },
         {
           "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
@@ -88,8 +89,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时39分 ~ 19时29分]"
+          "appearance_count": 9,
+          "time_info": "[15时39分 ~ 20时56分]"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -389,6 +390,17 @@
           "time_info": "13时45分"
         },
         {
+          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
+          "url": "https://wallstreetcn.com/articles/3766889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "特朗普表示，他并未批准那项耗资2亿美元、由国土安全部部长克里斯蒂·诺姆（Kristi Noem）出镜的边境安全广告宣传活动。（路透社）",
           "url": "https://wallstreetcn.com/livenews/3064616",
           "source": "华尔街见闻-快讯",
@@ -406,7 +418,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -722,7 +734,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
@@ -730,11 +742,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时51分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[07时51分 ~ 20时56分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -797,24 +810,13 @@
           "time_info": "[02时05分 ~ 07时52分]"
         },
         {
-          "title": "可孚医疗港股上市获中国证监会备案。",
-          "url": "https://wallstreetcn.com/livenews/3065224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
           "title": "胜宏科技（惠州）港股IPO获中国证监会备案。",
           "url": "https://wallstreetcn.com/livenews/3065223",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -861,6 +863,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "可孚医疗港股上市获中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/3065224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时56分]"
         },
         {
           "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
@@ -1048,6 +1062,17 @@
           "time_info": "15时39分"
         },
         {
+          "title": "深港通下的港股通标的证券名单调整 3月9日起生效",
+          "url": "https://wallstreetcn.com/livenews/3065234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "油价急升，美股期货跳水，卡塔尔称所有海湾国家恐在数周内关停生产",
           "url": "https://wallstreetcn.com/livenews/3065152",
           "source": "华尔街见闻-快讯",
@@ -1057,6 +1082,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "胜宏科技（惠州）港股IPO获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3065223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     },
@@ -1084,11 +1120,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时42分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[12时42分 ~ 20时56分]"
         },
         {
           "title": "中东冲突威胁，韩国警告：芯片供应链面临“中断”风险！",
@@ -1266,7 +1303,7 @@
     },
     {
       "keyword_group": "十五五规划 国产替代 自主创新",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "十五五规划109项重大工程项目一览",
@@ -1278,6 +1315,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时42分 ~ 15时39分]"
+        },
+        {
+          "title": "十五五规划新指标新看点",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E6%96%B0%E6%8C%87%E6%A0%87%E6%96%B0%E7%9C%8B%E7%82%B9%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "十五五规划里的个人机遇",
@@ -1317,8 +1365,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时50分 ~ 19时29分]"
+          "appearance_count": 10,
+          "time_info": "[14时50分 ~ 20时56分]"
         },
         {
           "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",
@@ -1388,7 +1436,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         }
@@ -1439,7 +1487,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         }
