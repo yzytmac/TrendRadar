@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T07:28:35.197804+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-03-07T09:56:51.043127+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 09时56分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 09时56分]"
         },
         {
           "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
@@ -39,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 09时56分]"
         },
         {
           "title": "特朗普威胁下一个就是古巴",
@@ -63,6 +64,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时34分 ~ 07时28分]"
+        },
+        {
+          "title": "美国总统特朗普：明天，我将与第一夫人及内阁成员一同前往多佛空军基地，向我们的伟大勇士致以最崇高的敬意。",
+          "url": "https://flash.jin10.com/detail/20260307093639717800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
+          "url": "https://wallstreetcn.com/articles/3766927",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
@@ -175,9 +198,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "据NBC新闻：特朗普在与助手和共和党官员讨论战后情景时提到了在伊朗部署地面部队的想法。",
+          "url": "https://flash.jin10.com/detail/20260307090102717800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "特朗普政府将允许在美国出售部分委内瑞拉黄金",
@@ -202,6 +236,17 @@
           "time_info": "03时35分"
         },
         {
+          "title": "特朗普和美国大军火商开会",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%86%9B%E7%81%AB%E5%95%86%E5%BC%80%E4%BC%9A%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "特朗普约谈承包商巨头 白宫坚称弹药充足",
           "url": "https://flash.jin10.com/detail/20260306235350557800",
           "source": "金十数据",
@@ -211,6 +256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "特朗普：军工企业一致同意将“高精尖”武器产量提高四倍",
+          "url": "https://flash.jin10.com/detail/20260307082138210800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "特朗普政府放宽委内瑞拉对美售金，缓解其美元短缺压力",
@@ -238,7 +294,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
@@ -277,6 +333,29 @@
           "time_info": "06时29分"
         },
         {
+          "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",
+          "url": "https://wallstreetcn.com/livenews/3065532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2305872",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时56分]"
+        },
+        {
           "title": "半导体ETF收跌超3.7%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3065473",
           "source": "华尔街见闻-快讯",
@@ -301,24 +380,13 @@
           "time_info": "[01时35分 ~ 02时45分]"
         },
         {
-          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2305872",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
           "title": "Vertiv、EchoStar美股盘后涨超3%，Lumentum、相干公司Coherent涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3065496",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -347,8 +415,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 09时56分]"
         }
       ]
     },
@@ -384,6 +452,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时42分 ~ 07时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中信证券：继续看好存储需求超预期，预计行业供不应求将持续至2027年上半年",
+          "url": "https://wallstreetcn.com/livenews/3065537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     }
