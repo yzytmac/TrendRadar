@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T17:53:07.364362+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-03-09T18:45:27.918230+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "王毅谈特朗普访华",
@@ -33,15 +33,19 @@
           "time_info": "[00时29分 ~ 12时52分]"
         },
         {
-          "title": "美以伊战争｜伊朗新任最高领袖将揭晓，特朗普威胁",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
+          "url": "https://wallstreetcn.com/articles/3766987",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            8,
+            7,
+            4,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[10时07分 ~ 18时45分]"
         },
         {
           "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
@@ -55,22 +59,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 17时53分]"
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 18时45分]"
         },
         {
-          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
-          "url": "https://wallstreetcn.com/articles/3766987",
-          "source": "华尔街见闻",
+          "title": "美以伊战争｜伊朗新任最高领袖将揭晓，特朗普威胁",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            7,
-            4,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 17时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
@@ -166,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
@@ -274,8 +286,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时45分]"
+        },
+        {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时45分]"
         },
         {
           "title": "特朗普称适时结束对伊军事行动",
@@ -324,17 +347,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时23分]"
-        },
-        {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "阿联酋国家通讯社：阿联酋总统与美国总统特朗普通话，以讨论伊朗的袭击行为。",
@@ -407,6 +419,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时11分 ~ 16时44分]"
+        },
+        {
+          "title": "美国总统特使威特科夫、特朗普女婿库什纳访以行程推迟。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3066456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "据以色列N12新闻：特朗普总统的顾问和女婿贾里德·库什纳预计将于周二抵达以色列。",
@@ -486,6 +509,28 @@
           "time_info": "07时25分"
         },
         {
+          "title": "特朗普的儿子们支持一家瞄准国防部订单的无人机新公司。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3066443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "据华尔街日报：Powerus表示，与特朗普有关的美国风险投资公司、Unusual Machines公司和Dominari证券公司均参与了无人机交易。",
+          "url": "https://flash.jin10.com/detail/20260309180718368800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "特朗普：未经我批准 伊朗新任最高领袖不会在位太久",
           "url": "https://flash.jin10.com/detail/20260308231657473800",
           "source": "金十数据",
@@ -506,6 +551,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "据华尔街日报：埃里克·特朗普和小唐纳德·特朗普通过反向并购投资无人机整合公司Powerus。",
+          "url": "https://flash.jin10.com/detail/20260309180624836800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-09）",
+          "url": "https://flash.jin10.com/detail/20260309180527182800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "特朗普：油价飙升是“预料中的波折”",
@@ -544,7 +611,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "A股春季行情短期仍可能延续？投资主线有哪些？十大券商策略来了",
@@ -586,8 +653,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时23分 ~ 17时53分]"
+          "appearance_count": 12,
+          "time_info": "[01时23分 ~ 18时45分]"
         },
         {
           "title": "美股三大股指期货周一全线低开，均跌1%。",
@@ -632,7 +699,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -712,6 +779,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "摩根士丹利：对美股未来6-12个月走势仍持乐观看法",
+          "url": "https://wallstreetcn.com/livenews/3066428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "G7拟协调释放石油储备！WTI原油抹去一半涨幅，全球股债双杀、芯片股普遍下跌，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 17时53分]"
+        },
+        {
+          "title": "G7拟协调释放石油储备！美油回落至100美元下方，全球股债双杀、芯片股普遍下跌，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "博通作为全球市值第二的芯片公司为什么没有什么知名度？",
+          "url": "https://www.zhihu.com/question/655483126",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "成都华微：发布超高速10位128GSPS A/D转换器芯片。",
+          "url": "https://wallstreetcn.com/livenews/3066447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     },
@@ -736,11 +864,12 @@
           "url": "https://www.zhihu.com/question/2014341784478644036",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时45分]"
         },
         {
           "title": "曝美不满以袭击伊朗燃料存储设施",
@@ -823,34 +952,6 @@
       ]
     },
     {
-      "keyword_group": "芯片",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "G7拟协调释放石油储备！WTI原油抹去一半涨幅，全球股债双杀、芯片股普遍下跌，金银跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3766990",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时44分 ~ 17时53分]"
-        },
-        {
-          "title": "博通作为全球市值第二的芯片公司为什么没有什么知名度？",
-          "url": "https://www.zhihu.com/question/655483126",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
@@ -864,6 +965,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "胜宏科技",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "胜宏科技：发行境外上市股份（H股）获得中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/3066462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     }
