@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T07:29:29.177280+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-03-10T09:59:41.144798+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 97,
+      "match_count": 108,
       "titles": [
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -30,6 +30,31 @@
           "time_info": "[01时02分 ~ 06时29分]"
         },
         {
+          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
+          "url": "https://wallstreetcn.com/articles/3767022",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 09时59分]"
+        },
+        {
           "title": "美以伊战争｜特朗普：战争已基本结束",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -41,39 +66,27 @@
           "time_info": "[04时35分 ~ 06时29分]"
         },
         {
-          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
-          "url": "https://wallstreetcn.com/articles/3767022",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时29分]"
-        },
-        {
           "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
           "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时29分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 09时59分]"
+        },
+        {
+          "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时59分]"
         },
         {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
@@ -85,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
-        },
-        {
-          "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
-          "url": "https://wallstreetcn.com/articles/3766990",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
         },
         {
           "title": "美以伊战争｜特朗普：距离向伊朗派兵“还差得远”",
@@ -115,9 +117,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "美以伊战争｜特朗普说战争快结束了，革命卫队驳斥",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普：又将有1亿桶石油从委内瑞拉运抵。",
@@ -129,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
+          "url": "https://wallstreetcn.com/articles/3767083",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普：美国正在打击伊朗的无人机制造基地，随着军事行动的持续，伊朗将“很快完蛋”。",
@@ -170,7 +194,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -198,6 +222,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时36分]"
+        },
+        {
+          "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
+          "url": "https://www.cls.cn/detail/2307815",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
+          "url": "https://www.cls.cn/detail/2307782",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时59分]"
         },
         {
           "title": "美国总统特朗普：美国通胀“暴跌”。",
@@ -284,6 +332,17 @@
           "time_info": "[04时36分 ~ 05时33分]"
         },
         {
+          "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
+          "url": "https://www.cls.cn/detail/2307862",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗问题）密切关注伊朗是否已激活“潜伏特工”。",
           "url": "https://flash.jin10.com/detail/20260310061947210800",
           "source": "金十数据",
@@ -301,20 +360,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
         {
-          "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
-          "url": "https://www.cls.cn/detail/2307782",
-          "source": "财联社热门",
+          "title": "媒体证实是美国「战斧」巡航导弹炸了伊朗小学，特朗普曾说是伊朗「自导自演」，究竟是怎么回事？",
+          "url": "https://www.zhihu.com/question/2014356299022821037",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "美媒：特朗普没有对伊朗的“战后计划”",
+          "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "09时59分"
         },
         {
           "title": "克里姆林宫：美国总统特朗普已致电俄罗斯总统普京，讨论伊朗和乌克兰问题。美国总统特朗普再次表示希望乌克兰冲突尽快结束。通话持续约一小时，富有建设性，务实且坦诚。",
@@ -367,7 +437,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -383,15 +453,15 @@
           "time_info": "01时02分"
         },
         {
-          "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
-          "url": "https://www.cls.cn/detail/2307815",
+          "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
+          "url": "https://www.cls.cn/detail/2307809",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普表示，他已考虑好接替伊朗最高领袖哈梅内伊的人选，但未作详细说明。",
@@ -537,6 +607,28 @@
           "time_info": "06时29分"
         },
         {
+          "title": "特朗普：若伊朗阻断霍尔木兹海峡 美国将施以更猛烈打击",
+          "url": "https://wallstreetcn.com/livenews/3066881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "普京与特朗普通电话讨论伊朗局势",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D%E8%AE%A8%E8%AE%BA%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "黎巴嫩请求特朗普政府斡旋与以色列的直接和平谈判，以结束冲突。",
           "url": "https://flash.jin10.com/detail/20260310015030516800",
           "source": "金十数据",
@@ -675,7 +767,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -752,7 +844,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -796,7 +888,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -856,6 +948,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "普京与特朗普通电话讨论伊朗局势",
+          "url": "https://www.toutiao.com/trending/7614555226485948458/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "金十提示：美国总统特朗普在共和党成员问题会议上发表讲话。",
           "url": "https://flash.jin10.com/detail/20260310045108513800",
           "source": "金十数据",
@@ -884,7 +987,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -917,7 +1020,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -961,7 +1064,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -999,6 +1102,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "普京特朗普再通话",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E9%80%9A%E8%AF%9D%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "特朗普政府已发出传票，要求调取亚利桑那州2020年选举记录。这是美国总统为重新审理他输掉的选举而采取的最新举措。",
           "url": "https://flash.jin10.com/detail/20260310013525901800",
           "source": "金十数据",
@@ -1032,6 +1146,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "LME铝价下跌3%，此前特朗普相关表态降低了市场对供应中断的恐惧。",
+          "url": "https://wallstreetcn.com/livenews/3066859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "美国总统特朗普：（谈及霍尔木兹海峡）现在船只正在通过，但“正在考虑控制它”。",
           "url": "https://flash.jin10.com/detail/20260310033017745800",
           "source": "金十数据",
@@ -1060,7 +1185,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -1082,7 +1207,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         }
@@ -1090,7 +1215,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "十大券商看后市｜A股将重回自身节奏，配置更聚焦确定性",
@@ -1103,6 +1228,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 07时29分]"
+        },
+        {
+          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2307796",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时29分 ~ 09时59分]"
         },
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
@@ -1127,6 +1265,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 05时33分]"
+        },
+        {
+          "title": "A股航运板块震荡拉升，招商轮船涨停，中远海能涨超8%，招商南油、海航科技、中远海特、海通发展跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3066899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "受特朗普言论影响，美股三大股指均转涨，纳指涨超1%。",
@@ -1162,16 +1311,15 @@
           "time_info": "04时36分"
         },
         {
-          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2307796",
-          "source": "财联社热门",
+          "title": "宁德时代港股一度涨9.3%，此前公布的财报好于预期。",
+          "url": "https://wallstreetcn.com/livenews/3066896",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
@@ -1245,6 +1393,50 @@
           "time_info": "04时36分"
         },
         {
+          "title": "A股OpenClaw概念股延续强势，云赛智联2连板，二六三涨停，优刻得、绿盟科技涨超15%，青云科技、顺网科技、网宿科技、智微智能跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3066888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "港股AI应用股走强，智谱涨近13%、金山云涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3066882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "A股CPO等算力硬件股开盘强势，瑞斯康达一字涨停，天孚通信涨超7%，炬光科技、联特科技、汇绿生态、德科立涨逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3066880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "A股三大指数集体高开",
+          "url": "https://wallstreetcn.com/livenews/3066874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "美股尾盘，三大美股指数均转涨，纳斯达克指数涨超1.3%。",
           "url": "https://wallstreetcn.com/livenews/3066709",
           "source": "华尔街见闻-快讯",
@@ -1254,6 +1446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7615396444580646454/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股盘中）",
@@ -1319,6 +1522,66 @@
       ]
     },
     {
+      "keyword_group": "宁德时代",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "宁德时代2025年报出炉：净利润722亿元，拟分红超300亿元",
+          "url": "https://www.cls.cn/detail/2307584",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 09时59分]"
+        },
+        {
+          "title": "Jefferies：宁德时代业绩大超预期，巩固其“电动化领域的台积电”地位",
+          "url": "https://wallstreetcn.com/livenews/3066863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "宁德时代日赚近2亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E6%97%A5%E8%B5%9A%E8%BF%912%E4%BA%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数开盘报4098.59点，涨0.05%。 深证成指开盘报14239.30点，涨1.22%。 创业板指开盘报3281.94点，涨2.29%。 沪深300开盘报4648.79点，涨0.72%。 科创50开盘报1417.26点，涨1.93%。 中证500开盘报8341.14点，涨0.74%。 中证1000开盘报8272.94点，涨0.84%。",
+          "url": "https://wallstreetcn.com/livenews/3066873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片",
       "match_count": 1,
       "titles": [
@@ -1371,26 +1634,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时02分 ~ 06时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "宁德时代",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宁德时代2025年报出炉：净利润722亿元，拟分红超300亿元",
-          "url": "https://www.cls.cn/detail/2307584",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时29分]"
         }
       ]
     }
