@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T00:02:32.603704+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-11T01:04:30.667621+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
@@ -48,8 +48,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "美国总统特使威特科夫：（谈伊朗问题）美国总统特朗普始终愿意对话。",
@@ -61,23 +72,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
-          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -87,8 +87,30 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
+        },
+        {
+          "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260311003131035800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时04分"
+        },
+        {
+          "title": "金十图示：2026年03月10日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260311003024125800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
           "title": "波音(BA.N)公布2月交付数据公布后，美股股价下跌3.1%。",
@@ -146,11 +168,12 @@
           "url": "https://www.douyin.com/hot/2426070",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         }
       ]
     }
