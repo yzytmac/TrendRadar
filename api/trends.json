@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T02:54:59.577942+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-03-12T03:42:18.648045+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 41,
       "titles": [
         {
           "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时42分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -26,8 +26,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时42分]"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时42分]"
+        },
+        {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时42分]"
         },
         {
           "title": "市场消息：一旦战斗结束，海湾石油出口恢复正常可能需要数月时间。如果伊朗或其代理人试图在特朗普宣布胜利后干扰航运路线，供应恢复的速度将进一步放缓。",
@@ -41,15 +65,28 @@
           "time_info": "00时54分"
         },
         {
-          "title": "标普500指数维持超过0.2%的跌幅，据华尔街日报，美国总统特朗普将宣布新的关税调查。",
-          "url": "https://wallstreetcn.com/livenews/3068295",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普说对伊行动即将结束",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%AF%B9%E4%BC%8A%E8%A1%8C%E5%8A%A8%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            12,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时42分]"
+        },
+        {
+          "title": "美国海上石油生产商Sable(SOC.N)现涨21%，报道称特朗普将援引一项紧急法支持该公司，为南加州海岸恢复石油生产铺平道路。",
+          "url": "https://flash.jin10.com/detail/20260312031639157800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "03时42分"
         },
         {
           "title": "市场消息：美国在中东的部分盟友私下担心特朗普政府对战争的经济后果考虑不足。",
@@ -85,41 +122,38 @@
           "time_info": "01时50分"
         },
         {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
-          "source": "华尔街见闻",
+          "title": "特朗普称伊朗海军已遭重创，油价将下跌",
+          "url": "https://flash.jin10.com/detail/20260312031046823800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
         },
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
-          "source": "华尔街见闻",
+          "title": "特朗普将援引一项紧急法，为海上石油生产商Sable公司提供援助",
+          "url": "https://flash.jin10.com/detail/20260312031026004800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
         },
         {
-          "title": "特朗普说对伊行动即将结束",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%AF%B9%E4%BC%8A%E8%A1%8C%E5%8A%A8%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "标普500指数维持超过0.2%的跌幅，据华尔街日报，美国总统特朗普将宣布新的关税调查。",
+          "url": "https://wallstreetcn.com/livenews/3068295",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            26,
-            23
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时54分]"
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时42分]"
         },
         {
           "title": "美官员称特朗普对伊朗反应有误判",
@@ -131,6 +165,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 02时54分]"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动“即将结束”，暗示可能打击更多目标，伊方警告美或陷入长期耗损战",
+          "url": "https://wallstreetcn.com/articles/3767268",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 03时42分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，伊方称转为“连环打击”、警告美或陷入长期耗损战",
@@ -178,6 +223,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "特朗普将动用紧急法案支持海上石油生产商Sable",
+          "url": "https://wallstreetcn.com/livenews/3068302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
           "title": "特朗普政府官员准备宣布新的贸易调查 或要重建关税壁垒",
           "url": "https://flash.jin10.com/detail/20260312010450203800",
           "source": "金十数据",
@@ -187,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "特朗普谈伊朗：我们进行了一次短暂的“远足”。我们不得不进行这次为期两周的“远足”。但这真是太棒了。我们的军队表现得令人难以置信。",
+          "url": "https://flash.jin10.com/detail/20260312030449102800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
         },
         {
           "title": "特朗普谈西班牙：这个国家不配合美国。",
@@ -209,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "美国总统特朗普宣称：油价将下跌。",
+          "url": "https://wallstreetcn.com/livenews/3068299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
         },
         {
           "title": "美国总统特朗普：我不担心伊朗支持的美国国内恐怖袭击。",
@@ -244,6 +322,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "市场消息：特朗普将援引紧急法支持能源企业萨布尔公司（Sable），因石油供应紧张局势加剧。",
+          "url": "https://flash.jin10.com/detail/20260312025723878800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
           "title": "特朗普所谓的得州炼油厂预计将于2029年开始销售燃料",
           "url": "https://wallstreetcn.com/livenews/3068220",
           "source": "华尔街见闻-快讯",
@@ -277,6 +366,28 @@
           "time_info": "00时54分"
         },
         {
+          "title": "美国总统特朗普表示，已打击28艘伊朗布雷船。",
+          "url": "https://flash.jin10.com/detail/20260312025402429800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "美国总统特朗普表示，已两次重创伊朗领导层。油价将会下跌。美国军方的进展远超预期。",
+          "url": "https://flash.jin10.com/detail/20260312025304600800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
           "title": "特朗普：我们爱黎巴嫩，但该国必须摆脱真主党。",
           "url": "https://flash.jin10.com/detail/20260312004931865800",
           "source": "金十数据",
@@ -286,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "特朗普再次威胁将切断与西班牙贸易往来",
+          "url": "https://flash.jin10.com/detail/20260312024400952800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
         },
         {
           "title": "特朗普谈打击伊朗：我们还没结束。",
@@ -356,8 +478,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时42分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -367,8 +489,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时42分]"
+        },
+        {
+          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2310036",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时42分]"
         },
         {
           "title": "高盛高管认为美股存在“极端”上涨的潜力",
@@ -381,18 +515,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 02时54分]"
-        },
-        {
-          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2310036",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时54分]"
         },
         {
           "title": "金十图示：2026年03月11日（周三）美股热门股票行情一览（美股盘中）",
@@ -448,8 +570,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时42分]"
         }
       ]
     },
@@ -465,8 +587,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时42分]"
         }
       ]
     }
