@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T21:02:21.500248+08:00",
-  "total_titles_processed": 1855,
+  "generated_at": "2026-03-11T22:11:21.443842+08:00",
+  "total_titles_processed": 1978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -99,8 +99,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时16分 ~ 21时02分]"
+          "appearance_count": 18,
+          "time_info": "[12时16分 ~ 22时11分]"
         },
         {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
@@ -112,8 +112,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时59分 ~ 21时02分]"
+          "appearance_count": 19,
+          "time_info": "[09时59分 ~ 22时11分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -126,8 +126,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时59分 ~ 21时02分]"
+          "appearance_count": 19,
+          "time_info": "[09时59分 ~ 22时11分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
@@ -198,6 +198,17 @@
           "time_info": "09时59分"
         },
         {
+          "title": "美国总统特朗普：伊朗战争很快就会结束，“我什么时候想让它结束，它就会什么时候结束”。",
+          "url": "https://flash.jin10.com/detail/20260311220244999800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "Anthropic PBC在一场听证会上告知美国法官Rita F. Lin，如果总统特朗普在政府承包合同方面封杀该公司，恐怕今年会“损失”（至少）数十亿美元收入。 希望（司法系统）尽快采取行动，阻止五角大楼给公司贴标“供应链风险”的做法。",
           "url": "https://wallstreetcn.com/livenews/3067607",
           "source": "华尔街见闻-快讯",
@@ -207,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已“几乎没有可打击的目标”了，与伊朗的战争很快就会结束。",
+          "url": "https://flash.jin10.com/detail/20260311220157504800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
@@ -528,7 +550,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -538,8 +560,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时28分 ~ 21时02分]"
+          "appearance_count": 20,
+          "time_info": "[07时28分 ~ 22时11分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -687,6 +709,28 @@
           "time_info": "[05时30分 ~ 06时30分]"
         },
         {
+          "title": "美股开盘，三大指数涨跌不一，道指跌0.17%，标普500指数涨0.13%，纳指涨0.33%。甲骨文涨超11%，公司全年营收指引超预期。Nebius上涨9.5%，英伟达将向Nebius投资20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3068142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2310036",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260311003131035800",
           "source": "金十数据",
@@ -707,6 +751,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "91只A股筹码大换手",
+          "url": "https://www.toutiao.com/trending/7614806198060204073/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股收盘）",
@@ -808,6 +863,28 @@
           "time_info": "16时42分"
         },
         {
+          "title": "高盛：对冲基金仓位或为美股大幅反弹创造条件",
+          "url": "https://flash.jin10.com/detail/20260311214325036800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "金十图示：2026年03月11日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260311214205119800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "波音(BA.N)公布2月交付数据公布后，美股股价下跌3.1%。",
           "url": "https://flash.jin10.com/detail/20260310230408773800",
           "source": "金十数据",
@@ -817,6 +894,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美国CPI符合预期 美股三大股指涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260311213023257800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "美股股指期货集体走低，标普500指数期货跌至盘中低点，日内跌0.28%。纳指期货跌0.24%，道指期货跌0.45%。",
+          "url": "https://wallstreetcn.com/livenews/3068112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         }
       ]
     },
@@ -833,11 +932,12 @@
             11,
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时43分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[15时43分 ~ 22时11分]"
         },
         {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
@@ -1042,9 +1142,72 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "宁德时代创始人曾毓群个人分红81亿",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9B%BE%E6%AF%93%E7%BE%A4%E4%B8%AA%E4%BA%BA%E5%88%86%E7%BA%A281%E4%BA%BF&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时11分]"
+        },
+        {
+          "title": "宁德时代回应固态电池进展",
+          "url": "https://www.toutiao.com/trending/7615466959261486628/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 07时28分]"
+        },
+        {
+          "title": "宁德时代披露 2025 年年报，境外营收占比超 30%，如何解读？",
+          "url": "https://www.zhihu.com/question/2015004949147251007",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "恒生指数收盘跌0.24%，宁德时代涨9%",
+          "url": "https://wallstreetcn.com/livenews/3067927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "宁德时代AH股连续第二日大涨",
+          "url": "https://wallstreetcn.com/livenews/3067737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     },
@@ -1099,57 +1262,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "宁德时代",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "宁德时代创始人曾毓群个人分红81亿",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9B%BE%E6%AF%93%E7%BE%A4%E4%B8%AA%E4%BA%BA%E5%88%86%E7%BA%A281%E4%BA%BF&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "宁德时代回应固态电池进展",
-          "url": "https://www.toutiao.com/trending/7615466959261486628/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 07时28分]"
-        },
-        {
-          "title": "恒生指数收盘跌0.24%，宁德时代涨9%",
-          "url": "https://wallstreetcn.com/livenews/3067927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "宁德时代AH股连续第二日大涨",
-          "url": "https://wallstreetcn.com/livenews/3067737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
         }
       ]
     },
