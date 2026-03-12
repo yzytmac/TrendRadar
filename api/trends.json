@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T02:55:17.480742+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-03-13T03:43:28.646093+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时43分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -26,8 +26,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时43分]"
+        },
+        {
+          "title": "特朗普敦促鲍威尔立即降息：不要等到美联储下次开会",
+          "url": "https://wallstreetcn.com/livenews/3069118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         },
         {
           "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
@@ -36,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
         },
@@ -48,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时43分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -60,8 +71,41 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时43分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们主动出击，以前所未有的力量进行强力打击。我们与美国建立了前所未有的联盟，与我的个人朋友、总统唐纳德·特朗普紧密合作。",
+          "url": "https://flash.jin10.com/detail/20260313031932554800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：几乎每天都会与美国总统特朗普畅谈。",
+          "url": "https://flash.jin10.com/detail/20260313031754519800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
+          "url": "https://flash.jin10.com/detail/20260313030815962800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         },
         {
           "title": "美国参议院少数党领袖舒默：唐纳德·特朗普怎么会没预见到霍尔木兹海峡危机呢？一个略懂地缘政治的大学生都能告诉你，伊朗最大的筹码就是这条狭窄的通道，世界上很大一部分石油都必须经过这里运输。而现在，美国政府正忙于控制事态发展，应对不断上涨的油价。",
@@ -100,8 +144,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时43分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -111,32 +155,26 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "十五五规划 国产替代 自主创新",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "十五五规划纲要通过意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E7%BA%B2%E8%A6%81%E9%80%9A%E8%BF%87%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时43分]"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3069122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
         {
           "title": "马斯克对Digital Optimus项目的时间节点给出回应：六个月。",
           "url": "https://wallstreetcn.com/livenews/3069053",
@@ -152,6 +190,23 @@
       ]
     },
     {
+      "keyword_group": "十五五规划 国产替代 自主创新",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "十五五规划纲要通过意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E7%BA%B2%E8%A6%81%E9%80%9A%E8%BF%87%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时43分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
       "match_count": 1,
       "titles": [
@@ -161,11 +216,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 02时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时49分 ~ 03时43分]"
         }
       ]
     },
@@ -213,11 +269,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时43分]"
         }
       ]
     }
