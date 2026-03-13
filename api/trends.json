@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T15:45:25.018857+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-03-13T16:40:24.416397+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
@@ -43,19 +43,6 @@
           "time_info": "[00时04分 ~ 05时33分]"
         },
         {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://www.toutiao.com/trending/7615267437721780267/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 10时03分]"
-        },
-        {
           "title": "特朗普称穆杰塔巴可能受伤但仍活着",
           "url": "https://news.ifeng.com/c/8rSDrMIby5D",
           "source": "凤凰网",
@@ -63,8 +50,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时44分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时44分 ~ 16时40分]"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://www.toutiao.com/trending/7615267437721780267/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            24,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 16时40分]"
         },
         {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
@@ -76,8 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 15时45分]"
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 16时40分]"
         },
         {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
@@ -103,6 +104,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时49分 ~ 16时40分]"
         },
         {
           "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
@@ -139,18 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 13时49分]"
-        },
-        {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时49分 ~ 15时45分]"
         },
         {
           "title": "特朗普敦促鲍威尔立即降息：不要等到美联储下次开会",
@@ -362,7 +364,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -409,8 +411,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时44分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时44分 ~ 16时40分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
@@ -433,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "为何油价大涨美股大跌",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B2%B9%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
@@ -606,9 +619,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌0.98%，恒生科技指数收跌0.99%。百度涨1.5%，阿里巴巴涨0.7%，老铺黄金跌近4%，安踏体育跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3069542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "A股PCB概念股震荡回升，亨通股份触及涨停，中英科技涨超10%，南亚新材、沪电股份、金安国纪涨超5%。",
@@ -620,12 +644,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "Adobe美股盘前下跌9%，公司上季营收超预期创纪录，但指引平平，任期最久CEO将卸任。",
+          "url": "https://wallstreetcn.com/livenews/3069535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
@@ -661,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "发生了什么？伊朗最高领袖这一举动让马斯克站上“风口浪尖”",
+          "url": "https://www.cls.cn/detail/2311539",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "马斯克表示欢迎Jason Ginsberg、Andrew Milich加入xAI。",
@@ -750,8 +796,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 15时45分]"
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 16时40分]"
         },
         {
           "title": "科创板128家集成电路企业预计净利增83%，算力、存储、光芯片等业绩突出",
@@ -845,6 +891,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "寒武纪2025年营收暴增超450%，净利润20.6亿元强势扭亏，章建平增持40.8万股 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3767362",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时26分 ~ 16时40分]"
+        },
+        {
           "title": "寒武纪年报出炉！拟10派15元转增4.9股，章建平连续两个季度增持",
           "url": "https://www.cls.cn/detail/2311258",
           "source": "财联社热门",
@@ -858,19 +918,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时04分 ~ 10时03分]"
-        },
-        {
-          "title": "寒武纪2025年营收暴增超450%，净利润20.6亿元强势扭亏，章建平增持40.8万股 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3767362",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时26分 ~ 15时45分]"
         }
       ]
     },
