@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T19:27:03.210028+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2026-03-15T20:54:15.866774+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时32分 ~ 13时06分]"
+        },
+        {
+          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
+          "url": "https://wallstreetcn.com/articles/3767540",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时57分 ~ 20时54分]"
         },
         {
           "title": "特朗普：美军对伊朗石油出口枢纽哈尔克岛发动“猛烈空袭”，“很快”开始护航",
@@ -52,21 +65,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时06分 ~ 19时27分]"
-        },
-        {
-          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
-          "url": "https://wallstreetcn.com/articles/3767540",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时57分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[13时06分 ~ 20时54分]"
         },
         {
           "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
@@ -103,8 +103,45 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[13时06分 ~ 20时54分]"
+        },
+        {
+          "title": "特朗普点名日本护航，高市早苗压力陡增",
+          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 20时54分]"
+        },
+        {
+          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
+          "url": "https://wallstreetcn.com/articles/3767538",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[13时06分 ~ 19时27分]"
+          "time_info": "[15时48分 ~ 20时54分]"
+        },
+        {
+          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
+          "url": "https://wallstreetcn.com/articles/3767537",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时57分 ~ 20时54分]"
         },
         {
           "title": "特朗普向国际社会求援了，并且想把多个国家拖下水",
@@ -118,6 +155,17 @@
           "time_info": "[10时25分 ~ 16时37分]"
         },
         {
+          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
+          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 20时54分]"
+        },
+        {
           "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
           "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
           "source": "凤凰网",
@@ -127,19 +175,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 10时26分]"
-        },
-        {
-          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
-          "url": "https://wallstreetcn.com/articles/3767537",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时57分 ~ 19时27分]"
         },
         {
           "title": "美防长不满CNN报道，喊话特朗普盟友赶紧买了它",
@@ -193,8 +228,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时25分 ~ 19时27分]"
+          "appearance_count": 14,
+          "time_info": "[10时25分 ~ 20时54分]"
+        },
+        {
+          "title": "特朗普宣布空袭伊朗石油出口枢纽「哈尔克岛」，其战略地位有多重要？若岛上石油设施被摧毁，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2016064576173598421",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[10时25分 ~ 20时54分]"
         },
         {
           "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
@@ -208,54 +256,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 10时26分]"
-        },
-        {
-          "title": "特朗普宣布空袭伊朗石油出口枢纽「哈尔克岛」，其战略地位有多重要？若岛上石油设施被摧毁，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2016064576173598421",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时25分 ~ 19时27分]"
-        },
-        {
-          "title": "特朗普点名日本护航，高市早苗压力陡增",
-          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 19时27分]"
-        },
-        {
-          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
-          "url": "https://wallstreetcn.com/articles/3767538",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时48分 ~ 19时27分]"
-        },
-        {
-          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
-          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 19时27分]"
         },
         {
           "title": "特朗普否认5架美军加油机被毁",
@@ -341,6 +341,18 @@
           "time_info": "[10时26分 ~ 17时35分]"
         },
         {
+          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
+          "url": "https://wallstreetcn.com/articles/3767541",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 20时54分]"
+        },
+        {
           "title": "特朗普称暂时不会与伊朗达成停火协议",
           "url": "https://www.toutiao.com/trending/7617286579014422067/",
           "source": "今日头条",
@@ -420,6 +432,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时35分 ~ 19时27分]"
+        },
+        {
+          "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://www.cls.cn/detail/2313186",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 20时54分]"
         },
         {
           "title": "媒体报道称，韩方将就美国总统特朗普有关军舰的要求与美方保持密切沟通。",
@@ -518,26 +542,16 @@
           "time_info": "[17时35分 ~ 18时32分]"
         },
         {
-          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
-          "url": "https://wallstreetcn.com/articles/3767541",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-15）",
+          "url": "https://flash.jin10.com/detail/20260315183906520800",
+          "source": "金十数据",
           "ranks": [
-            10
+            10,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
-        },
-        {
-          "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
-          "url": "https://www.cls.cn/detail/2313186",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
+          "time_info": "[19时27分 ~ 20时54分]"
         },
         {
           "title": "乌克兰总统泽连斯基：有必要与美国总统特朗普会面。",
@@ -564,15 +578,15 @@
           "time_info": "[14时57分 ~ 15时49分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-15）",
-          "url": "https://flash.jin10.com/detail/20260315183906520800",
-          "source": "金十数据",
+          "title": "泽连斯基：特朗普可能视我如子，但我不是最受宠的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32772625",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "特朗普：条件还不够好 目前并不准备与伊朗达成协议",
@@ -633,11 +647,12 @@
           "ranks": [
             13,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 19时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 20时54分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -652,6 +667,18 @@
           "time_info": "[00时32分 ~ 07时28分]"
         },
         {
+          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
+          "url": "https://wallstreetcn.com/articles/3767545",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 20时54分]"
+        },
+        {
           "title": "美股“异相”：ETF成交量飙升",
           "url": "https://wallstreetcn.com/articles/3767510",
           "source": "华尔街见闻",
@@ -661,17 +688,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
-          "url": "https://wallstreetcn.com/articles/3767545",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
@@ -688,7 +704,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Space X IPO，马斯克要学“马老师”",
@@ -715,8 +731,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时48分 ~ 19时27分]"
+          "appearance_count": 10,
+          "time_info": "[15时48分 ~ 20时54分]"
+        },
+        {
+          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
+          "url": "https://wallstreetcn.com/articles/3767539",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 20时54分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -730,18 +758,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时06分 ~ 16时37分]"
-        },
-        {
-          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
-          "url": "https://wallstreetcn.com/articles/3767539",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 19时27分]"
         },
         {
           "title": "马斯克回应其个人财富占全球GDP近1%",
@@ -761,9 +777,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
+        },
+        {
+          "title": "获马斯克背书的英国新政党正与法拉奇争夺选民",
+          "url": "https://wallstreetcn.com/livenews/3070288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
@@ -827,6 +854,22 @@
         },
         {
           "title": "人形机器人夜跑备战半马",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%9C%E8%B7%91%E5%A4%87%E6%88%98%E5%8D%8A%E9%A9%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            18,
+            21,
+            19,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时48分 ~ 20时54分]"
+        },
+        {
+          "title": "人形机器人夜跑备战半马",
           "url": "https://www.douyin.com/hot/2431104",
           "source": "抖音",
           "ranks": [
@@ -841,21 +884,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[13时06分 ~ 19时27分]"
-        },
-        {
-          "title": "人形机器人夜跑备战半马",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%9C%E8%B7%91%E5%A4%87%E6%88%98%E5%8D%8A%E9%A9%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            18,
-            21,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时48分 ~ 19时27分]"
         }
       ]
     },
