@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T14:57:57.822130+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-03-15T15:49:14.921813+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
@@ -87,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 14时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 15时49分]"
         },
         {
           "title": "美防长不满CNN报道，喊话特朗普盟友赶紧买了它",
@@ -100,6 +100,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普向国际社会求援了，并且想把多个国家拖下水",
+          "url": "https://news.ifeng.com/c/8rVZjrSDAV0",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 15时49分]"
         },
         {
           "title": "特朗普称将联合多国派遣军舰 确保霍尔木兹海峡通航安全",
@@ -141,15 +152,28 @@
           "time_info": "[00时32分 ~ 10时26分]"
         },
         {
-          "title": "特朗普向国际社会求援了，并且想把多个国家拖下水",
-          "url": "https://news.ifeng.com/c/8rVZjrSDAV0",
-          "source": "凤凰网",
+          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
+          "url": "https://wallstreetcn.com/articles/3767540",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时49分]"
+        },
+        {
+          "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
+          "url": "https://wallstreetcn.com/articles/3767534",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时25分 ~ 14时57分]"
+          "time_info": "[13时06分 ~ 15时49分]"
         },
         {
           "title": "美以伊战争丨特朗普：多国将与美国一同派军舰",
@@ -174,15 +198,94 @@
           "time_info": "[10时25分 ~ 10时26分]"
         },
         {
-          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
-          "url": "https://wallstreetcn.com/articles/3767540",
-          "source": "华尔街见闻",
+          "title": "特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://www.toutiao.com/trending/7617286579014422067/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 15时49分]"
+        },
+        {
+          "title": "特朗普宣布空袭伊朗石油出口枢纽「哈尔克岛」，其战略地位有多重要？若岛上石油设施被摧毁，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2016064576173598421",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 15时49分]"
+        },
+        {
+          "title": "特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32770888",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 15时49分]"
+        },
+        {
+          "title": "释新闻｜美军空袭伊朗哈尔克岛之后，特朗普会选择占领吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32767317",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 15时49分]"
+        },
+        {
+          "title": "媒体报道称，韩方将就美国总统特朗普有关军舰的要求与美方保持密切沟通。",
+          "url": "https://flash.jin10.com/detail/20260315144840841800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时57分"
+          "time_info": "15时49分"
+        },
+        {
+          "title": "特朗普称或再炸几次伊朗哈尔克岛，“只是为了开心”",
+          "url": "https://wallstreetcn.com/livenews/3070215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 15时49分]"
+        },
+        {
+          "title": "特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://wallstreetcn.com/livenews/3070210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 15时49分]"
         },
         {
           "title": "特朗普声称伊朗已被彻底击败",
@@ -198,29 +301,15 @@
           "time_info": "[04时29分 ~ 07时28分]"
         },
         {
-          "title": "特朗普称或再炸几次伊朗哈尔克岛，“只是为了开心”",
-          "url": "https://wallstreetcn.com/livenews/3070215",
-          "source": "华尔街见闻-快讯",
+          "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2313097",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            9,
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 14时57分]"
-        },
-        {
-          "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
-          "url": "https://wallstreetcn.com/articles/3767534",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 14时57分]"
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 15时49分]"
         },
         {
           "title": "特朗普称与泽连斯基达成协议要“困难得多”",
@@ -228,24 +317,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 14时57分]"
-        },
-        {
-          "title": "特朗普称暂时不会与伊朗达成停火协议",
-          "url": "https://wallstreetcn.com/livenews/3070210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            17
+            8,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时26分 ~ 14时57分]"
+          "time_info": "[13时06分 ~ 15时49分]"
         },
         {
           "title": "特朗普呼吁盟友共同维护霍尔木兹海峡",
@@ -272,54 +349,44 @@
           "time_info": "[10时26分 ~ 13时06分]"
         },
         {
-          "title": "特朗普称暂时不会与伊朗达成停火协议",
-          "url": "https://www.toutiao.com/trending/7617286579014422067/",
-          "source": "今日头条",
+          "title": "特朗普称已彻底击败伊朗",
+          "url": "https://wallstreetcn.com/livenews/3070208",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            17
+            7,
+            15,
+            19,
+            23
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时25分 ~ 14时57分]"
+          "time_info": "[10时26分 ~ 15时49分]"
         },
         {
-          "title": "特朗普宣布空袭伊朗石油出口枢纽「哈尔克岛」，其战略地位有多重要？若岛上石油设施被摧毁，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2016064576173598421",
-          "source": "知乎",
+          "title": "媒体：特朗普拒绝与伊朗启动停火谈判",
+          "url": "https://wallstreetcn.com/livenews/3070207",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
             16,
-            11,
-            12
+            20,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时25分 ~ 14时57分]"
+          "time_info": "[10时26分 ~ 15时49分]"
         },
         {
-          "title": "特朗普称暂时不会与伊朗达成停火协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32770888",
-          "source": "澎湃新闻",
+          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
+          "url": "https://wallstreetcn.com/articles/3767537",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            16,
-            15
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 14时57分]"
-        },
-        {
-          "title": "释新闻｜美军空袭伊朗哈尔克岛之后，特朗普会选择占领吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32767317",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 14时57分]"
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时49分]"
         },
         {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
@@ -334,32 +401,6 @@
           "time_info": "[07时28分 ~ 10时26分]"
         },
         {
-          "title": "特朗普称已彻底击败伊朗",
-          "url": "https://wallstreetcn.com/livenews/3070208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 14时57分]"
-        },
-        {
-          "title": "媒体：特朗普拒绝与伊朗启动停火谈判",
-          "url": "https://wallstreetcn.com/livenews/3070207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 14时57分]"
-        },
-        {
           "title": "特朗普声称伊朗已被“彻底击败”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32767088",
           "source": "澎湃新闻",
@@ -370,17 +411,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时25分 ~ 13时06分]"
-        },
-        {
-          "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2313097",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 14时57分]"
         },
         {
           "title": "伊朗深夜发动2波打击！美方：已有13名美军阵亡！驻日美军“准航母”及海军陆战队被调往中东，特朗普：只要有需要，战争将持续",
@@ -395,6 +425,17 @@
           "time_info": "[13时06分 ~ 14时57分]"
         },
         {
+          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
+          "url": "https://wallstreetcn.com/articles/3767538",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 15时49分]"
+        },
+        {
           "title": "特朗普称与泽连斯基达成协议要“困难得多”",
           "url": "https://flash.jin10.com/detail/20260315113816699800",
           "source": "金十数据",
@@ -407,26 +448,16 @@
           "time_info": "[13时06分 ~ 14时57分]"
         },
         {
-          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
-          "url": "https://wallstreetcn.com/articles/3767537",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
           "title": "据日本放送协会NHK：自民党政调负责人小林鹰之回应特朗普向中东派遣军舰的呼吁称，虽然法律上并未完全排除这种可能性，但鉴于目前冲突仍在持续，这是一个需要谨慎判断的问题。",
           "url": "https://flash.jin10.com/detail/20260315131233382800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 15时49分]"
         },
         {
           "title": "特朗普：条件还不够好 目前并不准备与伊朗达成协议",
@@ -477,8 +508,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 14时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 15时49分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -528,9 +559,63 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Space X IPO，马斯克要学“马老师”",
+          "url": "https://wallstreetcn.com/articles/3767527",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 15时49分]"
+        },
+        {
+          "title": "马斯克xAI联创团队几乎全跑了",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 15时49分]"
+        },
+        {
+          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
+          "url": "https://www.cls.cn/detail/2313116",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 15时49分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天",
       "match_count": 3,
       "titles": [
+        {
+          "title": "我国商业航天未来图景太燃了",
+          "url": "https://www.douyin.com/hot/2430781",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 15时49分]"
+        },
         {
           "title": "多款新型航天产品亮相2026上海商业航天大会",
           "url": "https://wallstreetcn.com/livenews/3070172",
@@ -541,17 +626,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时28分]"
-        },
-        {
-          "title": "我国商业航天未来图景太燃了",
-          "url": "https://www.douyin.com/hot/2430781",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 14时57分]"
         },
         {
           "title": "中国商业航天未来图景太燃了",
@@ -570,39 +644,8 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Space X IPO，马斯克要学“马老师”",
-          "url": "https://wallstreetcn.com/articles/3767527",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 14时57分]"
-        },
-        {
-          "title": "马斯克xAI联创团队几乎全跑了",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 14时57分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "人形机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "湖北“省考”开考 人形机器人入考题",
@@ -622,11 +665,23 @@
           "source": "抖音",
           "ranks": [
             25,
-            29
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 15时49分]"
+        },
+        {
+          "title": "人形机器人夜跑备战半马",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%9C%E8%B7%91%E5%A4%87%E6%88%98%E5%8D%8A%E9%A9%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时06分 ~ 14时57分]"
+          "time_info": "[15时48分 ~ 15时49分]"
         }
       ]
     },
@@ -641,9 +696,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时49分]"
         }
       ]
     },
@@ -659,11 +714,12 @@
             1,
             13,
             21,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 14时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 15时49分]"
         }
       ]
     }
