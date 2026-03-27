@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T19:57:34.579431+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2026-03-27T21:07:29.501948+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时45分 ~ 19时57分]"
+          "appearance_count": 17,
+          "time_info": "[03时45分 ~ 21时07分]"
         },
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
@@ -104,6 +104,19 @@
           "time_info": "[01时12分 ~ 07时40分]"
         },
         {
+          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
+          "url": "https://wallstreetcn.com/articles/3768510",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时57分 ~ 21时07分]"
+        },
+        {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
           "url": "https://www.cls.cn/detail/2325824",
           "source": "财联社热门",
@@ -138,19 +151,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时12分 ~ 07时40分]"
-        },
-        {
-          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
-          "url": "https://wallstreetcn.com/articles/3768510",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 19时57分]"
         },
         {
           "title": "美以伊战争丨英首相回击特朗普：我不会任人摆布",
@@ -326,11 +326,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 19时57分]"
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 21时07分]"
         },
         {
           "title": "特朗普称再推迟10天打击伊朗发电厂",
@@ -407,7 +408,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -712,7 +713,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -724,8 +725,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 19时57分]"
+          "appearance_count": 9,
+          "time_info": "[10时57分 ~ 21时07分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -739,8 +740,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 19时57分]"
+          "appearance_count": 9,
+          "time_info": "[10时57分 ~ 21时07分]"
         },
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -846,6 +847,17 @@
           "time_info": "[07时39分 ~ 07时40分]"
         },
         {
+          "title": "美伊局势走向不明，美股期指跌幅扩大，美日债市承压，布油涨超2%，现货金银涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 21时07分]"
+        },
+        {
           "title": "社保基金多次在A股大跌时果断加仓",
           "url": "https://www.baidu.com/s?wd=%E7%A4%BE%E4%BF%9D%E5%9F%BA%E9%87%91%E5%A4%9A%E6%AC%A1%E5%9C%A8A%E8%82%A1%E5%A4%A7%E8%B7%8C%E6%97%B6%E6%9E%9C%E6%96%AD%E5%8A%A0%E4%BB%93",
           "source": "百度热搜",
@@ -869,17 +881,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
-        },
-        {
-          "title": "美伊局势走向不明，美股期指跌幅扩大，美日债市承压，布油涨超2%，现货金银涨幅收窄",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时57分"
         },
         {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
@@ -985,6 +986,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3078265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "美股收盘：纳指跌超2% 英伟达跌4%",
           "url": "https://flash.jin10.com/detail/20260327040147808800",
           "source": "金十数据",
@@ -1027,6 +1039,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2327400",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "港股恒生科技指数盘中涨超1%，恒生指数涨0.3%，此前一度跌近1%，美团(03690.HK)、零跑汽车(09863.HK)、比亚迪股份(01211.HK)涨超4%，京东健康(06618.HK)、阿里健康(00241.HK)、同程旅行(00780.HK)均涨超2%。",
@@ -1090,7 +1113,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -1196,6 +1219,79 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
+          "url": "https://www.cls.cn/detail/2326528",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 19时57分]"
+        },
+        {
+          "title": "近40家科创板“硬科技”公司亮相全球半导体行业年度盛会",
+          "url": "https://wallstreetcn.com/livenews/3077748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "标普500指数收跌114.74点，跌幅1.74%，报6477.16点。 道琼斯工业平均指数收跌469.38点，跌幅1.01%，报45960.11点。 纳斯达克综合指数（纳指）收跌521.744点，跌幅2.38%，报21408.081点。 纳斯达克100指数收跌575.981点，跌幅2.38%，报23586.995点。 费城半导体指数收跌4.79%，报7585.871点。 费城证交所KBW银行指数收跌1.13%，报152.37点。 纳斯达克生物科技指数收跌0.22%，报5716.64点。",
+          "url": "https://wallstreetcn.com/livenews/3077668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "锴威特：拟购买晶艺半导体100%股份预计构成重大资产重组 股票下周一复牌",
+          "url": "https://flash.jin10.com/detail/20260327204755905800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "纳指跌2%，半导体指数跌4.27%",
+          "url": "https://wallstreetcn.com/livenews/3077630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "纳指收跌将近2.4%，费城半导体指数跌约4.8%",
+          "url": "https://wallstreetcn.com/livenews/3077668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 5,
       "titles": [
@@ -1259,68 +1355,6 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
-          "url": "https://www.cls.cn/detail/2326528",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时16分 ~ 19时57分]"
-        },
-        {
-          "title": "近40家科创板“硬科技”公司亮相全球半导体行业年度盛会",
-          "url": "https://wallstreetcn.com/livenews/3077748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "标普500指数收跌114.74点，跌幅1.74%，报6477.16点。 道琼斯工业平均指数收跌469.38点，跌幅1.01%，报45960.11点。 纳斯达克综合指数（纳指）收跌521.744点，跌幅2.38%，报21408.081点。 纳斯达克100指数收跌575.981点，跌幅2.38%，报23586.995点。 费城半导体指数收跌4.79%，报7585.871点。 费城证交所KBW银行指数收跌1.13%，报152.37点。 纳斯达克生物科技指数收跌0.22%，报5716.64点。",
-          "url": "https://wallstreetcn.com/livenews/3077668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "纳指跌2%，半导体指数跌4.27%",
-          "url": "https://wallstreetcn.com/livenews/3077630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "纳指收跌将近2.4%，费城半导体指数跌约4.8%",
-          "url": "https://wallstreetcn.com/livenews/3077668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天",
       "match_count": 5,
       "titles": [
@@ -1342,11 +1376,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            19
+            19,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 19时57分]"
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 21时07分]"
         },
         {
           "title": "北京发布数据跨境流动便利化综合配套改革3.0版方案，聚焦商业航天等6个重点领域",
@@ -1471,7 +1506,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         }
@@ -1533,6 +1568,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时57分 ~ 15时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "天齐锂业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "天齐锂业：2025年净利润4.63亿元 同比扭亏为盈",
+          "url": "https://wallstreetcn.com/livenews/3078257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "天齐锂业：2025年净利润4.63亿元 同比扭亏为盈",
+          "url": "https://flash.jin10.com/detail/20260327203951070800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     },
@@ -1601,11 +1664,29 @@
           "ranks": [
             13,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 19时57分]"
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 21时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "领益智造",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "领益智造：2025年净利润22.88亿元，同比增长30.34%",
+          "url": "https://wallstreetcn.com/livenews/3078238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     }
