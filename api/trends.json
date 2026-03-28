@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-28T07:47:47.447234+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2026-03-28T09:59:12.819244+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
+          "url": "https://news.ifeng.com/c/8rqfbkZxNyT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时37分 ~ 09时59分]"
+        },
         {
           "title": "特朗普揭晓所谓伊朗大礼",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%AD%E6%99%93%E6%89%80%E8%B0%93%E4%BC%8A%E6%9C%97%E5%A4%A7%E7%A4%BC%23&t=31&band_rank=27&Refer=top",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时05分 ~ 07时47分]"
-        },
-        {
-          "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
-          "url": "https://news.ifeng.com/c/8rqfbkZxNyT",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时37分 ~ 07时47分]"
         },
         {
           "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
@@ -53,11 +53,12 @@
             12,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时05分 ~ 07时47分]"
+          "appearance_count": 13,
+          "time_info": "[02时05分 ~ 09时59分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -80,20 +81,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时05分 ~ 07时47分]"
+          "appearance_count": 13,
+          "time_info": "[02时05分 ~ 09时59分]"
         },
         {
-          "title": "美国总统特朗普：古巴是下一个。",
-          "url": "https://wallstreetcn.com/livenews/3078506",
-          "source": "华尔街见闻-快讯",
+          "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
+          "url": "https://wallstreetcn.com/articles/3768556",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            4
+            10,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时36分 ~ 07时47分]"
+          "appearance_count": 8,
+          "time_info": "[05时21分 ~ 09时59分]"
         },
         {
           "title": "美国总统特朗普再次呼吁伊朗开放霍尔木兹海峡。",
@@ -102,11 +104,25 @@
           "ranks": [
             1,
             5,
-            9
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时58分 ~ 09时59分]"
+        },
+        {
+          "title": "美国总统特朗普：古巴是下一个。",
+          "url": "https://wallstreetcn.com/livenews/3078506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时58分 ~ 07时47分]"
+          "time_info": "[06时36分 ~ 09时59分]"
         },
         {
           "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
@@ -169,27 +185,15 @@
           "time_info": "03时13分"
         },
         {
-          "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
-          "url": "https://wallstreetcn.com/articles/3768556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时21分 ~ 07时47分]"
-        },
-        {
-          "title": "美国总统特朗普：我想我们不必出席北约会议了，不需要再支持北约。",
-          "url": "https://flash.jin10.com/detail/20260328064652534800",
-          "source": "金十数据",
+          "title": "特朗普称霍尔木兹为特朗普海峡",
+          "url": "https://wallstreetcn.com/livenews/3078525",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时47分"
+          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普：我们想要低利率，无通胀。",
@@ -197,11 +201,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时36分 ~ 07时47分]"
+          "appearance_count": 4,
+          "time_info": "[06时36分 ~ 09时59分]"
         },
         {
           "title": "美国总统特朗普：共和党应该终止阻挠议事，开始投票！难道他们还没厌倦这些来自激进左派疯子们的胡闹吗？让美国再次伟大！",
@@ -215,6 +220,19 @@
           "time_info": "03时53分"
         },
         {
+          "title": "比特币涨幅收窄至不足0.1%，逼近6.6万美元。 美国总统特朗普称，伊朗打击目标仍然有数千个，“我们迟早要决定该怎么做”。",
+          "url": "https://wallstreetcn.com/livenews/3078503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时36分 ~ 09时59分]"
+        },
+        {
           "title": "美国总统特朗普：要求为农民提供额外农业援助。",
           "url": "https://flash.jin10.com/detail/20260328005449719800",
           "source": "金十数据",
@@ -224,18 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        },
-        {
-          "title": "比特币涨幅收窄至不足0.1%，逼近6.6万美元。 美国总统特朗普称，伊朗打击目标仍然有数千个，“我们迟早要决定该怎么做”。",
-          "url": "https://wallstreetcn.com/livenews/3078503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时36分 ~ 07时47分]"
         },
         {
           "title": "特朗普认定国土安全部“停摆”构成紧急状态",
@@ -339,6 +345,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 04时37分]"
+        },
+        {
+          "title": "美国总统特朗普：我想我们不必出席北约会议了，不需要再支持北约。",
+          "url": "https://flash.jin10.com/detail/20260328064652534800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 09时59分]"
         },
         {
           "title": "美国总统特朗普：希望卡特彼勒等公司保证降低农民的成本。 与约翰迪尔（迪尔农机）讨论了（农用）设备问题。",
@@ -491,6 +509,17 @@
           "time_info": "[03时13分 ~ 03时53分]"
         },
         {
+          "title": "特朗普自称在委内瑞拉支持率高到可以竞选总统，鲁比奥听了都憋笑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32843683",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
           "title": "特朗普与莫迪通话讨论中东局势 马斯克参与",
           "url": "https://flash.jin10.com/detail/20260328034803956800",
           "source": "金十数据",
@@ -534,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "美国总统特朗普谈伊朗冲突：差不多结束了，但还没结束。",
+          "url": "https://wallstreetcn.com/livenews/3078512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普：正寻求国会采取行动，允许E15乙醇汽油全年销售使用。",
@@ -589,12 +629,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "特朗普谈战争与股市：我原以为股市会跌得更厉害",
+          "url": "https://flash.jin10.com/detail/20260328072728978800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -645,8 +696,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时05分 ~ 07时47分]"
+          "appearance_count": 13,
+          "time_info": "[02时05分 ~ 09时59分]"
+        },
+        {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时06分 ~ 09时59分]"
+        },
+        {
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 09时59分]"
         },
         {
           "title": "“口头干预”失效，美油重返百元关口，美股道指、纳指跌入修正区间，VIX突破30",
@@ -661,18 +736,6 @@
           "time_info": "[06时36分 ~ 07时07分]"
         },
         {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 07时47分]"
-        },
-        {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
           "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
@@ -684,15 +747,15 @@
           "time_info": "[00时13分 ~ 00时14分]"
         },
         {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
+          "title": "美股“七姐妹”技术性崩坏正在提速",
+          "url": "https://www.toutiao.com/trending/7621931362551971883/",
+          "source": "今日头条",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，纳指100 ETF收跌超1.9%，布油基金涨超4.2%",
@@ -773,12 +836,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 03时53分]"
+        },
+        {
+          "title": "A股年报分红潮 百亿级派现频出",
+          "url": "https://flash.jin10.com/detail/20260328083924419800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊前景未明，纳指100跌幅扩大至1%，半导体股、网安股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -790,6 +864,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时12分 ~ 05时58分]"
+        },
+        {
+          "title": "中东战火下半导体供应链受阻：氦气之外 这些光刻工艺材料也受影响",
+          "url": "https://www.cls.cn/detail/2327729",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，纳指跌2.22%，生物科技指数跌2.91%，半导体指数跌1.93%，银行指数跌2.64%。",
@@ -840,7 +925,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国芯片出口金额增速超七成，这对国产芯片产业发展意味着什么？在全球市场处于什么水平？",
@@ -852,8 +937,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时12分 ~ 07时47分]"
+          "appearance_count": 15,
+          "time_info": "[01时12分 ~ 09时59分]"
         },
         {
           "title": "中国发布芯片研发突破成果",
@@ -884,6 +969,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时21分]"
+        },
+        {
+          "title": "我国芯片研发重要成果发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%8A%AF%E7%89%87%E7%A0%94%E5%8F%91%E9%87%8D%E8%A6%81%E6%88%90%E6%9E%9C%E5%8F%91%E5%B8%83%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         }
       ]
     },
@@ -899,8 +995,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 07时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 09时59分]"
         }
       ]
     },
@@ -917,11 +1013,12 @@
             2,
             5,
             7,
-            3
+            3,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时05分 ~ 07时47分]"
+          "appearance_count": 12,
+          "time_info": "[02时05分 ~ 09时59分]"
         }
       ]
     },
@@ -936,11 +1033,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 07时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 09时59分]"
         }
       ]
     }
