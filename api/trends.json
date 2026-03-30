@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-31T01:38:21.342336+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-03-31T02:40:07.092084+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
           "url": "https://news.ifeng.com/c/8rvIfVFBMLi",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 02时40分]"
         },
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
@@ -27,8 +28,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 02时40分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：美国正与伊朗议长卡利巴夫对话",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时38分]"
+          "time_info": "[01时38分 ~ 02时40分]"
         },
         {
           "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
@@ -42,17 +54,6 @@
           "time_info": "[00时40分 ~ 00时41分]"
         },
         {
-          "title": "美以伊战争丨特朗普：美国正与伊朗议长卡利巴夫对话",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
           "title": "特朗普证实，美国正与伊朗议会议长卡利巴夫进行对话",
           "url": "https://flash.jin10.com/detail/20260331001406582800",
           "source": "金十数据",
@@ -64,16 +65,50 @@
           "time_info": "00时41分"
         },
         {
+          "title": "白宫 ：向中东增派军队是为了给特朗普提供更多选择",
+          "url": "https://flash.jin10.com/detail/20260331021555394800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "白宫：特朗普希望4月6日前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/livenews/3079536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
           "title": "标普500指数涨0.3%，道指涨340点、涨幅0.75%，纳指持平。 美国总统特朗普在接受《纽约邮报》采访时称，伊朗议会议长卡利巴夫是与美国就结束战争事宜进行沟通的伊朗官员之一。当被问及在与华盛顿合作方面能否信任卡利巴夫时，特朗普回答说：“我们会拭目以待的。”",
           "url": "https://wallstreetcn.com/livenews/3079510",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            17
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时40分]"
+        },
+        {
+          "title": "美抗议人群组成特朗普须下台巨型标语",
+          "url": "https://www.toutiao.com/trending/7622494680384815123/",
+          "source": "今日头条",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时38分]"
+          "time_info": "[02时39分 ~ 02时40分]"
         },
         {
           "title": "特朗普：对伊朗袭击以色列炼油厂的回应“很快到来”",
@@ -94,9 +129,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "白宫：特朗普有意呼吁阿拉伯国家为战争“买单”",
+          "url": "https://flash.jin10.com/detail/20260331020508015800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "美国白宫：特朗普希望国会开会以结束国土安全部的停摆。",
+          "url": "https://flash.jin10.com/detail/20260331015946804800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         },
         {
           "title": "特朗普说对伊朗袭击以色列炼油厂的回应“很快到来”",
@@ -108,6 +165,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "美国白宫：总统特朗普希望在4月6日截止日期之前达成协议。",
+          "url": "https://flash.jin10.com/detail/20260331014952767800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "美国白宫：特朗普表示，伊朗最好的选择是达成协议。美国军队将始终在国际法的框架内行动。",
+          "url": "https://flash.jin10.com/detail/20260331014658422800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "美国白宫：特朗普未排除对伊朗进行地面行动的可能性。",
+          "url": "https://flash.jin10.com/detail/20260331014441972800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         }
       ]
     },
@@ -123,8 +213,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 02时40分]"
         },
         {
           "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
@@ -134,8 +224,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 02时40分]"
         },
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -146,8 +236,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 02时40分]"
         },
         {
           "title": "美股费城半导体指数跌幅扩大至4.07%，相干公司/高意公司跌9.7%，美光跌8.2%，泰瑞达跌7.2%，Lumentum控股、Sandisk跌超6.5%，英特尔跌4.6%，格芯、Arm控股跌4.4%。 标普500指数跌0.15%，纳指跌0.5%。 白宫新闻秘书莱维特宣称，与伊朗的谈判在继续，而且进展顺利。美国国务卿卢比奥声称，在美国实现自己目标之后才会结束伊朗战争。",
@@ -156,7 +246,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
         },
@@ -165,11 +255,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%88%B1%E5%A5%87%E8%89%BA%E6%B6%A8%E8%B6%8512%25",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时40分]"
         }
       ]
     },
@@ -213,8 +304,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 02时40分]"
         },
         {
           "title": "华强北商户开始抛售内存条 存储行业的供需拐点来了吗？",
@@ -224,8 +315,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 02时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "半导体指数跌超4%，相干公司跌约10%，美光跌超8%",
+          "url": "https://wallstreetcn.com/livenews/3079527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         }
       ]
     },
@@ -238,11 +346,12 @@
           "url": "https://www.cls.cn/detail/2329225",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 02时40分]"
         }
       ]
     },
@@ -258,8 +367,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 02时40分]"
         }
       ]
     }
