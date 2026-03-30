@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T04:28:04.731840+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-03-31T05:10:14.659863+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时10分]"
         },
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
@@ -28,8 +28,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时10分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普给伊朗“划红线”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时42分 ~ 05时10分]"
         },
         {
           "title": "美以伊战争丨特朗普：美国正与伊朗议长卡利巴夫对话",
@@ -43,17 +54,6 @@
           "time_info": "[01时38分 ~ 02时40分]"
         },
         {
-          "title": "美以伊战争丨特朗普给伊朗“划红线”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时42分 ~ 04时28分]"
-        },
-        {
           "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://wallstreetcn.com/livenews/3079584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         },
         {
           "title": "特朗普证实，美国正与伊朗议会议长卡利巴夫进行对话",
@@ -125,6 +136,30 @@
           "time_info": "[02时40分 ~ 03时42分]"
         },
         {
+          "title": "3月30日，美国总统特朗普暗示，伊朗战争可能很快结束。 据不完全统计，自从美国和以色列在2月底发动伊朗战争以来，这是特朗普第12次暗示伊朗战争即将结束。",
+          "url": "https://wallstreetcn.com/livenews/3079555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时10分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren、白宫、Waters发函总统特朗普的财政部长贝森特，调查马斯克牵涉证券法的问题。 他们质疑马斯克干预企业透明法案。",
+          "url": "https://wallstreetcn.com/livenews/3079554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时10分]"
+        },
+        {
           "title": "白宫：特朗普有意呼吁阿拉伯国家为战争“买单”",
           "url": "https://flash.jin10.com/detail/20260331020508015800",
           "source": "金十数据",
@@ -172,17 +207,6 @@
           "time_info": "01时38分"
         },
         {
-          "title": "3月30日，美国总统特朗普暗示，伊朗战争可能很快结束。 据不完全统计，自从美国和以色列在2月底发动伊朗战争以来，这是特朗普第12次暗示伊朗战争即将结束。",
-          "url": "https://wallstreetcn.com/livenews/3079555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
           "title": "伊朗副总统：特朗普可能会向哈尔克岛派兵，但撤军将不在其掌控之中。",
           "url": "https://flash.jin10.com/detail/20260331030752465800",
           "source": "金十数据",
@@ -192,17 +216,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren、白宫、Waters发函总统特朗普的财政部长贝森特，调查马斯克牵涉证券法的问题。 他们质疑马斯克干预企业透明法案。",
-          "url": "https://wallstreetcn.com/livenews/3079554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
         },
         {
           "title": "特朗普说对伊朗袭击以色列炼油厂的回应“很快到来”",
@@ -252,8 +265,32 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时10分]"
+        },
+        {
+          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2329476",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时10分]"
+        },
         {
           "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
           "url": "https://wallstreetcn.com/articles/3768684",
@@ -266,28 +303,15 @@
           "time_info": "[00时40分 ~ 04时28分]"
         },
         {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
+          "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2329476",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 05时10分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 美光大跌近10%",
@@ -296,7 +320,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -310,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（3月30日），美国科技股七巨头（Magnificent 7）指数跌0.35%，报176.37点。 “超大”市值科技股指数跌0.49%，报336.14点。",
+          "url": "https://wallstreetcn.com/livenews/3079578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         },
         {
           "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股盘中）",
@@ -346,6 +381,91 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时38分 ~ 03时42分]"
+        },
+        {
+          "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
+          "url": "https://wallstreetcn.com/livenews/3079573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "半导体ETF收跌超3.1%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3079569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260331040539391800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "金十图示：2026年03月30日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260331040537263800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "标普500指数初步收跌0.4%，工业板块跌1.7%，科技板块跌1.6%，能源板块跌0.7%，金融板块涨1.1%。 纳斯达克100指数初步收跌0.8%，成分股中，美光科技跌9.6%，西部数据跌8.5%，迈威尔科技、拉姆研究、Arm控股、MPWR至多跌7.4%，Zscaler涨2.8%，财捷Intuit涨2.9%，Workday涨2.5%，派拓网络PANW涨4.9%，Insmed涨5.9%。 Salesforce初步收涨3.1%，领跑道指成分股，Travelers Companies Inc.、迪士尼涨超2%，美国运通涨1.9%，波音、英伟达、Merck则至多跌1.5%，思科跌3.4%，卡特彼勒跌3.8%。 半导体指数跌4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3079560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "半导体指数跌超4%，相干公司跌约10%，美光跌超8%",
+          "url": "https://wallstreetcn.com/livenews/3079527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时28分]"
+        },
+        {
+          "title": "纳指科技股指数收跌约1.3%，半导体指数跌超4.2%，小盘股指跌超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3079560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         }
       ]
     },
@@ -378,32 +498,31 @@
       ]
     },
     {
-      "keyword_group": "半导体",
+      "keyword_group": "芯片",
       "match_count": 2,
       "titles": [
         {
-          "title": "标普500指数初步收跌0.4%，工业板块跌1.7%，科技板块跌1.6%，能源板块跌0.7%，金融板块涨1.1%。 纳斯达克100指数初步收跌0.8%，成分股中，美光科技跌9.6%，西部数据跌8.5%，迈威尔科技、拉姆研究、Arm控股、MPWR至多跌7.4%，Zscaler涨2.8%，财捷Intuit涨2.9%，Workday涨2.5%，派拓网络PANW涨4.9%，Insmed涨5.9%。 Salesforce初步收涨3.1%，领跑道指成分股，Travelers Companies Inc.、迪士尼涨超2%，美国运通涨1.9%，波音、英伟达、Merck则至多跌1.5%，思科跌3.4%，卡特彼勒跌3.8%。 半导体指数跌4.2%。",
-          "url": "https://wallstreetcn.com/livenews/3079560",
+          "title": "外资买成芯片设计ETF第一大持有人，年内上市ETF首现",
+          "url": "https://www.cls.cn/detail/2329225",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时28分]"
+        },
+        {
+          "title": "周一（3月30日），存储芯片与硬件供应链指数跌6.94%，报96.83点，小幅高开之后迅速转跌，日内绝大部分时间平缓地持续扩大跌幅。 成分股全线收跌，Rambus收跌11.14%，美光科技跌9.92%，西部数据跌8.60%，Sandisk跌7.04%，泰瑞达、拉姆研究、希捷科技、应用材料跌6.52%-4.17%。 北美科技软件股指数ETF涨0.95%，报77.62美元。 信息科技指数跌3.75%，报244.90点。 人工智能（AI）赢家指数跌3.93%，报259.19点。 AI软件先驱指数涨1.02%，报91.46点。",
+          "url": "https://wallstreetcn.com/livenews/3079581",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "半导体指数跌超4%，相干公司跌约10%，美光跌超8%",
-          "url": "https://wallstreetcn.com/livenews/3079527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 04时28分]"
+          "time_info": "05时10分"
         }
       ]
     },
@@ -419,8 +538,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时10分]"
         },
         {
           "title": "华强北商户开始抛售内存条 存储行业的供需拐点来了吗？",
@@ -430,26 +549,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "外资买成芯片设计ETF第一大持有人，年内上市ETF首现",
-          "url": "https://www.cls.cn/detail/2329225",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时10分]"
         }
       ]
     },
@@ -465,8 +566,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时10分]"
         }
       ]
     }
