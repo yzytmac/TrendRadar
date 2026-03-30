@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T11:33:09.319040+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-03-30T13:52:37.076299+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -43,6 +43,21 @@
           "time_info": "[00时39分 ~ 11时33分]"
         },
         {
+          "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            15,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 13时52分]"
+        },
+        {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
           "url": "https://wallstreetcn.com/livenews/3078747",
           "source": "华尔街见闻-快讯",
@@ -55,18 +70,16 @@
           "time_info": "[00时39分 ~ 06时02分]"
         },
         {
-          "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
-          "source": "澎湃新闻",
+          "title": "特朗普：与伊朗“可能”很快达成停火协议",
+          "url": "https://www.cls.cn/detail/2328385",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            17,
-            15,
-            6
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 13时52分]"
         },
         {
           "title": "美以伊战争丨美媒：特朗普考虑派兵夺取伊朗900斤铀",
@@ -80,15 +93,15 @@
           "time_info": "[11时32分 ~ 11时33分]"
         },
         {
-          "title": "特朗普：与伊朗“可能”很快达成停火协议",
-          "url": "https://www.cls.cn/detail/2328385",
+          "title": "“伊朗大礼”加码？特朗普：20艘油轮将通行霍尔木兹，或很快达成停火！",
+          "url": "https://www.cls.cn/detail/2328604",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "民调：选民对特朗普不满意率创新高",
@@ -118,11 +131,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32860074",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 13时52分]"
+        },
+        {
+          "title": "民调：美选民对特朗普不满意率创新高",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E8%B0%83%EF%BC%9A%E7%BE%8E%E9%80%89%E6%B0%91%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%BB%A1%E6%84%8F%E7%8E%87%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 13时52分]"
         },
         {
           "title": "特朗普：已摧毁“觊觎已久”伊朗目标",
@@ -147,15 +173,15 @@
           "time_info": "[11时32分 ~ 11时33分]"
         },
         {
-          "title": "民调：美选民对特朗普不满意率创新高",
-          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E8%B0%83%EF%BC%9A%E7%BE%8E%E9%80%89%E6%B0%91%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%BB%A1%E6%84%8F%E7%8E%87%E5%88%9B%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
+          "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
+          "url": "https://news.ifeng.com/c/8ruabbA1FVs",
+          "source": "凤凰网",
           "ranks": [
-            19
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
@@ -164,9 +190,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "特朗普私下问：2028，万斯还是鲁比奥？",
+          "url": "https://news.ifeng.com/c/8rubpGeBu1W",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "印度否认“马斯克参与特朗普与莫迪通话”",
@@ -175,7 +212,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -186,7 +223,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -202,6 +239,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860751",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "美国一民主党参议员敦促特朗普不要向伊朗部署地面部队",
           "url": "https://flash.jin10.com/detail/20260329223536350800",
           "source": "金十数据",
@@ -213,13 +261,24 @@
           "time_info": "00时39分"
         },
         {
+          "title": "据阿拉伯卫星电视台：美国官员表示，特朗普仍在研究如何打开霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260330130928207800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "特朗普登上“空军一号”前拿出白宫宴会厅效果图",
           "url": "https://flash.jin10.com/detail/20260330105757009800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         }
@@ -227,7 +286,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -268,6 +327,18 @@
           "time_info": "[00时39分 ~ 08时01分]"
         },
         {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 13时52分]"
+        },
+        {
           "title": "A股ESG强制披露“首考”进行时，数据质量成重要“得分点”",
           "url": "https://wallstreetcn.com/livenews/3078791",
           "source": "华尔街见闻-快讯",
@@ -305,6 +376,30 @@
           "time_info": "[06时52分 ~ 08时01分]"
         },
         {
+          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 13时52分]"
+        },
+        {
+          "title": "港股开盘恒生指数跌1.68%",
+          "url": "https://www.douyin.com/hot/2448265",
+          "source": "抖音",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 13时52分]"
+        },
+        {
           "title": "布油高开逾3%，美股期货走低",
           "url": "https://wallstreetcn.com/livenews/3078766",
           "source": "华尔街见闻-快讯",
@@ -316,39 +411,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时52分 ~ 08时01分]"
-        },
-        {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "港股开盘恒生指数跌1.68%",
-          "url": "https://www.douyin.com/hot/2448265",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
         },
         {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
@@ -363,13 +425,35 @@
           "time_info": "[06时52分 ~ 07时31分]"
         },
         {
+          "title": "港股人工智能板块部分走强，智谱(02513.HK)、迅策(03317.HK)涨超11%，广合科技(01989.HK)涨超5%，兆易创新(03986.HK)涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260330132016148800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "港股长飞光纤光缆(06869.HK)午后扩大涨幅，现涨超15%。",
+          "url": "https://flash.jin10.com/detail/20260330131322824800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "美股未到“威利狼时刻”？三大支柱或筑牢市场防线",
           "url": "https://flash.jin10.com/detail/20260330105908628800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -380,9 +464,48 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "沪指拉升翻红，此前一度跌超1%，深成指、创业板指跌幅同步收窄，农业、有色铝、创新药、商业航天等方向涨幅居前，沪深京三市上涨个股超2300只。",
+          "url": "https://wallstreetcn.com/livenews/3078940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "商业航天、创新药概念集体走强",
+          "url": "https://www.toutiao.com/trending/7621777244436037658/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "3月30日午间收评：沪指探底回升涨0.23%，有色铝、商业航天概念集体走强",
+          "url": "https://wallstreetcn.com/livenews/3078949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         }
       ]
     },
@@ -398,8 +521,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 13时52分]"
         }
       ]
     },
@@ -414,9 +537,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3922.72点，涨0.23%。 深证成指早盘收报13743.85点，跌0.12%。 创业板指早盘收报3279.29点，跌0.50%。 沪深300早盘收报4495.74点，跌0.15%。 科创50早盘收报1292.45点，跌0.64%。 中证500早盘收报7763.00点，涨0.33%。 中证1000早盘收报7770.83点，涨0.32%。",
+          "url": "https://wallstreetcn.com/livenews/3078950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         }
       ]
     },
@@ -448,24 +588,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "沪指拉升翻红，此前一度跌超1%，深成指、创业板指跌幅同步收窄，农业、有色铝、创新药、商业航天等方向涨幅居前，沪深京三市上涨个股超2300只。",
-          "url": "https://wallstreetcn.com/livenews/3078940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         }
