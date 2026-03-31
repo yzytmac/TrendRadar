@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-31T19:36:00.851031+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2026-03-31T20:41:45.108576+08:00",
+  "total_titles_processed": 1766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
+          "url": "https://wallstreetcn.com/articles/3768804",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时19分 ~ 20时41分]"
+        },
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
           "url": "https://wallstreetcn.com/articles/3768769",
@@ -34,19 +47,6 @@
           "time_info": "[00时40分 ~ 08时01分]"
         },
         {
-          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
-          "url": "https://wallstreetcn.com/articles/3768804",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时19分 ~ 19时36分]"
-        },
-        {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
           "url": "https://wallstreetcn.com/articles/3768825",
           "source": "华尔街见闻",
@@ -56,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时25分 ~ 19时36分]"
+          "appearance_count": 9,
+          "time_info": "[13时25分 ~ 20时41分]"
         },
         {
           "title": "特朗普给伊朗“划红线”",
@@ -69,8 +69,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时58分 ~ 19时36分]"
+          "appearance_count": 15,
+          "time_info": "[05时58分 ~ 20时41分]"
+        },
+        {
+          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时19分 ~ 20时41分]"
         },
         {
           "title": "美以伊战争丨特朗普给伊朗“划红线”",
@@ -82,6 +97,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时42分 ~ 05时10分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时19分 ~ 20时41分]"
+        },
+        {
+          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
+          "url": "https://www.zhihu.com/question/2022216922670915942",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时19分 ~ 20时41分]"
         },
         {
           "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -97,44 +138,20 @@
           "time_info": "[11时19分 ~ 17时18分]"
         },
         {
-          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
           "source": "澎湃新闻",
           "ranks": [
+            19,
             18,
-            12,
-            11,
-            8
+            16,
+            15,
+            14,
+            12
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时19分 ~ 19时36分]"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时19分 ~ 19时36分]"
-        },
-        {
-          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
-          "url": "https://www.zhihu.com/question/2022216922670915942",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时19分 ~ 19时36分]"
+          "time_info": "[13时25分 ~ 20时41分]"
         },
         {
           "title": "美以伊战争丨特朗普：美国正与伊朗议长卡利巴夫对话",
@@ -157,22 +174,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时21分 ~ 08时01分]"
-        },
-        {
-          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时25分 ~ 19时36分]"
         },
         {
           "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单 WTI原油结算价突破每桶100美元 | 环球市场",
@@ -242,9 +243,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "美国为何爆发反特朗普抗议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "特朗普证实，美国正与伊朗议会议长卡利巴夫进行对话",
@@ -264,7 +276,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -275,9 +287,42 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "美国国防部长海格塞斯谈霍尔木兹海峡：今天通过的船只比以往更多。 特朗普今天早上对霍尔木兹海峡问题的立场很明确。 各国需要准备好在霍尔木兹海峡问题上加强行动。",
+          "url": "https://wallstreetcn.com/livenews/3080169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://www.cls.cn/detail/2330869",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "特朗普围伊“救”俄",
+          "url": "https://news.ifeng.com/c/8rwfG2fN0oV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 20时41分]"
         },
         {
           "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
@@ -363,17 +408,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时40分 ~ 03时42分]"
-        },
-        {
-          "title": "特朗普围伊“救”俄",
-          "url": "https://news.ifeng.com/c/8rwfG2fN0oV",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 19时36分]"
         },
         {
           "title": "3月30日，美国总统特朗普暗示，伊朗战争可能很快结束。 据不完全统计，自从美国和以色列在2月底发动伊朗战争以来，这是特朗普第12次暗示伊朗战争即将结束。",
@@ -506,6 +540,28 @@
           "time_info": "08时01分"
         },
         {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/articles/3768886",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "特朗普称美国尚未从霍尔木兹海峡撤出兵力。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3080160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "特朗普说对伊朗袭击以色列炼油厂的回应“很快到来”",
           "url": "https://flash.jin10.com/detail/20260330235332254800",
           "source": "金十数据",
@@ -572,6 +628,17 @@
           "time_info": "02时40分"
         },
         {
+          "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865145",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "特朗普称愿结束对伊军事行动",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%84%BF%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -614,12 +681,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "特朗普：美国会记住法国“极不配合”对伊军事行动",
+          "url": "https://wallstreetcn.com/livenews/3080137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/livenews/3080133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -632,8 +721,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时21分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[07时21分 ~ 20时41分]"
         },
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -672,6 +761,23 @@
           "time_info": "[00时40分 ~ 04时28分]"
         },
         {
+          "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32863128",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            10,
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时19分 ~ 20时41分]"
+        },
+        {
           "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
           "url": "https://www.cls.cn/detail/2329769",
           "source": "财联社热门",
@@ -686,22 +792,6 @@
           "time_info": "[06时41分 ~ 14时49分]"
         },
         {
-          "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32863128",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11,
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时19分 ~ 19时36分]"
-        },
-        {
           "title": "美股后续会怎么走",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
           "source": "bilibili 热搜",
@@ -712,11 +802,12 @@
             15,
             19,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时19分 ~ 19时36分]"
+          "appearance_count": 10,
+          "time_info": "[11时19分 ~ 20时41分]"
         },
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -728,6 +819,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时09分 ~ 06时41分]"
+        },
+        {
+          "title": "张雪机车双冠点燃A股摩托板块，终端订单排至5-7月",
+          "url": "https://www.cls.cn/detail/2330554",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 20时41分]"
         },
         {
           "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，金银油齐涨，伦铝月内涨近10%",
@@ -761,6 +865,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
+        },
+        {
+          "title": "特朗普释放停战信号，美股期指涨幅扩大，金银油齐涨，伦铝月内涨近10%",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "美股费城半导体指数跌幅扩大至4.07%，相干公司/高意公司跌9.7%，美光跌8.2%，泰瑞达跌7.2%，Lumentum控股、Sandisk跌超6.5%，英特尔跌4.6%，格芯、Arm控股跌4.4%。 标普500指数跌0.15%，纳指跌0.5%。 白宫新闻秘书莱维特宣称，与伊朗的谈判在继续，而且进展顺利。美国国务卿卢比奥声称，在美国实现自己目标之后才会结束伊朗战争。",
@@ -820,18 +935,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时10分 ~ 06时41分]"
-        },
-        {
-          "title": "张雪机车双冠点燃A股摩托板块，终端订单排至5-7月",
-          "url": "https://www.cls.cn/detail/2330554",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 19时36分]"
         },
         {
           "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股盘中）",
@@ -973,7 +1076,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -984,7 +1087,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -1022,6 +1125,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "迈威尔科技集团(MRVL.O)美股盘前涨超11%，公司获英伟达20亿美元投资。",
+          "url": "https://flash.jin10.com/detail/20260331200657058800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260331040539391800",
           "source": "金十数据",
@@ -1053,6 +1167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
+        },
+        {
+          "title": "美股跌势加剧，纳指跌入回调区间，华尔街加倍发出警告！",
+          "url": "https://flash.jin10.com/detail/20260331200418020800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
@@ -1169,11 +1294,12 @@
           "url": "https://www.zhihu.com/question/2021209668400288439",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 20时41分]"
         },
         {
           "title": "集邦咨询：AI服务器需求支撑第二季度存储器合约价上行，CSP借长期协议锁定供货",
@@ -1211,6 +1337,60 @@
       ]
     },
     {
+      "keyword_group": "商业航天",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "独家|中国商业航天重大突破！力箭二号首飞成功 成本直追SpaceX",
+          "url": "https://www.cls.cn/detail/2329372",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 08时01分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落再失3900点，商业航天概念活跃依旧，张雪机车概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2330673",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 20时41分]"
+        },
+        {
+          "title": "商业航天再迎催化，医药、锂电等板块有望轮番活跃",
+          "url": "https://www.cls.cn/detail/2329930",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "总投资额超86亿 宁波商业航天基地即将开启招标",
+          "url": "https://www.cls.cn/detail/2330314",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力",
       "match_count": 4,
       "titles": [
@@ -1221,11 +1401,12 @@
           "ranks": [
             11,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 19时36分]"
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 20时41分]"
         },
         {
           "title": "锚定新能源和算力两大赛道，50亿元级项目屡见不鲜",
@@ -1342,48 +1523,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "独家|中国商业航天重大突破！力箭二号首飞成功 成本直追SpaceX",
-          "url": "https://www.cls.cn/detail/2329372",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 08时01分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落再失3900点，商业航天概念活跃依旧，张雪机车概念逆势爆发",
-          "url": "https://www.cls.cn/detail/2330673",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 19时36分]"
-        },
-        {
-          "title": "商业航天再迎催化，医药、锂电等板块有望轮番活跃",
-          "url": "https://www.cls.cn/detail/2329930",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片",
       "match_count": 2,
       "titles": [
@@ -1424,7 +1563,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -1435,7 +1574,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         }
@@ -1452,7 +1591,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         }
@@ -1487,7 +1626,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         }
