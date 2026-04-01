@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T20:43:54.222858+08:00",
-  "total_titles_processed": 1796,
+  "generated_at": "2026-04-01T22:19:43.865665+08:00",
+  "total_titles_processed": 1929,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 93,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时06分 ~ 20时43分]"
+          "appearance_count": 16,
+          "time_info": "[07时06分 ~ 22时19分]"
         },
         {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
@@ -81,6 +81,17 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时40分 ~ 19时38分]"
+        },
+        {
+          "title": "马克龙访日暗讽特朗普",
+          "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 22时19分]"
         },
         {
           "title": "美伊转折点？特朗普：将在“两到三周”内结束战争，协议亦可能达成！",
@@ -105,8 +116,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时24分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[10时24分 ~ 22时19分]"
         },
         {
           "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -178,11 +189,12 @@
             28,
             29,
             27,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时06分 ~ 19时38分]"
+          "appearance_count": 12,
+          "time_info": "[07时06分 ~ 22时19分]"
         },
         {
           "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
@@ -196,17 +208,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时40分 ~ 07时50分]"
-        },
-        {
-          "title": "马克龙访日暗讽特朗普",
-          "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时40分 ~ 20时43分]"
         },
         {
           "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
@@ -234,6 +235,19 @@
           "time_info": "[01时55分 ~ 07时06分]"
         },
         {
+          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时38分 ~ 22时19分]"
+        },
+        {
           "title": "美以伊战争丨特朗普：将在两到三周内结束伊朗战事",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -256,18 +270,6 @@
           "time_info": "[18时40分 ~ 18时41分]"
         },
         {
-          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时38分 ~ 20时43分]"
-        },
-        {
           "title": "战争烂尾，特朗普要跑了",
           "url": "https://news.ifeng.com/c/8rxhKnCdBaV",
           "source": "凤凰网",
@@ -277,6 +279,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时24分 ~ 16时16分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "德国回应特朗普“退约”威胁 称将继续支持北约",
+          "url": "https://wallstreetcn.com/livenews/3080973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "特朗普将签署行政令限制邮寄选票",
@@ -296,7 +320,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -446,6 +470,19 @@
           "time_info": "[06时33分 ~ 07时06分]"
         },
         {
+          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时37分 ~ 22时19分]"
+        },
+        {
           "title": "战争烂尾 特朗普要跑了",
           "url": "https://www.baidu.com/s?wd=%E6%88%98%E4%BA%89%E7%83%82%E5%B0%BE+%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E8%B7%91%E4%BA%86",
           "source": "百度热搜",
@@ -469,18 +506,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时27分 ~ 06时33分]"
-        },
-        {
-          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 20时43分]"
         },
         {
           "title": "白宫称特朗普将就伊朗问题发表讲话",
@@ -613,6 +638,18 @@
           "time_info": "[05时04分 ~ 05时56分]"
         },
         {
+          "title": "英国首相回应特朗普要退出北约",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E9%80%80%E5%87%BA%E5%8C%97%E7%BA%A6%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时19分]"
+        },
+        {
           "title": "美国总统特朗普：在此（美国撤出伊朗）之前有可能达成协议。",
           "url": "https://flash.jin10.com/detail/20260401055903554800",
           "source": "金十数据",
@@ -659,6 +696,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "特朗普历史性现身最高法院 出席出生公民权政策庭审",
+          "url": "https://flash.jin10.com/detail/20260401220235838800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "特朗普将于美国东部时间周三上午10时出席最高法院口头辩论。",
           "url": "https://wallstreetcn.com/livenews/3080543",
           "source": "华尔街见闻-快讯",
@@ -668,6 +716,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "特朗普称当霍尔木兹海峡开放才会“考虑”停火，伊朗最新表态：霍尔木兹海峡不会对伊朗的“敌人”开放",
+          "url": "https://wallstreetcn.com/livenews/3080963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "特朗普“撒手不管”霍尔木兹海峡，对油价意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3768941",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "特朗普：伊朗已向美国请求停火",
+          "url": "https://www.douyin.com/hot/2451793",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "特朗普表态引爆欧股期指跳涨 和平进程仍扑朔迷离",
@@ -714,6 +795,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "布油短线小幅拉升，伊朗称鉴于特朗普的“荒谬”表现，海峡不会重新开放。",
+          "url": "https://wallstreetcn.com/livenews/3080959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "特朗普愈发沮丧，计划“两到三周内”结束对伊朗战争，或放弃关键目标",
           "url": "https://flash.jin10.com/detail/20260401064258971800",
           "source": "金十数据",
@@ -747,15 +839,26 @@
           "time_info": "13时12分"
         },
         {
-          "title": "英国首相回应特朗普要退出北约",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E9%80%80%E5%87%BA%E5%8C%97%E7%BA%A6%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "马克龙“暗批”特朗普：有的国家善变还伤害盟友",
+          "url": "https://wallstreetcn.com/livenews/3080952",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "22时19分"
+        },
+        {
+          "title": "特朗普称伊朗新政权总统请求停火",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%96%B0%E6%94%BF%E6%9D%83%E6%80%BB%E7%BB%9F%E8%AF%B7%E6%B1%82%E5%81%9C%E7%81%AB%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "美法官叫停白宫宴会厅改造项目，特朗普怒斥“疯子”！",
@@ -808,9 +911,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "特朗普称将很快撤出伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3080957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "美国总统特朗普：在两到三周内，我们将离开伊朗。",
@@ -981,7 +1095,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -991,8 +1105,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时50分 ~ 20时43分]"
+          "appearance_count": 15,
+          "time_info": "[07时50分 ~ 22时19分]"
         },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -1026,11 +1140,12 @@
             8,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时33分 ~ 20时43分]"
+          "appearance_count": 17,
+          "time_info": "[06时33分 ~ 22时19分]"
         },
         {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -1168,6 +1283,19 @@
           "time_info": "13时12分"
         },
         {
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 22时19分]"
+        },
+        {
           "title": "美股后续会怎么走",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
           "source": "bilibili 热搜",
@@ -1190,19 +1318,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        },
-        {
-          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
-          "url": "https://www.cls.cn/detail/2332176",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时40分 ~ 20时43分]"
         },
         {
           "title": "半导体ETF收涨超5.7%，在3月份收官日领跑美股行业ETF，一季度能源业ETF涨37.9%",
@@ -1314,7 +1429,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1328,6 +1443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "美股三大指数高开 耐克跌超12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E8%B7%8C%E8%B6%8512%25",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "港股收盘，恒指收涨2.04%，科指收涨2.29%。存储概念、医药外包概念等多板块全天活跃，澜起科技(06809.HK)涨约11%，荣昌生物(09995.HK)涨约15%。智谱(02513.HK)涨约32%。",
@@ -1352,6 +1478,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "170家A股公司收“罚单”20家被立案 一季度监管紧盯蹭热点炒概念",
+          "url": "https://www.cls.cn/detail/2332482",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "A股多元金融板块走强，爱建集团涨停，越秀资本、渤海租赁、海南华铁、国网英大、陕国投A、浙江东方等跟涨。",
           "url": "https://flash.jin10.com/detail/20260401101115013800",
           "source": "金十数据",
@@ -1361,6 +1498,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "美股涨幅扩大，纳指涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3080958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF普涨，全球航空业ETF、半导体ETF涨超2%，全球科技股指数ETF涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3080956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "近130只标的入围券商“金股”组合，机构称4月A股有望迎震荡筑底",
@@ -1380,7 +1539,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1394,6 +1553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.7%，大型科技股普涨",
+          "url": "https://wallstreetcn.com/livenews/3080946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "港股午评：恒生指数涨1.98% 恒生科技指数涨1.59%",
@@ -1468,7 +1638,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1664,6 +1834,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "西安电子科技大学实现国产芯片重要突破",
+          "url": "https://wallstreetcn.com/livenews/3080949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         }
       ]
     },
