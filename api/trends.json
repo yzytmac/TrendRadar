@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T07:50:17.876950+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-04-01T10:25:18.706497+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -49,11 +49,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时25分]"
         },
         {
           "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -88,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时25分]"
         },
         {
           "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
@@ -98,11 +99,12 @@
           "ranks": [
             11,
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时50分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时24分]"
         },
         {
           "title": "特朗普围伊“救”俄",
@@ -165,6 +167,29 @@
           "time_info": "[07时06分 ~ 07时50分]"
         },
         {
+          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
+          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 10时25分]"
+        },
+        {
+          "title": "美伊转折点？特朗普：将在“两到三周”内结束战争，协议亦可能达成！",
+          "url": "https://www.cls.cn/detail/2331376",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 10时25分]"
+        },
+        {
           "title": "特朗普将签署行政令限制邮寄选票",
           "url": "https://flash.jin10.com/detail/20260401052146266800",
           "source": "金十数据",
@@ -174,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        },
+        {
+          "title": "据美联社：美国总统特朗普将出席当地时间周三最高法院关于出生公民权的听证会，这使他成为首位出席该国最高法院口头辩论的在任总统。",
+          "url": "https://flash.jin10.com/detail/20260401102005179800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "美国总统特朗普：（被问及伊朗威胁打击中东地区美国公司）拿什么威胁？玩具枪（BB guns）吗？他们已经没什么可以拿来威胁的了。",
@@ -311,6 +347,28 @@
           "time_info": "[04时27分 ~ 06时33分]"
         },
         {
+          "title": "白宫称特朗普将就伊朗问题发表讲话",
+          "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E5%AE%AB%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%B0%B1%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 10时25分]"
+        },
+        {
+          "title": "战争烂尾，特朗普要跑了",
+          "url": "https://news.ifeng.com/c/8rxhKnCdBaV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 10时25分]"
+        },
+        {
           "title": "美国总统特朗普：鲍威尔必须尽快离任。 （美国军队）很快就会离开伊朗。 今天股价涨了。 我只要（宣布美军）离开伊朗，汽油价格就会下跌。 美国将在2-3周内离开伊朗。 再多几天就能完成对伊朗的任务。 可能与伊朗达成协议。 伊朗比我更想达成协议。 当美国认为伊朗无法拥有核武器时，就会离开。 想要美方离开，伊朗无需达成协议。 希望摧毁伊朗拥有的一切。 法国等国家将在霍尔木兹海峡应对（伊朗）。 听说有大量船只通过霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3080399",
           "source": "华尔街见闻-快讯",
@@ -323,15 +381,15 @@
           "time_info": "[06时33分 ~ 07时06分]"
         },
         {
-          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
-          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
-          "source": "凤凰网",
+          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
+          "url": "https://wallstreetcn.com/articles/3768931",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时06分 ~ 07时50分]"
+          "time_info": "[10时24分 ~ 10时25分]"
         },
         {
           "title": "据AXIOS网站：特朗普表示“与伊朗的谈判进展顺利。”",
@@ -379,6 +437,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时06分]"
+        },
+        {
+          "title": "特朗普将发表全国讲话，就伊朗问题发布“重要更新”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869490",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 10时25分]"
         },
         {
           "title": "美国白宫：特朗普总统将签署新的行政命令打击邮寄投票。",
@@ -452,6 +522,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "特朗普将于美国东部时间周三上午10时出席最高法院口头辩论。",
+          "url": "https://wallstreetcn.com/livenews/3080543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "白宫官员：特朗普总统对很快达成协议充满信心。",
           "url": "https://flash.jin10.com/detail/20260401015412302800",
           "source": "金十数据",
@@ -491,7 +572,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -502,9 +583,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "美法官叫停白宫宴会厅改造项目，特朗普怒斥“疯子”！",
+          "url": "https://flash.jin10.com/detail/20260401100754356800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "美国总统特朗普：美联储主席鲍威尔必须尽快离职。",
@@ -628,6 +720,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "美国国务卿鲁比奥：特朗普总统始终更倾向于谈判而非战争，但他不会允许虚假的谈判被用作伊朗拖延时间的策略。",
+          "url": "https://flash.jin10.com/detail/20260401095843776800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "美国总统特朗普：认为没有人能够从法律上挑战关于邮寄投票的行政命令。",
           "url": "https://flash.jin10.com/detail/20260401054311574800",
           "source": "金十数据",
@@ -642,7 +745,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 21,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -696,6 +799,19 @@
           "time_info": "[00时40分 ~ 07时50分]"
         },
         {
+          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
+          "url": "https://www.cls.cn/detail/2331315",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时33分 ~ 10时25分]"
+        },
+        {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
           "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
@@ -719,16 +835,55 @@
           "time_info": "[00时40分 ~ 01时56分]"
         },
         {
-          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
-          "url": "https://www.cls.cn/detail/2331315",
+          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 10时25分]"
+        },
+        {
+          "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
+          "url": "https://www.cls.cn/detail/2331350",
           "source": "财联社热门",
           "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 10时25分]"
+        },
+        {
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
             4,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时33分 ~ 07时50分]"
+          "appearance_count": 5,
+          "time_info": "[06时33分 ~ 10时25分]"
+        },
+        {
+          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
+          "url": "https://www.cls.cn/detail/2331277",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时56分 ~ 10时25分]"
         },
         {
           "title": "美伊结束冲突信号提振华尔街，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -740,17 +895,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
-        },
-        {
-          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
         },
         {
           "title": "金十图示：2026年03月31日（周二）美股热门股票行情一览（美股盘中）",
@@ -788,43 +932,6 @@
           "time_info": "00时41分"
         },
         {
-          "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
-          "url": "https://www.cls.cn/detail/2331350",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时33分 ~ 07时50分]"
-        },
-        {
-          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
-          "url": "https://www.cls.cn/detail/2331277",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时56分 ~ 07时50分]"
-        },
-        {
           "title": "半导体ETF收涨超5.7%，在3月份收官日领跑美股行业ETF，一季度能源业ETF涨37.9%",
           "url": "https://wallstreetcn.com/livenews/3080358",
           "source": "华尔街见闻-快讯",
@@ -847,6 +954,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时33分]"
+        },
+        {
+          "title": "A股三大指数大幅高开",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 10时25分]"
         },
         {
           "title": "纽约银日内涨幅达7.0%，报75.52美元/盎司。 临近美股收盘，纳斯达克100指数涨幅扩大至3.5%，标普500指数涨3%，道指涨1152点、涨幅2.55%，纳指涨超3.9%，生物科技指数涨4.65%，半导体指数涨6.1%，银行指数涨3.6%，罗素2000指数涨3.3%。",
@@ -873,15 +991,81 @@
           "time_info": "[06时33分 ~ 07时06分]"
         },
         {
+          "title": "美股暴涨 三大股指悉数收高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9A%B4%E6%B6%A8+%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E6%82%89%E6%95%B0%E6%94%B6%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 10时25分]"
+        },
+        {
+          "title": "美股三大股指集体收涨纳指涨超3.8%",
+          "url": "https://www.toutiao.com/trending/7623563069813165609/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 10时25分]"
+        },
+        {
+          "title": "A股算力、液冷概念股持续走强，佳力图拉升封板，奥瑞德、美利云、宁波建工等此前涨停，宏景科技、亿田智能涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3080536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股多元金融板块走强，爱建集团涨停，越秀资本、渤海租赁、海南华铁、国网英大、陕国投A、浙江东方等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260401101115013800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "近130只标的入围券商“金股”组合，机构称4月A股有望迎震荡筑底",
           "url": "https://wallstreetcn.com/livenews/3080426",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "A股CPO概念股集体反弹，铭普光磁涨停，腾景科技、长光华芯、优迅股份、本川智能、天孚通信等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3080515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股冰雪产业板块震荡下行，钱江摩托、中体产业跌超5%，舒华体育、健盛集团、天府文旅、绿茵生态、三夫户外跟跌。",
+          "url": "https://flash.jin10.com/detail/20260401100042148800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "美股创下去年5月以来的最大单日涨幅 月线仍跌约5%",
@@ -893,6 +1077,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "A股猪肉板块走弱，京基智农跌停，温氏股份、巨星农牧、天邦食品、神农集团跟跌。",
+          "url": "https://flash.jin10.com/detail/20260401095951671800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "港股AI应用股走强，智谱涨15%、MINIMAX-W涨9.74%、迅策涨8.66%。",
+          "url": "https://wallstreetcn.com/livenews/3080511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股算力租赁板块震荡走高，奥瑞德、美利云、协鑫能科涨停，宏景科技涨超17%，佳力图涨超9%。",
+          "url": "https://flash.jin10.com/detail/20260401095900148800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股存储芯片概念开盘大涨，德明利一字涨停，佰维存储、朗科科技、江波龙、香农芯创普冉股份、兆易创新等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3080510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股三大指数大幅高开",
+          "url": "https://wallstreetcn.com/livenews/3080505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     },
@@ -936,8 +1175,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科创50指数涨超3%，芯原股份涨超11%领涨成份股。",
+          "url": "https://flash.jin10.com/detail/20260401101805876800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     },
@@ -994,6 +1250,40 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时40分 ~ 05时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市值约20亿元！宁德时代控股股东拟向上海交大捐出500万股",
+          "url": "https://www.cls.cn/detail/2331053",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 10时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阳光电源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阳光电源低开低走跌超12%，公司去年Q4出现单季度营收与净利双下滑。",
+          "url": "https://wallstreetcn.com/livenews/3080518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     }
