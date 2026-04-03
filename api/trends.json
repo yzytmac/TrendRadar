@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T13:22:48.887476+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2026-04-03T14:46:20.897316+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -103,6 +103,20 @@
           "time_info": "[03时16分 ~ 06时52分]"
         },
         {
+          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
+          "url": "https://www.cls.cn/detail/2334086",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 14时46分]"
+        },
+        {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
           "url": "https://www.cls.cn/detail/2333305",
           "source": "财联社热门",
@@ -125,17 +139,16 @@
           "time_info": "08时06分"
         },
         {
-          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
-          "url": "https://www.cls.cn/detail/2334086",
-          "source": "财联社热门",
+          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
+          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            12,
-            7
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 14时46分]"
         },
         {
           "title": "美华盛顿规划机构批准特朗普白宫宴会厅项目",
@@ -228,18 +241,6 @@
           "time_info": "[11时28分 ~ 13时22分]"
         },
         {
-          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
-          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 13时22分]"
-        },
-        {
           "title": "特朗普刚说“炸回石器时代”，美军就把伊朗大桥炸了",
           "url": "https://flash.jin10.com/detail/20260403061620774800",
           "source": "金十数据",
@@ -250,6 +251,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时34分]"
+        },
+        {
+          "title": "密友出车祸被捕，特朗普紧急出面护短",
+          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 14时46分]"
+        },
+        {
+          "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
+          "url": "https://www.cls.cn/detail/2334117",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 14时46分]"
         },
         {
           "title": "伊朗外长嘲讽特朗普：石器时代可没有油气",
@@ -265,17 +289,6 @@
           "time_info": "[04时55分 ~ 06时08分]"
         },
         {
-          "title": "密友出车祸被捕，特朗普紧急出面护短",
-          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 13时22分]"
-        },
-        {
           "title": "特朗普演说后，美油价差飙升至历史纪录水平",
           "url": "https://wallstreetcn.com/livenews/3081717",
           "source": "华尔街见闻-快讯",
@@ -288,15 +301,16 @@
           "time_info": "[01时28分 ~ 02时09分]"
         },
         {
-          "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
-          "url": "https://www.cls.cn/detail/2334117",
-          "source": "财联社热门",
+          "title": "白宫紧急下架特朗普讲话视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%B4%A7%E6%80%A5%E4%B8%8B%E6%9E%B6%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%B2%E8%AF%9D%E8%A7%86%E9%A2%91%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
+            11,
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时28分 ~ 13时22分]"
+          "time_info": "[13时22分 ~ 14时46分]"
         },
         {
           "title": "美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻）",
@@ -321,6 +335,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时09分]"
+        },
+        {
+          "title": "说着硬话但表情沮丧，特朗普的“胜利”之说能信几分？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32879891",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时46分]"
         },
         {
           "title": "美国司法部长邦迪被解职后，特朗普考虑进一步调整内阁。 特朗普对商务部长卢特尼克、劳工部长Lori Chavez-DeRemer感到失望。（POLITICO）",
@@ -367,15 +393,15 @@
           "time_info": "11时28分"
         },
         {
-          "title": "白宫紧急下架特朗普讲话视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%B4%A7%E6%80%A5%E4%B8%8B%E6%9E%B6%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%B2%E8%AF%9D%E8%A7%86%E9%A2%91%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
+          "url": "https://www.cls.cn/detail/2334381",
+          "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "14时46分"
         },
         {
           "title": "市场消息：特朗普据悉将为下一财年提出1.5万亿美元国防预算，增幅“远超”二战以来任何时期。",
@@ -450,18 +476,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "说着硬话但表情沮丧，特朗普的“胜利”之说能信几分？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32879891",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -557,7 +572,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "股价入围A股前20！光纤龙头连日创新高，年内高涨热股扫描，这些特点或可关注",
@@ -593,8 +608,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时52分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[06时52分 ~ 14时46分]"
         },
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
@@ -669,17 +684,6 @@
           "time_info": "[00时31分 ~ 06时53分]"
         },
         {
-          "title": "A股商业航天板块午后下挫，中衡设计跌停，飞沃科技跌超10%，中超控股跌超9%，神剑股份、广联航空、巨力索具、航天宏图跟跌。此前天龙三号运载火箭发射失利。",
-          "url": "https://wallstreetcn.com/livenews/3081979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
           "title": "一季度港股IPO募资创近五年新高，“A+H”公司为核心力量",
           "url": "https://wallstreetcn.com/livenews/3081850",
           "source": "华尔街见闻-快讯",
@@ -697,7 +701,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -740,6 +744,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时55分 ~ 06时53分]"
+        },
+        {
+          "title": "A股商业航天板块午后下挫，中衡设计跌停，飞沃科技跌超10%，中超控股跌超9%，神剑股份、广联航空、巨力索具、航天宏图跟跌。此前天龙三号运载火箭发射失利。",
+          "url": "https://wallstreetcn.com/livenews/3081979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时46分]"
         },
         {
           "title": "年内外资机构调研A股热情持续高涨",
@@ -824,7 +840,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -860,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "A股算力租赁板块直线拉升，直真科技、思特奇、云赛智联涨停，东方国信、中贝通信、艾可蓝、嘉环科技、紫光股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3081988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "A股三大指数集体翻绿，沪指再度失守3900点关口，微盘股指数跌超3%，煤炭、油气、化工、农业等方向跌幅居前，沪深京三市超4600股飘绿。",
@@ -904,6 +931,110 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "工信部首提“算力银行”“算力超市” 降低中小企业用算门槛",
+          "url": "https://www.cls.cn/detail/2333703",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 08时06分]"
+        },
+        {
+          "title": "工信部：到2028年底显著降低中小企业获取、使用算力门槛",
+          "url": "https://www.cls.cn/detail/2333537",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时27分 ~ 06时08分]"
+        },
+        {
+          "title": "算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%",
+          "url": "https://www.cls.cn/detail/2334039",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 14时46分]"
+        },
+        {
+          "title": "国家国防科技工业局于国斌：要深刻认识发展太空算力的战略意义",
+          "url": "https://wallstreetcn.com/livenews/3082008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "国家国防科技工业局于国斌：要深刻认识发展太空算力的战略意义",
+          "url": "https://flash.jin10.com/detail/20260403142412086800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "科创板逾百家公司披露“提质增效重回报”行动方案，现金分红超140亿元",
+          "url": "https://wallstreetcn.com/livenews/3081997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "科创板逾百家公司披露“提质增效重回报”行动方案，现金分红超140亿元",
+          "url": "https://flash.jin10.com/detail/20260403140854390800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "上证指数早盘收报3882.69点，跌0.93%。 深证成指早盘收报13387.92点，跌0.73%。 创业板指早盘收报3166.06点，跌0.21%。 沪深300早盘收报4450.32点，跌0.64%。 科创50早盘收报1258.89点，跌0.26%。 中证500早盘收报7541.65点，跌0.84%。 中证1000早盘收报7551.56点，跌0.94%。",
+          "url": "https://wallstreetcn.com/livenews/3081951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         }
       ]
     },
@@ -954,48 +1085,6 @@
       ]
     },
     {
-      "keyword_group": "算力",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "工信部首提“算力银行”“算力超市” 降低中小企业用算门槛",
-          "url": "https://www.cls.cn/detail/2333703",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 08时06分]"
-        },
-        {
-          "title": "工信部：到2028年底显著降低中小企业获取、使用算力门槛",
-          "url": "https://www.cls.cn/detail/2333537",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时27分 ~ 06时08分]"
-        },
-        {
-          "title": "算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%",
-          "url": "https://www.cls.cn/detail/2334039",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 13时22分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体",
       "match_count": 2,
       "titles": [
@@ -1033,11 +1122,12 @@
           "url": "https://wallstreetcn.com/livenews/3081973",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时46分]"
         },
         {
           "title": "宏明电子：公司部分电子元器件已应用于商业航天领域",
@@ -1046,7 +1136,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         }
@@ -1068,23 +1158,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时09分 ~ 04时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证指数早盘收报3882.69点，跌0.93%。 深证成指早盘收报13387.92点，跌0.73%。 创业板指早盘收报3166.06点，跌0.21%。 沪深300早盘收报4450.32点，跌0.64%。 科创50早盘收报1258.89点，跌0.26%。 中证500早盘收报7541.65点，跌0.84%。 中证1000早盘收报7551.56点，跌0.94%。",
-          "url": "https://wallstreetcn.com/livenews/3081951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
         }
       ]
     },
