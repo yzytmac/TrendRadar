@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T09:59:00.726386+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-04-04T12:22:45.578595+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
@@ -16,11 +16,12 @@
             19,
             11,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时01分 ~ 09时59分]"
+          "appearance_count": 12,
+          "time_info": "[03时01分 ~ 12时22分]"
         },
         {
           "title": "特朗普正式对进口专利药品征收 100% 关税，为何其还能收关税，此举会对全球创新药市场产生多大影响？",
@@ -35,8 +36,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时01分 ~ 09时59分]"
+          "appearance_count": 12,
+          "time_info": "[03时01分 ~ 12时22分]"
         },
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -314,6 +315,28 @@
           "time_info": "07时50分"
         },
         {
+          "title": "美国总统特朗普：3月新增非农就业人口17.8万人，失业率下降。各方都认为这是个好数字，连那些假新闻媒体也如此。让美国再次伟大！",
+          "url": "https://flash.jin10.com/detail/20260404110623924800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "特朗普炮轰ABC记者：三流主播又写书瞎编，这家电视台最烂最腐败",
+          "url": "https://flash.jin10.com/detail/20260404110124771800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
           "url": "https://flash.jin10.com/detail/20260403233021951800",
           "source": "金十数据",
@@ -350,7 +373,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【每日收评】沪指失守3900点，全市场超4700股收跌，算力硬件股逆势活跃",
@@ -359,11 +382,23 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 09时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 12时22分]"
+        },
+        {
+          "title": "我国成立太空算力产业协同平台",
+          "url": "https://www.douyin.com/hot/2454693",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "沪指跌1%再失守3900点，微盘股指数大跌3.5%，算力硬件爆发、CPO全线大涨，电力、煤炭集体调整",
@@ -374,8 +409,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时50分 ~ 09时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时50分 ~ 12时22分]"
         },
         {
           "title": "北京太空算力创新中心启动筹建",
@@ -444,11 +479,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 09时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 12时22分]"
         },
         {
           "title": "2025年我国商业航天核心产业规模超万亿元",
@@ -457,7 +493,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         }
@@ -475,8 +511,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时22分]"
         }
       ]
     }
