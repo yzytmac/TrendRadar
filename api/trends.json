@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T10:46:36.576727+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-04-05T13:11:19.471351+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 31,
       "titles": [
         {
           "title": "美以伊战争丨特朗普发通牒：地狱将降临到伊朗头上",
@@ -31,6 +31,20 @@
           "time_info": "[00时39分 ~ 07时58分]"
         },
         {
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 13时11分]"
+        },
+        {
           "title": "美国总统特朗普在社交平台上发布了三张图片，内容分别是：特朗普担任美国总统的支持率高达96%，94%的受访人员认为特朗普是他们一生中遇到的最好的总统，以及万斯担任美国副总统的支持率为92%。",
           "url": "https://flash.jin10.com/detail/20260405040644929800",
           "source": "金十数据",
@@ -45,19 +59,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时59分 ~ 10时46分]"
-        },
-        {
-          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 10时46分]"
         },
         {
           "title": "奥地利副总理：不想卷入特朗普发动的战争",
@@ -129,6 +130,39 @@
           "time_info": "[03时54分 ~ 07时58分]"
         },
         {
+          "title": "美以伊战争丨美军第2名失联飞行员获救，特朗普发声",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "美媒：特朗普在白宫战情室跟进失踪美军飞行员救援行动",
+          "url": "https://wallstreetcn.com/livenews/3082545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
+          "url": "https://wallstreetcn.com/articles/3769270",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "伊朗媒体：特朗普深陷战争泥潭",
           "url": "https://flash.jin10.com/detail/20260405011320855800",
           "source": "金十数据",
@@ -144,6 +178,18 @@
           "time_info": "[01时49分 ~ 04时29分]"
         },
         {
+          "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
+          "url": "https://www.cls.cn/detail/2335423",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时30分 ~ 13时11分]"
+        },
+        {
           "title": "杰富瑞集团：特朗普在伊朗问题上发出的自相矛盾的信号正在损害美国的全球地位。",
           "url": "https://flash.jin10.com/detail/20260405000820854800",
           "source": "金十数据",
@@ -155,18 +201,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 01时49分]"
-        },
-        {
-          "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
-          "url": "https://www.cls.cn/detail/2335423",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时30分 ~ 10时46分]"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
@@ -185,11 +219,122 @@
           "url": "https://www.cls.cn/detail/2335441",
           "source": "财联社热门",
           "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 13时11分]"
+        },
+        {
+          "title": "特朗普：美军完成历史上“最大胆的搜救行动” 失踪飞行员均已获救",
+          "url": "https://flash.jin10.com/detail/20260405121452100800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "美国总统特朗普：根据我的指示，美国军方出动了数十架战机，携带世界上“最致命的武器”，将失踪的飞行员救回。他受了伤，但未来会完全康复。",
+          "url": "https://flash.jin10.com/detail/20260405121210468800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "特朗普发文：第二名失踪的美军飞行员“已平安无事”",
+          "url": "https://wallstreetcn.com/livenews/3082537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
+          "url": "https://wallstreetcn.com/articles/3769276",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "美国总统特朗普：美国军方营救了我们一位了不起的机组人员。",
+          "url": "https://flash.jin10.com/detail/20260405121031640800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "美国总统特朗普：美军完成了美国历史上最大胆的搜救行动之一。",
+          "url": "https://flash.jin10.com/detail/20260405120951058800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
+          "url": "https://wallstreetcn.com/articles/3769266",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时46分"
+          "time_info": "13时11分"
+        },
+        {
+          "title": "美国前参议员表示特朗普已经住院",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%8D%E5%8F%82%E8%AE%AE%E5%91%98%E8%A1%A8%E7%A4%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E7%BB%8F%E4%BD%8F%E9%99%A2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "伊朗军方拒绝特朗普“48小时”通牒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32906731",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "盘点｜绝对忠诚也非“铁饭碗”！特朗普为何连“砍”多位高官？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32904187",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
@@ -198,7 +343,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -209,7 +354,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -231,7 +376,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         }
@@ -239,7 +384,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
@@ -249,8 +394,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 10时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 13时11分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
@@ -263,8 +408,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 10时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 13时11分]"
         },
         {
           "title": "同比增长489% 一季度港股IPO融资近1100港元",
@@ -273,7 +418,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -297,22 +442,57 @@
           "url": "https://wallstreetcn.com/livenews/3082518",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 13时11分]"
         },
         {
           "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
           "url": "https://wallstreetcn.com/articles/3769263",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 13时11分]"
+        },
+        {
+          "title": "陈茂波：3月港股日均成交额超3000亿港元，同比增加逾8%",
+          "url": "https://wallstreetcn.com/livenews/3082533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时46分"
+          "time_info": "13时11分"
+        },
+        {
+          "title": "陈茂波：3月港股日均成交额超3000亿港元，同比增加逾8%",
+          "url": "https://flash.jin10.com/detail/20260405113406239800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "同比增长489% 一季度港股IPO融资近1100亿港元",
+          "url": "https://flash.jin10.com/detail/20260405100153322800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         }
       ]
     },
