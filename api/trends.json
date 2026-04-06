@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T16:47:52.171993+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-04-06T18:08:02.552807+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 16时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 18时08分]"
         },
         {
           "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
@@ -70,11 +70,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 16时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 18时08分]"
         },
         {
           "title": "下周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
@@ -113,8 +114,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 16时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 18时08分]"
         },
         {
           "title": "伊朗议长：特朗普的鲁莽举动正将美国拖入地狱",
@@ -131,6 +132,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时17分 ~ 07时50分]"
+        },
+        {
+          "title": "本周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
+          "url": "https://wallstreetcn.com/articles/3769257",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 18时08分]"
         },
         {
           "title": "特朗普：若伊朗未在7日晚前开放霍尔木兹海峡将打击其发电厂",
@@ -267,6 +281,19 @@
           "time_info": "[00时43分 ~ 07时50分]"
         },
         {
+          "title": "“最后通牒”延后一天，特朗普称正与伊朗进行“深入谈判”，4月7日前“很有可能”与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3769299",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时07分 ~ 18时08分]"
+        },
+        {
           "title": "比特币跌幅收窄至大约0.6%，暂报66876美元。 据福克斯新闻报道，美国总统特朗普此前企图向伊朗抗议者们发放枪支弹药。 特朗普认为，库尔德截留了美方向伊朗抗议者们输送的武器。 特朗普宣称，很有可能会在明天（下周一）达成伊朗协议。",
           "url": "https://wallstreetcn.com/livenews/3082650",
           "source": "华尔街见闻-快讯",
@@ -306,19 +333,6 @@
           "time_info": "[10时13分 ~ 16时47分]"
         },
         {
-          "title": "本周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
-          "url": "https://wallstreetcn.com/articles/3769257",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 16时47分]"
-        },
-        {
           "title": "美以伊战争丨特朗普：有望在7日前与伊朗达成协议",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -328,19 +342,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时34分 ~ 07时50分]"
-        },
-        {
-          "title": "“最后通牒”延后一天，特朗普称正与伊朗进行“深入谈判”，4月7日前“很有可能”与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3769299",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时07分 ~ 16时47分]"
         },
         {
           "title": "特朗普：相信能在6日之前与伊朗达成协议",
@@ -381,6 +382,43 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "克里姆林宫：（就特朗普对伊朗的脏话威胁）紧张局势持续升级。",
+          "url": "https://flash.jin10.com/detail/20260406175132637800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "发帖飙脏话，特朗普“破防”了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909910",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 18时08分]"
+        },
+        {
+          "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
+          "url": "https://www.cls.cn/detail/2335621",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 18时08分]"
         },
         {
           "title": "据美国《国会山报》：特朗普被问及是否会排除向伊朗派遣地面部队的可能性，他回答称“不会”。",
@@ -439,6 +477,18 @@
           "time_info": "[01时17分 ~ 04时01分]"
         },
         {
+          "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
+          "url": "https://wallstreetcn.com/articles/3769302",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时07分 ~ 18时08分]"
+        },
+        {
           "title": "据美国《国会山报》：美国总统特朗普表示，如果未能与伊朗达成协议，我们的打击名单上不会排除任何基础设施。",
           "url": "https://flash.jin10.com/detail/20260406011017076800",
           "source": "金十数据",
@@ -465,6 +515,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时57分 ~ 07时05分]"
+        },
+        {
+          "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
+          "url": "https://www.cls.cn/detail/2335633",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 18时08分]"
         },
         {
           "title": "特朗普又发“最后通牒”，油价上涨",
@@ -519,42 +581,16 @@
           "time_info": "[00时43分 ~ 02时47分]"
         },
         {
-          "title": "发帖飙脏话，特朗普“破防”了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909910",
+          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            15,
-            10,
-            9
+            17,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时13分 ~ 16时47分]"
-        },
-        {
-          "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
-          "url": "https://www.cls.cn/detail/2335621",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 16时47分]"
-        },
-        {
-          "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
-          "url": "https://wallstreetcn.com/articles/3769302",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时07分 ~ 16时47分]"
+          "time_info": "[15时03分 ~ 18时08分]"
         },
         {
           "title": "特朗普威胁轰炸伊朗电厂，让伊朗陷入“地狱”",
@@ -609,6 +645,17 @@
           "time_info": "[00时43分 ~ 01时57分]"
         },
         {
+          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
+          "url": "https://www.cls.cn/detail/2335649",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 18时08分]"
+        },
+        {
           "title": "据ABC新闻：美国总统特朗普表示，他认为目前没有必要在地面部署美军。他认为没有必要，但也不排除任何可能性。",
           "url": "https://flash.jin10.com/detail/20260406000235663800",
           "source": "金十数据",
@@ -648,18 +695,6 @@
           "time_info": "[00时43分 ~ 01时57分]"
         },
         {
-          "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
-          "url": "https://www.cls.cn/detail/2335633",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 16时47分]"
-        },
-        {
           "title": "特朗普披露“营救行动”更多细节，称第二名机组人员“身受重伤”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32909911",
           "source": "澎湃新闻",
@@ -672,6 +707,17 @@
           "time_info": "[10时13分 ~ 13时07分]"
         },
         {
+          "title": "特朗普发文飙脏话",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E9%A3%99%E8%84%8F%E8%AF%9D%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 18时08分]"
+        },
+        {
           "title": "白宫新闻秘书莱维特：应广大媒体的要求，特朗普总统明天的新闻发布会将改在白宫新闻发布室举行，时间为美国东部时间下午1点（北京时间次日凌晨一点）。",
           "url": "https://flash.jin10.com/detail/20260406055420602800",
           "source": "金十数据",
@@ -682,17 +728,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时05分]"
-        },
-        {
-          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 16时47分]"
         },
         {
           "title": "伊朗常驻联合国代表团：特朗普企图将中东拖入无休止战争",
@@ -787,17 +822,6 @@
           "time_info": "10时13分"
         },
         {
-          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
-          "url": "https://www.cls.cn/detail/2335649",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
           "title": "以媒：特朗普认为7日前“很有可能”与伊朗达成协议",
           "url": "https://wallstreetcn.com/livenews/3082691",
           "source": "华尔街见闻-快讯",
@@ -845,7 +869,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
@@ -857,8 +881,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 16时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 18时08分]"
         },
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
@@ -883,19 +907,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 16时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 18时08分]"
         },
         {
-          "title": "美股存储板块盘前上涨，闪迪涨超4%，美光科技涨近4%，西部数据涨近3%，希捷科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3082776",
-          "source": "华尔街见闻-快讯",
+          "title": "A股明天怎么走",
+          "url": "https://www.toutiao.com/trending/7624438863545303076/",
+          "source": "今日头条",
           "ranks": [
-            2
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 18时08分]"
         },
         {
           "title": "美股期货周一亚市盘初走低，标普500指数期货跌0.4%。",
@@ -912,6 +936,42 @@
           "time_info": "[06时34分 ~ 10时13分]"
         },
         {
+          "title": "美股存储板块盘前上涨，闪迪涨超4%，美光科技涨近4%，西部数据涨近3%，希捷科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3082776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 18时08分]"
+        },
+        {
+          "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911415",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 18时08分]"
+        },
+        {
+          "title": "“48小时通牒”与“45天停火协议”挑动市场，周一油价冲高回落，黄金下跌、美股期货转涨，日韩股市收涨",
+          "url": "https://wallstreetcn.com/articles/3769300",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 18时08分]"
+        },
+        {
           "title": "美股三大股指期货周一低开，道指期货跌0.38%、标普500指数期货跌0.31%、纳指期货跌0.35%。",
           "url": "https://flash.jin10.com/detail/20260406060457012800",
           "source": "金十数据",
@@ -925,36 +985,13 @@
           "time_info": "[06时34分 ~ 07时50分]"
         },
         {
-          "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32911415",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 16时47分]"
-        },
-        {
-          "title": "“48小时通牒”与“45天停火协议”挑动市场，周一油价冲高回落，黄金下跌、美股期货转涨，日韩股市收涨",
-          "url": "https://wallstreetcn.com/articles/3769300",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
           "title": "维珍银河(SPCE.N)美股盘前大涨12.6%。",
           "url": "https://flash.jin10.com/detail/20260406160708669800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -965,7 +1002,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -976,7 +1013,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -1021,9 +1058,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 18时08分]"
         }
       ]
     },
@@ -1038,7 +1075,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         }
