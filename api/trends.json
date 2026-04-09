@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T11:29:54.707927+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-04-09T13:31:35.952992+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 66,
       "titles": [
         {
           "title": "美副总统万斯：美伊停火为“脆弱休战” 特朗普“急于看到进展”",
@@ -83,11 +83,12 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 11时29分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 13时31分]"
         },
         {
           "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
@@ -116,11 +117,12 @@
           "url": "https://www.zhihu.com/question/2025299647992709378",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 08时05分]"
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 13时31分]"
         },
         {
           "title": "深度特写：特朗普是如何把美国\"拖入\"伊朗战争的？",
@@ -129,11 +131,46 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时01分 ~ 11时29分]"
+          "appearance_count": 9,
+          "time_info": "[06时01分 ~ 13时31分]"
+        },
+        {
+          "title": "“北约盟友没帮忙，特朗普打算这样惩罚”",
+          "url": "https://news.ifeng.com/c/8sB098ZojvN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
+          "url": "https://news.ifeng.com/c/8sBBnRWw3el",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 13时31分]"
+        },
+        {
+          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
+          "url": "https://wallstreetcn.com/articles/3769517",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 13时31分]"
         },
         {
           "title": "美国总统特朗普：北约在我们需要他们的时候不在，如果我们再次需要他们，他们也不会在。",
@@ -158,13 +195,36 @@
           "time_info": "[01时01分 ~ 05时10分]"
         },
         {
+          "title": "特朗普：美军驻留伊朗，违约就“开火”，规模将前所未有",
+          "url": "https://flash.jin10.com/detail/20260409130825168800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
+          "url": "https://wallstreetcn.com/articles/3769534",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时31分]"
+        },
+        {
           "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
           "url": "https://wallstreetcn.com/livenews/3084742",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -230,18 +290,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时37分 ~ 08时05分]"
-        },
-        {
-          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
-          "url": "https://wallstreetcn.com/articles/3769517",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 11时29分]"
         },
         {
           "title": "白宫：特朗普认为北约未通过“考验”，将与吕特讨论“退群”",
@@ -319,6 +367,17 @@
           "time_info": "[04时25分 ~ 05时10分]"
         },
         {
+          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
+          "url": "https://wallstreetcn.com/articles/3769486",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 13时31分]"
+        },
+        {
           "title": "从惊魂到TACO--特朗普震惊世界的12小时",
           "url": "https://wallstreetcn.com/articles/3769455",
           "source": "华尔街见闻",
@@ -329,6 +388,62 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时36分 ~ 08时05分]"
+        },
+        {
+          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
+          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
+          "url": "https://wallstreetcn.com/articles/3769503",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时31分]"
+        },
+        {
+          "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2025238372327723742",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时31分]"
+        },
+        {
+          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普：所有美国舰船、飞机和军事人员将继续留在伊朗周围",
+          "url": "https://news.ifeng.com/c/8sBFKpB7gj3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 13时31分]"
         },
         {
           "title": "美国副总统万斯：伊朗人必须采取下一步行动，否则美国总统特朗普将有重返战争的选择。",
@@ -343,6 +458,17 @@
           "time_info": "[03时42分 ~ 04时25分]"
         },
         {
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://www.cls.cn/detail/2338839",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 13时31分]"
+        },
+        {
           "title": "北约秘书长吕特没有回答特朗普是否曾表示要让美国退出北约的问题。",
           "url": "https://flash.jin10.com/detail/20260409065130568800",
           "source": "金十数据",
@@ -353,17 +479,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时37分 ~ 08时05分]"
-        },
-        {
-          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
-          "url": "https://wallstreetcn.com/articles/3769486",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 11时29分]"
         },
         {
           "title": "北约秘书长吕特：我非常钦佩特朗普的领导能力。",
@@ -402,6 +517,17 @@
           "time_info": "[03时03分 ~ 03时42分]"
         },
         {
+          "title": "以色列议员公开辱骂特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%AE%E5%91%98%E5%85%AC%E5%BC%80%E8%BE%B1%E9%AA%82%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 13时31分]"
+        },
+        {
           "title": "北约秘书长吕特与特朗普的会晤结束。",
           "url": "https://flash.jin10.com/detail/20260409053003064800",
           "source": "金十数据",
@@ -424,28 +550,6 @@
           "time_info": "03时03分"
         },
         {
-          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
-          "url": "https://wallstreetcn.com/articles/3769534",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
-          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
           "title": "美媒：特朗普考虑部分撤出在北约盟国的美军",
           "url": "https://flash.jin10.com/detail/20260409042356816800",
           "source": "金十数据",
@@ -457,24 +561,13 @@
           "time_info": "05时10分"
         },
         {
-          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
-          "url": "https://wallstreetcn.com/articles/3769503",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
           "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
           "url": "https://flash.jin10.com/detail/20260409110940415800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -490,17 +583,6 @@
           "time_info": "01时01分"
         },
         {
-          "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025238372327723742",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
           "title": "美国法官阻止特朗普政府终止对5000多名埃塞俄比亚人的法律保护的请求。",
           "url": "https://flash.jin10.com/detail/20260409050230973800",
           "source": "金十数据",
@@ -510,17 +592,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
-        },
-        {
-          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
         },
         {
           "title": "法国总统马克龙：已告知伊朗总统佩泽希齐扬和美国总统特朗普，他们接受停火的决定是最佳选择。",
@@ -540,7 +611,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -650,7 +721,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -664,6 +735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "WTI原油期货维持3%的涨幅，特朗普：美军将“继续驻扎在伊朗境内及其周边”，直到达成的协议得到全面遵守",
+          "url": "https://wallstreetcn.com/livenews/3084759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "报道：特朗普未反对以色列继续对抗真主党",
@@ -683,7 +765,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         }
@@ -691,7 +773,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -704,6 +786,30 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 07时37分]"
+        },
+        {
+          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
+          "url": "https://www.cls.cn/detail/2338535",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时04分 ~ 13时31分]"
+        },
+        {
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 13时31分]"
         },
         {
           "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
@@ -743,30 +849,6 @@
           "time_info": "[01时01分 ~ 05时10分]"
         },
         {
-          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
-          "url": "https://www.cls.cn/detail/2338535",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时04分 ~ 11时29分]"
-        },
-        {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 11时29分]"
-        },
-        {
           "title": "“莫氏鸡煲”爆红出圈一鸡难求？ A股千亿巨头主动“送鸡”接流量",
           "url": "https://www.cls.cn/detail/2338241",
           "source": "财联社热门",
@@ -792,6 +874,17 @@
           "time_info": "[06时01分 ~ 07时05分]"
         },
         {
+          "title": "A股煤化工板块短线拉升，诚志股份涨停，金牛化工、金煤科技、鲁西化工、宝丰能源、华谊集团等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260409130945861800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "中信建投：若美股出现又一波下跌 建议积极增持",
           "url": "https://wallstreetcn.com/livenews/3084639",
           "source": "华尔街见闻-快讯",
@@ -814,6 +907,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时25分 ~ 06时01分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2460150",
+          "source": "抖音",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时31分]"
         },
         {
           "title": "金十图示：2026年04月08日（周三）美股热门股票行情一览（美股收盘）",
@@ -864,6 +969,17 @@
           "time_info": "[04时25分 ~ 05时10分]"
         },
         {
+          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
+          "url": "https://www.cls.cn/detail/2338764",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 13时31分]"
+        },
+        {
           "title": "美股股指期货周四开盘微跌，WTI原油微涨，现货黄金高开0.15%。",
           "url": "https://flash.jin10.com/detail/20260409060126125800",
           "source": "金十数据",
@@ -900,6 +1016,17 @@
           "time_info": "[07时37分 ~ 08时05分]"
         },
         {
+          "title": "A股稀土永磁板块午后再度拉升，英洛华直线涨停，华宏科技此前涨停，九菱科技、华新环保、新莱福、中稀有色、中科磁业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3084785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "周三（4月8日），存储芯片与硬件供应链指数涨8.08%，报125.83点，跳空高开、迅速刷新日高至127.77点，美股开盘后90分钟内呈现出冲高回落走势。 信息科技指数涨4.61%，人工智能（AI）赢家指数涨4.96%；AI软件先驱指数跌1.04%。",
           "url": "https://wallstreetcn.com/livenews/3084589",
           "source": "华尔街见闻-快讯",
@@ -917,7 +1044,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -988,17 +1115,6 @@
           "time_info": "01时01分"
         },
         {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2460150",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
           "title": "美股三大指数收涨超2%",
           "url": "https://www.toutiao.com/trending/7626528667786579498/",
           "source": "今日头条",
@@ -1008,6 +1124,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "破解地面算力“能耗焦虑”，太空算力产业生态提速构建",
+          "url": "https://www.cls.cn/detail/2338372",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 08时05分]"
+        },
+        {
+          "title": "我国加快太空算力产业生态培育",
+          "url": "https://www.toutiao.com/trending/7626429435123417114/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时31分]"
+        },
+        {
+          "title": "腾讯云发布AI算力、容器服务、EMR相关产品价格调整公告",
+          "url": "https://wallstreetcn.com/livenews/3084773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "腾讯云发布AI算力、容器服务、EMR相关产品价格调整公告",
+          "url": "https://flash.jin10.com/detail/20260409123552093800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "4月9日午间收评：沪指半日跌0.73%，算力硬件股逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3084752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
@@ -1022,7 +1202,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -1033,7 +1213,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -1073,7 +1253,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -1091,31 +1271,28 @@
       ]
     },
     {
-      "keyword_group": "算力",
+      "keyword_group": "人形机器人",
       "match_count": 2,
       "titles": [
         {
-          "title": "破解地面算力“能耗焦虑”，太空算力产业生态提速构建",
-          "url": "https://www.cls.cn/detail/2338372",
-          "source": "财联社热门",
+          "title": "起亚汽车：计划到2030年实现每年100万辆电动车销量，市场份额达到3.8%。 计划到2030年实现运营利润17万亿韩元，此前目标为18万亿韩元。 计划于2029年开始在美国乔治亚工厂部署Atlas人形机器人。 计划未来五年投资约49万亿韩元。 计划于2027年推出高速公路自动驾驶功能，2029年初实现城市环境自动驾驶。",
+          "url": "https://wallstreetcn.com/livenews/3084782",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 08时05分]"
-        },
-        {
-          "title": "我国加快太空算力产业生态培育",
-          "url": "https://www.toutiao.com/trending/7626429435123417114/",
-          "source": "今日头条",
-          "ranks": [
-            3
+            8
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "机器人租赁平台擎天租成智元新款人形机器人A3“首发应用场”",
+          "url": "https://flash.jin10.com/detail/20260409105400979800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         }
@@ -1156,19 +1333,53 @@
       ]
     },
     {
-      "keyword_group": "人形机器人",
+      "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
         {
-          "title": "机器人租赁平台擎天租成智元新款人形机器人A3“首发应用场”",
-          "url": "https://flash.jin10.com/detail/20260409105400979800",
-          "source": "金十数据",
+          "title": "马斯克称FSD V15版本安全性将远超人类水平",
+          "url": "https://wallstreetcn.com/livenews/3084767",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3965.70点，跌0.73%。 深证成指早盘收报13999.55点，跌0.31%。 创业板指早盘收报3325.29点，跌0.67%。 沪深300早盘收报4566.22点，跌0.64%。 科创50早盘收报1350.03点，跌0.20%。 中证500早盘收报7902.96点，跌0.53%。 中证1000早盘收报7918.78点，跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3084753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "信维通信：公司商业航天业务进展顺利",
+          "url": "https://wallstreetcn.com/livenews/3084766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
@@ -1183,7 +1394,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         }
