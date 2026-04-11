@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T07:37:27.339499+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-04-11T08:06:09.708131+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时08分 ~ 07时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时08分 ~ 08时06分]"
         },
         {
           "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时08分 ~ 07时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时08分 ~ 08时06分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时08分 ~ 07时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时08分 ~ 08时06分]"
         },
         {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "特朗普：谈判结果24小时内明朗",
+          "url": "https://news.ifeng.com/c/8sDlxLParYe",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -69,20 +80,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
         {
-          "title": "报道：特朗普和平委员会面临资金短缺，加沙计划陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3086135",
+          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反怼：他的电影和演技才构成战争罪",
+          "url": "https://wallstreetcn.com/livenews/3086139",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "08时06分"
+        },
+        {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 08时06分]"
         },
         {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
@@ -146,6 +169,32 @@
           "time_info": "[01时08分 ~ 02时02分]"
         },
         {
+          "title": "报道：特朗普和平委员会面临资金短缺，加沙计划陷入停滞",
+          "url": "https://wallstreetcn.com/livenews/3086135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 08时06分]"
+        },
+        {
+          "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
+          "url": "https://wallstreetcn.com/livenews/3086110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时04分 ~ 08时06分]"
+        },
+        {
           "title": "美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。",
           "url": "https://flash.jin10.com/detail/20260410234303682800",
           "source": "金十数据",
@@ -158,17 +207,16 @@
           "time_info": "[00时08分 ~ 01时08分]"
         },
         {
-          "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
-          "url": "https://wallstreetcn.com/livenews/3086110",
-          "source": "华尔街见闻-快讯",
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            18,
-            25
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时04分 ~ 07时37分]"
+          "time_info": "[07时37分 ~ 08时06分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击",
@@ -267,6 +315,17 @@
           "time_info": "[05时21分 ~ 06时04分]"
         },
         {
+          "title": "事关霍尔木兹海峡，特朗普最新发声",
+          "url": "https://news.ifeng.com/c/8sDy2gGiv6K",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
           "title": "据纽约邮报：若与伊朗和平谈判失败，特朗普准备动用武力。",
           "url": "https://flash.jin10.com/detail/20260410233248888800",
           "source": "金十数据",
@@ -279,26 +338,16 @@
           "time_info": "[00时08分 ~ 01时08分]"
         },
         {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
-          "source": "财联社热门",
+          "title": "特朗普：美国“很快”将开放霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3086118",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            17,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 08时06分]"
         },
         {
           "title": "美国总统特朗普：伊朗人在应对假新闻媒体和“公关”方面比打仗更在行！",
@@ -334,17 +383,6 @@
           "time_info": "03时56分"
         },
         {
-          "title": "特朗普：美国“很快”将开放霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3086118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
           "title": "巴西财政部长：巴西总统卢拉与美国总统特朗普的对话有助于达成协议。这为与美国的其他交易铺平了道路。美国官员表示希望下周在华盛顿与我进一步深入会谈。",
           "url": "https://flash.jin10.com/detail/20260410230016351800",
           "source": "金十数据",
@@ -373,18 +411,6 @@
       "match_count": 11,
       "titles": [
         {
-          "title": "A股交易规则为何要进行重大调整",
-          "url": "https://www.toutiao.com/trending/7627093467767770670/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时08分 ~ 07时37分]"
-        },
-        {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260411041025716800",
           "source": "金十数据",
@@ -393,8 +419,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时34分 ~ 07时37分]"
+          "appearance_count": 6,
+          "time_info": "[04时34分 ~ 08时06分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -405,8 +431,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时34分 ~ 07时37分]"
+          "appearance_count": 6,
+          "time_info": "[04时34分 ~ 08时06分]"
         },
         {
           "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
@@ -414,11 +440,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时13分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[03时13分 ~ 08时06分]"
+        },
+        {
+          "title": "A股交易规则为何要进行重大调整",
+          "url": "https://www.toutiao.com/trending/7627093467767770670/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时08分 ~ 08时06分]"
         },
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
@@ -427,9 +466,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 08时06分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -440,8 +479,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时34分 ~ 07时37分]"
+          "appearance_count": 6,
+          "time_info": "[04时34分 ~ 08时06分]"
         },
         {
           "title": "A股一周20大熊股出炉",
@@ -526,11 +565,12 @@
           "url": "https://wallstreetcn.com/articles/3769671",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 08时06分]"
         }
       ]
     },
