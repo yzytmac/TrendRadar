@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T05:52:16.121889+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-04-13T06:33:08.985122+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 06时33分]"
         },
         {
           "title": "特朗普：美国将摧毁霍尔木兹海峡的水雷",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 06时33分]"
         },
         {
           "title": "特朗普：美军将封锁任何试图进出霍尔木兹海峡的船只",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 06时33分]"
         },
         {
           "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
@@ -47,11 +48,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 06时33分]"
         },
         {
           "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
@@ -61,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 06时33分]"
         },
         {
           "title": "特朗普：将调集更多扫雷艇前往霍尔木兹海峡",
@@ -74,11 +76,12 @@
             6,
             8,
             9,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 06时33分]"
         },
         {
           "title": "特朗普：不允许伊朗通过出售石油赚钱",
@@ -96,6 +99,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时37分 ~ 05时07分]"
+        },
+        {
+          "title": "谈判破裂后，特朗普考虑对伊朗进行有限打击。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "伊朗称特朗普威胁封锁霍尔木兹荒谬",
@@ -339,18 +353,19 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
           "url": "https://www.cls.cn/detail/2341275",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 06时33分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -360,8 +375,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 06时33分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -369,11 +384,45 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 06时33分]"
+        },
+        {
+          "title": "国际油价开盘跳涨，美股期货跌超1%",
+          "url": "https://wallstreetcn.com/livenews/3086498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "美股三大股指期货周一低开超1%。",
+          "url": "https://flash.jin10.com/detail/20260413060153001800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "震荡反复后A股有望再起攻势，投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2341569",
+          "source": "财联社热门",
+          "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时52分]"
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
         }
       ]
     },
@@ -390,8 +439,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 06时33分]"
         },
         {
           "title": "宇树科技人形机器人跑出10米/秒",
@@ -416,11 +465,12 @@
           "url": "https://www.cls.cn/detail/2341244",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 06时33分]"
         }
       ]
     },
