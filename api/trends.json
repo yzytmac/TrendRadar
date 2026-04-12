@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T21:35:40.956021+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-04-12T22:25:58.654842+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 67,
       "titles": [
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时24分 ~ 21时35分]"
+          "appearance_count": 14,
+          "time_info": "[10时24分 ~ 22时25分]"
         },
         {
           "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
@@ -100,8 +100,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时01分 ~ 21时35分]"
+          "appearance_count": 8,
+          "time_info": "[18时01分 ~ 22时25分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：将封锁霍尔木兹海峡",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时25分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
@@ -175,15 +186,15 @@
           "time_info": "00时35分"
         },
         {
-          "title": "伊朗战争丨特朗普：将封锁霍尔木兹海峡",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：海湾盟友已开始在霍尔木兹海峡协助我们。",
+          "url": "https://flash.jin10.com/detail/20260412222011266800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时25分"
         },
         {
           "title": "【特朗普：并不在意美伊会谈能否达成协议】美国总统特朗普11日在白宫接受采访时说，美国与伊朗在伊斯兰堡的谈判有可能达成协议，也有可能达不成协议，但对他来说，“没什么区别”。（央视）",
@@ -197,15 +208,15 @@
           "time_info": "06时01分"
         },
         {
-          "title": "特朗普称除核问题外 美伊就“大多数问题达成一致”",
-          "url": "https://flash.jin10.com/detail/20260412211518019800",
+          "title": "美国总统特朗普：伊朗人还没有离开谈判桌，预计他们会回来，给我们想要的一切。",
+          "url": "https://flash.jin10.com/detail/20260412221839501800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时25分"
         },
         {
           "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
@@ -219,15 +230,48 @@
           "time_info": "[13时11分 ~ 17时06分]"
         },
         {
-          "title": "特朗普：美伊谈判除核问题外进展顺利",
-          "url": "https://wallstreetcn.com/livenews/3086427",
+          "title": "美国总统特朗普：封锁（霍尔木兹海峡的）措施将类似于对委内瑞拉采取的措施。",
+          "url": "https://flash.jin10.com/detail/20260412221712647800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗谈判代表们还没有离开谈判桌。 我预计伊朗将回来，满足“我们想要的”。 （谈及未来可能进行的会谈）我想要一切。 一个小时之内，我就能摧毁伊朗的全部能源。 （谈及摧毁伊朗的可能性）若他们不放弃，美国就会这么做。",
+          "url": "https://wallstreetcn.com/livenews/3086444",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时25分"
+        },
+        {
+          "title": "美国总统特朗普：关于消灭伊朗文明的社交媒体帖子让伊朗人坐到了谈判桌前。",
+          "url": "https://flash.jin10.com/detail/20260412221641274800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "特朗普：北约现在有意协助处理霍尔木兹海峡问题。",
+          "url": "https://wallstreetcn.com/livenews/3086442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "特朗普宣布：封锁霍尔木兹海峡，将开始“摧毁”海峡的水雷",
@@ -236,9 +280,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "美国总统特朗普：我们将封锁霍尔木兹海峡。 这将耗费一段时间，但将是行之有效的手段。 伊朗不会掌握核武器，他们没有底牌。 对海峡的封锁级别将比对委内瑞拉“更高”。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3086441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "美国总统特朗普：（霍尔木兹海峡）水里可能有几枚水雷。",
@@ -324,6 +379,18 @@
           "time_info": "[18时53分 ~ 20时04分]"
         },
         {
+          "title": "特朗普称除核问题外 美伊就“大多数问题达成一致”",
+          "url": "https://flash.jin10.com/detail/20260412211518019800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时25分]"
+        },
+        {
           "title": "特朗普转发威胁伊朗的报道链接",
           "url": "https://flash.jin10.com/detail/20260412123247854800",
           "source": "金十数据",
@@ -334,6 +401,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时11分 ~ 14时49分]"
+        },
+        {
+          "title": "特朗普：美伊谈判除核问题外进展顺利",
+          "url": "https://wallstreetcn.com/livenews/3086427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时25分]"
         },
         {
           "title": "伊朗谈判生变数 特朗普暗示或采取“海上封锁”手段",
@@ -372,6 +451,18 @@
           "time_info": "[19时34分 ~ 20时04分]"
         },
         {
+          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
+          "url": "https://wallstreetcn.com/articles/3769762",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时06分 ~ 22时25分]"
+        },
+        {
           "title": "伊朗回应特朗普：封锁伊朗无法让霍尔木兹海峡“开放”",
           "url": "https://flash.jin10.com/detail/20260412180522857800",
           "source": "金十数据",
@@ -385,17 +476,6 @@
           "time_info": "[18时53分 ~ 20时04分]"
         },
         {
-          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
-          "url": "https://wallstreetcn.com/articles/3769762",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时06分 ~ 21时35分]"
-        },
-        {
           "title": "特朗普：无论如何美国都赢了，达不达成协议无所谓",
           "url": "https://m.thepaper.cn/newsDetail_forward_32954237",
           "source": "澎湃新闻",
@@ -405,6 +485,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时33分 ~ 20时04分]"
+        },
+        {
+          "title": "特朗普：核问题没谈拢，即刻起将封锁霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260412205920833800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时25分]"
+        },
+        {
+          "title": "美国总统特朗普：任何向我们或和平船只开火的伊朗人，都将被炸进“地狱”。",
+          "url": "https://flash.jin10.com/detail/20260412205546072800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时25分]"
         },
         {
           "title": "伊朗回应特朗普：封锁伊朗无法让霍尔木兹海峡“开放”",
@@ -419,6 +523,30 @@
           "time_info": "[18时53分 ~ 19时34分]"
         },
         {
+          "title": "美国总统特朗普：我们也将开始摧毁伊朗人在海峡中布下的水雷。",
+          "url": "https://flash.jin10.com/detail/20260412205517971800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时25分]"
+        },
+        {
+          "title": "美国总统特朗普：我还指示美国海军在国际水域搜查并扣押每一艘向伊朗缴纳过通行费的船只。",
+          "url": "https://flash.jin10.com/detail/20260412205511864800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时25分]"
+        },
+        {
           "title": "美国代表团成员在巴基斯坦磋商结束后悉数离境。 总统特朗普女婿库什纳、特使Witkoff、以及技术团队已经离开伊斯兰堡。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3086389",
           "source": "华尔街见闻-快讯",
@@ -431,6 +559,18 @@
           "time_info": "[19时34分 ~ 20时04分]"
         },
         {
+          "title": "美国总统特朗普：（美伊）会谈进行得不错，大部分议题都达成了共识，但唯一真正重要的核问题没有谈拢。即刻起，美国海军将开始对任何试图进出霍尔木兹海峡的船只实施封锁。",
+          "url": "https://flash.jin10.com/detail/20260412205424024800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时25分]"
+        },
+        {
           "title": "美伊谈判结束后 特朗普再提欧洲",
           "url": "https://flash.jin10.com/detail/20260412125636392800",
           "source": "金十数据",
@@ -441,6 +581,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时49分 ~ 16时03分]"
+        },
+        {
+          "title": "报道：特朗普与财长贝森特讨论如何应付伊朗战争持续8-12周",
+          "url": "https://wallstreetcn.com/livenews/3086412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时25分]"
         },
         {
           "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
@@ -496,42 +648,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
         {
-          "title": "特朗普：核问题没谈拢，即刻起将封锁霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260412205920833800",
+          "title": "美国总统特朗普：周六穿过海峡的两艘美国军舰未遭任何阻挠。",
+          "url": "https://flash.jin10.com/detail/20260412221042333800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们也在调集更多传统扫雷舰，据我了解，英国及其他国家也在派遣扫雷舰。",
+          "url": "https://flash.jin10.com/detail/20260412220845950800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时25分"
         },
         {
-          "title": "美国总统特朗普：任何向我们或和平船只开火的伊朗人，都将被炸进“地狱”。",
-          "url": "https://flash.jin10.com/detail/20260412205546072800",
+          "title": "美国总统特朗普：北约现在愿意帮助维护霍尔木兹海峡的安全。我们认为，众多国家将会在这方面帮助我们。",
+          "url": "https://flash.jin10.com/detail/20260412220801534800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时25分"
         },
         {
-          "title": "美国总统特朗普：我们也将开始摧毁伊朗人在海峡中布下的水雷。",
-          "url": "https://flash.jin10.com/detail/20260412205517971800",
+          "title": "美国总统特朗普：与伊朗的会谈在最后“非常友好”。",
+          "url": "https://flash.jin10.com/detail/20260412220732093800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时25分"
         },
         {
           "title": "“大空头”做空后，特朗普亲自“站台”Palantir",
@@ -556,26 +719,26 @@
           "time_info": "13时11分"
         },
         {
-          "title": "美国总统特朗普：我还指示美国海军在国际水域搜查并扣押每一艘向伊朗缴纳过通行费的船只。",
-          "url": "https://flash.jin10.com/detail/20260412205511864800",
+          "title": "美国总统特朗普：清理（霍尔木兹）海峡不会花太长时间。",
+          "url": "https://flash.jin10.com/detail/20260412220726733800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时25分"
         },
         {
-          "title": "美国总统特朗普：（美伊）会谈进行得不错，大部分议题都达成了共识，但唯一真正重要的核问题没有谈拢。即刻起，美国海军将开始对任何试图进出霍尔木兹海峡的船只实施封锁。",
-          "url": "https://flash.jin10.com/detail/20260412205424024800",
+          "title": "美国总统特朗普：我们将封锁霍尔木兹海峡，这需要一点时间。",
+          "url": "https://flash.jin10.com/detail/20260412220511341800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时25分"
         },
         {
           "title": "特朗普：将封锁霍尔木兹海峡",
@@ -584,20 +747,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
         {
-          "title": "报道：特朗普与财长贝森特讨论如何应付伊朗战争持续8-12周",
-          "url": "https://wallstreetcn.com/livenews/3086412",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普威胁称“将把伊朗的残余力量终结”",
+          "url": "https://flash.jin10.com/detail/20260412220225508800",
+          "source": "金十数据",
           "ranks": [
-            15
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时25分"
         },
         {
           "title": "美媒：美方谈判团队与特朗普至少六次通话 还与多名美政府官员进行了沟通",
@@ -609,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "特朗普宣布：美军将封锁霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3086424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "特朗普再次发文抨击媒体",
@@ -628,7 +802,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         }
@@ -647,8 +821,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时35分 ~ 21时35分]"
+          "appearance_count": 27,
+          "time_info": "[00时35分 ~ 22时25分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -661,8 +835,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时35分 ~ 21时35分]"
+          "appearance_count": 27,
+          "time_info": "[00时35分 ~ 22时25分]"
         },
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
@@ -692,8 +866,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时35分 ~ 21时35分]"
+          "appearance_count": 27,
+          "time_info": "[00时35分 ~ 22时25分]"
         },
         {
           "title": "A股交易重要调整来了",
@@ -746,8 +920,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时06分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[17时06分 ~ 22时25分]"
         },
         {
           "title": "A股4000点时刻如何跟上投资节奏",
@@ -801,8 +975,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时06分 ~ 21时35分]"
+          "appearance_count": 9,
+          "time_info": "[17时06分 ~ 22时25分]"
+        },
+        {
+          "title": "人形机器人跑步姿势像成龙",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E5%A7%BF%E5%8A%BF%E5%83%8F%E6%88%90%E9%BE%99",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            15,
+            13,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时53分 ~ 22时25分]"
         },
         {
           "title": "宇树科技人形机器人跑出10米/秒",
@@ -816,20 +1005,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时24分 ~ 16时03分]"
-        },
-        {
-          "title": "人形机器人跑步姿势像成龙",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E5%A7%BF%E5%8A%BF%E5%83%8F%E6%88%90%E9%BE%99",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            15,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时53分 ~ 21时35分]"
         },
         {
           "title": "宇树科技宣布人形机器人跑出10米/秒，逼近人类巅峰水平",
@@ -966,7 +1141,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         }
@@ -1035,8 +1210,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时35分 ~ 21时35分]"
+          "appearance_count": 27,
+          "time_info": "[00时35分 ~ 22时25分]"
         }
       ]
     },
