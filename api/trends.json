@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T17:04:46.430863+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2026-04-14T18:42:12.165761+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -44,6 +44,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 08时14分]"
+        },
+        {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时14分 ~ 18时42分]"
         },
         {
           "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
@@ -109,20 +123,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 03时55分]"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时14分 ~ 17时04分]"
         },
         {
           "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
@@ -215,6 +215,20 @@
           "time_info": "[07时29分 ~ 15时28分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            14,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时42分 ~ 18时42分]"
+        },
+        {
           "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
           "url": "https://www.cls.cn/detail/2342938",
           "source": "财联社热门",
@@ -226,6 +240,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时42分 ~ 17时04分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普威胁向伊朗供武将加税，中方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 18时42分]"
         },
         {
           "title": "伊朗强硬回应特朗普封锁威胁",
@@ -253,18 +278,31 @@
           "time_info": "00时28分"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
           "ranks": [
-            19,
-            14,
+            17,
             13,
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时42分 ~ 17时04分]"
+          "time_info": "[13时51分 ~ 18时42分]"
+        },
+        {
+          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时51分 ~ 18时42分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：特朗普表示，教皇利奥应该远离政治。",
@@ -397,32 +435,6 @@
           "time_info": "[01时20分 ~ 02时46分]"
         },
         {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 17时04分]"
-        },
-        {
-          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 17时04分]"
-        },
-        {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
           "url": "https://www.cls.cn/detail/2342208",
           "source": "财联社热门",
@@ -468,6 +480,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时14分 ~ 11时43分]"
+        },
+        {
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 18时42分]"
         },
         {
           "title": "特朗普再次威胁古巴",
@@ -846,7 +869,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         }
@@ -854,7 +877,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "用“成绩”说话！A股“优等生交卷”，一批个股净利增超10倍",
@@ -918,6 +941,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "富国银行第一季度营收为214.5亿美元，预期217.6亿美元。 第一季度每股收益1.6美元。 第一季度净利息收入121亿美元，预期122.7亿美元。 富国银行美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3087648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "创新性交易安排渐多，一季度A股并购市场维持活跃态势",
@@ -988,6 +1022,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时46分]"
+        },
+        {
+          "title": "刘纪鹏谈A股如何才能站稳4000点",
+          "url": "https://www.toutiao.com/trending/7628264900246159403/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 18时42分]"
         },
         {
           "title": "戴尔科技美股盘后跌3%，惠普（HPQ）跌3%，英伟达否认媒体的收购传闻。",
@@ -1081,6 +1126,17 @@
           "time_info": "15时28分"
         },
         {
+          "title": "强生第一季度销售额240.6亿美元，预估236.6亿美元。 第一季度调整后每股收益2.70美元，预估2.69美元。 强生预计全年销售额1,003亿美元至1,013亿美元，市场预估1,006.3亿美元。 强生预计全年调整后每股收益11.45美元至11.65美元。 强生美股盘前微跌。",
+          "url": "https://wallstreetcn.com/livenews/3087638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "金十图示：2026年04月13日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260414040552964800",
           "source": "金十数据",
@@ -1164,18 +1220,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
-          "title": "刘纪鹏谈A股如何才能站稳4000点",
-          "url": "https://www.toutiao.com/trending/7628264900246159403/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -1321,6 +1366,58 @@
       ]
     },
     {
+      "keyword_group": "算力",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【每日收评】创业板指4连阳续创阶段新高，算力硬件、锂电产业链反复活跃",
+          "url": "https://www.cls.cn/detail/2342312",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 06时32分]"
+        },
+        {
+          "title": "4月14日午间收评：创业板指半日涨超2%，算力产业链再度爆发",
+          "url": "https://wallstreetcn.com/livenews/3087384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "【焦点复盘】创业板指、深成指双双创4年多新高，锂电池、算力硬件股持续站上风口",
+          "url": "https://www.cls.cn/detail/2343665",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 18时42分]"
+        },
+        {
+          "title": "沪指涨近1%重返4000点，算力、锂电产业链集体走强",
+          "url": "https://wallstreetcn.com/livenews/3087496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科创",
       "match_count": 3,
       "titles": [
@@ -1360,43 +1457,30 @@
       ]
     },
     {
-      "keyword_group": "算力",
-      "match_count": 3,
+      "keyword_group": "芯片",
+      "match_count": 2,
       "titles": [
         {
-          "title": "【每日收评】创业板指4连阳续创阶段新高，算力硬件、锂电产业链反复活跃",
-          "url": "https://www.cls.cn/detail/2342312",
+          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
+          "url": "https://www.cls.cn/detail/2343603",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 06时32分]"
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 18时42分]"
         },
         {
-          "title": "4月14日午间收评：创业板指半日涨超2%，算力产业链再度爆发",
-          "url": "https://wallstreetcn.com/livenews/3087384",
+          "title": "韩国人工智能芯片初创公司DeepX准备在韩国进行IPO，其也对通过ADR在美国上市持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3087406",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "沪指涨近1%重返4000点，算力、锂电产业链集体走强",
-          "url": "https://wallstreetcn.com/livenews/3087496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
+          "time_info": "13时52分"
         }
       ]
     },
@@ -1441,8 +1525,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 17时04分]"
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 18时42分]"
         },
         {
           "title": "海南省政府与江苏省政府签署商业航天领域战略合作备忘录",
@@ -1468,7 +1552,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -1486,19 +1570,19 @@
       ]
     },
     {
-      "keyword_group": "芯片",
+      "keyword_group": "存储",
       "match_count": 1,
       "titles": [
         {
-          "title": "韩国人工智能芯片初创公司DeepX准备在韩国进行IPO，其也对通过ADR在美国上市持开放态度。",
-          "url": "https://wallstreetcn.com/livenews/3087406",
+          "title": "机构：受存储涨价影响，一季度全球智能手机出货量同比下降6%",
+          "url": "https://wallstreetcn.com/livenews/3087625",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "18时42分"
         }
       ]
     },
