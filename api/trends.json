@@ -1,271 +1,22 @@
 {
-  "generated_at": "2026-04-14T22:50:29.550263+08:00",
-  "total_titles_processed": 1893,
+  "generated_at": "2026-04-15T00:07:44.465233+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "特朗普：伊朗致电美方说希望达成协议",
-          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时53分 ~ 17时04分]"
-        },
-        {
-          "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
-          "url": "https://wallstreetcn.com/articles/3769785",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 08时14分]"
-        },
         {
           "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
           "url": "https://wallstreetcn.com/articles/3769872",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时14分 ~ 22时50分]"
-        },
-        {
-          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
-          "url": "https://wallstreetcn.com/articles/3769786",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 08时14分]"
-        },
-        {
-          "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
-          "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时43分]"
-        },
-        {
-          "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
-          "url": "https://www.cls.cn/detail/2342732",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时43分]"
-        },
-        {
-          "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
-          "url": "https://wallstreetcn.com/articles/3769823",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 17时04分]"
-        },
-        {
-          "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E8%89%87%E5%8B%BF%E9%9D%A0%E8%BF%91%E5%B0%81%E9%94%81%E7%BA%BF%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            8,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时20分 ~ 07时29分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普威胁击沉靠近封锁线的伊朗船只",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时55分]"
-        },
-        {
-          "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
-          "url": "https://wallstreetcn.com/articles/3769804",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 13时52分]"
-        },
-        {
-          "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
-          "url": "https://v.ifeng.com/c/8sIUop0o5UZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
-          "url": "https://www.cls.cn/detail/2342301",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时32分]"
-        },
-        {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            14,
-            13,
-            9,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 22时50分]"
-        },
-        {
-          "title": "中方回应特朗普重申将封锁伊朗港口",
-          "url": "https://www.toutiao.com/trending/7628108023306718761/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            11,
-            14,
-            18,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时29分]"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时51分 ~ 22时50分]"
-        },
-        {
-          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2026779173369246174",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时32分]"
-        },
-        {
-          "title": "特朗普发了一张图，让西方大吃一惊",
-          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时14分 ~ 17时04分]"
-        },
-        {
-          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
-          "url": "https://www.cls.cn/detail/2342892",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 15时28分]"
-        },
-        {
-          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
-          "url": "https://www.cls.cn/detail/2342938",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 17时04分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普威胁向伊朗供武将加税，中方回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -275,1532 +26,203 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时41分 ~ 22时50分]"
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
-          "title": "伊朗强硬回应特朗普封锁威胁",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%81%E9%94%81%E5%A8%81%E8%83%81%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            7,
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时55分 ~ 07时29分]"
-        },
-        {
-          "title": "意大利总理梅洛尼：特朗普关于教皇的言论不可接受。",
-          "url": "https://flash.jin10.com/detail/20260414000431392800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时51分 ~ 18时42分]"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司（CBS）：特朗普表示，教皇利奥应该远离政治。",
-          "url": "https://flash.jin10.com/detail/20260414060651219800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "特朗普暗示停火结束后或继续对伊朗采取行动",
-          "url": "https://flash.jin10.com/detail/20260414010217537800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国财政部长贝森特在一份声明中表示，特朗普总统计划提名艾琳・布朗出任财政部国际事务副部长。布朗为现任太平洋投资管理公司董事总经理兼投资组合经理。",
-          "url": "https://flash.jin10.com/detail/20260414071808772800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "法国总统马克龙：我昨日分别同伊朗总统佩泽希齐扬和美国总统特朗普进行了通话。",
-          "url": "https://flash.jin10.com/detail/20260414192650273800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "印度总理莫迪与美国总统特朗普通电话。（PTI）",
-          "url": "https://wallstreetcn.com/livenews/3087805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
-          "url": "https://www.cls.cn/detail/2342207",
+          "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
+          "url": "https://www.cls.cn/detail/2343501",
           "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时46分]"
-        },
-        {
-          "title": "特朗普：伊朗致电美方说希望达成协议",
-          "url": "https://wallstreetcn.com/livenews/3087102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时55分]"
-        },
-        {
-          "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
-          "url": "https://wallstreetcn.com/livenews/3087172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时32分]"
-        },
-        {
-          "title": "4月13日，欧盟围绕将钢铁进口压缩将近一半达成初步共识。 由于美国总统特朗普实施50%的进口关税、且欧洲进口增长，欧盟辖区内钢铁制造业运作率只有产能的65%。 最新措施有望让产能利用率达到80%。",
-          "url": "https://wallstreetcn.com/livenews/3087171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时32分]"
-        },
-        {
-          "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
-          "url": "https://flash.jin10.com/detail/20260414052030287800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时32分]"
-        },
-        {
-          "title": "舒默列举特朗普五大“史诗级失败”",
-          "url": "https://flash.jin10.com/detail/20260414052009214800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时32分]"
-        },
-        {
-          "title": "据英国金融时报：美国总统特朗普提名艾琳·布朗尼出任美国财政部国际事务主管。",
-          "url": "https://flash.jin10.com/detail/20260414041925108800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时46分]"
-        },
-        {
-          "title": "最新公开文件显示，Anthropic PBC聘请了游说企业Ballard Partners，后者与美国总统特朗普存在关联。",
-          "url": "https://wallstreetcn.com/livenews/3087099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时46分]"
-        },
-        {
-          "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
-          "url": "https://www.cls.cn/detail/2342208",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
-        },
-        {
-          "title": "连封锁霍尔木兹这招都用上了，特朗普在伊朗问题上已无牌可打？",
-          "url": "https://wallstreetcn.com/articles/3769807",
-          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 07时29分]"
-        },
-        {
-          "title": "美英再现分歧！斯塔默：不支持特朗普封锁霍尔木兹海峡",
-          "url": "https://www.cls.cn/detail/2342601",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时32分 ~ 08时14分]"
-        },
-        {
-          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时14分 ~ 11时43分]"
-        },
-        {
-          "title": "特朗普再次威胁古巴",
-          "url": "https://flash.jin10.com/detail/20260414021714668800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时55分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
-          "title": "特朗普：前一天有34艘船只通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3087098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时46分]"
-        },
-        {
-          "title": "美国总统特朗普：许多船只正驶往美国，从而装载石油。",
-          "url": "https://wallstreetcn.com/livenews/3087093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时46分]"
-        },
-        {
-          "title": "美国总统特朗普：副总统万斯在巴基斯坦会谈期间做得不错。 其他方面打电话来，希望（美国与伊朗）达成一份协议。 伊朗对话的症结在于核问题。 认为伊朗现在会认可美方的核主张。 如果伊朗不认同美国对核武器的主张，就不会有协议。",
-          "url": "https://wallstreetcn.com/livenews/3087092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时46分]"
-        },
-        {
-          "title": "美国白宫：特朗普提名共和党前众议员Michelle Steel出任驻韩国大使。",
-          "url": "https://flash.jin10.com/detail/20260414050141708800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时32分]"
-        },
-        {
-          "title": "特朗普抨击纽约时报是假新闻。",
-          "url": "https://flash.jin10.com/detail/20260414045620948800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时32分]"
-        },
-        {
-          "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
-          "url": "https://wallstreetcn.com/livenews/3087202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 08时14分]"
-        },
-        {
-          "title": "特朗普称或对古巴采取行动",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%88%96%E5%AF%B9%E5%8F%A4%E5%B7%B4%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 08时14分]"
-        },
-        {
-          "title": "特朗普：不会接受任何允许伊朗拥有核武器的协议",
-          "url": "https://flash.jin10.com/detail/20260414005615622800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "伊朗国防部发言人：美国总统特朗普任何干涉霍尔木兹海峡和阿曼海的军事企图都将失败。",
-          "url": "https://flash.jin10.com/detail/20260413234507827800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国总统特朗普：美国在石油业务方面有很强的能力。",
-          "url": "https://flash.jin10.com/detail/20260414005209753800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "特朗普：前一天有34艘船只通过霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260414005148852800",
-          "source": "金十数据",
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
-          "title": "据印度时报：印度总理莫迪与美国总统特朗普通话近40分钟。",
-          "url": "https://flash.jin10.com/detail/20260414221803503800",
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
+        },
+        {
+          "title": "特朗普态度摇摆：先排除、后改口仍倾向巴基斯坦作为美伊谈判地",
+          "url": "https://flash.jin10.com/detail/20260414233754525800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "00时07分"
         },
         {
-          "title": "美国总统特朗普：我们在搞定伊朗之后，可能会顺道去古巴。",
-          "url": "https://flash.jin10.com/detail/20260414005026377800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普兜售针对食品配送人员的税收立法草案。",
-          "url": "https://wallstreetcn.com/livenews/3087091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及海峡封锁问题）石油公司在那里和这里都将表现良好。",
-          "url": "https://flash.jin10.com/detail/20260414005010047800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普：教皇在法律和秩序问题上错了。",
-          "url": "https://flash.jin10.com/detail/20260414004802246800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗现在已经没有任何生意了，我们将维持这种状态。",
-          "url": "https://flash.jin10.com/detail/20260414004755062800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗在两周内不达成协议，情况不会令人愉快。伊朗相关时间表没有改变，目前没有战斗。",
-          "url": "https://flash.jin10.com/detail/20260414004723617800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "特朗普删除“化身耶稣”的图片：本意想扮演医生",
-          "url": "https://flash.jin10.com/detail/20260414015709253800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及将帮助霍尔木兹海峡问题的国家）明天公布细节。",
-          "url": "https://flash.jin10.com/detail/20260414004642543800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普：4月12日，34艘船只通过霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3087086",
+          "title": "【特朗普称与伊朗会谈“可能未来两天内”在巴基斯坦举行】美国总统特朗普14日告诉《纽约邮报》，与伊朗会谈“可能未来两天内”在巴基斯坦举行。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3087855",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "00时07分"
         },
         {
-          "title": "美国总统特朗普：可能在油轮抵达美国之前解决伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260414004614435800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普：（霍尔木兹海峡）封锁已经开始。其他国家会在封锁中提供帮助。",
-          "url": "https://flash.jin10.com/detail/20260414004549058800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普将在任何时刻讲话。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3087084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普：今天早上，我们接到了来自伊朗方面相关负责人的电话。",
-          "url": "https://flash.jin10.com/detail/20260414004444199800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
-          "url": "https://flash.jin10.com/detail/20260414064137451800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "英国财政大臣怒批特朗普：无退出战略就开战是“愚蠢的”",
-          "url": "https://flash.jin10.com/detail/20260414200656432800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "美国总统特朗普：许多船只正驶向美国装载石油。",
-          "url": "https://flash.jin10.com/detail/20260414004413922800",
+          "title": "特朗普称与伊朗会谈“可能未来两天内”在巴基斯坦举行",
+          "url": "https://flash.jin10.com/detail/20260414233041933800",
           "source": "金十数据",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "据纽约时报：两名伊朗高级官员和一名美国官员透露，伊朗表示可以暂停铀浓缩活动长达五年，但特朗普政府拒绝了这一提议，坚持要求暂停期限为二十年。",
-          "url": "https://flash.jin10.com/detail/20260414064006233800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗不同意放弃核武器，那就不会达成协议。",
-          "url": "https://flash.jin10.com/detail/20260414004340060800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "据新德里电视台：美国总统特朗普与印度总理莫迪通电话。",
-          "url": "https://flash.jin10.com/detail/20260414221415558800",
-          "source": "金十数据",
-          "ranks": [
-            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "00时07分"
         },
         {
-          "title": "美国总统特朗普：关键问题在于核问题。",
-          "url": "https://flash.jin10.com/detail/20260414004303042800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普：对方（伊朗）已经给我们打电话了，他们非常想达成协议。伊朗并未同意不拥有核武器。我们将取回核材料。",
-          "url": "https://flash.jin10.com/detail/20260414004240860800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普：万斯在伊朗问题上做得非常出色。",
-          "url": "https://flash.jin10.com/detail/20260414004217039800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普在白宫向一名送餐人员宣传其税收法案。",
-          "url": "https://flash.jin10.com/detail/20260414004154581800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "伊朗官员：特朗普“摧毁”伊朗文明的言论是个“笑话”",
-          "url": "https://wallstreetcn.com/livenews/3087551",
+          "title": "美国总统特朗普：未来2天可能会在巴基斯坦举行与伊朗的磋商。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3087851",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 a股 港股",
-      "match_count": 40,
-      "titles": [
-        {
-          "title": "用“成绩”说话！A股“优等生交卷”，一批个股净利增超10倍",
-          "url": "https://www.cls.cn/detail/2342669",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时43分]"
-        },
-        {
-          "title": "A股拟全面适用盘后固定价交易",
-          "url": "https://www.toutiao.com/trending/7628223480814636586/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5,
-            26,
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时29分]"
-        },
-        {
-          "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
-          "url": "https://wallstreetcn.com/articles/3769784",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 04时53分]"
-        },
-        {
-          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
-          "url": "https://www.cls.cn/detail/2342867",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 15时28分]"
-        },
-        {
-          "title": "A股午评：创业板指半日涨2.1% 存储芯片、CPO概念涨幅居前",
-          "url": "https://flash.jin10.com/detail/20260414113200102800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "富国银行第一季度营收为214.5亿美元，预期217.6亿美元。 第一季度每股收益1.6美元。 第一季度净利息收入121亿美元，预期122.7亿美元。 富国银行美股盘前跌近3%。",
-          "url": "https://wallstreetcn.com/livenews/3087648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "创新性交易安排渐多，一季度A股并购市场维持活跃态势",
-          "url": "https://wallstreetcn.com/livenews/3087187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "A股尾盘急拉是变盘信号吗",
-          "url": "https://www.toutiao.com/trending/7628583142877564479/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "WTI原油周二开盘持稳，美股股指期货微涨，现货黄金小幅高开。",
-          "url": "https://flash.jin10.com/detail/20260414060118981800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "机构研判二季度：A股存在结构性机会，聚焦三大核心投资方向",
-          "url": "https://wallstreetcn.com/livenews/3087185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周一（4月13日），美国科技股七巨头（Magnificent 7）指数涨0.91%，报197.22点，尾盘加速上涨，收于日高附近。 “超大”市值科技股指数涨1.66%，报381.51点，整体持续走高，也收于日高附近。",
-          "url": "https://wallstreetcn.com/livenews/3087156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时32分]"
-        },
-        {
-          "title": "周一（4月13日），美股行业ETF普遍收涨，网络股指数ETF收涨2.38%，科技行业ETF涨2.10%，全球科技股指数ETF涨1.90%，金融业ETF涨1.71%，半导体ETF涨1.48%，银行业ETF涨0.83%，区域银行ETF涨0.65%，日常消费品ETF、公用事业ETF至多跌1.21%。",
-          "url": "https://wallstreetcn.com/livenews/3087154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时46分]"
-        },
-        {
-          "title": "周一（4月13日），彭博电动汽车价格回报指数涨1.18%，报3822.27点。 亚太盘初微幅低开，北京时间21:30美股开盘之前窄幅震荡于平盘附近，之后加速上涨，00:00以来持续高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3087152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时46分]"
-        },
-        {
-          "title": "伊朗谈判现曙光，美股期指拉升，亚太股市集体大涨，油价下挫，金银反弹",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 20时49分]"
-        },
-        {
-          "title": "刘纪鹏谈A股如何才能站稳4000点",
-          "url": "https://www.toutiao.com/trending/7628264900246159403/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时04分 ~ 18时42分]"
-        },
-        {
-          "title": "戴尔科技美股盘后跌3%，惠普（HPQ）跌3%，英伟达否认媒体的收购传闻。",
-          "url": "https://wallstreetcn.com/livenews/3087151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时46分]"
-        },
-        {
-          "title": "金十图示：2026年04月13日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260414040602403800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时46分]"
-        },
-        {
-          "title": "美国航空公司（AAL）美股盘后涨10%。",
-          "url": "https://wallstreetcn.com/livenews/3087205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 08时14分]"
-        },
-        {
-          "title": "亚马逊美股盘前涨超1%，触及日内高点。",
-          "url": "https://wallstreetcn.com/livenews/3087715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "A股半导体设备股震荡拉升，金海通封涨停，京仪装备、富创精密涨超10%，中科飞测、强一股份、华峰测控涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3087381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "A股商业航天概念午后再度拉升，西部材料封涨停，春晖智控、信科移动、震有科技、爱乐达均涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3087430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "中东地缘冲突反复，“基金买手”增配A股",
-          "url": "https://wallstreetcn.com/livenews/3087181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "美股股指期货集体拉升，纳指期货涨约0.3%，现货黄金突破4790美元/盎司，现货白银日内涨3%，现报77.84美元/盎司。美元指数短线走低，日内跌0.25%。据消息人士称，美伊代表团本周晚些时候将在巴基斯坦谈判。",
-          "url": "https://wallstreetcn.com/livenews/3087503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "美股三大股指期货短线拉升。道琼斯指数期货涨0.09%，标普500指数期货涨0.14%，纳斯达克100指数期货涨0.29%。",
-          "url": "https://flash.jin10.com/detail/20260414151229231800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "强生第一季度销售额240.6亿美元，预估236.6亿美元。 第一季度调整后每股收益2.70美元，预估2.69美元。 强生预计全年销售额1,003亿美元至1,013亿美元，市场预估1,006.3亿美元。 强生预计全年调整后每股收益11.45美元至11.65美元。 强生美股盘前微跌。",
-          "url": "https://wallstreetcn.com/livenews/3087638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "花旗集团第一季度固定收益、货币与商品（FICC）销售及交易收入为51.7亿美元，预期为50.2亿美元。 第一季度股票销售及交易收入为20.8亿美元，预期为17.3亿美元。 第一季度净利息收入157.4亿美元，预期为154.5亿美元。 第一季度财富管理收入30.7亿美元，预期为22.3亿美元。 花旗美股盘前涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3087707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "金十图示：2026年04月13日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260414040552964800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美股高开 中概股普涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80+%E4%B8%AD%E6%A6%82%E8%82%A1%E6%99%AE%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "美股收盘：标普500指数收复本轮冲突以来的所有跌幅",
-          "url": "https://flash.jin10.com/detail/20260414040247789800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "金十数据整理：A股每日市场要闻回顾（2026-04-14）",
-          "url": "https://flash.jin10.com/detail/20260414151023871800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "贝莱德恢复超配美股观点 认为伊朗战争冲击可控",
-          "url": "https://flash.jin10.com/detail/20260414035311395800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "A股培育钻石板块午后再度拉升，沃尔德涨超10%，博云新材此前涨停，惠丰钻石、国机精工、黄河旋风跟涨。",
-          "url": "https://flash.jin10.com/detail/20260414132122805800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "港股内房股走高，中梁控股(02772.HK)涨近9%，绿城中国(03900.HK)涨7.7%，龙湖集团(00960.HK)涨超6%，中国金茂(00817.HK)、华润置地(01109.HK)涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260414150735550800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "花旗集团(C.N)美股盘前涨1.8%。",
-          "url": "https://flash.jin10.com/detail/20260414200659431800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "A股商业航天板块午后拉升，西部材料触及涨停，航天长峰此前封板，春晖智控、震有科技涨超10%，臻镭科技、飞沃科技、航天动力跟涨。",
-          "url": "https://flash.jin10.com/detail/20260414131046574800",
-          "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "港股收盘，恒生指数收涨0.82%，恒生科技指数收涨0.62%，新消费概念股表现强势，沪上阿姨涨7.5%，泡泡玛特涨6.5%。",
-          "url": "https://wallstreetcn.com/livenews/3087553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
-          "title": "A股锂电池产业链再度拉升，海科新源涨超14%，维科技术此前涨停，鹏辉能源、时代万恒、派能科技涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3087478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "摩根大通美股盘前跌超3%，此前公布了一季度财报。",
-          "url": "https://wallstreetcn.com/livenews/3087655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "宁德时代港股跌幅扩大至7%，此前报道称该公司考虑配售50亿美元股票。",
-          "url": "https://wallstreetcn.com/livenews/3087344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美伊交涉现进展，标普收复年内跌幅，半导体指数历史性站上9000点，油价冲高回落",
-          "url": "https://wallstreetcn.com/articles/3769784",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时45分 ~ 07时29分]"
-        },
-        {
-          "title": "石化供应链乱成一锅粥 日本“半导体牛股”暂停部分业务接单",
-          "url": "https://www.cls.cn/detail/2342840",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时28分]"
-        },
-        {
-          "title": "纳指涨幅扩大至1.1%，标普涨超0.8%，道指涨0.4%，半导体指数涨1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3087139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时46分]"
-        },
-        {
-          "title": "金十图示：2026年04月14日（周二）富时中国A50指数成分股今日收盘行情一览：银行、消费电子、半导体、通信设备等多板块收涨，煤炭、炼化等板块收低",
-          "url": "https://flash.jin10.com/detail/20260414150627436800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "标普收复美以挑起伊朗战争以来的所有失地，半导体指数历史上首次收于9000点关口上方",
-          "url": "https://wallstreetcn.com/livenews/3087143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“马斯克版微信”真的来了！",
-          "url": "https://wallstreetcn.com/articles/3769793",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 08时14分]"
-        },
-        {
-          "title": "马斯克版微信XChat将上线",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%88%E5%BE%AE%E4%BF%A1XChat%E5%B0%86%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "马斯克旗下X独立通讯应用XChat即将上线",
-          "url": "https://wallstreetcn.com/livenews/3087115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时55分]"
-        },
-        {
-          "title": "马斯克版微信支持阅后即焚、防截图",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%88%E5%BE%AE%E4%BF%A1%E6%94%AF%E6%8C%81%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A%E3%80%81%E9%98%B2%E6%88%AA%E5%9B%BE",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指4连阳续创阶段新高，算力硬件、锂电产业链反复活跃",
-          "url": "https://www.cls.cn/detail/2342312",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 06时32分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指、深成指双双创4年多新高，锂电池、算力硬件股持续站上风口",
-          "url": "https://www.cls.cn/detail/2343665",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时41分 ~ 22时50分]"
-        },
-        {
-          "title": "4月14日午间收评：创业板指半日涨超2%，算力产业链再度爆发",
-          "url": "https://wallstreetcn.com/livenews/3087384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "沪指涨近1%重返4000点，算力、锂电产业链集体走强",
-          "url": "https://wallstreetcn.com/livenews/3087496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上证指数早盘收报4010.45点，涨0.55%。 深证成指早盘收报14603.34点，涨1.36%。 创业板指早盘收报3550.32点，涨2.13%。 沪深300早盘收报4685.05点，涨0.84%。 科创50早盘收报1409.12点，涨2.46%。 中证500早盘收报8072.72点，涨1.32%。 中证1000早盘收报8117.50点，涨1.15%。",
-          "url": "https://wallstreetcn.com/livenews/3087385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "上证指数收报4026.63点，涨0.95%。 深证成指收报14639.95点，涨1.61%。 创业板指收报3558.53点，涨2.36%。 沪深300收报4701.28点，涨1.19%。 科创50收报1405.07点，涨2.17%。 中证500收报8088.57点，涨1.52%。 中证1000收报8144.76点，涨1.49%。",
-          "url": "https://wallstreetcn.com/livenews/3087492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "中国上证综指4月14日（周二）收盘上涨38.07点，涨幅：0.95%，报4026.63点；<br/>中国深证成指4月14日（周二）收盘上涨232.09点，涨幅：1.61%，报14639.95点；<br/>中国沪深300指数4月14日（周二）收盘上涨55.13点，涨幅：1.19%，报4701.28点；<br/>中国创业板指数4月14日（周二）收盘上涨82.09点，涨幅：2.36%，报3558.53点；<br/>中国科创50指数4月14日（周二）收盘上涨29.78点，涨幅：2.17%，报1405.07点。",
-          "url": "https://flash.jin10.com/detail/20260414150354315800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
+          "time_info": "00时07分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
           "url": "https://www.cls.cn/detail/2343603",
           "source": "财联社热门",
           "ranks": [
-            9,
-            10
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时41分 ~ 22时50分]"
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
-          "title": "韩国人工智能芯片初创公司DeepX准备在韩国进行IPO，其也对通过ADR在美国上市持开放态度。",
-          "url": "https://wallstreetcn.com/livenews/3087406",
-          "source": "华尔街见闻-快讯",
+          "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
+          "url": "https://www.cls.cn/detail/2344095",
+          "source": "财联社热门",
           "ranks": [
-            25
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
+        },
+        {
+          "title": "存储芯片迎“历史性”时刻：三大龙头齐破千亿，机构称缺货持续至2027年",
+          "url": "https://www.cls.cn/detail/2343867",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 a股 港股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
+        },
+        {
+          "title": "A股尾盘急拉是变盘信号吗",
+          "url": "https://www.toutiao.com/trending/7628583142877564479/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
         }
       ]
     },
     {
       "keyword_group": "存储",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "全球存储大狂欢！SK海力士股价再创新高 闪迪、南亚科捷报频传",
           "url": "https://www.cls.cn/detail/2343745",
           "source": "财联社热门",
           "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时48分 ~ 22时50分]"
-        },
-        {
-          "title": "机构：受存储涨价影响，一季度全球智能手机出货量同比下降6%",
-          "url": "https://wallstreetcn.com/livenews/3087625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "光模块",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "传闻发酵，5日大涨45.65% 张小泉回应：与光模块、PCB无关联",
-          "url": "https://wallstreetcn.com/livenews/3087424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "传闻发酵，5日大涨45.65%！张小泉回应：与光模块、PCB无关联",
-          "url": "https://flash.jin10.com/detail/20260414125105414800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "连续成功！这枚火箭又\"一箭8星\"，中国商业航天进入\"专车时代\"",
-          "url": "https://www.cls.cn/detail/2343274",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时28分 ~ 22时50分]"
-        },
-        {
-          "title": "海南省政府与江苏省政府签署商业航天领域战略合作备忘录",
-          "url": "https://flash.jin10.com/detail/20260413234504297800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中际旭创",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中际旭创：一季度报告编制工作进展顺利，预约披露时间提前至4月17日",
-          "url": "https://wallstreetcn.com/livenews/3087575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
-          "title": "沪深两市今日成交额合计23837.24亿元，中际旭创成交额居首",
-          "url": "https://flash.jin10.com/detail/20260414150401455800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国人形机器人在波兰街头驱赶野猪",
-          "url": "https://www.toutiao.com/trending/7628140019103006739/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            8,
-            9,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 17时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华特气体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华特气体：多名股东拟减持不超过2%公司股份",
-          "url": "https://flash.jin10.com/detail/20260414192756538800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "瑞芯微",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "瑞芯微：2025年营业收入44.02亿元，同比增长40.36%；净利润10.4亿元，同比增长74.82%。",
-          "url": "https://flash.jin10.com/detail/20260414202147182800",
-          "source": "金十数据",
-          "ranks": [
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【焦点复盘】创业板指、深成指双双创4年多新高，锂电池、算力硬件股持续站上风口",
+          "url": "https://www.cls.cn/detail/2343665",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "立讯精密",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "立讯精密：2025年净利润增超23%，今年一季度同比至少增长20%",
+          "url": "https://wallstreetcn.com/livenews/3087847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时49分"
+          "time_info": "00时07分"
         }
       ]
     }
