@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-14T11:43:10.815162+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2026-04-14T13:52:12.136321+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
+        {
+          "title": "特朗普：伊朗致电美方说希望达成协议",
+          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时53分 ~ 13时52分]"
+        },
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
           "url": "https://wallstreetcn.com/articles/3769785",
@@ -32,18 +44,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 08时14分]"
-        },
-        {
-          "title": "特朗普：伊朗致电美方说希望达成协议",
-          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时53分 ~ 11时43分]"
         },
         {
           "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
@@ -82,8 +82,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时52分]"
         },
         {
           "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
@@ -119,8 +119,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时52分]"
         },
         {
           "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
@@ -176,6 +176,44 @@
           "time_info": "[00时27分 ~ 06时32分]"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时14分 ~ 13时52分]"
+        },
+        {
+          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
+          "url": "https://www.cls.cn/detail/2342892",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 13时52分]"
+        },
+        {
+          "title": "特朗普发了一张图，让西方大吃一惊",
+          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时14分 ~ 13时52分]"
+        },
+        {
           "title": "伊朗强硬回应特朗普封锁威胁",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%81%E9%94%81%E5%A8%81%E8%83%81%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -199,19 +237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
-          "url": "https://www.cls.cn/detail/2342892",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 11时43分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：特朗普表示，教皇利奥应该远离政治。",
@@ -247,30 +272,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时14分 ~ 11时43分]"
-        },
-        {
-          "title": "特朗普发了一张图，让西方大吃一惊",
-          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时14分 ~ 11时43分]"
-        },
-        {
           "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
           "url": "https://www.cls.cn/detail/2342207",
           "source": "财联社热门",
@@ -294,6 +295,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 03时55分]"
+        },
+        {
+          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
+          "url": "https://www.cls.cn/detail/2342938",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时52分]"
         },
         {
           "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
@@ -368,6 +381,18 @@
           "time_info": "[01时20分 ~ 02时46分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时52分]"
+        },
+        {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
           "url": "https://www.cls.cn/detail/2342208",
           "source": "财联社热门",
@@ -439,17 +464,6 @@
           "time_info": "[01时20分 ~ 02时46分]"
         },
         {
-          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
-          "url": "https://www.cls.cn/detail/2342938",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
           "title": "美国总统特朗普：许多船只正驶往美国，从而装载石油。",
           "url": "https://wallstreetcn.com/livenews/3087093",
           "source": "华尔街见闻-快讯",
@@ -498,15 +512,26 @@
           "time_info": "[05时46分 ~ 06时32分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
+          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
@@ -810,7 +835,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "用“成绩”说话！A股“优等生交卷”，一批个股净利增超10倍",
@@ -857,11 +882,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 11时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 13时52分]"
         },
         {
           "title": "A股午评：创业板指半日涨2.1% 存储芯片、CPO概念涨幅居前",
@@ -870,7 +896,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -987,9 +1013,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "A股商业航天概念午后再度拉升，西部材料封涨停，春晖智控、信科移动、震有科技、爱乐达均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3087430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "中东地缘冲突反复，“基金买手”增配A股",
@@ -1036,73 +1073,43 @@
           "time_info": "04时53分"
         },
         {
+          "title": "A股培育钻石板块午后再度拉升，沃尔德涨超10%，博云新材此前涨停，惠丰钻石、国机精工、黄河旋风跟涨。",
+          "url": "https://flash.jin10.com/detail/20260414132122805800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "A股商业航天板块午后拉升，西部材料触及涨停，航天长峰此前封板，春晖智控、震有科技涨超10%，臻镭科技、飞沃科技、航天动力跟涨。",
+          "url": "https://flash.jin10.com/detail/20260414131046574800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "宁德时代港股跌幅扩大至7%，此前报道称该公司考虑配售50亿美元股票。",
           "url": "https://wallstreetcn.com/livenews/3087344",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         }
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美伊交涉现进展，标普收复年内跌幅，半导体指数历史性站上9000点，油价冲高回落",
-          "url": "https://wallstreetcn.com/articles/3769784",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时45分 ~ 07时29分]"
-        },
-        {
-          "title": "石化供应链乱成一锅粥 日本“半导体牛股”暂停部分业务接单",
-          "url": "https://www.cls.cn/detail/2342840",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "纳指涨幅扩大至1.1%，标普涨超0.8%，道指涨0.4%，半导体指数涨1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3087139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时46分]"
-        },
-        {
-          "title": "标普收复美以挑起伊朗战争以来的所有失地，半导体指数历史上首次收于9000点关口上方",
-          "url": "https://wallstreetcn.com/livenews/3087143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“马斯克版微信”真的来了！",
@@ -1138,6 +1145,98 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时55分]"
+        },
+        {
+          "title": "马斯克版微信支持阅后即焚、防截图",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%88%E5%BE%AE%E4%BF%A1%E6%94%AF%E6%8C%81%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A%E3%80%81%E9%98%B2%E6%88%AA%E5%9B%BE",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美伊交涉现进展，标普收复年内跌幅，半导体指数历史性站上9000点，油价冲高回落",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时45分 ~ 07时29分]"
+        },
+        {
+          "title": "石化供应链乱成一锅粥 日本“半导体牛股”暂停部分业务接单",
+          "url": "https://www.cls.cn/detail/2342840",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时52分]"
+        },
+        {
+          "title": "纳指涨幅扩大至1.1%，标普涨超0.8%，道指涨0.4%，半导体指数涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3087139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时46分]"
+        },
+        {
+          "title": "标普收复美以挑起伊朗战争以来的所有失地，半导体指数历史上首次收于9000点关口上方",
+          "url": "https://wallstreetcn.com/livenews/3087143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光模块",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "传闻发酵，5日大涨45.65% 张小泉回应：与光模块、PCB无关联",
+          "url": "https://wallstreetcn.com/livenews/3087424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "传闻发酵，5日大涨45.65%！张小泉回应：与光模块、PCB无关联",
+          "url": "https://flash.jin10.com/detail/20260414125105414800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         }
       ]
     },
@@ -1165,7 +1264,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         }
@@ -1182,9 +1281,26 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国人工智能芯片初创公司DeepX准备在韩国进行IPO，其也对通过ADR在美国上市持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3087406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         }
       ]
     },
@@ -1216,11 +1332,12 @@
           "ranks": [
             2,
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时52分]"
         }
       ]
     }
