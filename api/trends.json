@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T20:12:07.484031+08:00",
-  "total_titles_processed": 1726,
+  "generated_at": "2026-04-15T22:06:21.631046+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时28分 ~ 20时12分]"
+          "appearance_count": 11,
+          "time_info": "[11时28分 ~ 22时06分]"
         },
         {
           "title": "特朗普：没有必要延长同伊朗的停火",
@@ -44,11 +44,12 @@
             8,
             7,
             6,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时28分 ~ 20时12分]"
+          "appearance_count": 11,
+          "time_info": "[11时28分 ~ 22时06分]"
         },
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -111,17 +112,6 @@
           "time_info": "[00时06分 ~ 04时05分]"
         },
         {
-          "title": "伊朗战争丨特朗普：美伊谈判可能在未来两天恢复",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时35分 ~ 04时05分]"
-        },
-        {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
           "url": "https://news.ifeng.com/c/8sLS5AcutoB",
           "source": "凤凰网",
@@ -129,8 +119,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 20时12分]"
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 22时06分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
@@ -142,8 +132,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 20时12分]"
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 22时06分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：美伊谈判可能在未来两天恢复",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时35分 ~ 04时05分]"
         },
         {
           "title": "关税退款将启动 特朗普一年白忙了吗",
@@ -241,6 +242,30 @@
           "time_info": "08时01分"
         },
         {
+          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时15分 ~ 22时06分]"
+        },
+        {
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "特朗普对福克斯新闻表示，他认为战争非常接近结束。",
           "url": "https://wallstreetcn.com/livenews/3088036",
           "source": "华尔街见闻-快讯",
@@ -297,18 +322,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时28分 ~ 16时56分]"
-        },
-        {
-          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时15分 ~ 20时12分]"
         },
         {
           "title": "美国副总统万斯：特朗普对伊朗表示，如果你们承诺不拥有核武器，我们将让伊朗实现经济繁荣。",
@@ -390,6 +403,17 @@
           "time_info": "11时28分"
         },
         {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "特朗普态度摇摆：先排除、后改口仍倾向巴基斯坦作为美伊谈判地",
           "url": "https://flash.jin10.com/detail/20260414233754525800",
           "source": "金十数据",
@@ -418,7 +442,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -495,7 +519,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -577,6 +601,17 @@
           "time_info": "15时12分"
         },
         {
+          "title": "波兰民调：近三分之二受访者认为特朗普威胁伊朗言论“不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3088545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "被问及美英“特殊关系”的现状，美国总统特朗普表示情况“有所改善”。",
           "url": "https://flash.jin10.com/detail/20260415142348098800",
           "source": "金十数据",
@@ -597,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
+        },
+        {
+          "title": "特朗普：若美联储主席鲍威尔任期届满后仍留任 将对其解职",
+          "url": "https://wallstreetcn.com/livenews/3088541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "特朗普称赞最高法院大法官Alito。",
@@ -624,7 +670,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -635,8 +681,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时28分 ~ 20时12分]"
+          "appearance_count": 11,
+          "time_info": "[11时28分 ~ 22时06分]"
         },
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -726,7 +772,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -740,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "谈判曙光提振市场，美股高开，阿斯麦跌3%，黄金重回4800美元，布油转跌",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "港股AI应用板块部分走低，智谱(02513.HK)跌超10%，MINIMAX-W(00100.HK)跌超8%，迅策(03317.HK)跌超6%。",
@@ -866,6 +923,39 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美股三大指数集体高开，量子计算概念股普涨",
+          "url": "https://wallstreetcn.com/livenews/3088564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2345247",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "美股开盘，道指涨0.22%，标普500指数涨0.13%，纳指涨0.18%，博通(AVGO.O)股价上涨1.4%，因其与Meta公司延长了定制芯片协议，阿斯麦(ASML.O)开跌3%。",
+          "url": "https://flash.jin10.com/detail/20260415213245498800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "美国银行第一季度净利息收入为157.5亿美元，预估为153.7亿美元。 第一季度不含DVA的FICC交易收入为35亿美元，预期37.8亿美元。 第一季度不含DVA的股票交易收入为28.3亿美元，预期25.1亿美元。 第一季度每股收益1.11美元。 美国银行美股盘前涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3088445",
           "source": "华尔街见闻-快讯",
@@ -883,7 +973,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -941,6 +1031,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3088552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "周二（4月14日），美股行业ETF多数收涨，全球航空业ETF涨4.42%，可选消费ETF涨2.21%，半导体ETF涨1.95%，能源业ETF跌2.07%。",
@@ -1034,7 +1135,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
@@ -1135,12 +1236,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "芯片巨头AMD、高通及Arm注资无人驾驶初创公司Wayve",
+          "url": "https://wallstreetcn.com/livenews/3088560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         }
       ]
     },
     {
       "keyword_group": "存储",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球存储大狂欢！SK海力士股价再创新高 闪迪、南亚科捷报频传",
@@ -1152,6 +1264,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时06分 ~ 08时01分]"
+        },
+        {
+          "title": "存储龙头佰维存储业绩披露：一季度净赚近29亿，净利环比大增252%",
+          "url": "https://www.cls.cn/detail/2345144",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "金十数据整理：每日存储市场要闻速递（2026-04-15）",
@@ -1189,60 +1312,8 @@
       ]
     },
     {
-      "keyword_group": "商业航天",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "今年首现国有大行放卫星！邮储银行发射专属遥感卫星，多家银行布局商业航天为哪般",
-          "url": "https://www.cls.cn/detail/2343668",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时05分 ~ 08时01分]"
-        },
-        {
-          "title": "博云新材：2025年度公司营业收入9.10亿元，其中商业航天产品营业收入约200多万元，在主营业务收入中占比低（不足1%）。公司硬质合金产品2025年度营业收入占总营业收入的比重为64.34%。",
-          "url": "https://wallstreetcn.com/livenews/3088491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "【焦点复盘】创指创10年新高后跳水翻绿，算力产业链现高低切，商业航天概念活跃依旧",
-          "url": "https://www.cls.cn/detail/2344971",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时15分 ~ 20时12分]"
-        },
-        {
-          "title": "【午报】创业板指盘中刷新十年新高，商业航天、医药板块联袂走强，锂电股陷入调整",
-          "url": "https://www.cls.cn/detail/2344561",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【焦点复盘】创业板指、深成指双双创4年多新高，锂电池、算力硬件股持续站上风口",
@@ -1277,8 +1348,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时15分 ~ 20时12分]"
+          "appearance_count": 6,
+          "time_info": "[18时15分 ~ 22时06分]"
         },
         {
           "title": "鼎泰高科：一季度净利润2.6亿元，同比增长259%；主要受益于AI算力，推动营收实现较快增长。",
@@ -1287,9 +1358,73 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
+        },
+        {
+          "title": "算力新变局|深度",
+          "url": "https://www.cls.cn/detail/2345294",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【焦点复盘】创指创10年新高后跳水翻绿，算力产业链现高低切，商业航天概念活跃依旧",
+          "url": "https://www.cls.cn/detail/2344971",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时15分 ~ 22时06分]"
+        },
+        {
+          "title": "今年首现国有大行放卫星！邮储银行发射专属遥感卫星，多家银行布局商业航天为哪般",
+          "url": "https://www.cls.cn/detail/2343668",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时05分 ~ 08时01分]"
+        },
+        {
+          "title": "博云新材：2025年度公司营业收入9.10亿元，其中商业航天产品营业收入约200多万元，在主营业务收入中占比低（不足1%）。公司硬质合金产品2025年度营业收入占总营业收入的比重为64.34%。",
+          "url": "https://wallstreetcn.com/livenews/3088491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "【午报】创业板指盘中刷新十年新高，商业航天、医药板块联袂走强，锂电股陷入调整",
+          "url": "https://www.cls.cn/detail/2344561",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         }
       ]
     },
@@ -1318,6 +1453,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "宁德时代：每10股派发现金分红人民币69.57元",
+          "url": "https://flash.jin10.com/detail/20260415195032628800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "宁德时代连发多条重要公告，涉及分红、一季报、对外投资",
+          "url": "https://www.cls.cn/detail/2345241",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         }
       ]
     },
@@ -1352,23 +1515,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "宁德时代",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宁德时代：每10股派发现金分红人民币69.57元",
-          "url": "https://flash.jin10.com/detail/20260415195032628800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
         }
       ]
     }
