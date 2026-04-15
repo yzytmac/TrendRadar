@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T07:05:41.615437+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-04-15T08:01:33.430758+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时06分 ~ 07时05分]"
+        },
+        {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 08时01分]"
         },
         {
           "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
@@ -42,17 +55,16 @@
           "time_info": "[01时35分 ~ 04时05分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
+          "title": "特朗普说伊朗没牌了遭北约盟友打脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            23,
-            16,
-            13
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时05分]"
+          "appearance_count": 7,
+          "time_info": "[02时48分 ~ 08时01分]"
         },
         {
           "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
@@ -70,26 +82,83 @@
           "time_info": "[00时06分 ~ 07时05分]"
         },
         {
-          "title": "美国副总统万斯：特朗普对伊朗表示，如果你们承诺不拥有核武器，我们将让伊朗实现经济繁荣。",
-          "url": "https://flash.jin10.com/detail/20260415063058322800",
+          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
+          "url": "https://www.cls.cn/detail/2344222",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
+          "title": "WTI原油日内大跌4.00%，现报88.37美元/桶。市场开始发酵早前特朗普称“美国对伊朗的战争已经结束”的言论。",
+          "url": "https://flash.jin10.com/detail/20260415073559458800",
           "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "国际油价短线走低，WTI原油期货一度跌至87美元下方，此前特朗普称他认为战争非常接近结束。",
+          "url": "https://wallstreetcn.com/livenews/3088037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "特朗普对福克斯新闻表示，他认为战争非常接近结束。",
+          "url": "https://wallstreetcn.com/livenews/3088036",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时05分"
+          "time_info": "08时01分"
         },
         {
-          "title": "特朗普说伊朗没牌了遭北约盟友打脸",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
+          "url": "https://news.ifeng.com/c/8sKPIktXF3q",
+          "source": "凤凰网",
           "ranks": [
-            11
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[02时48分 ~ 07时05分]"
+          "time_info": "[05时08分 ~ 08时01分]"
+        },
+        {
+          "title": "美国副总统万斯：特朗普总统指示我们要“带着诚意进行谈判”。",
+          "url": "https://flash.jin10.com/detail/20260415072600419800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "美国副总统万斯：特朗普对伊朗表示，如果你们承诺不拥有核武器，我们将让伊朗实现经济繁荣。",
+          "url": "https://flash.jin10.com/detail/20260415063058322800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时05分 ~ 08时01分]"
         },
         {
           "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
@@ -104,15 +173,26 @@
           "time_info": "[00时06分 ~ 02时48分]"
         },
         {
-          "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
-          "url": "https://news.ifeng.com/c/8sKPIktXF3q",
-          "source": "凤凰网",
+          "title": "特朗普暗示美伊会谈或在2天内恢复",
+          "url": "https://www.toutiao.com/trending/7628753825699991090/",
+          "source": "今日头条",
           "ranks": [
-            6
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时08分 ~ 07时05分]"
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普称伊朗战争已经结束",
+          "url": "https://flash.jin10.com/detail/20260415071703356800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "特朗普态度摇摆：先排除、后改口仍倾向巴基斯坦作为美伊谈判地",
@@ -206,7 +286,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -221,6 +301,18 @@
           "time_info": "[00时06分 ~ 05时08分]"
         },
         {
+          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时05分 ~ 08时01分]"
+        },
+        {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
           "url": "https://wallstreetcn.com/articles/3769897",
           "source": "华尔街见闻",
@@ -233,15 +325,27 @@
           "time_info": "[06时06分 ~ 07时05分]"
         },
         {
-          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
-          "url": "https://www.cls.cn/detail/2344205",
-          "source": "财联社热门",
+          "title": "美股收盘：中概股集体大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
           "ranks": [
-            4
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
+          "title": "一季度A股IPO市场“量质齐升”，未来产业踊跃“报考”",
+          "url": "https://wallstreetcn.com/livenews/3088010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时05分 ~ 08时01分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
@@ -276,17 +380,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
-        },
-        {
-          "title": "一季度A股IPO市场“量质齐升”，未来产业踊跃“报考”",
-          "url": "https://wallstreetcn.com/livenews/3088010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
         },
         {
           "title": "美股存储芯片指数收涨超2.4%，继续创收盘历史新高",
@@ -351,8 +444,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 08时01分]"
+        },
+        {
+          "title": "存储芯片迎“历史性”时刻：三大龙头齐破千亿，机构称缺货持续至2027年",
+          "url": "https://www.cls.cn/detail/2343867",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 08时01分]"
         },
         {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
@@ -369,28 +475,16 @@
           "time_info": "[00时06分 ~ 07时05分]"
         },
         {
-          "title": "存储芯片迎“历史性”时刻：三大龙头齐破千亿，机构称缺货持续至2027年",
-          "url": "https://www.cls.cn/detail/2343867",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时05分]"
-        },
-        {
           "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
           "url": "https://wallstreetcn.com/articles/3769939",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时08分 ~ 07时05分]"
+          "appearance_count": 5,
+          "time_info": "[05时08分 ~ 08时01分]"
         },
         {
           "title": "Meta与博通就定制款AI芯片签署协议",
@@ -418,19 +512,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 08时01分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
           "url": "https://m.thepaper.cn/newsDetail_forward_32961502",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时35分 ~ 07时05分]"
+          "appearance_count": 8,
+          "time_info": "[01时35分 ~ 08时01分]"
         }
       ]
     },
@@ -446,8 +541,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 08时01分]"
         }
       ]
     },
@@ -464,8 +559,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时05分 ~ 07时05分]"
+          "appearance_count": 6,
+          "time_info": "[04时05分 ~ 08时01分]"
         }
       ]
     },
