@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T20:51:07.505896+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-04-16T22:55:08.246619+08:00",
+  "total_titles_processed": 1846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -145,6 +145,19 @@
           "time_info": "[17时05分 ~ 20时51分]"
         },
         {
+          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
+          "url": "https://www.cls.cn/detail/2346178",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时05分 ~ 22时55分]"
+        },
+        {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
           "url": "https://www.cls.cn/detail/2344964",
           "source": "财联社热门",
@@ -169,17 +182,18 @@
           "time_info": "[11时37分 ~ 15时29分]"
         },
         {
-          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
-          "url": "https://www.cls.cn/detail/2346178",
-          "source": "财联社热门",
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
-            4
+            10,
+            9,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时05分 ~ 20时51分]"
+          "appearance_count": 7,
+          "time_info": "[17时05分 ~ 22时55分]"
         },
         {
           "title": "中方回应特朗普称访华不受影响",
@@ -191,6 +205,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时59分 ~ 20时51分]"
+        },
+        {
+          "title": "特朗普就访华明确表态，中方回应",
+          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时05分 ~ 22时55分]"
         },
         {
           "title": "据《今日美国》（USA Today）：美国国防部正悄然加强针对可能由五角大楼主导的对古巴行动的军事规划，以备特朗普下令干预。",
@@ -292,30 +317,6 @@
           "time_info": "04时12分"
         },
         {
-          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3770081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时05分 ~ 20时51分]"
-        },
-        {
-          "title": "特朗普就访华明确表态，中方回应",
-          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时05分 ~ 20时51分]"
-        },
-        {
           "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
           "url": "https://www.cls.cn/detail/2345555",
           "source": "财联社热门",
@@ -326,6 +327,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时51分 ~ 15时29分]"
+        },
+        {
+          "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
+          "url": "https://news.ifeng.com/c/8sNNVO5nsfP",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
+        },
+        {
+          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
+          "url": "https://wallstreetcn.com/articles/3770137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
         },
         {
           "title": "美国总统特朗普与卡塔尔埃米尔通电话，讨论缓和地区局势的问题、讨论稳定能源市场的问题。",
@@ -429,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "市场消息：美国参议院民主党人呼吁就美国总统特朗普及正在进行的美联储调查举行听证会。",
+          "url": "https://flash.jin10.com/detail/20260416222507170800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "CFTC对特朗普对伊政策调整前的石油交易展开调查",
@@ -555,7 +589,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -622,6 +656,29 @@
           "time_info": "[07时03分 ~ 11时38分]"
         },
         {
+          "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
+        },
+        {
+          "title": "3家A股公司齐发公告：可能被实施退市风险警示",
+          "url": "https://www.cls.cn/detail/2346591",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 22时55分]"
+        },
+        {
           "title": "A股游戏板块短线拉升，完美世界触及涨停，迅游科技涨超6%，中青宝、昆仑万维、世纪华通跟涨。",
           "url": "https://flash.jin10.com/detail/20260416132347981800",
           "source": "金十数据",
@@ -631,6 +688,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "【焦点复盘】创指再现长阳反包，Token经济概念持续火爆，“宁王”首次跻身A股总市值三甲",
+          "url": "https://www.cls.cn/detail/2346342",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时42分 ~ 22时55分]"
         },
         {
           "title": "A股商业航天概念反复走强，神剑股份触及涨停，股价续创历史新高，中环海陆、爱乐达、理工导航、九丰能源、巨力索具等跟涨。",
@@ -690,16 +760,16 @@
           "time_info": "[05时07分 ~ 07时04分]"
         },
         {
-          "title": "【焦点复盘】创指再现长阳反包，Token经济概念持续火爆，“宁王”首次跻身A股总市值三甲",
-          "url": "https://www.cls.cn/detail/2346342",
-          "source": "财联社热门",
+          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
+          "url": "https://wallstreetcn.com/articles/3770123",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            12
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时42分 ~ 20时51分]"
+          "time_info": "[20时50分 ~ 22时55分]"
         },
         {
           "title": "如何看待美股新高",
@@ -714,6 +784,17 @@
           "time_info": "[13时51分 ~ 17时05分]"
         },
         {
+          "title": "宁德时代全天成交额居A股第一",
+          "url": "https://www.toutiao.com/trending/7629298254368784434/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（4月15日），美国科技股七巨头（Magnificent 7）指数涨2.22%，报207.20点，美股早盘持续上涨，大部分时间高位震荡于206点上方。 “超大”市值科技股指数涨2.54%，报401.85点。",
           "url": "https://wallstreetcn.com/livenews/3088772",
           "source": "华尔街见闻-快讯",
@@ -726,28 +807,6 @@
           "time_info": "[05时07分 ~ 06时05分]"
         },
         {
-          "title": "3家A股公司齐发公告：可能被实施退市风险警示",
-          "url": "https://www.cls.cn/detail/2346591",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
-        },
-        {
-          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
-          "url": "https://wallstreetcn.com/articles/3770123",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
-        },
-        {
           "title": "周三（4月15日），美股行业ETF涨跌各异，网络股指数ETF收涨2.16%，科技行业ETF涨1.60%，可选消费ETF、全球科技股指数ETF至少涨1.28%。 区域银行ETF则跌0.17%，能源业ETF跌0.34%，医疗业ETF跌0.71%，公用事业ETF跌0.97%。",
           "url": "https://wallstreetcn.com/livenews/3088769",
           "source": "华尔街见闻-快讯",
@@ -758,6 +817,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时07分 ~ 06时05分]"
+        },
+        {
+          "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2346625",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
         },
         {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
@@ -959,6 +1029,17 @@
           "time_info": "18时42分"
         },
         {
+          "title": "美股三大指数开盘走高，道指涨0.16%，标普500指数涨0.2%，纳指涨0.17%。甲骨文涨超3%，公司宣布与AWS合作。核电股普涨，Oklo涨超8%，Nano Nuclear Energy涨超6%。台积电跌超1%，此前发布一季度业绩。雅培下跌4.5%，创下2023年以来最低盘中水平。“硅谷足力健”Allbirds开盘跌17%，此前曾飙升582%。",
+          "url": "https://wallstreetcn.com/livenews/3089402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "港股收盘，恒指收涨1.72%，科指收涨3.67%，锂电池板块、科技股走强，宁德时代(03750.HK)涨9%，百度(09888.HK)涨7.7%，阿里巴巴(09988.HK)涨5.6%。",
           "url": "https://flash.jin10.com/detail/20260416160852316800",
           "source": "金十数据",
@@ -1000,6 +1081,31 @@
           "time_info": "[11时37分 ~ 17时05分]"
         },
         {
+          "title": "H100租金半年涨三成 Token热加剧算力荒 云厂商“坐不住了”",
+          "url": "https://www.cls.cn/detail/2346374",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时42分 ~ 22时55分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨超3%刷新近11年新高，锂电板块卷土重来，算力租赁概念再掀高潮",
+          "url": "https://www.cls.cn/detail/2346247",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时42分 ~ 22时55分]"
+        },
+        {
           "title": "华尔街量化巨头签算力大单 苹果库克再度增持耐克 | 环球市场",
           "url": "https://www.cls.cn/detail/2345535",
           "source": "财联社热门",
@@ -1011,30 +1117,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时37分 ~ 15时29分]"
-        },
-        {
-          "title": "H100租金半年涨三成 Token热加剧算力荒 云厂商“坐不住了”",
-          "url": "https://www.cls.cn/detail/2346374",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时42分 ~ 20时51分]"
-        },
-        {
-          "title": "【每日收评】创业板指涨超3%刷新近11年新高，锂电板块卷土重来，算力租赁概念再掀高潮",
-          "url": "https://www.cls.cn/detail/2346247",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时42分 ~ 20时51分]"
         },
         {
           "title": "潮鞋品牌Allbirds宣布“弃鞋从算力” 股价一度飙涨800%",
@@ -1095,18 +1177,30 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
           "url": "https://www.toutiao.com/trending/7628901409706786858/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 22时55分]"
+        },
+        {
+          "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E8%8A%AF%E7%89%87%E4%B8%8D%E6%98%AF%E6%B5%93%E7%BC%A9%E9%93%80+%E5%8D%96%E4%B8%AD%E5%9B%BD%E5%92%8B%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
+          "time_info": "[22时54分 ~ 22时55分]"
         },
         {
           "title": "市场消息：美国共和党参议员在信中敦促美国商务部长卢特尼加强美国芯片供应。美光、三星、SK海力士在信件中被提及。",
@@ -1336,11 +1430,12 @@
             12,
             6,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 20时51分]"
+          "appearance_count": 8,
+          "time_info": "[15时29分 ~ 22时55分]"
         },
         {
           "title": "中央企业低空经济产业发展专题推进会召开",
@@ -1513,11 +1608,29 @@
           "url": "https://www.cls.cn/detail/2346516",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 22时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "胜宏科技",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "胜宏科技：H股发售价已厘定为每股209.88港元",
+          "url": "https://flash.jin10.com/detail/20260416223550218800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         }
       ]
     },
