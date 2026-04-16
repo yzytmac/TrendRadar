@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T18:42:37.829391+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-04-16T19:59:38.031941+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -105,6 +105,20 @@
           "time_info": "[01时26分 ~ 08时01分]"
         },
         {
+          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
+          "url": "https://wallstreetcn.com/articles/3770050",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时01分 ~ 19时59分]"
+        },
+        {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
           "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
           "source": "澎湃新闻",
@@ -143,19 +157,6 @@
           "time_info": "[11时37分 ~ 15时29分]"
         },
         {
-          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
-          "url": "https://wallstreetcn.com/articles/3770050",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时01分 ~ 18时42分]"
-        },
-        {
           "title": "伊朗战争丨特朗普将制裁购买伊朗石油国家？中方回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -163,8 +164,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 19时59分]"
         },
         {
           "title": "据《今日美国》（USA Today）：美国国防部正悄然加强针对可能由五角大楼主导的对古巴行动的军事规划，以备特朗普下令干预。",
@@ -187,6 +188,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
+          "url": "https://www.cls.cn/detail/2346178",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 19时59分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普明天将在拉斯维加斯举行圆桌会议。",
@@ -266,16 +280,27 @@
           "time_info": "04时12分"
         },
         {
-          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
-          "url": "https://www.cls.cn/detail/2346178",
-          "source": "财联社热门",
+          "title": "中方回应特朗普称访华不受影响",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%BF%E5%8D%8E%E4%B8%8D%E5%8F%97%E5%BD%B1%E5%93%8D%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
             5
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 19时59分]"
         },
         {
           "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
@@ -290,17 +315,6 @@
           "time_info": "[13时51分 ~ 15时29分]"
         },
         {
-          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3770081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 18时42分]"
-        },
-        {
           "title": "特朗普就访华明确表态，中方回应",
           "url": "https://news.ifeng.com/c/8sN67BgzZcR",
           "source": "凤凰网",
@@ -308,8 +322,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 19时59分]"
         },
         {
           "title": "美国总统特朗普与卡塔尔埃米尔通电话，讨论缓和地区局势的问题、讨论稳定能源市场的问题。",
@@ -520,7 +534,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -602,8 +616,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时51分 ~ 18时42分]"
+          "appearance_count": 6,
+          "time_info": "[13时51分 ~ 19时59分]"
         },
         {
           "title": "A股游戏板块短线拉升，完美世界触及涨停，迅游科技涨超6%，中青宝、昆仑万维、世纪华通跟涨。",
@@ -710,6 +724,17 @@
           "time_info": "[05时07分 ~ 06时05分]"
         },
         {
+          "title": "【焦点复盘】创指再现长阳反包，Token经济概念持续火爆，“宁王”首次跻身A股总市值三甲",
+          "url": "https://www.cls.cn/detail/2346342",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时59分]"
+        },
+        {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260416040543220800",
           "source": "金十数据",
@@ -761,18 +786,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "【焦点复盘】创指再现长阳反包，Token经济概念持续火爆，“宁王”首次跻身A股总市值三甲",
-          "url": "https://www.cls.cn/detail/2346342",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -838,7 +852,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -915,7 +929,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -974,6 +988,29 @@
           "time_info": "[11时37分 ~ 15时29分]"
         },
         {
+          "title": "H100租金半年涨三成 Token热加剧算力荒 云厂商“坐不住了”",
+          "url": "https://www.cls.cn/detail/2346374",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时59分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨超3%刷新近11年新高，锂电板块卷土重来，算力租赁概念再掀高潮",
+          "url": "https://www.cls.cn/detail/2346247",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时59分]"
+        },
+        {
           "title": "潮鞋品牌Allbirds宣布“弃鞋从算力” 股价一度飙涨800%",
           "url": "https://www.cls.cn/detail/2345428",
           "source": "财联社热门",
@@ -994,28 +1031,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "H100租金半年涨三成 Token热加剧算力荒 云厂商“坐不住了”",
-          "url": "https://www.cls.cn/detail/2346374",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "【每日收评】创业板指涨超3%刷新近11年新高，锂电板块卷土重来，算力租赁概念再掀高潮",
-          "url": "https://www.cls.cn/detail/2346247",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
         },
         {
           "title": "创业板指涨超3%刷新近11年新高，算力产业链持续爆发",
@@ -1046,9 +1061,70 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "市场消息：美国共和党参议员在信中敦促美国商务部长卢特尼加强美国芯片供应。美光、三星、SK海力士在信件中被提及。",
+          "url": "https://flash.jin10.com/detail/20260416010751603800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "思瑞浦：多款产品已在光模块应用中规模化出货模拟前端(AFE)芯片已稳定交付",
+          "url": "https://flash.jin10.com/detail/20260416180744271800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "特斯拉变芯片股了？AI芯片“流片”落地，股价大涨近8%",
+          "url": "https://flash.jin10.com/detail/20260416105704343800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "黄仁勋：能源+芯片+研究人员中国都有",
+          "url": "https://www.toutiao.com/trending/7628448383905693738/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "千亿存储芯片一哥套现28亿",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%BA%BF%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E4%B8%80%E5%93%A5%E5%A5%97%E7%8E%B028%E4%BA%BF&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         }
       ]
     },
@@ -1073,11 +1149,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时37分 ~ 18时42分]"
+          "appearance_count": 8,
+          "time_info": "[11时37分 ~ 19时59分]"
         },
         {
           "title": "4月16日午间收评：创业板指半日涨2.66%，宁德时代市值突破2万亿",
@@ -1127,11 +1204,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时37分 ~ 18时42分]"
+          "appearance_count": 8,
+          "time_info": "[11时37分 ~ 19时59分]"
         },
         {
           "title": "美国参议院成员Whitehouse发函环境保护署（EPA），就（天然气发电站）燃机问题质问马斯克旗下人工智能初创公司xAI。",
@@ -1197,45 +1275,6 @@
       ]
     },
     {
-      "keyword_group": "芯片",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "市场消息：美国共和党参议员在信中敦促美国商务部长卢特尼加强美国芯片供应。美光、三星、SK海力士在信件中被提及。",
-          "url": "https://flash.jin10.com/detail/20260416010751603800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "思瑞浦：多款产品已在光模块应用中规模化出货模拟前端(AFE)芯片已稳定交付",
-          "url": "https://flash.jin10.com/detail/20260416180744271800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "特斯拉变芯片股了？AI芯片“流片”落地，股价大涨近8%",
-          "url": "https://flash.jin10.com/detail/20260416105704343800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "低空经济",
       "match_count": 3,
       "titles": [
@@ -1249,8 +1288,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时51分 ~ 18时42分]"
+          "appearance_count": 6,
+          "time_info": "[13时51分 ~ 19时59分]"
         },
         {
           "title": "央企要打头阵！国资委召开低空经济产业推进会 提出基础设施要协同布局",
@@ -1259,11 +1298,12 @@
           "ranks": [
             12,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 19时59分]"
         },
         {
           "title": "中央企业低空经济产业发展专题推进会召开",
@@ -1348,7 +1388,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -1359,7 +1399,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         }
@@ -1438,7 +1478,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         }
