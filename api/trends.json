@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T17:05:30.821455+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-04-21T19:08:48.689446+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时47分 ~ 17时05分]"
+          "appearance_count": 18,
+          "time_info": "[00时47分 ~ 19时08分]"
         },
         {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
@@ -41,6 +41,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时47分 ~ 07时59分]"
+        },
+        {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 19时08分]"
         },
         {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
@@ -67,20 +81,6 @@
           "time_info": "[11时26分 ~ 17时05分]"
         },
         {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 17时05分]"
-        },
-        {
           "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
           "url": "https://www.cls.cn/detail/2350029",
           "source": "财联社热门",
@@ -95,6 +95,20 @@
           "time_info": "[07时03分 ~ 15时15分]"
         },
         {
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时39分 ~ 19时08分]"
+        },
+        {
           "title": "特朗普撇清：以色列可说不动我",
           "url": "https://news.ifeng.com/c/8sUslKZt0DW",
           "source": "凤凰网",
@@ -107,13 +121,24 @@
           "time_info": "[13时39分 ~ 17时05分]"
         },
         {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 19时08分]"
+        },
+        {
           "title": "伊朗战争丨特朗普亲信坦言：79岁的他正在失控",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -124,7 +149,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -140,19 +165,6 @@
           "time_info": "11时26分"
         },
         {
-          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
-          "url": "https://www.cls.cn/detail/2350258",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时39分 ~ 17时05分]"
-        },
-        {
           "title": "民调：特朗普支持率创第二任期内新低",
           "url": "https://www.toutiao.com/trending/7630352961877655571/",
           "source": "今日头条",
@@ -166,15 +178,26 @@
           "time_info": "[11时26分 ~ 15时15分]"
         },
         {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
+          "url": "https://news.ifeng.com/c/8sVY7G7Z8bE",
           "source": "凤凰网",
           "ranks": [
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 17时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "特朗普敦促弗吉尼亚州选民在重新划分选区问题上投“反对票”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3091774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "伊朗首席谈判代表：美国总统特朗普正试图将谈判桌变成“投降桌”。",
@@ -319,6 +342,18 @@
           "time_info": "[13时39分 ~ 15时15分]"
         },
         {
+          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
+          "url": "https://www.cls.cn/detail/2350491",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 19时08分]"
+        },
+        {
           "title": "伊朗顶级谈判员：我们不会在面临威胁时接受谈判。 美国总统特朗普企图将谈判桌变为“投降桌”。",
           "url": "https://wallstreetcn.com/livenews/3091343",
           "source": "华尔街见闻-快讯",
@@ -353,6 +388,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时04分 ~ 07时04分]"
+        },
+        {
+          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
+          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 19时08分]"
         },
         {
           "title": "白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
@@ -391,6 +437,17 @@
           "time_info": "[01时57分 ~ 03时05分]"
         },
         {
+          "title": "特朗普盛赞库克：是其忠实粉丝、职业生涯无可比拟",
+          "url": "https://flash.jin10.com/detail/20260421185529346800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
           "url": "https://news.ifeng.com/c/8sUi19J5Hpg",
           "source": "凤凰网",
@@ -413,28 +470,6 @@
           "time_info": "13时40分"
         },
         {
-          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
-          "url": "https://www.cls.cn/detail/2350491",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        },
-        {
-          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
-          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        },
-        {
           "title": "美国国务院官员：美国总统特朗普致力于寻求外交解决方案（如果可能），但不会让该岛屿（古巴）陷入重大国家安全威胁。",
           "url": "https://flash.jin10.com/detail/20260421051756276800",
           "source": "金十数据",
@@ -444,6 +479,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普呼吁弗吉尼亚州选民在重划选区时选择“否”。",
+          "url": "https://flash.jin10.com/detail/20260421185315625800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "特朗普：我一直是蒂姆·库克的超级粉丝。 库克将继续为苹果公司做出杰出的贡献。",
+          "url": "https://wallstreetcn.com/livenews/3091767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "特朗普：没有压力达成伊朗协议 不会被外界催促",
@@ -510,6 +567,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "美国总统特朗普：库克将继续为苹果做出卓越贡献。",
+          "url": "https://flash.jin10.com/detail/20260421184344200800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "美国总统特朗普：非常支持蒂姆·库克。我一直是库克的忠实支持者。",
+          "url": "https://flash.jin10.com/detail/20260421184334923800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "特朗普：如未能达成协议“几无可能”再延长停火",
@@ -592,7 +671,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -604,8 +683,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时03分 ~ 17时05分]"
+          "appearance_count": 11,
+          "time_info": "[06时03分 ~ 19时08分]"
         },
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -826,13 +905,24 @@
           "time_info": "13时40分"
         },
         {
+          "title": "中东局势缓和叠加沃什听证会预期，美股期指回暖，半导体股普涨，油价续跌",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "伊朗谈判曙光提振全球股市，美股期指上涨，韩国综指新高，半导体股领涨，油价续跌",
           "url": "https://wallstreetcn.com/articles/3770463",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -1068,6 +1158,96 @@
       ]
     },
     {
+      "keyword_group": "商业航天",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "卫星被前世界首富送入错误轨道 美国商业航天公司股价巨震",
+          "url": "https://www.cls.cn/detail/2349949",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时04分 ~ 11时26分]"
+        },
+        {
+          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
+          "url": "https://wallstreetcn.com/articles/3770370",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时47分 ~ 15时15分]"
+        },
+        {
+          "title": "一图看懂 | 商业航天概念股再度走强 密集催化引爆行情",
+          "url": "https://www.cls.cn/detail/2349486",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 07时04分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指深V反转迎四连阳，算力硬件股现极致分化，商业航天概念强者恒强",
+          "url": "https://www.cls.cn/detail/2350801",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "【数据看盘】机构活跃度明显下降 北向资金联手量化抢筹商业航天人气股",
+          "url": "https://www.cls.cn/detail/2350838",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "商业航天概念大爆发",
+          "url": "https://www.toutiao.com/trending/7630143506236964900/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "神剑股份：公司商业航天相关业务收入占比仍较小，短期内不会有较大变化。",
+          "url": "https://wallstreetcn.com/livenews/3091741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
       "match_count": 5,
       "titles": [
@@ -1079,8 +1259,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时39分 ~ 17时05分]"
+          "appearance_count": 5,
+          "time_info": "[13时39分 ~ 19时08分]"
+        },
+        {
+          "title": "日本地震冲击半导体链",
+          "url": "https://www.toutiao.com/trending/7631028694100656169/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 19时08分]"
         },
         {
           "title": "做多半导体成“最拥挤交易”，全球机构跳出“抱团”寻觅细分方向",
@@ -1105,17 +1297,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时57分]"
-        },
-        {
-          "title": "日本地震冲击半导体链",
-          "url": "https://www.toutiao.com/trending/7631028694100656169/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
         },
         {
           "title": "日本突发7.4级地震，影响多家半导体公司",
@@ -1146,8 +1327,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时47分 ~ 17时05分]"
+          "appearance_count": 18,
+          "time_info": "[00时47分 ~ 19时08分]"
         },
         {
           "title": "芯片不卖中国,黄仁勋急了",
@@ -1201,63 +1382,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "卫星被前世界首富送入错误轨道 美国商业航天公司股价巨震",
-          "url": "https://www.cls.cn/detail/2349949",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时04分 ~ 11时26分]"
-        },
-        {
-          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
-          "url": "https://wallstreetcn.com/articles/3770370",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时47分 ~ 15时15分]"
-        },
-        {
-          "title": "一图看懂 | 商业航天概念股再度走强 密集催化引爆行情",
-          "url": "https://www.cls.cn/detail/2349486",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 07时04分]"
-        },
-        {
-          "title": "商业航天概念大爆发",
-          "url": "https://www.toutiao.com/trending/7630143506236964900/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力",
       "match_count": 4,
       "titles": [
@@ -1272,8 +1396,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 17时05分]"
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 19时08分]"
         },
         {
           "title": "【焦点复盘】沪指日线3连阳收复60日线，全市场超百股涨逾10%，算力链再现多点开花",
@@ -1431,7 +1555,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -1442,7 +1566,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         }
@@ -1477,6 +1601,40 @@
       ]
     },
     {
+      "keyword_group": "光模块",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "泰晶科技：近期光模块市场关注度较高，公司主营业务为石英晶体谐振器、振荡器，其中高频差分低抖动振荡器为光模块DSP提供高精度低抖动参考时钟，主要用于保障高速传输稳定可靠。但目前公司相关业务尚处于市场推广期，业务收入占比极少，对公司近期报表影响极小。",
+          "url": "https://wallstreetcn.com/livenews/3091743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华特气体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华特气体：俄罗斯为公司氦气采购主要来源地，短期内对公司氦气供货及时性存在阶段性影响",
+          "url": "https://wallstreetcn.com/livenews/3091747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯联集成",
       "match_count": 1,
       "titles": [
@@ -1487,9 +1645,43 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "胜宏科技",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "胜宏科技上市交易据悉吸引了中投、挪威央行投资管理等机构",
+          "url": "https://wallstreetcn.com/livenews/3091770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "长盈精密",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长盈精密：拟境外发行股份（H股）并申请在香港联合交易所有限公司主板上市。",
+          "url": "https://wallstreetcn.com/livenews/3091769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     }
