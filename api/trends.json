@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T11:26:39.650044+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-04-21T13:40:11.605819+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 11时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 13时40分]"
         },
         {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
@@ -53,17 +54,6 @@
           "time_info": "[00时47分 ~ 03时05分]"
         },
         {
-          "title": "美国总统特朗普：英国首相斯塔默承认他在选择驻美国大使时“做出了错误的判断”。我同意，他的选择真的很糟糕。不过，还有很多时间来弥补！",
-          "url": "https://flash.jin10.com/detail/20260421110605487800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
           "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
           "url": "https://www.cls.cn/detail/2350029",
           "source": "财联社热门",
@@ -73,30 +63,66 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时03分 ~ 11时26分]"
-        },
-        {
-          "title": "民调：特朗普支持率创第二任期内新低",
-          "url": "https://www.toutiao.com/trending/7630352961877655571/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "appearance_count": 6,
+          "time_info": "[07时03分 ~ 13时40分]"
         },
         {
           "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
           "url": "https://www.cls.cn/detail/2350106",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时40分]"
+        },
+        {
+          "title": "特朗普撇清：以色列可说不动我",
+          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 13时40分]"
+        },
+        {
+          "title": "美国总统特朗普：英国首相斯塔默承认他在选择驻美国大使时“做出了错误的判断”。我同意，他的选择真的很糟糕。不过，还有很多时间来弥补！",
+          "url": "https://flash.jin10.com/detail/20260421110605487800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时40分]"
+        },
+        {
+          "title": "民调：特朗普支持率创第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7630352961877655571/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时40分]"
         },
         {
           "title": "伊朗首席谈判代表：美国总统特朗普正试图将谈判桌变成“投降桌”。",
@@ -229,6 +255,17 @@
           "time_info": "[03时05分 ~ 04时08分]"
         },
         {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时40分]"
+        },
+        {
           "title": "伊朗顶级谈判员：我们不会在面临威胁时接受谈判。 美国总统特朗普企图将谈判桌变为“投降桌”。",
           "url": "https://wallstreetcn.com/livenews/3091343",
           "source": "华尔街见闻-快讯",
@@ -239,6 +276,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时04分 ~ 07时04分]"
+        },
+        {
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 13时40分]"
         },
         {
           "title": "特朗普称正在赢得战争 在达成“协议”前不会解除对伊朗的封锁",
@@ -301,15 +349,15 @@
           "time_info": "[01时57分 ~ 03时05分]"
         },
         {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
+          "title": "伊朗用特朗普方式对付特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%94%A8%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B9%E5%BC%8F%E5%AF%B9%E4%BB%98%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 13时40分]"
         },
         {
           "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
@@ -323,15 +371,15 @@
           "time_info": "07时59分"
         },
         {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
+          "title": "特朗普称美方从伊朗被炸核设施挖取浓缩铀“漫长且艰难”",
+          "url": "https://wallstreetcn.com/livenews/3091534",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "13时40分"
         },
         {
           "title": "美国国务院官员：美国总统特朗普致力于寻求外交解决方案（如果可能），但不会让该岛屿（古巴）陷入重大国家安全威胁。",
@@ -384,7 +432,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -417,7 +465,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -450,7 +498,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -472,7 +520,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }
@@ -480,8 +528,20 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 20,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时03分 ~ 13时40分]"
+        },
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
           "url": "https://wallstreetcn.com/articles/3770361",
@@ -494,16 +554,17 @@
           "time_info": "[00时47分 ~ 05时02分]"
         },
         {
-          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3770361",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
+          "url": "https://www.cls.cn/detail/2350040",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            5,
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[06时03分 ~ 11时26分]"
+          "time_info": "[07时03分 ~ 13时40分]"
         },
         {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
@@ -550,17 +611,37 @@
           "time_info": "[03时04分 ~ 07时59分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
-          "url": "https://www.cls.cn/detail/2350040",
-          "source": "财联社热门",
+          "title": "A股CPO概念股震荡回升，杰普特涨超10%，泰晶科技此前涨停，仕佳光子、英唐智控、蘅东光、中天科技涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3091544",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            3,
             2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时03分 ~ 11时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "A股机器人概念短线拉升，日盈电子触及涨停，震裕科技、浙江荣泰、美湖股份、五洲新春、万向钱潮跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3091541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "A股三大股指午后集体翻红",
+          "url": "https://wallstreetcn.com/livenews/3091540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "迈威尔科技/美满科技美股盘后涨3%，其客户亚马逊与Anthropic达成协议。",
@@ -647,6 +728,50 @@
           "time_info": "[05时02分 ~ 06时04分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 13时40分]"
+        },
+        {
+          "title": "A股铜箔概念持续走强，方邦股份、英联股份涨停，德福科技涨超15%，铜冠铜箔、中一科技、隆扬电子等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3091536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "A股机器人概念短线拉升，日盈电子触及涨停，震裕科技、浙江荣泰、美湖股份、五洲新春、万向钱潮跟涨。",
+          "url": "https://flash.jin10.com/detail/20260421131923458800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "A股三大股指午后全线翻红，PET铜箔、光刻机概念股涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260421131742972800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
           "title": "Snap美股盘后跌2.8%，该公司CFO Derek Andersen离职。",
           "url": "https://wallstreetcn.com/livenews/3091337",
           "source": "华尔街见闻-快讯",
@@ -656,6 +781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "汇丰策略师力挺美股：遇冷就买，动作要快！",
+          "url": "https://flash.jin10.com/detail/20260421130754080800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "苹果(AAPL.O)美股盘后跌超1%，该公司宣布约翰·特纳斯将成为CEO。",
@@ -669,13 +805,35 @@
           "time_info": "05时02分"
         },
         {
+          "title": "A股铜箔概念持续走强，方邦股份触及涨停，德福科技涨超15%，英联股份、铜冠铜箔、中一科技、隆扬电子等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260421130703447800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "A股化肥板块短线拉升，泰和科技涨超10%，潞化科技、四川美丰、湖北宜化、泸天化、云天化等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260421130232500800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
           "title": "A股复合铜箔概念异动拉升，德福科技、方邦股份涨超10%，铜冠铜箔、隆扬电子、先导智能等跟涨。",
           "url": "https://flash.jin10.com/detail/20260421104850125800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -686,7 +844,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -727,7 +885,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "法国检方就X平台涉嫌多项不当行为传唤马斯克",
@@ -751,6 +909,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "SpaceX招股书披露高管薪酬 马斯克象征性领薪",
+          "url": "https://flash.jin10.com/detail/20260421132425751800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "法国检方传唤马斯克",
@@ -791,7 +960,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "黄仁勋批评美国芯片管制：禁止出口是典型的“失败者心态”",
@@ -805,8 +974,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 11时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 13时40分]"
         },
         {
           "title": "芯片不卖中国,黄仁勋急了",
@@ -845,6 +1014,69 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时04分]"
+        },
+        {
+          "title": "速腾聚创发布“创世”架构及双旗舰芯片，激光雷达进入图像化时代",
+          "url": "https://wallstreetcn.com/livenews/3091512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "做多半导体成“最拥挤交易”，全球机构跳出“抱团”寻觅细分方向",
+          "url": "https://wallstreetcn.com/livenews/3091364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 07时59分]"
+        },
+        {
+          "title": "日本突发7.4级地震，影响多家半导体公司",
+          "url": "https://wallstreetcn.com/articles/3770431",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 13时40分]"
+        },
+        {
+          "title": "日本突发7.4级地震，影响多家半导体公司",
+          "url": "https://wallstreetcn.com/livenews/3091248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时57分]"
+        },
+        {
+          "title": "日本突发7.4级地震，影响多家半导体公司",
+          "url": "https://flash.jin10.com/detail/20260420235003926800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
         }
       ]
     },
@@ -876,8 +1108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 11时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 13时40分]"
         },
         {
           "title": "一图看懂 | 商业航天概念股再度走强 密集催化引爆行情",
@@ -906,49 +1138,8 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "做多半导体成“最拥挤交易”，全球机构跳出“抱团”寻觅细分方向",
-          "url": "https://wallstreetcn.com/livenews/3091364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 07时59分]"
-        },
-        {
-          "title": "日本突发7.4级地震，影响多家半导体公司",
-          "url": "https://wallstreetcn.com/livenews/3091248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时57分]"
-        },
-        {
-          "title": "日本突发7.4级地震，影响多家半导体公司",
-          "url": "https://flash.jin10.com/detail/20260420235003926800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【焦点复盘】沪指日线3连阳收复60日线，全市场超百股涨逾10%，算力链再现多点开花",
@@ -966,11 +1157,12 @@
           "url": "https://www.cls.cn/detail/2350251",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时40分]"
         },
         {
           "title": "工信部：支持开展太空算力技术前瞻性研究",
@@ -979,9 +1171,89 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "4月21日午间收评：创业板指半日跌近1%，算力产业链集体调整",
+          "url": "https://wallstreetcn.com/livenews/3091507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "减速机订单已排到明年！人形机器人“物种爆发” 2030年全球出货量将超50万？",
+          "url": "https://www.cls.cn/detail/2350092",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时40分]"
+        },
+        {
+          "title": "第二届世界人形机器人运动会将于8月在京举办",
+          "url": "https://wallstreetcn.com/livenews/3091526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "第二届世界人形机器人运动会将于8月在京举办",
+          "url": "https://flash.jin10.com/detail/20260421124449801800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【数据看盘】科创50ETF上周份额大减 多家机构激烈博弈立讯精密",
+          "url": "https://www.cls.cn/detail/2349499",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 07时04分]"
+        },
+        {
+          "title": "上证指数早盘收报4072.39点，跌0.24%。 深证成指早盘收报14854.08点，跌0.75%。 创业板指早盘收报3642.83点，跌0.94%。 沪深300早盘收报4740.83点，跌0.35%。 科创50早盘收报1416.17点，跌2.37%。 中证500早盘收报8223.17点，跌0.81%。 中证1000早盘收报8297.37点，跌0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3091508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         }
       ]
     },
@@ -996,7 +1268,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -1007,7 +1279,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }
@@ -1025,8 +1297,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 11时26分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 13时40分]"
         },
         {
           "title": "宁德时代股东一口气转让238亿元股票",
@@ -1038,42 +1310,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 01时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【数据看盘】科创50ETF上周份额大减 多家机构激烈博弈立讯精密",
-          "url": "https://www.cls.cn/detail/2349499",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 07时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "减速机订单已排到明年！人形机器人“物种爆发” 2030年全球出货量将超50万？",
-          "url": "https://www.cls.cn/detail/2350092",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
         }
       ]
     }
