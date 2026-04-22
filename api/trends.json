@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T15:07:16.813387+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-04-22T17:53:22.412110+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时39分 ~ 15时07分]"
+          "appearance_count": 15,
+          "time_info": "[02时39分 ~ 17时53分]"
         },
         {
           "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
@@ -89,6 +89,19 @@
           "time_info": "[06时27分 ~ 15时07分]"
         },
         {
+          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
+          "url": "https://wallstreetcn.com/articles/3770519",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[02时39分 ~ 17时53分]"
+        },
+        {
           "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
           "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
           "source": "凤凰网",
@@ -100,16 +113,17 @@
           "time_info": "[00时13分 ~ 07时52分]"
         },
         {
-          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
-          "url": "https://wallstreetcn.com/articles/3770519",
+          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
+          "url": "https://wallstreetcn.com/articles/3770539",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            9,
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时39分 ~ 10时24分]"
+          "appearance_count": 8,
+          "time_info": "[07时07分 ~ 17时53分]"
         },
         {
           "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
@@ -133,19 +147,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时27分 ~ 07时52分]"
-        },
-        {
-          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
-          "url": "https://wallstreetcn.com/articles/3770539",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时07分 ~ 15时07分]"
         },
         {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火",
@@ -214,6 +215,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "特朗普延长与伊朗停火，外交部回应",
+          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "特朗普提名Phelan担任经济顾问委员会主席",
           "url": "https://wallstreetcn.com/livenews/3092059",
           "source": "华尔街见闻-快讯",
@@ -236,6 +248,20 @@
           "time_info": "01时18分"
         },
         {
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时24分 ~ 17时53分]"
+        },
+        {
           "title": "特朗普宣布延长同伊朗的停火",
           "url": "https://m.thepaper.cn/newsDetail_forward_33023082",
           "source": "澎湃新闻",
@@ -248,6 +274,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时52分 ~ 15时07分]"
+        },
+        {
+          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
+          "url": "https://wallstreetcn.com/articles/3770527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 17时53分]"
         },
         {
           "title": "非美货币普跌，投资者紧盯特朗普对伊朗的停火截止日期",
@@ -288,30 +326,6 @@
           "time_info": "[07时08分 ~ 07时52分]"
         },
         {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 15时07分]"
-        },
-        {
-          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
-          "url": "https://wallstreetcn.com/articles/3770527",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 15时07分]"
-        },
-        {
           "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
           "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
           "source": "凤凰网",
@@ -321,6 +335,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时13分 ~ 02时39分]"
+        },
+        {
+          "title": "特朗普就关税退款发警告",
+          "url": "https://news.ifeng.com/c/8sWa8XCzzKG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时06分 ~ 17时53分]"
         },
         {
           "title": "伊朗议会议长顾问称特朗普的停火延长毫无意义",
@@ -419,17 +444,6 @@
           "time_info": "[05时44分 ~ 06时27分]"
         },
         {
-          "title": "特朗普就关税退款发警告",
-          "url": "https://news.ifeng.com/c/8sWa8XCzzKG",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时06分 ~ 15时07分]"
-        },
-        {
           "title": "保险公司对特朗普政府的美国医保减肥药覆盖计划持保留态度",
           "url": "https://wallstreetcn.com/livenews/3092089",
           "source": "华尔街见闻-快讯",
@@ -523,6 +537,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "民调：特朗普支持率下降 美国朝错误方向发展",
+          "url": "https://www.cls.cn/detail/2351804",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "从“准备轰炸”到“无限期停火”！特朗普极限反转，伊朗不买账",
           "url": "https://flash.jin10.com/detail/20260422070957307800",
           "source": "金十数据",
@@ -534,6 +559,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "美国联邦官员表示，在健康保险公司对参与表达担忧之后，特朗普政府正无限期推迟一项医疗保险试点项目，该项目原本旨在覆盖减肥药物费用。",
+          "url": "https://flash.jin10.com/detail/20260422173607907800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "美国总统特朗普考虑取消副总统万斯前往巴基斯坦的行程。 万斯仍然可能最早在当地时间周二夜间启程前往巴基斯坦。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3092052",
           "source": "华尔街见闻-快讯",
@@ -543,6 +579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "美国退税进程或仍存变数：特朗普政府未提出上诉 反倒令人心慌",
+          "url": "https://www.cls.cn/detail/2352014",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "特朗普宣布延长对伊朗停火",
@@ -595,7 +642,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -633,6 +680,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "伊朗司法机构否认特朗普提及的8名女性面临死刑",
           "url": "https://wallstreetcn.com/livenews/3092025",
           "source": "华尔街见闻-快讯",
@@ -650,7 +708,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -757,7 +815,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
@@ -818,8 +876,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 15时07分]"
+          "appearance_count": 6,
+          "time_info": "[07时52分 ~ 17时53分]"
         },
         {
           "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
@@ -857,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "A股总市值达117万亿元，创历史新高",
+          "url": "https://flash.jin10.com/detail/20260422174445477800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "美股三大股指期货周三高开，纳指期货涨0.4%；现货金银同样走高，黄金上涨0.1%，白银上涨0.5%。",
@@ -943,6 +1012,17 @@
           "time_info": "10时24分"
         },
         {
+          "title": "南向资金今日净买入48.9亿元。港股通（沪）方面，中国海洋石油、泡泡玛特分别获净买入3.55亿港元、3.31亿港元；长飞光纤光缆净卖出额居首，金额为4.91亿港元；港股通（深）方面，华虹半导体、吉利汽车分别获净买入3.33亿港元、3.32亿港元；阿里巴巴-W净卖出额居首，金额为10.08亿港元。",
+          "url": "https://flash.jin10.com/detail/20260422173112162800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "金十图示：2026年04月21日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260422040609564800",
           "source": "金十数据",
@@ -1004,9 +1084,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "南京化纤：公司股票将于2026年4月23日停牌一天，于2026年4月24日起实施退市风险警示，A股股票简称变更为“*ST京化”。",
+          "url": "https://wallstreetcn.com/livenews/3092464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "A股英维克午后翻红，早盘曾一度一字跌停，封单超30亿元。",
@@ -1015,7 +1106,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -1029,12 +1120,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "法国巴黎银行：A股“低波动”利于长期投资者配置，PPI拐点料改善盈利。",
+          "url": "https://wallstreetcn.com/livenews/3092453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     },
     {
       "keyword_group": "宁德时代",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "宁德时代推出第三代神行超充电池，六分钟可充电至98%，钠电池年内大规模量产",
@@ -1043,11 +1145,12 @@
           "ranks": [
             8,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时13分 ~ 15时07分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 17时53分]"
         },
         {
           "title": "宁德时代新电池续航可超1500km",
@@ -1137,6 +1240,17 @@
           "time_info": "13时12分"
         },
         {
+          "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
+          "url": "https://wallstreetcn.com/articles/3770558",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "宁德时代发布第三代神行超充电池",
           "url": "https://www.douyin.com/hot/2474314",
           "source": "抖音",
@@ -1205,6 +1319,80 @@
       ]
     },
     {
+      "keyword_group": "算力",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
+          "url": "https://www.cls.cn/detail/2350762",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 07时52分]"
+        },
+        {
+          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
+          "url": "https://www.cls.cn/detail/2352172",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "4月22日投资避雷针：算力租赁概念人气股提示风险 已确认的算力业务收入不足万元",
+          "url": "https://www.cls.cn/detail/2351491",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 15时07分]"
+        },
+        {
+          "title": "【中办、国办：加强算力基础设施项目评估论证和源头把关，严格电能利用效率等能效指标准入管理】 意见提出，推进算力、通信基站和机房等基础设施节能降碳改造，推动设备选型、制冷架构、机柜功率密度、系统智能运行策略等优化升级，持续提高单位算力能效和单位信息流量能效。加强算力基础设施项目评估论证和源头把关，严格电能利用效率等能效指标准入管理，提高可再生能源消费和余热资源回收利用水平，支持发展绿色低碳、集约循环的算力设施。",
+          "url": "https://wallstreetcn.com/livenews/3092484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "沪指重返4100，算力硬件爆发，万亿巨头工业富联盘中涨停，恒科指跌超近2%，宁德时代H股跌超5%",
+          "url": "https://wallstreetcn.com/articles/3770568",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "中办、国办：推进算力、通信基站和机房等基础设施节能降碳改造",
+          "url": "https://flash.jin10.com/detail/20260422172759670800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片",
       "match_count": 3,
       "titles": [
@@ -1215,7 +1403,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -1226,7 +1414,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -1253,11 +1441,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 15时07分]"
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 17时53分]"
         },
         {
           "title": "马斯克新动作！SpaceX拿下AI编程新贵600亿美元收购权",
@@ -1266,7 +1455,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         }
@@ -1363,36 +1552,6 @@
       ]
     },
     {
-      "keyword_group": "算力",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
-          "url": "https://www.cls.cn/detail/2350762",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 07时52分]"
-        },
-        {
-          "title": "4月22日投资避雷针：算力租赁概念人气股提示风险 已确认的算力业务收入不足万元",
-          "url": "https://www.cls.cn/detail/2351491",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 15时07分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "工业富联",
       "match_count": 2,
       "titles": [
@@ -1403,7 +1562,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -1414,7 +1573,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         }
@@ -1449,6 +1608,23 @@
       ]
     },
     {
+      "keyword_group": "存储",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国存储巨头面临断供风险：中东战火袭扰下 光刻胶关键原料陷入短缺",
+          "url": "https://www.cls.cn/detail/2352211",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "光模块",
       "match_count": 1,
       "titles": [
@@ -1462,6 +1638,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "广东：重点布局人形机器人设计制造 推动人工智能与机器人“大脑”“小脑”及机身协同研发",
+          "url": "https://wallstreetcn.com/livenews/3092458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中际旭创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中际旭创：2025年度每10股派10元 股权登记日为4月29日",
+          "url": "https://wallstreetcn.com/livenews/3092477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     },
@@ -1492,11 +1702,29 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 15时07分]"
+          "appearance_count": 6,
+          "time_info": "[07时52分 ~ 17时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "长盈精密",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长盈精密：一季度净利润1.25亿元，同比下降28.39%",
+          "url": "https://wallstreetcn.com/livenews/3092455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     }
