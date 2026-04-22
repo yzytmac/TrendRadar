@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T19:38:12.798722+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2026-04-22T20:46:26.134252+08:00",
+  "total_titles_processed": 1734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 72,
       "titles": [
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时39分 ~ 19时38分]"
+          "appearance_count": 19,
+          "time_info": "[02时39分 ~ 20时46分]"
         },
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时07分 ~ 19时38分]"
+          "appearance_count": 12,
+          "time_info": "[07时07分 ~ 20时46分]"
         },
         {
           "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
@@ -114,8 +114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时39分 ~ 19时38分]"
+          "appearance_count": 16,
+          "time_info": "[02时39分 ~ 20时46分]"
         },
         {
           "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
@@ -127,6 +127,30 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时13分 ~ 07时52分]"
+        },
+        {
+          "title": "特朗普延长与伊朗停火，外交部回应",
+          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 20时46分]"
+        },
+        {
+          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
+          "url": "https://wallstreetcn.com/articles/3770527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时12分 ~ 20时46分]"
         },
         {
           "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
@@ -141,41 +165,6 @@
           "time_info": "[07时52分 ~ 15时07分]"
         },
         {
-          "title": "伊朗战争丨特朗普宣布延长对伊朗停火，多方回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时27分 ~ 07时52分]"
-        },
-        {
-          "title": "特朗普延长与伊朗停火，外交部回应",
-          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时38分]"
-        },
-        {
-          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
-          "url": "https://wallstreetcn.com/articles/3770527",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时12分 ~ 19时38分]"
-        },
-        {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
           "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
           "source": "澎湃新闻",
@@ -187,8 +176,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时24分 ~ 19时38分]"
+          "appearance_count": 9,
+          "time_info": "[10时24分 ~ 20时46分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普宣布延长对伊朗停火，多方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时27分 ~ 07时52分]"
         },
         {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火",
@@ -366,6 +366,18 @@
           "time_info": "[00时13分 ~ 02时39分]"
         },
         {
+          "title": "特朗普称预计停火到期后将继续轰炸伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020279",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 20时46分]"
+        },
+        {
           "title": "伊朗议会议长顾问称特朗普的停火延长毫无意义",
           "url": "https://flash.jin10.com/detail/20260422050146596800",
           "source": "金十数据",
@@ -496,17 +508,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时44分]"
-        },
-        {
-          "title": "特朗普称预计停火到期后将继续轰炸伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020279",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
         },
         {
           "title": "伊朗最高联合军事指挥部警告称，鉴于特朗普的反复威胁，将对预定目标进行“强有力的攻击”。",
@@ -786,6 +787,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "打脸特朗普！美军沙特基地列装乌克兰反无人机系统",
+          "url": "https://flash.jin10.com/detail/20260422202152051800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "美媒：特朗普或在停火结束前最后数小时解除海上封锁",
           "url": "https://flash.jin10.com/detail/20260422040013787800",
           "source": "金十数据",
@@ -844,7 +856,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -855,8 +867,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时52分 ~ 19时38分]"
+          "appearance_count": 10,
+          "time_info": "[07时52分 ~ 20时46分]"
         },
         {
           "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
@@ -958,6 +970,18 @@
           "time_info": "17时53分"
         },
         {
+          "title": "媒体：A股市场已进入结构性牛市周期",
+          "url": "https://www.toutiao.com/trending/7631029558866935844/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 20时46分]"
+        },
+        {
           "title": "美股三大股指期货周三高开，纳指期货涨0.4%；现货金银同样走高，黄金上涨0.1%，白银上涨0.5%。",
           "url": "https://flash.jin10.com/detail/20260422060215104800",
           "source": "金十数据",
@@ -996,6 +1020,19 @@
           "time_info": "[07时08分 ~ 07时52分]"
         },
         {
+          "title": "A股均价创11年新高！两大板块成“主攻手”，股价跃升标的盘点，这些获融资客重仓",
+          "url": "https://www.cls.cn/detail/2352288",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 20时46分]"
+        },
+        {
           "title": "美股迷幻药物板块隔夜暴走 特朗普放宽监管行业迎来命运反转",
           "url": "https://www.cls.cn/detail/2350782",
           "source": "财联社热门",
@@ -1006,29 +1043,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 05时44分]"
-        },
-        {
-          "title": "A股均价创11年新高！两大板块成“主攻手”，股价跃升标的盘点，这些获融资客重仓",
-          "url": "https://www.cls.cn/detail/2352288",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 19时38分]"
-        },
-        {
-          "title": "媒体：A股市场已进入结构性牛市周期",
-          "url": "https://www.toutiao.com/trending/7631029558866935844/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
         },
         {
           "title": "A股公司可转债再融资升温，监管“扶优限劣”严防盲目跨界投资",
@@ -1053,6 +1067,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时53分 ~ 18时21分]"
+        },
+        {
+          "title": "A股主要股指强势上扬",
+          "url": "https://www.toutiao.com/trending/7631507170502115366/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "A股猪肉股快速反弹，天邦食品直线涨停，龙大美食、大禹生物、立华股份、天康生物、正邦科技跟涨。",
@@ -1132,6 +1157,17 @@
           "time_info": "10时24分"
         },
         {
+          "title": "据报道，谷歌云推出用于人工智能的新型TPU 8T和TPU 8I芯片。 谷歌A美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3092605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "金十图示：2026年04月21日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260422040530701800",
           "source": "金十数据",
@@ -1185,6 +1221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "波音一季度营收222.2亿美元，预估217.9亿美元。 一季度每股亏损11美分，一季度核心每股亏损20美分。 一季度调整后自由现金流为负14.5亿美元，预期为负26.1亿美元。 第一季度商用飞机营收92.0亿美元，预期100.8亿美元。 波音预计737-7和737-10机型将于2026年获得认证。 波音美股盘前涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3092589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
@@ -1237,6 +1284,18 @@
           "time_info": "[00时13分 ~ 05时44分]"
         },
         {
+          "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
+          "url": "https://wallstreetcn.com/articles/3770558",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 20时46分]"
+        },
+        {
           "title": "宁德时代新电池续航1500km",
           "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E6%96%B0%E7%94%B5%E6%B1%A0%E7%BB%AD%E8%88%AA1500km",
           "source": "百度热搜",
@@ -1248,18 +1307,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时24分 ~ 15时07分]"
-        },
-        {
-          "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
-          "url": "https://wallstreetcn.com/articles/3770558",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时38分]"
         },
         {
           "title": "宁德时代",
@@ -1375,8 +1422,19 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "永鼎股份：100G EML及硅光高功率芯片具备批量生产能力 启动扩产计划",
+          "url": "https://wallstreetcn.com/livenews/3092625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
         {
           "title": "永鼎股份：100G EML及硅光高功率芯片具备批量生产能力 启动扩产计划",
           "url": "https://flash.jin10.com/detail/20260422191325850800",
@@ -1384,7 +1442,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1480,8 +1538,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时38分]"
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 20时46分]"
         },
         {
           "title": "沪指重返4100，算力硬件爆发，万亿巨头工业富联盘中涨停，恒科指跌超近2%，宁德时代H股跌超5%",
@@ -1492,8 +1550,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时38分]"
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 20时46分]"
         },
         {
           "title": "4月22日投资避雷针：算力租赁概念人气股提示风险 已确认的算力业务收入不足万元",
@@ -1545,8 +1603,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 20时46分]"
         },
         {
           "title": "上证指数开盘报4074.81点，跌0.25%。 深证成指开盘报14897.96点，跌0.56%。 创业板指开盘报3660.42点，跌0.77%。 沪深300开盘报4751.28点，跌0.35%。 科创50开盘报1420.78点，跌0.41%。 中证500开盘报8226.85点，跌0.53%。 中证1000开盘报8317.28点，跌0.41%。",
@@ -1584,11 +1642,12 @@
             7,
             8,
             11,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时12分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[13时12分 ~ 20时46分]"
         },
         {
           "title": "马斯克新动作！SpaceX拿下AI编程新贵600亿美元收购权",
@@ -1629,6 +1688,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "智能数据基础设施公司NetApp今日宣布，该公司荣获“2026年Google Cloud存储类别年度基础架构现代化合作伙伴奖”。",
+          "url": "https://wallstreetcn.com/livenews/3092623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "韩国存储巨头面临断供风险：中东战火袭扰下 光刻胶关键原料陷入短缺",
+          "url": "https://www.cls.cn/detail/2352211",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 20时46分]"
         }
       ]
     },
@@ -1676,7 +1765,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1687,7 +1776,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         }
@@ -1750,21 +1839,19 @@
       ]
     },
     {
-      "keyword_group": "存储",
+      "keyword_group": "十五五规划 国产替代 自主创新",
       "match_count": 1,
       "titles": [
         {
-          "title": "韩国存储巨头面临断供风险：中东战火袭扰下 光刻胶关键原料陷入短缺",
-          "url": "https://www.cls.cn/detail/2352211",
-          "source": "财联社热门",
+          "title": "十五五规划里的智能经济新形态",
+          "url": "https://www.douyin.com/hot/2475520",
+          "source": "抖音",
           "ranks": [
-            8,
-            7,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
@@ -1831,7 +1918,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         }
@@ -1869,8 +1956,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时52分 ~ 19时38分]"
+          "appearance_count": 10,
+          "time_info": "[07时52分 ~ 20时46分]"
         }
       ]
     },
