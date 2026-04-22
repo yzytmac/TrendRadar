@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T02:02:12.201749+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-04-23T03:46:46.583874+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 31,
       "titles": [
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -15,30 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
-        },
-        {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
         },
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
@@ -48,8 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
+        },
+        {
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
         },
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -57,6 +47,17 @@
           "source": "财联社热门",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -75,13 +76,24 @@
           "time_info": "[00时57分 ~ 02时02分]"
         },
         {
+          "title": "伊朗战争丨以媒：特朗普设定对伊停火期限26日结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
           "title": "美国总统特朗普：参议院共和党领袖图恩和参议员格雷厄姆已迈出关键第一步，推动通过另一项“和解法案”，该法案旨在为我们的伟大边境巡逻队和移民及海关执法局人员提供资金。",
           "url": "https://flash.jin10.com/detail/20260423014423775800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -103,9 +115,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普对封锁表示满意。",
+          "url": "https://flash.jin10.com/detail/20260423032849561800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：（关于伊朗停火延长）特朗普希望各方采取统一回应。他尚未设定最后期限。",
+          "url": "https://flash.jin10.com/detail/20260423032712632800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         },
         {
           "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
@@ -116,19 +150,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
         },
         {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
           "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
         },
         {
           "title": "特朗普政府股权收购热潮总额逼近210亿美元",
@@ -137,7 +172,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -148,9 +183,75 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美方截获伊朗船只并不构成违反停火协议。 主动权掌握在美国总统特朗普手中，美国仍然掌控着局势。 由于停火时间延长，特朗普拥有灵活性。",
+          "url": "https://wallstreetcn.com/livenews/3092809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
+          "url": "https://wallstreetcn.com/articles/3770634",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普因停火延长而拥有灵活性。",
+          "url": "https://flash.jin10.com/detail/20260423032018250800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：伊朗无法发出统一的意见。 我们等待伊朗的回应。 伊朗领导层内部存在很多分歧。 特朗普尚未针对伊朗提议设定明确的期限。 美国很清楚和伊朗的哪位谈判。 3-5天的停火时间线是不实的。 伊朗公开说的“胡话”与我们私底下听到的不一样。",
+          "url": "https://wallstreetcn.com/livenews/3092808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普掌握着所有的筹码。牌在特朗普手中，美国保持控制。",
+          "url": "https://flash.jin10.com/detail/20260423032001718800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "美国总统特朗普预计伊朗外长阿拉格齐将继续参与伊朗谈判。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3092804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         },
         {
           "title": "预测市场显示 特朗普面临弹劾的风险持续攀升",
@@ -164,6 +265,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "据福克斯新闻：美国总统特朗普表示，伊朗在霍尔木兹海峡扣押的船只并非美国船只。",
+          "url": "https://flash.jin10.com/detail/20260423030944188800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
           "title": "美国参议院Graham：今天与总统特朗普和战争部长海格塞斯讨论了伊朗问题。",
           "url": "https://wallstreetcn.com/livenews/3092740",
           "source": "华尔街见闻-快讯",
@@ -173,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普预计伊朗外长阿拉格齐将继续参与伊朗谈判。",
+          "url": "https://flash.jin10.com/detail/20260423030922582800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         },
         {
           "title": "特朗普或将重新分类大麻，大麻股应声飙升",
@@ -192,7 +315,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -206,12 +329,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "SpaceX参与开发美国总统特朗普所谓“金穹”反导系统的操作系统。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "【以媒：特朗普设定对伊朗停火期限26日结束】以色列媒体22日报道说，以方已从美国方面获悉，美国总统特朗普就延长对伊朗停火所设定的期限将于26日到期。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3092789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "四家A股公司同日被立案 均涉信披违法违规|速读公告",
@@ -222,8 +367,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
         },
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -234,8 +379,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
         },
         {
           "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
@@ -246,8 +391,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
         },
         {
           "title": "A股均价创11年新高！两大板块成“主攻手”，股价跃升标的盘点，这些获融资客重仓",
@@ -257,8 +402,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
         },
         {
           "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
@@ -268,8 +413,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
         },
         {
           "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股盘中）",
@@ -292,6 +437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "光刻机供应商阿斯麦ADR短线从1470美元跳水至1378.30美元，陡然转而下跌超4%。 该公司第一大客户台积电ADR维持超过4%的涨幅，美股开盘以来持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3092803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         }
       ]
     },
@@ -304,11 +460,12 @@
           "url": "https://www.zhihu.com/question/2030155187717936842",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
         },
         {
           "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
@@ -319,8 +476,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
         }
       ]
     },
@@ -336,8 +493,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
         }
       ]
     },
@@ -353,8 +510,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
         }
       ]
     },
@@ -370,8 +527,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "台积电：阿斯麦最新芯片制造设备过于昂贵，将推迟购买",
+          "url": "https://wallstreetcn.com/livenews/3092801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         }
       ]
     },
@@ -388,8 +562,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时46分]"
         }
       ]
     }
