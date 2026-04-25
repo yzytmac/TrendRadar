@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T07:56:40.986220+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-04-25T10:09:51.141757+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 10时09分]"
         },
         {
           "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
@@ -102,6 +102,20 @@
           "time_info": "[07时09分 ~ 07时56分]"
         },
         {
+          "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
+          "url": "https://wallstreetcn.com/livenews/3094320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 10时09分]"
+        },
+        {
           "title": "美伊谈判有望：伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
           "url": "https://wallstreetcn.com/articles/3770826",
           "source": "华尔街见闻",
@@ -114,17 +128,17 @@
           "time_info": "[03时51分 ~ 06时28分]"
         },
         {
-          "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
-          "url": "https://wallstreetcn.com/livenews/3094320",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            3,
-            7
+            6,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时56分]"
+          "time_info": "[07时09分 ~ 10时09分]"
         },
         {
           "title": "欧洲真的怕特朗普吗",
@@ -165,6 +179,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
+          "url": "https://wallstreetcn.com/livenews/3094328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "特朗普：只要半句话，美国就能省下1590亿美元",
           "url": "https://flash.jin10.com/detail/20260425035056520800",
           "source": "金十数据",
@@ -203,18 +228,6 @@
           "time_info": "[03时52分 ~ 05时35分]"
         },
         {
-          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
-          "url": "https://wallstreetcn.com/articles/3770826",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 07时56分]"
-        },
-        {
           "title": "以色列总理：与特朗普就伊朗问题进行了一次“极好的谈话”",
           "url": "https://wallstreetcn.com/livenews/3094214",
           "source": "华尔街见闻-快讯",
@@ -245,11 +258,12 @@
           "ranks": [
             8,
             10,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时56分]"
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 10时09分]"
         },
         {
           "title": "美伊谈判有望？伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -311,6 +325,17 @@
           "time_info": "[03时52分 ~ 04时44分]"
         },
         {
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "美官员：特朗普将派遣其女婿及特使赴巴基斯坦同伊朗谈判",
           "url": "https://flash.jin10.com/detail/20260425000710131800",
           "source": "金十数据",
@@ -333,6 +358,28 @@
           "time_info": "00时54分"
         },
         {
+          "title": "曝特朗普女婿及特使将赴巴同伊朗谈判",
+          "url": "https://www.toutiao.com/trending/7631822978594553875/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "美联邦法院裁定特朗普边境庇护申请禁令违法",
+          "url": "https://flash.jin10.com/detail/20260425081556707800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "美国总统特朗普：计划下周与英国查尔斯国王讨论包括伊朗、北约和数字服务税在内的多个议题。",
           "url": "https://flash.jin10.com/detail/20260425025242021800",
           "source": "金十数据",
@@ -342,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
+          "url": "https://flash.jin10.com/detail/20260425081451690800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
@@ -460,8 +518,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 10时09分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -488,6 +546,20 @@
           "time_info": "[04时44分 ~ 07时56分]"
         },
         {
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 10时09分]"
+        },
+        {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260425003044610800",
           "source": "金十数据",
@@ -497,19 +569,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
-        },
-        {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时56分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨超2%领跑",
@@ -581,8 +640,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时56分]"
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 10时09分]"
         },
         {
           "title": "“大空头”Michael Burry买入半导体ETF看跌期权，“我知道费城半导体指数会回落”",
@@ -591,11 +650,12 @@
           "ranks": [
             4,
             6,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时56分]"
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 10时09分]"
         },
         {
           "title": "英伟达涨4.3%，自10月份以来首次创收盘历史新高。 英特尔涨24%，创1987年以来最佳单日表现。 费城半导体指数涨4.3%，连续上涨18个交易日",
@@ -656,6 +716,46 @@
       ]
     },
     {
+      "keyword_group": "芯片",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【每日收评】沪指午后探底回升小幅收跌，锂电、芯片产业链逆势爆发，算力硬件股持续调整",
+          "url": "https://www.cls.cn/detail/2354867",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 07时56分]"
+        },
+        {
+          "title": "DeepSeek如何适配国产芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "DeepSeek-V4“解锁”国产芯片",
+          "url": "https://www.toutiao.com/trending/7632342182602477065/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力",
       "match_count": 3,
       "titles": [
@@ -667,8 +767,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 10时09分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -676,11 +776,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 10时09分]"
         },
         {
           "title": "市场消息：谷歌将向Anthropic提供至少5吉瓦算力。",
@@ -696,20 +797,19 @@
       ]
     },
     {
-      "keyword_group": "芯片",
+      "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
         {
-          "title": "【每日收评】沪指午后探底回升小幅收跌，锂电、芯片产业链逆势爆发，算力硬件股持续调整",
-          "url": "https://www.cls.cn/detail/2354867",
-          "source": "财联社热门",
+          "title": "市场消息：美国法官驳回马斯克针对OpenAI和OpenAI创始人奥尔特曼的诉讼中提出的欺诈指控，计划继续就马斯克的其他指控进行庭审。",
+          "url": "https://flash.jin10.com/detail/20260425080632289800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            10
+            27
           ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -728,6 +828,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时54分 ~ 07时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宁德时代换电业务总经理杨峻：补能行业面临很大挑战，几乎全行业亏损",
+          "url": "https://wallstreetcn.com/livenews/3094332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     }
