@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T13:42:31.465030+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-04-27T15:57:53.117452+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -101,21 +101,6 @@
           "time_info": "[00时50分 ~ 13时42分]"
         },
         {
-          "title": "特朗普否认枪击事件与伊朗战争有关",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%9C%89%E5%85%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            6,
-            4,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时42分]"
-        },
-        {
           "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
           "url": "https://wallstreetcn.com/livenews/3094542",
           "source": "华尔街见闻-快讯",
@@ -130,6 +115,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 07时57分]"
+        },
+        {
+          "title": "特朗普否认枪击事件与伊朗战争有关",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%9C%89%E5%85%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6,
+            4,
+            15,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 15时57分]"
         },
         {
           "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
@@ -161,6 +162,22 @@
           "time_info": "[00时50分 ~ 07时57分]"
         },
         {
+          "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            15,
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 15时57分]"
+        },
+        {
           "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057646",
           "source": "澎湃新闻",
@@ -175,19 +192,19 @@
           "time_info": "[00时50分 ~ 13时42分]"
         },
         {
-          "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
+          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            17,
-            15,
+            20,
+            19,
+            14,
             11,
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 15时57分]"
         },
         {
           "title": "特朗普从枪击现场撤离后声称：早知道这么危险就不当总统了",
@@ -197,25 +214,12 @@
             17,
             18,
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时42分]"
-        },
-        {
-          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 15时57分]"
         },
         {
           "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
@@ -238,11 +242,12 @@
           "ranks": [
             13,
             14,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 15时57分]"
         },
         {
           "title": "特朗普夫人反应迅速",
@@ -288,6 +293,17 @@
           "time_info": "[07时56分 ~ 13时42分]"
         },
         {
+          "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
+          "url": "https://v.ifeng.com/c/8sendYSbNWy",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 15时57分]"
+        },
+        {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：收到了检察官Pirro周五与美联储相关的声明。 相信美联储在大楼翻修工程中不存在任何不当行为。 司法部明确地告诉我，对美联储的刑事调查结束了。 我准备推动凯文·沃什的美联储主席提名人资格确认程序。 （关于沃什的提名资格确认程序重回正轨）的确如此。 预计沃什将在担任美联储主席保持独立性。 总统特朗普在美联储问题上提出要求，这并不让我感到眼红。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3094527",
           "source": "华尔街见闻-快讯",
@@ -314,17 +330,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时50分 ~ 06时22分]"
-        },
-        {
-          "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
-          "url": "https://v.ifeng.com/c/8sendYSbNWy",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 13时42分]"
         },
         {
           "title": "英国首相斯塔默与美国总统特朗普通电话，讨论霍尔木兹海峡通航的紧迫性。",
@@ -364,6 +369,17 @@
           "time_info": "[07时56分 ~ 07时57分]"
         },
         {
+          "title": "特朗普回应撤离晚宴时“跌倒”“晚走”等细节，称枪手“有病”",
+          "url": "https://news.ifeng.com/c/8sf5G3nMN3a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 15时57分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗知道协议应该包括什么，他们明白不能拥有核武器，否则就没有必要举行会议。",
           "url": "https://flash.jin10.com/detail/20260427005514669800",
           "source": "金十数据",
@@ -394,6 +410,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时37分 ~ 05时42分]"
+        },
+        {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 15时57分]"
+        },
+        {
+          "title": "美伊和谈未重启？特朗普称想谈可致电美国，伊朗提出“三阶段谈判方案”！",
+          "url": "https://www.cls.cn/detail/2356165",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 15时57分]"
         },
         {
           "title": "枪击事件发生时，坐在特朗普旁边的华裔女记者是谁？",
@@ -435,28 +475,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时37分 ~ 05时42分]"
-        },
-        {
-          "title": "特朗普回应撤离晚宴时“跌倒”“晚走”等细节，称枪手“有病”",
-          "url": "https://news.ifeng.com/c/8sf5G3nMN3a",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
         },
         {
           "title": "特朗普叫停特使赴巴：“想谈，打个电话就行”，伊朗递三阶段方案",
@@ -517,6 +535,18 @@
           "time_info": "07时57分"
         },
         {
+          "title": "白宫记协晚宴枪手事发前有“宣言” 自称对特朗普政府不满",
+          "url": "https://www.cls.cn/detail/2356161",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 15时57分]"
+        },
+        {
           "title": "特朗普：希望伊朗主动联系美国",
           "url": "https://flash.jin10.com/detail/20260427002516941800",
           "source": "金十数据",
@@ -530,30 +560,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 04时05分]"
-        },
-        {
-          "title": "美伊和谈未重启？特朗普称想谈可致电美国，伊朗提出“三阶段谈判方案”！",
-          "url": "https://www.cls.cn/detail/2356165",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 13时42分]"
-        },
-        {
-          "title": "白宫记协晚宴枪手事发前有“宣言” 自称对特朗普政府不满",
-          "url": "https://www.cls.cn/detail/2356161",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 13时42分]"
         },
         {
           "title": "枪击现场安保行动缓慢？特朗普：是我想看看发生了什么",
@@ -594,6 +600,19 @@
           "time_info": "[00时50分 ~ 02时29分]"
         },
         {
+          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 15时57分]"
+        },
+        {
           "title": "美国代理司法部长：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查。 如果（美联储监察长的）自查没有涉及美联储的不当行为，（特朗普政府）就会（恢复刑事）调查。 不排除（特朗普政府）重新调查美联储的可能性。",
           "url": "https://wallstreetcn.com/livenews/3094509",
           "source": "华尔街见闻-快讯",
@@ -604,18 +623,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 02时29分]"
-        },
-        {
-          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 13时42分]"
         },
         {
           "title": "特朗普称伊朗可主动联系美国",
@@ -723,6 +730,17 @@
           "time_info": "10时41分"
         },
         {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "特朗普逃离枪击现场有人还在偷酒",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%83%E7%A6%BB%E6%9E%AA%E5%87%BB%E7%8E%B0%E5%9C%BA%E6%9C%89%E4%BA%BA%E8%BF%98%E5%9C%A8%E5%81%B7%E9%85%92%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -803,7 +821,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "7只A股周末集中宣布：将被实施退市风险警示",
@@ -855,8 +873,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 15时57分]"
         },
         {
           "title": "A股一季度最赚钱公司曝光",
@@ -883,7 +901,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -950,13 +968,24 @@
           "time_info": "[07时56分 ~ 10时41分]"
         },
         {
+          "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
+          "url": "https://www.cls.cn/detail/2356401",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "A股电池板块午后拉升，维科技术涨停，石大胜华、诺德股份、恩捷股份、利元亨、天际股份跟涨。",
           "url": "https://wallstreetcn.com/livenews/3094727",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -1011,7 +1040,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -1033,9 +1062,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-04-27）",
+          "url": "https://flash.jin10.com/detail/20260427151825428800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "A股汽车整车板块午后震荡走高，江淮汽车涨停，北汽蓝谷、比亚迪、江铃汽车、中通客车跟涨。",
@@ -1044,7 +1084,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -1096,7 +1136,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
@@ -1107,8 +1147,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 13时42分]"
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 15时57分]"
         },
         {
           "title": "中国布局太空算力",
@@ -1127,17 +1167,29 @@
           "url": "https://www.cls.cn/detail/2356166",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 15时57分]"
+        },
+        {
+          "title": "国家航天局：前瞻布局太空算力、太空制造等新业态，深度拓展商业应用场景",
+          "url": "https://flash.jin10.com/detail/20260427152908750800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时42分"
+          "time_info": "15时57分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "科创50指数盘中涨超4%，半导体板块领涨；成分股中，中科飞测、中控技术等多股涨超10%。",
@@ -1146,9 +1198,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "新巨丰在互动平台表示，公司无菌包装产品主要应用在液态奶和非碳酸软饮料中，暂未涉及半导体、生物医药等领域。",
+          "url": "https://flash.jin10.com/detail/20260427153214597800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "香港恒生指数开盘持平，报25976.97点；恒生科技指数涨0.56%。中芯国际涨超4%，百度涨超3%，华虹半导体涨超1%。",
@@ -1164,6 +1227,45 @@
       ]
     },
     {
+      "keyword_group": "商业航天",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国家航天局召开商业航天高质量发展企业圆桌会议",
+          "url": "https://flash.jin10.com/detail/20260427152800089800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "国家航天局：建设商业航天公共服务平台，创新采用“一站式”审批模式",
+          "url": "https://wallstreetcn.com/livenews/3094806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "国家航天局召开商业航天高质量发展企业圆桌会议",
+          "url": "https://wallstreetcn.com/livenews/3094805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科创",
       "match_count": 2,
       "titles": [
@@ -1174,7 +1276,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -1301,9 +1403,26 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "奇瑞与宁德时代签约，开发换电电池及网络车型，这会带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2031655584894820497",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         }
       ]
     }
