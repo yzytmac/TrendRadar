@@ -1,8 +1,212 @@
 {
-  "generated_at": "2026-05-06T06:15:43.983974+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-05-06T07:14:38.327578+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 a股 港股",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3771589",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 06时15分]"
+        },
+        {
+          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
+          "url": "https://www.cls.cn/detail/2362725",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 07时14分]"
+        },
+        {
+          "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
+          "url": "https://www.cls.cn/detail/2362589",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 07时14分]"
+        },
+        {
+          "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260506011214821800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "金十图示：2026年05月05日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260506011205693800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "AMD美股盘后涨幅扩大至15.24%，最高达到409.40美元。",
+          "url": "https://wallstreetcn.com/livenews/3098968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "A股4月决断后是Sell in May？",
+          "url": "https://wallstreetcn.com/articles/3771587",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时14分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨2%，布油基金跌超3.2%",
+          "url": "https://wallstreetcn.com/livenews/3098937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时15分]"
+        },
+        {
+          "title": "Strategy一季度营收1.243亿美元，IBES预期0.0494亿美元。 一季度每股收益（EPS）为38.25美元，IBES预期美股亏损0.17美元。 一季度运营亏损包含数字资产未实现的亏损144.6亿美元。 MSTR美股盘后跌1.3%，报184.46美元。",
+          "url": "https://wallstreetcn.com/livenews/3098934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时15分]"
+        },
+        {
+          "title": "Lumentum第三财季营收8.084亿美元，IBES预期8.043亿美元。 第三财季调整后每股收益（EPS）为2.37美元，IBES预期2.27美元。 第三财季调整后净利润2.257亿美元，分析师预期2.025亿美元。 预计第四财季营收9.60亿-10.1亿美元，预计调整后EPS为2.85-3.05美元。 Lumentum美股盘后跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3098932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时15分]"
+        },
+        {
+          "title": "AMD一季度调整后每股收益（EPS）为1.37美元，IBES预期1.29美元。 一季度调整后净利润22.65亿美元，IBES预期21.14亿美元。 一季度净利润13.83亿美元。 客户对MI450系列和Helios的（订单）参与正在增强。 AMD美股盘后跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3098931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时15分]"
+        },
+        {
+          "title": "美股行业ETF普遍收涨，半导体ETF涨超3.1%",
+          "url": "https://wallstreetcn.com/livenews/3098929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时15分]"
+        },
+        {
+          "title": "调查：逾七成投顾看涨A股二季度行情",
+          "url": "https://wallstreetcn.com/livenews/3098966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "2025年A股上市公司营收净利增速双双转正",
+          "url": "https://wallstreetcn.com/livenews/3098963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘后涨超11%。",
+          "url": "https://flash.jin10.com/detail/20260506055845033800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "谷歌(GOOG.O)美股盘后涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260506042737308800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘后涨2%。",
+          "url": "https://flash.jin10.com/detail/20260506042115421800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 15,
@@ -16,19 +220,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 07时14分]"
         },
         {
           "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
           "url": "https://www.cls.cn/detail/2362745",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 07时14分]"
         },
         {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
@@ -38,8 +243,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 07时14分]"
         },
         {
           "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
@@ -60,8 +265,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 07时14分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -71,8 +276,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 07时14分]"
         },
         {
           "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
@@ -82,19 +287,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 06时15分]"
-        },
-        {
-          "title": "据以色列公共广播公司：阿联酋告诉以色列大使，以色列应向特朗普施压，要求其对伊朗采取军事行动。",
-          "url": "https://flash.jin10.com/detail/20260506024804024800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 07时14分]"
         },
         {
           "title": "特朗普准备“抛弃”台湾了吗",
@@ -107,8 +301,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时54分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时54分 ~ 07时14分]"
+        },
+        {
+          "title": "据以色列公共广播公司：阿联酋告诉以色列大使，以色列应向特朗普施压，要求其对伊朗采取军事行动。",
+          "url": "https://flash.jin10.com/detail/20260506024804024800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "特朗普避谈伊朗何种行为将被视为违反停火协议：你们会知道的",
@@ -173,174 +378,28 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 a股 港股",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
-          "url": "https://www.cls.cn/detail/2362725",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 06时15分]"
-        },
-        {
-          "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3771589",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 06时15分]"
-        },
-        {
-          "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260506011214821800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
-          "url": "https://www.cls.cn/detail/2362589",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 06时15分]"
-        },
-        {
-          "title": "金十图示：2026年05月05日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260506011205693800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨2%，布油基金跌超3.2%",
-          "url": "https://wallstreetcn.com/livenews/3098937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时15分]"
-        },
-        {
-          "title": "Strategy一季度营收1.243亿美元，IBES预期0.0494亿美元。 一季度每股收益（EPS）为38.25美元，IBES预期美股亏损0.17美元。 一季度运营亏损包含数字资产未实现的亏损144.6亿美元。 MSTR美股盘后跌1.3%，报184.46美元。",
-          "url": "https://wallstreetcn.com/livenews/3098934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时15分]"
-        },
-        {
-          "title": "Lumentum第三财季营收8.084亿美元，IBES预期8.043亿美元。 第三财季调整后每股收益（EPS）为2.37美元，IBES预期2.27美元。 第三财季调整后净利润2.257亿美元，分析师预期2.025亿美元。 预计第四财季营收9.60亿-10.1亿美元，预计调整后EPS为2.85-3.05美元。 Lumentum美股盘后跌4%。",
-          "url": "https://wallstreetcn.com/livenews/3098932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时15分]"
-        },
-        {
-          "title": "AMD一季度调整后每股收益（EPS）为1.37美元，IBES预期1.29美元。 一季度调整后净利润22.65亿美元，IBES预期21.14亿美元。 一季度净利润13.83亿美元。 客户对MI450系列和Helios的（订单）参与正在增强。 AMD美股盘后跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3098931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时15分]"
-        },
-        {
-          "title": "美股行业ETF普遍收涨，半导体ETF涨超3.1%",
-          "url": "https://wallstreetcn.com/livenews/3098929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时15分]"
-        },
-        {
-          "title": "A股4月决断后是Sell in May？",
-          "url": "https://wallstreetcn.com/articles/3771587",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "谷歌(GOOG.O)美股盘后涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260506042737308800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "AMD(AMD.O)美股盘后涨2%。",
-          "url": "https://flash.jin10.com/detail/20260506042115421800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
+          "url": "https://wallstreetcn.com/articles/3771568",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 07时14分]"
+        },
         {
           "title": "中东局势再吃紧，标普盘中转跌，道指跌超1%，存储芯片股逆市走高，布油一度涨超6%",
           "url": "https://wallstreetcn.com/articles/3771519",
@@ -354,38 +413,28 @@
           "time_info": "[01时26分 ~ 06时15分]"
         },
         {
-          "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
-          "url": "https://wallstreetcn.com/articles/3771568",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 06时15分]"
-        },
-        {
           "title": "AMD给出的季度营收指引高于市场预期，得益于AI芯片需求保持强劲",
           "url": "https://wallstreetcn.com/livenews/3098957",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时14分]"
         },
         {
           "title": "分析师电话会：AMD预计公司第二季度CPU收入增长超过70%。预计到2030年，CPU市场年增长超过35%。由于内存和零部件成本上涨，公司预计下半年PC出货量将有所下降。数据中心现已成为推动营收和利润增长的主要动力。公司正与供应链合作伙伴“紧密合作”，以增加晶圆和后端生产能力。Meta芯片的出货预计将于下半年如期启动。",
           "url": "https://wallstreetcn.com/livenews/3098953",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时14分]"
         },
         {
           "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
@@ -400,13 +449,24 @@
           "time_info": "[05时20分 ~ 06时15分]"
         },
         {
+          "title": "苹果正考虑与英特尔和三星合作，为其生产主要设备芯片",
+          "url": "https://wallstreetcn.com/articles/3771570",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "AMD(AMD.O)：Meta芯片的出货预计将于下半年如期启动。",
           "url": "https://flash.jin10.com/detail/20260506051442353800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -424,6 +484,34 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美伊局势暂趋缓和，标普、纳指新高，半导体指数大涨4%，原油下挫",
+          "url": "https://wallstreetcn.com/articles/3771589",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "欧洲半导体概念股普遍收涨，德国爱思强股份涨6.97%，英飞凌涨6.50%，阿斯麦控股涨3.50%。",
+          "url": "https://wallstreetcn.com/livenews/3098864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
@@ -437,23 +525,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧洲半导体概念股普遍收涨，德国爱思强股份涨6.97%，英飞凌涨6.50%，阿斯麦控股涨3.50%。",
-          "url": "https://wallstreetcn.com/livenews/3098864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
         }
       ]
     },
