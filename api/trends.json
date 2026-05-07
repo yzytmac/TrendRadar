@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T20:23:52.224500+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-05-07T23:15:54.540501+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时52分 ~ 20时23分]"
+          "appearance_count": 9,
+          "time_info": "[06时52分 ~ 23时15分]"
         },
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -114,6 +114,17 @@
           "time_info": "13时49分"
         },
         {
+          "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "港股东方证券(03958.HK)跌超5%，公司A股今早复牌高开低走，现涨幅收窄至约2%。",
           "url": "https://flash.jin10.com/detail/20260507101608224800",
           "source": "金十数据",
@@ -161,6 +172,19 @@
           "time_info": "13时49分"
         },
         {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 23时15分]"
+        },
+        {
           "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
           "url": "https://wallstreetcn.com/livenews/3099560",
           "source": "华尔街见闻-快讯",
@@ -183,18 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时49分]"
-        },
-        {
-          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
-          "url": "https://wallstreetcn.com/articles/3771706",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 20时23分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -253,6 +265,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "A股总市值突破120万亿大关，创业板刷新逾10年新高，算力硬件再爆发，恒科指大涨3%，离岸人民币升破6.8",
+          "url": "https://wallstreetcn.com/articles/3771709",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2365305",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
@@ -528,12 +562,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "A股总市值已经突破120万亿元大关，创出历史新高",
+          "url": "https://wallstreetcn.com/livenews/3100049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -600,6 +645,21 @@
           "time_info": "[10时39分 ~ 20时23分]"
         },
         {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时49分 ~ 23时15分]"
+        },
+        {
           "title": "为什么特朗普“不得不”常买中国货",
           "url": "https://news.ifeng.com/c/8sugghRWW2t",
           "source": "凤凰网",
@@ -648,18 +708,15 @@
           "time_info": "[01时14分 ~ 07时49分]"
         },
         {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
+          "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            6,
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时49分 ~ 20时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "美国总统特朗普：针对伊朗的军事行动取得了令人难以置信的成果。",
@@ -671,6 +728,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
+          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
@@ -697,6 +765,18 @@
           "time_info": "[05时56分 ~ 07时49分]"
         },
         {
+          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
+          "url": "https://wallstreetcn.com/articles/3771704",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 23时15分]"
+        },
+        {
           "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
           "url": "https://flash.jin10.com/detail/20260507054528380800",
           "source": "金十数据",
@@ -718,6 +798,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时42分 ~ 18时43分]"
+        },
+        {
+          "title": "特朗普访华前瞻——台湾怎么办？",
+          "url": "https://news.ifeng.com/c/8swQYqpheqc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "特朗普乐观预测“一周内达成协议”，但美方提案里最关键的两条，伊朗还没接",
@@ -773,17 +864,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
-          "url": "https://wallstreetcn.com/articles/3771704",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
         },
         {
           "title": "以色列总理内塔尼亚胡：将在周三晚些时候与美国总统特朗普通话。",
@@ -990,7 +1070,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1053,8 +1133,19 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "纳斯达克综合指数（纳指）涨穿26000点，创盘中历史新高，当前涨幅超过0.6%，半导体指数跌幅收窄至不足0.7%。 纳斯达克100指数的成分股中，Datadog涨29.6%，Fortinet涨23.5%，Axon Enterprise涨11.1%，Zscaler涨8.2%，派拓网络、CrowdStrike涨6.6%，Palantir、特斯拉涨4%，英伟达涨2.5%，微软涨2.3%，新思科技、铿腾电子、Meta至少涨1.4%，闪迪、Strategy跌2.7%，Diamondback Energy跌3.9%，贝克休斯跌5%，Arm控股跌6.6%，Insmed跌15.8%。",
+          "url": "https://wallstreetcn.com/livenews/3100078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
         {
           "title": "产业趋势和自主可控共振，机构强力掘金半导体板块",
           "url": "https://wallstreetcn.com/livenews/3099597",
@@ -1079,6 +1170,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "全球芯片巨头集体上涨，三星电子股价涨超 14%，SK 海力士股价涨近 11%，这次半导体景气周期能持续多久？",
+          "url": "https://www.zhihu.com/question/2035641160987664939",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "上交所：景顺长城全球半导体芯片产业股票型证券投资基金（QDII-LOF）临时停牌",
           "url": "https://wallstreetcn.com/livenews/3099753",
           "source": "华尔街见闻-快讯",
@@ -1096,7 +1198,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1128,6 +1230,162 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美伊局势暂趋缓和，芯片股力挺标普纳指新高，原油下挫，盘后AMD大涨",
+          "url": "https://wallstreetcn.com/articles/3771589",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 07时49分]"
+        },
+        {
+          "title": "全球芯片巨头集体暴涨背后",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E9%9B%86%E4%BD%93%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            10,
+            22,
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 07时49分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指涨2.75%续创11年新高，算力芯片双龙总市值一度突破8000亿",
+          "url": "https://www.cls.cn/detail/2363886",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 07时49分]"
+        },
+        {
+          "title": "AMD电话会：服务器CPU市场增速将超35%，CPU比例推向1:1，预计下半年出货Meta芯片",
+          "url": "https://wallstreetcn.com/articles/3771601",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 07时49分]"
+        },
+        {
+          "title": "SpaceX估计芯片工厂耗资至少550亿美元",
+          "url": "https://wallstreetcn.com/livenews/3099590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时49分]"
+        },
+        {
+          "title": "芯片设计巨头Arm股价大幅跳水",
+          "url": "https://www.toutiao.com/trending/7637124257152942143/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "SpaceX成算力租赁巨头 Anthropic大手一挥包下Colossus 1全部容量",
+          "url": "https://www.cls.cn/detail/2364304",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 16时32分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨超1%续创近11年新高，全市场连续两日超百股涨停，算力硬件卷土重来",
+          "url": "https://www.cls.cn/detail/2364991",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 23时15分]"
+        },
+        {
+          "title": "创业板指涨幅扩大至1%，上证指数涨0.27%，深证成指涨0.74%。算力硬件、光伏、机器人等方向涨幅居前，沪深京三市上涨个股近3300只。",
+          "url": "https://wallstreetcn.com/livenews/3099761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
+          "url": "https://wallstreetcn.com/articles/3771688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "Anthropic与SpaceX达成算力协议，将接入Colossus 1数据中心",
+          "url": "https://flash.jin10.com/detail/20260507005134532800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "5月7日午间收评：创业板指探底回升涨近1%，算力硬件股再度爆发",
+          "url": "https://wallstreetcn.com/livenews/3099736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1260,139 +1518,6 @@
       ]
     },
     {
-      "keyword_group": "芯片",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美伊局势暂趋缓和，芯片股力挺标普纳指新高，原油下挫，盘后AMD大涨",
-          "url": "https://wallstreetcn.com/articles/3771589",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 07时49分]"
-        },
-        {
-          "title": "全球芯片巨头集体暴涨背后",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E9%9B%86%E4%BD%93%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            10,
-            22,
-            18,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 07时49分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指涨2.75%续创11年新高，算力芯片双龙总市值一度突破8000亿",
-          "url": "https://www.cls.cn/detail/2363886",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 07时49分]"
-        },
-        {
-          "title": "AMD电话会：服务器CPU市场增速将超35%，CPU比例推向1:1，预计下半年出货Meta芯片",
-          "url": "https://wallstreetcn.com/articles/3771601",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 07时49分]"
-        },
-        {
-          "title": "SpaceX估计芯片工厂耗资至少550亿美元",
-          "url": "https://wallstreetcn.com/livenews/3099590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "SpaceX成算力租赁巨头 Anthropic大手一挥包下Colossus 1全部容量",
-          "url": "https://www.cls.cn/detail/2364304",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 16时32分]"
-        },
-        {
-          "title": "【每日收评】创业板指涨超1%续创近11年新高，全市场连续两日超百股涨停，算力硬件卷土重来",
-          "url": "https://www.cls.cn/detail/2364991",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 20时23分]"
-        },
-        {
-          "title": "创业板指涨幅扩大至1%，上证指数涨0.27%，深证成指涨0.74%。算力硬件、光伏、机器人等方向涨幅居前，沪深京三市上涨个股近3300只。",
-          "url": "https://wallstreetcn.com/livenews/3099761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
-          "title": "Anthropic与SpaceX达成算力协议，将接入Colossus 1数据中心",
-          "url": "https://flash.jin10.com/detail/20260507005134532800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "5月7日午间收评：创业板指探底回升涨近1%，算力硬件股再度爆发",
-          "url": "https://wallstreetcn.com/livenews/3099736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储",
       "match_count": 2,
       "titles": [
@@ -1449,7 +1574,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         }
