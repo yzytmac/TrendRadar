@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-07T16:32:27.162536+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-05-07T18:43:06.879276+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时52分 ~ 18时43分]"
+        },
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
           "url": "https://www.cls.cn/detail/2363932",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时14分 ~ 16时32分]"
-        },
-        {
-          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3771614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时52分 ~ 16时32分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -159,6 +159,19 @@
           "time_info": "[04时47分 ~ 05时56分]"
         },
         {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 18时43分]"
+        },
+        {
           "title": "机构调研摸底A股公司二季度经营，一批公司报喜订单及产能情况",
           "url": "https://wallstreetcn.com/livenews/3099599",
           "source": "华尔街见闻-快讯",
@@ -184,16 +197,15 @@
           "time_info": "[01时14分 ~ 06时52分]"
         },
         {
-          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
-          "url": "https://wallstreetcn.com/articles/3771684",
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 16时32分]"
+          "time_info": "[18时42分 ~ 18时43分]"
         },
         {
           "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
@@ -236,7 +248,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -258,7 +270,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -280,7 +292,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -379,7 +391,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -511,7 +523,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
@@ -519,7 +531,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -563,6 +575,17 @@
           "time_info": "[07时49分 ~ 16时32分]"
         },
         {
+          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
+          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 18时43分]"
+        },
+        {
           "title": "为什么特朗普“不得不”常买中国货",
           "url": "https://news.ifeng.com/c/8sugghRWW2t",
           "source": "凤凰网",
@@ -573,6 +596,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 07时49分]"
+        },
+        {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 18时43分]"
         },
         {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
@@ -611,17 +646,6 @@
           "time_info": "[01时14分 ~ 07时49分]"
         },
         {
-          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
-          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
           "title": "美国总统特朗普：针对伊朗的军事行动取得了令人难以置信的成果。",
           "url": "https://flash.jin10.com/detail/20260507010132533800",
           "source": "金十数据",
@@ -633,16 +657,28 @@
           "time_info": "01时14分"
         },
         {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
-          "source": "凤凰网",
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            5
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 18时43分]"
+        },
+        {
+          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
+          "url": "https://www.zhihu.com/question/2035667399110653049",
+          "source": "知乎",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时39分 ~ 16时32分]"
+          "time_info": "[16时32分 ~ 18时43分]"
         },
         {
           "title": "特朗普称暂停自由计划行动",
@@ -658,18 +694,6 @@
           "time_info": "[05时56分 ~ 07时49分]"
         },
         {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 16时32分]"
-        },
-        {
           "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
           "url": "https://flash.jin10.com/detail/20260507054528380800",
           "source": "金十数据",
@@ -680,6 +704,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时49分]"
+        },
+        {
+          "title": "特朗普盟友访华对中美关系有何影响",
+          "url": "https://www.toutiao.com/trending/7636787672865833002/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
         },
         {
           "title": "特朗普乐观预测“一周内达成协议”，但美方提案里最关键的两条，伊朗还没接",
@@ -704,6 +739,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-07）",
+          "url": "https://flash.jin10.com/detail/20260507182119393800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "据福克斯新闻，美国总统特朗普对与伊朗问题的框架持乐观态度。在被问及对伊朗行动时间表时，特朗普回应称“一周”。 标普500指数目前涨超1.2%，道指涨572点、涨幅1.1%，纳指涨1.7%。",
           "url": "https://wallstreetcn.com/livenews/3099521",
           "source": "华尔街见闻-快讯",
@@ -713,17 +759,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        },
-        {
-          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
-          "url": "https://www.zhihu.com/question/2035667399110653049",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）正在与真心想达成协议的人打交道。",
@@ -880,6 +915,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "市场消息：美国总统特朗普在明尼阿波利斯的移民突击行动，严重拖慢了美国其他刑事起诉案件的进程。",
+          "url": "https://flash.jin10.com/detail/20260507180038509800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "特朗普对美伊达成协议再表乐观 同时威胁轰炸",
           "url": "https://wallstreetcn.com/livenews/3099505",
           "source": "华尔街见闻-快讯",
@@ -930,7 +976,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -1249,7 +1295,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "SpaceX成算力租赁巨头 Anthropic大手一挥包下Colossus 1全部容量",
@@ -1262,6 +1308,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时39分 ~ 16时32分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨超1%续创近11年新高，全市场连续两日超百股涨停，算力硬件卷土重来",
+          "url": "https://www.cls.cn/detail/2364991",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
         },
         {
           "title": "创业板指涨幅扩大至1%，上证指数涨0.27%，深证成指涨0.74%。算力硬件、光伏、机器人等方向涨幅居前，沪深京三市上涨个股近3300只。",
@@ -1300,8 +1357,19 @@
     },
     {
       "keyword_group": "存储",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "为什么存储原厂都不急着扩产？",
+          "url": "https://wallstreetcn.com/articles/3771676",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
+        },
         {
           "title": "存储涨价预期持续升温，歌尔股份回应影响",
           "url": "https://wallstreetcn.com/livenews/3099751",
@@ -1312,6 +1380,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光模块",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芯朋微：已与光模块头部客户合作开发光模块专用电源产品系列",
+          "url": "https://flash.jin10.com/detail/20260507182309559800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         }
       ]
     },
@@ -1343,7 +1428,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
