@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T07:49:51.375666+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-05-07T10:39:48.389189+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -13,11 +13,27 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 10时39分]"
+        },
+        {
+          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            6,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时14分 ~ 07时49分]"
+          "time_info": "[03时02分 ~ 10时39分]"
         },
         {
           "title": "为什么特朗普“不得不”常买中国货",
@@ -30,20 +46,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 07时49分]"
-        },
-        {
-          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时02分 ~ 07时49分]"
         },
         {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
@@ -71,6 +73,18 @@
           "time_info": "[01时14分 ~ 07时49分]"
         },
         {
+          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
+          "url": "https://www.cls.cn/detail/2364367",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 10时39分]"
+        },
+        {
           "title": "美国总统特朗普：针对伊朗的军事行动取得了令人难以置信的成果。",
           "url": "https://flash.jin10.com/detail/20260507010132533800",
           "source": "金十数据",
@@ -80,17 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
-          "url": "https://www.cls.cn/detail/2364367",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
         },
         {
           "title": "特朗普称暂停自由计划行动",
@@ -118,13 +121,24 @@
           "time_info": "[06时52分 ~ 07时49分]"
         },
         {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "特朗普乐观预测“一周内达成协议”，但美方提案里最关键的两条，伊朗还没接",
           "url": "https://flash.jin10.com/detail/20260507071550570800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -327,6 +341,17 @@
           "time_info": "04时47分"
         },
         {
+          "title": "为什么特朗普“不得不”常买中国货",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E4%B8%8D%E5%BE%97%E4%B8%8D%E2%80%9D%E5%B8%B8%E4%B9%B0%E4%B8%AD%E5%9B%BD%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "美国总统特朗普：美国在太空领域遥遥领先。",
           "url": "https://flash.jin10.com/detail/20260507013104665800",
           "source": "金十数据",
@@ -374,7 +399,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 18,
+      "match_count": 26,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -409,8 +434,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 10时39分]"
         },
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -420,8 +445,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时49分]"
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 10时39分]"
+        },
+        {
+          "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2364164",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 10时39分]"
         },
         {
           "title": "Snap收涨0.33%，美股盘后跌9.17%。",
@@ -430,21 +468,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
         {
-          "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2364164",
+          "title": "港股东方证券(03958.HK)跌超5%，公司A股今早复牌高开低走，现涨幅收窄至约2%。",
+          "url": "https://flash.jin10.com/detail/20260507101608224800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
+          "url": "https://www.cls.cn/detail/2364348",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时52分]"
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 10时39分]"
         },
         {
           "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
@@ -496,15 +545,26 @@
           "time_info": "[05时56分 ~ 06时52分]"
         },
         {
-          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
-          "url": "https://www.cls.cn/detail/2364348",
-          "source": "财联社热门",
+          "title": "A股PCB概念板块震荡走强，合力泰两连板，山东玻纤封板涨停，同宇新材、兴森科技、大族激光、宏和科技、东材科技、日联科技、埃科光电、乔锋智能、科翔股份盘中创新高。",
+          "url": "https://flash.jin10.com/detail/20260507100727254800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时49分"
+          "time_info": "10时39分"
+        },
+        {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
@@ -516,6 +576,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "A股盐湖提锂板块震荡回调，大中矿业逼近跌停，融捷股份、国城矿业、西藏珠峰、天华新能跌超5%，盐湖股份、亿纬锂能等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260507100432436800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "A股房地产板块反复活跃，衢州发展封板涨停，万通发展、合肥城建、黑牡丹、招商蛇口、首开股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507095715961800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "A股工业母机板块异动拉升，华中数控涨超18%，恒进感应直线拉升涨超12%，宇环数控、巨轮智能封板涨停，南兴股份触及涨停，大族激光涨超9%，巨能股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507095631934800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
@@ -538,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "A股PEEK材料板块异动拉升，中欣氟材直线涨停，百合花、中研股份、新瀚新材、华密新材、横河精密跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507095300001800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "高意公司/相干公司（Coherent Corp.）第三财季营收18.06亿美元，IBES预期17.80亿美元。 第三财季整后营业收入3.66亿美元，IBES预期3.723亿美元。 第三财季调整后每股收益（EPS）为1.41美元，IBES预期1.40美元。 第三财季调整后净利润2.76亿美元，IBES预期2.722亿美元。 预计第四财季营收19.1亿-20.5亿美元，预计调整后EPS为1.52-1.72美元。 相干公司（COHR）美股盘后跌6.68%。",
@@ -582,6 +686,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "A股人形机器人概念板块震荡上升，盛视科技、泰晶科技封板涨停，信质集团、凯龙高科、斯菱智驱、高测股份、天准科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507094759038800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         }
       ]
     },
@@ -688,7 +803,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -758,7 +873,7 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【数据看盘】科创50ETF连续三周份额大减 超20亿元资金抢筹江波龙",
@@ -783,13 +898,35 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时46分 ~ 05时56分]"
+        },
+        {
+          "title": "上证指数开盘报4168.45点，涨0.20%。 深证成指开盘报15541.30点，涨0.53%。 创业板指开盘报3807.99点，涨0.79%。 沪深300开盘报4895.80点，涨0.38%。 科创50开盘报1663.16点，涨0.37%。 中证500开盘报8637.84点，涨0.58%。 中证1000开盘报8602.15点，涨0.32%。",
+          "url": "https://wallstreetcn.com/livenews/3099661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         }
       ]
     },
     {
       "keyword_group": "算力",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "SpaceX成算力租赁巨头 Anthropic大手一挥包下Colossus 1全部容量",
+          "url": "https://www.cls.cn/detail/2364304",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
         {
           "title": "Anthropic与SpaceX达成算力协议，将接入Colossus 1数据中心",
           "url": "https://flash.jin10.com/detail/20260507005134532800",
@@ -800,6 +937,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "立讯精密",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "立讯精密：AI端侧的产品百花齐放 但还没看到千万级的大批量机会",
+          "url": "https://wallstreetcn.com/livenews/3099656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         }
       ]
     }
