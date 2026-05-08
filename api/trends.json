@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T19:12:42.588562+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-05-08T20:20:12.950401+08:00",
+  "total_titles_processed": 1587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 66,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -55,6 +55,44 @@
           "time_info": "[01时05分 ~ 05时31分]"
         },
         {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 20时20分]"
+        },
+        {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://www.cls.cn/detail/2366051",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 20时20分]"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时35分 ~ 20时20分]"
+        },
+        {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
           "url": "https://wallstreetcn.com/articles/3771704",
           "source": "华尔街见闻",
@@ -67,27 +105,15 @@
           "time_info": "[01时05分 ~ 07时36分]"
         },
         {
-          "title": "中方回应何时发布特朗普访华消息",
-          "url": "https://www.toutiao.com/trending/7637034985857810475/",
-          "source": "今日头条",
+          "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
+          "url": "https://news.ifeng.com/c/8sxspkZXRqe",
+          "source": "凤凰网",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时53分 ~ 19时12分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
-          "url": "https://www.cls.cn/detail/2366051",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 19时12分]"
+          "time_info": "[20时19分 ~ 20时20分]"
         },
         {
           "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
@@ -96,19 +122,6 @@
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 19时12分]"
-        },
-        {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            11
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -171,6 +184,18 @@
           "time_info": "[12时35分 ~ 17时53分]"
         },
         {
+          "title": "中美双方就特朗普访华保持沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时08分 ~ 20时20分]"
+        },
+        {
           "title": "特朗普会见巴西总统卢拉讨论关税等问题",
           "url": "https://flash.jin10.com/detail/20260508060306052800",
           "source": "金十数据",
@@ -204,18 +229,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时05分 ~ 02时59分]"
-        },
-        {
-          "title": "中美双方就特朗普访华保持沟通",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时08分 ~ 19时12分]"
         },
         {
           "title": "黄仁勋：若受邀，将随特朗普一同访问中国",
@@ -253,6 +266,17 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
+          "title": "卢拉：和特朗普见面就像“一见钟情”，希望保持下去",
+          "url": "https://v.ifeng.com/c/8svJjy07D4M",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 20时20分]"
+        },
+        {
           "title": "美国贸易法庭的裁决并未全面阻止特朗普10%的关税，仅针对两家提起诉讼的公司。",
           "url": "https://flash.jin10.com/detail/20260508054706756800",
           "source": "金十数据",
@@ -274,6 +298,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 12时36分]"
+        },
+        {
+          "title": "美国贸易法院裁定特朗普10%全球关税无效",
+          "url": "https://wallstreetcn.com/articles/3771788",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 20时20分]"
         },
         {
           "title": "局势升级！美伊在霍尔木兹交火 特朗普：停火仍有效，只是“轻微敲打”",
@@ -619,6 +654,17 @@
           "time_info": "09时26分"
         },
         {
+          "title": "德国副总理：德国将推动建立新的联盟以对抗特朗普。 德国和欧盟必须防范“勒索”。 欧盟应进一步与英国和加拿大开展合作。",
+          "url": "https://wallstreetcn.com/livenews/3100672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
           "url": "https://m.thepaper.cn/newsDetail_forward_33120591",
           "source": "澎湃新闻",
@@ -702,7 +748,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
@@ -721,8 +767,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时25分 ~ 19时12分]"
+          "appearance_count": 10,
+          "time_info": "[09时25分 ~ 20时20分]"
         },
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -974,7 +1020,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1029,7 +1075,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1202,7 +1248,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1224,7 +1270,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1235,7 +1281,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1246,7 +1292,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1268,7 +1314,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
@@ -1332,11 +1378,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 20时20分]"
         },
         {
           "title": "为确保芯片供应，科技巨头们抛出空前橄榄枝：对SK海力士“围追堵截”",
@@ -1379,7 +1426,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
@@ -1433,7 +1480,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1505,6 +1552,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "解散xAI ，马斯克和Anthropic都赢麻了",
+          "url": "https://wallstreetcn.com/articles/3771763",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 20时20分]"
+        },
+        {
           "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
           "url": "https://www.zhihu.com/question/2035662942067225907",
           "source": "知乎",
@@ -1514,17 +1572,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时35分 ~ 14时22分]"
-        },
-        {
-          "title": "解散xAI ，马斯克和Anthropic都赢麻了",
-          "url": "https://wallstreetcn.com/articles/3771763",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
         }
       ]
     },
@@ -1581,8 +1628,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 20时20分]"
         }
       ]
     },
