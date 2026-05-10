@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T18:13:37.637719+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-05-10T19:16:21.692195+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -38,6 +38,18 @@
           "time_info": "[00时36分 ~ 07时05分]"
         },
         {
+          "title": "特朗普还有一场硬仗",
+          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时05分 ~ 19时16分]"
+        },
+        {
           "title": "意媒：特朗普“仍在考虑”调整驻意美军",
           "url": "https://wallstreetcn.com/livenews/3101087",
           "source": "华尔街见闻-快讯",
@@ -53,16 +65,15 @@
           "time_info": "[05时24分 ~ 16时53分]"
         },
         {
-          "title": "特朗普还有一场硬仗",
-          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
+          "url": "https://flash.jin10.com/detail/20260510184554353800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时05分 ~ 18时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
@@ -152,6 +163,17 @@
           "time_info": "[02时39分 ~ 03时46分]"
         },
         {
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
+          "url": "https://flash.jin10.com/detail/20260510182305585800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "英媒：在与特朗普产生摩擦后 德国正计划重启采购“战斧”导弹的努力",
           "url": "https://flash.jin10.com/detail/20260510122534394800",
           "source": "金十数据",
@@ -226,11 +248,12 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时47分 ~ 18时13分]"
+          "appearance_count": 5,
+          "time_info": "[14时47分 ~ 19时16分]"
         },
         {
           "title": "谁是A股核心主线",
@@ -284,7 +307,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "编造芯片订单虚假信息，获利不足300元，2人被罚45万",
@@ -295,8 +318,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 18时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 19时16分]"
         },
         {
           "title": "国安部：某手机芯片厂漏洞被不法分子利用",
@@ -326,6 +349,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 07时05分]"
+        },
+        {
+          "title": "芯片股狂潮，还在加速",
+          "url": "https://wallstreetcn.com/articles/3771924",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "苹果被曝支付巨额溢价以确保 A18 Pro 芯片的供应，反映了哪些问题？成本会转嫁给用户吗？",
+          "url": "https://www.zhihu.com/question/2035848170890948934",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
@@ -345,8 +390,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 18时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 19时16分]"
         },
         {
           "title": "国常会：加强水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等规划建设",
@@ -371,8 +416,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 19时16分]"
         }
       ]
     },
@@ -390,8 +435,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 18时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 19时16分]"
         },
         {
           "title": "中瓷电子：静电卡盘产品已通过国内头部半导体设备公司上机验证",
