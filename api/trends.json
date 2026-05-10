@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T08:04:58.868338+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-05-10T12:15:59.359313+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 08时04分]"
+          "appearance_count": 5,
+          "time_info": "[05时24分 ~ 12时15分]"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
@@ -105,11 +106,12 @@
           "url": "https://news.ifeng.com/c/8szUPi5xnTB",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时05分 ~ 08时04分]"
+          "appearance_count": 3,
+          "time_info": "[07时05分 ~ 12时15分]"
         },
         {
           "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
@@ -151,7 +153,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
@@ -229,6 +231,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时36分 ~ 06时07分]"
+        },
+        {
+          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
+          "url": "https://wallstreetcn.com/articles/3771884",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     },
@@ -245,8 +258,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 08时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 12时15分]"
         },
         {
           "title": "国安部：某手机芯片厂漏洞被不法分子利用",
@@ -293,8 +306,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 08时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 12时15分]"
         },
         {
           "title": "中瓷电子：静电卡盘产品已通过国内头部半导体设备公司上机验证",
@@ -325,8 +338,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 08时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 12时15分]"
         },
         {
           "title": "国常会：加强水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等规划建设",
@@ -360,6 +373,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时36分 ~ 08时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海科创基金总裁杨斌：人工智能带来的不仅是技术层面的迭代 而是生产要素的革命性重构",
+          "url": "https://flash.jin10.com/detail/20260510114605762800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     }
