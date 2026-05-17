@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T12:32:51.500287+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-05-17T15:28:22.580660+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 12时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时28分]"
         },
         {
           "title": "特朗普警告台独",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 12时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时28分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -62,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 12时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时28分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -72,11 +73,12 @@
           "ranks": [
             12,
             16,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 12时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时28分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
@@ -114,8 +116,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 12时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时28分]"
         },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -124,9 +126,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时28分]"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
@@ -143,17 +145,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时33分 ~ 08时09分]"
-        },
-        {
-          "title": "台舆论称特朗普不许台独视美为靠山",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%88%86%E8%AE%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%AE%B8%E5%8F%B0%E7%8B%AC%E8%A7%86%E7%BE%8E%E4%B8%BA%E9%9D%A0%E5%B1%B1%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
         },
         {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
@@ -184,6 +175,18 @@
           "time_info": "[05时26分 ~ 08时09分]"
         },
         {
+          "title": "台舆论称特朗普不许台独视美为靠山",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%88%86%E8%AE%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%AE%B8%E5%8F%B0%E7%8B%AC%E8%A7%86%E7%BE%8E%E4%B8%BA%E9%9D%A0%E5%B1%B1%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时28分]"
+        },
+        {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
           "url": "https://flash.jin10.com/detail/20260517002136992800",
           "source": "金十数据",
@@ -208,6 +211,29 @@
           "time_info": "[08时08分 ~ 12时32分]"
         },
         {
+          "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
+          "url": "https://wallstreetcn.com/livenews/3104824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时28分]"
+        },
+        {
+          "title": "特朗普访华后续观察",
+          "url": "https://www.douyin.com/hot/2502108",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
           "url": "https://flash.jin10.com/detail/20260516214439239800",
           "source": "金十数据",
@@ -219,15 +245,15 @@
           "time_info": "00时09分"
         },
         {
-          "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
-          "url": "https://wallstreetcn.com/livenews/3104824",
-          "source": "华尔街见闻-快讯",
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时32分"
+          "time_info": "15时28分"
         },
         {
           "title": "美国总统特朗普：《拯救美国法案》现在就必须通过，要利用住房法案和《外国情报监控法》来推动它。",
@@ -247,9 +273,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "特朗普结束访华回国途中，高市早苗迫不及待通电话",
+          "url": "https://flash.jin10.com/detail/20260517131605700800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "特朗普政敌参议员在共和党初选中落败",
@@ -258,7 +295,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -269,7 +306,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -280,7 +317,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -291,7 +328,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -322,20 +359,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 12时32分]"
-        },
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 12时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时28分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
@@ -347,6 +372,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时09分 ~ 07时09分]"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时28分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -376,8 +414,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 12时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时28分]"
         },
         {
           "title": "下周A股将有53家公司有限售股份解禁，总解禁市值达591.05亿元",
@@ -411,28 +449,30 @@
           "url": "https://www.cls.cn/detail/2373249",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时28分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
           "url": "https://wallstreetcn.com/articles/3772431",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时28分]"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -444,8 +484,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 12时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时28分]"
         },
         {
           "title": "荷兰首相：阿斯麦(ASML.O)和塔塔电子也共同签署了一份声明，这是在半导体领域更紧密合作的重要一步。",
@@ -463,15 +503,27 @@
           "time_info": "[04时29分 ~ 08时09分]"
         },
         {
+          "title": "韩国将投入超1亿美元扶持中小企业 覆盖半导体产业",
+          "url": "https://wallstreetcn.com/livenews/3104845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
           "url": "https://www.cls.cn/detail/2373269",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时28分]"
         },
         {
           "title": "光力科技：长期来看公司半导体业务毛利率将会得到提升",
@@ -480,9 +532,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "韩国总理：三星半导体工厂停工一天损失将高达1万亿韩元",
+          "url": "https://flash.jin10.com/detail/20260517124248424800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
@@ -500,8 +563,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 12时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时28分]"
         },
         {
           "title": "阿斯麦与塔塔电子达成合作，推进印度芯片计划",
@@ -510,11 +573,12 @@
           "ranks": [
             4,
             6,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时33分 ~ 12时32分]"
+          "appearance_count": 8,
+          "time_info": "[03时33分 ~ 15时28分]"
         },
         {
           "title": "阿斯麦与塔塔电子合作推进印度芯片计划",
@@ -532,6 +596,46 @@
       ]
     },
     {
+      "keyword_group": "算力",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "算力版国家电网要来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AE%97%E5%8A%9B%E7%89%88%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时09分 ~ 08时09分]"
+        },
+        {
+          "title": "AI算力产业链正批量“造富”",
+          "url": "https://www.toutiao.com/trending/7640154327398793259/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "算力网要来了！",
+          "url": "https://wallstreetcn.com/articles/3772436",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "摩尔线程",
       "match_count": 2,
       "titles": [
@@ -540,11 +644,12 @@
           "url": "https://wallstreetcn.com/livenews/3104831",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时28分]"
         },
         {
           "title": "摩尔线程与国家具身智能应用中试基地签署战略合作协议",
@@ -553,7 +658,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
@@ -594,24 +699,6 @@
       ]
     },
     {
-      "keyword_group": "算力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "算力版国家电网要来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%AE%97%E5%8A%9B%E7%89%88%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时09分 ~ 08时09分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "中际旭创",
       "match_count": 1,
       "titles": [
@@ -621,11 +708,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 12时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时28分]"
         }
       ]
     },
