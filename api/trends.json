@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T08:11:30.272849+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-05-18T12:42:24.978599+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             15,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 08时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 12时42分]"
         },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -36,6 +37,29 @@
           "time_info": "[00时58分 ~ 07时11分]"
         },
         {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 12时42分]"
+        },
+        {
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 12时42分]"
+        },
+        {
           "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
           "url": "https://wallstreetcn.com/livenews/3104904",
           "source": "华尔街见闻-快讯",
@@ -46,17 +70,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时13分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普威胁伊朗，又开始倒计时了",
-          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
         },
         {
           "title": "特朗普访华后续观察",
@@ -71,15 +84,26 @@
           "time_info": "[00时58分 ~ 05时10分]"
         },
         {
-          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
-          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
+          "url": "https://news.ifeng.com/c/8tDhN597aTX",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时11分"
+          "time_info": "12时42分"
         },
         {
           "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
@@ -260,7 +284,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -274,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "特朗普称「伊斯兰国」二号头目被「清除」，可信度如何？可能带来什么影响？",
+          "url": "https://www.zhihu.com/question/2038948707844846917",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "据AXIOS：两名美国官员透露，美国总统特朗普预计将于周二在战情室与他的高级国家安全团队举行会议，讨论（伊朗）军事行动的选项。",
@@ -318,6 +353,137 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 a股 港股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2373180",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 08时11分]"
+        },
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 08时11分]"
+        },
+        {
+          "title": "港股午评：恒指半日跌逾1% 芯片股逆势造好",
+          "url": "https://flash.jin10.com/detail/20260518120811012800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "上市未“满月”成为A股“新股王”，联讯仪器回应",
+          "url": "https://wallstreetcn.com/livenews/3105103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038737314017432936",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时08分 ~ 08时11分]"
+        },
+        {
+          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2373172",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "联讯仪器反超茅台成为A股“新股王”",
+          "url": "https://www.baidu.com/s?wd=%E8%81%94%E8%AE%AF%E4%BB%AA%E5%99%A8%E5%8F%8D%E8%B6%85%E8%8C%85%E5%8F%B0%E6%88%90%E4%B8%BAA%E8%82%A1%E2%80%9C%E6%96%B0%E8%82%A1%E7%8E%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260518060027813800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "A股午评：三大股指震荡盘整 存储芯片板块领涨大盘",
+          "url": "https://flash.jin10.com/detail/20260518113454558800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "机构：A股将再起夏季攻势行情",
+          "url": "https://www.toutiao.com/trending/7640642770335547419/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
@@ -367,7 +533,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -378,7 +544,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -396,84 +562,84 @@
       ]
     },
     {
-      "keyword_group": "美股 a股 港股",
+      "keyword_group": "半导体",
       "match_count": 5,
       "titles": [
         {
-          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2373180",
+          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
+          "url": "https://www.cls.cn/detail/2373269",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时58分 ~ 08时11分]"
         },
         {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
           "source": "财联社热门",
           "ranks": [
-            8,
-            9
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时58分 ~ 08时11分]"
         },
         {
-          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2038737314017432936",
-          "source": "知乎",
+          "title": "中韩半导体ETF华泰柏瑞二级市场出现较大幅度溢价，将于2026年5月18日开市起至当日10:30停牌。",
+          "url": "https://wallstreetcn.com/livenews/3104876",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            14,
-            13
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时08分 ~ 08时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时22分]"
         },
         {
-          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
-          "url": "https://www.cls.cn/detail/2373172",
+          "title": "国产存储龙头恢复上市审核进程 半导体设备材料迎投资机遇",
+          "url": "https://www.cls.cn/detail/2373553",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时11分"
+          "time_info": "12时42分"
         },
         {
-          "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260518060027813800",
+          "title": "金十图示：2026年05月18日（周一）富时中国A50指数成分股午盘收盘行情一览：整体盘面偏弱势，半导体板块逆势走高",
+          "url": "https://flash.jin10.com/detail/20260518113338452800",
           "source": "金十数据",
           "ranks": [
-            17
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "12时42分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
           "url": "https://wallstreetcn.com/articles/3772446",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 08时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 12时42分]"
         },
         {
           "title": "全球最大对冲基金调仓大动作：大举加仓芯片 全面清仓软件股",
@@ -511,54 +677,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
-          "url": "https://www.cls.cn/detail/2373269",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 08时11分]"
         },
         {
-          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
-          "url": "https://www.cls.cn/detail/2373131",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 08时11分]"
-        },
-        {
-          "title": "中韩半导体ETF华泰柏瑞二级市场出现较大幅度溢价，将于2026年5月18日开市起至当日10:30停牌。",
-          "url": "https://wallstreetcn.com/livenews/3104876",
+          "title": "5月18日午间收评：创业板指冲高回落跌0.5%，存储芯片板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3105093",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            23
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
     {
       "keyword_group": "存储",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国存储巨头重启IPO",
@@ -586,6 +721,73 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时58分 ~ 03时22分]"
+        },
+        {
+          "title": "不光存储！光通信成AI交易热门主题 标普500今年十大牛股占三席",
+          "url": "https://www.cls.cn/detail/2373700",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "提前盈利！长鑫科技更新科创板IPO招股书 存储行情推动Q1业绩“狂飙”",
+          "url": "https://www.cls.cn/detail/2373552",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "上证指数早盘收报4126.35点，跌0.22%。 深证成指早盘收报15513.13点，跌0.31%。 创业板指早盘收报3909.26点，跌0.50%。 沪深300早盘收报4826.19点，跌0.69%。 科创50早盘收报1712.79点，涨0.97%。 中证500早盘收报8554.27点，涨0.21%。 中证1000早盘收报8715.43点，涨0.38%。",
+          "url": "https://wallstreetcn.com/livenews/3105094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "5月18日投资避雷针：涉嫌信息披露误导性陈述 这只商业航天人气股被证监会立案",
+          "url": "https://www.cls.cn/detail/2373593",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "演员杨子家族旗下公司巨力索具被立案调查，此前称累计获上千万元商业航天订单，会有何影响？涉嫌误导投资吗？",
+          "url": "https://www.zhihu.com/question/2038933502192612725",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
@@ -623,6 +825,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 03时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯联集成",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阳光电源、芯联集成等成立新公司 含AI及机器人业务",
+          "url": "https://wallstreetcn.com/livenews/3105086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
