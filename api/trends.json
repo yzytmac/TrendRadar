@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T04:14:25.116024+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-05-20T05:48:52.386973+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时48分]"
+        },
+        {
+          "title": "美国总统特朗普：呼吁国会山出台铁路安全法案（立法草案）。",
+          "url": "https://wallstreetcn.com/livenews/3106268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "美国副总统万斯：刚刚与总统特朗普讨论了伊朗问题。 （美国）与伊朗的关系有两条路可以走。 B计划就是恢复军事袭击伊朗，特朗普不希望对伊朗采取备用计划。 特朗普要求我们与伊朗积极谈判，认为我们与伊朗取得了很大的进展。 希望（只有）少数国家拥有核武器。 伊朗不可以拥有核武器，必须同意不重建核武器。 无法说我们“对于将与伊朗达成一份协议”有信心。",
@@ -28,6 +39,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "白宫：美国总统特朗普今天签署关于银行业的命令。",
+          "url": "https://wallstreetcn.com/livenews/3106266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
+          "url": "https://news.ifeng.com/c/8tG27n1FK2V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时48分]"
         },
         {
           "title": "对标“特朗普金卡”？英国考虑推出“邀请制”投资签证，最低门槛500万英镑",
@@ -42,17 +75,6 @@
           "time_info": "[00时41分 ~ 02时27分]"
         },
         {
-          "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
-          "url": "https://news.ifeng.com/c/8tG27n1FK2V",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时14分]"
-        },
-        {
           "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
           "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
           "source": "凤凰网",
@@ -60,20 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时14分]"
-        },
-        {
-          "title": "赖清德暗怼特朗普后心虚了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%96%E6%B8%85%E5%BE%B7%E6%9A%97%E6%80%BC%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8E%E5%BF%83%E8%99%9A%E4%BA%86%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时48分]"
         },
         {
           "title": "为何特朗普抛涉台“四不”说法",
@@ -82,6 +92,18 @@
           "ranks": [
             28,
             23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 05时48分]"
+        },
+        {
+          "title": "赖清德暗怼特朗普后心虚了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%96%E6%B8%85%E5%BE%B7%E6%9A%97%E6%80%BC%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8E%E5%BF%83%E8%99%9A%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -121,13 +143,35 @@
           "time_info": "00时41分"
         },
         {
+          "title": "特朗普政府拟缩减北约危机响应部队 要求欧洲接棒安全主导权",
+          "url": "https://flash.jin10.com/detail/20260520042923533800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：特朗普放弃要求银行收集公民身份信息的计划。",
+          "url": "https://flash.jin10.com/detail/20260520042843664800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
           "title": "美国副总统万斯：无论总统特朗普作何决定，伊朗战争都不可能永远持续下去。",
           "url": "https://wallstreetcn.com/livenews/3106207",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -152,12 +196,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "科学家弃用最糟气候情景预测，引发特朗普发文嘲讽",
+          "url": "https://wallstreetcn.com/livenews/3106241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -167,8 +222,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时48分]"
         },
         {
           "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
@@ -178,8 +233,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时48分]"
+        },
+        {
+          "title": "周二（5月19日），美股存储芯片与硬件供应链指数涨0.62%，报173.64点，美股早盘呈现出V形反转行情。 成分股闪迪收涨3.77%，美光科技涨2.52%，泰瑞达涨0.15%，西部数据则收跌0.63%，希捷科技、Rambus、应用材料、拉姆研究跌1.01%-1.65%。",
+          "url": "https://wallstreetcn.com/livenews/3106270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "美股收盘：三大股指收跌 高通跌近4%",
@@ -188,9 +254,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（5月19日），美国科技股七巨头（Magnificent 7）指数跌1.16%，报223.24点。 “超大”市值科技股指数跌1.50%，报440.54点。",
+          "url": "https://wallstreetcn.com/livenews/3106269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股盘中）",
@@ -222,8 +299,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时48分]"
         },
         {
           "title": "华尔街警告：美股“黄金时代”结束",
@@ -239,6 +316,17 @@
           "time_info": "[00时41分 ~ 04时14分]"
         },
         {
+          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
+          "url": "https://wallstreetcn.com/articles/3772622",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 05时48分]"
+        },
+        {
           "title": "美股开盘：西部数据、闪迪跌超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E3%80%81%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%853%25",
           "source": "百度热搜",
@@ -251,21 +339,76 @@
           "time_info": "[00时41分 ~ 02时27分]"
         },
         {
-          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
-          "url": "https://wallstreetcn.com/articles/3772622",
-          "source": "华尔街见闻",
+          "title": "AMC院线美股盘后涨6%，该公司CEO买入股票。",
+          "url": "https://wallstreetcn.com/livenews/3106254",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时27分"
+          "time_info": "05时48分"
+        },
+        {
+          "title": "黄金ETF收跌超1.6%，领跌美股大类资产类ETF，布油基金涨2%",
+          "url": "https://wallstreetcn.com/livenews/3106248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "周二（5月19日），美股行业ETF多数收跌，航空业ETF收跌2.90%，金融业ETF、网络股指数ETF、可选消费ETF跌1.11%，半导体ETF跌0.4%，医疗业ETF涨1.1%，能源业ETF涨1.17%。",
+          "url": "https://wallstreetcn.com/livenews/3106247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260520040952291800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "金十图示：2026年05月19日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260520040951743800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3106240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "一文看懂：三星将爆发芯片史上最大规模罢工 三重冲击风暴即将形成？",
@@ -275,8 +418,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时48分]"
         },
         {
           "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
@@ -287,8 +430,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时48分]"
         },
         {
           "title": "突发！900亿芯片股遭国家大基金减持|盘后公告集锦",
@@ -299,8 +442,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时48分]"
+        },
+        {
+          "title": "5月19日，MSCI新兴市场货币指数下跌0.3%，巴西雷亚尔和韩元表现最为差劲，跌幅均达1%左右。 作为同胞指数的MSCI新兴市场股票指数重挫1.45%，最近三天的累计跌幅扩大至4.5%以上，创2026年3月底以来最大的三日连续跌幅。周二领跌的权重股包括首尔上市的存储芯片巨头SK海力士、台积电。",
+          "url": "https://wallstreetcn.com/livenews/3106259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "苹果新任硬件总监调整产品设计监管架构，引发高层大洗牌，涉及自研芯片工程",
@@ -320,7 +474,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -349,19 +503,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时48分]"
         },
         {
           "title": "【每日收评】科创50探底回升涨近4%，电力股反复活跃，半导体产业链午后再度爆发",
           "url": "https://www.cls.cn/detail/2375505",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时48分]"
         },
         {
           "title": "费城半导体指数涨超1.1%，纳斯达克100指数几乎完全收复日内稍早失地。迈威尔科技涨5.9%，美光涨5.4%，闪迪涨3.3%，英特尔涨2.7%，拼多多涨2.4%，Lumentum涨1.9%，恩智浦涨1.6%。特斯拉跌1.8%，汤森路透跌2.8%，Doordash跌4.9%。",
@@ -389,8 +544,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时48分]"
         }
       ]
     },
@@ -406,8 +561,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时48分]"
         }
       ]
     },
@@ -423,8 +578,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时48分]"
         }
       ]
     }
