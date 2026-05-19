@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T14:07:01.027855+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-05-19T18:08:30.066594+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -98,6 +98,19 @@
           "time_info": "[02时02分 ~ 07时46分]"
         },
         {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 18时08分]"
+        },
+        {
           "title": "特朗普涉台“四不”示警“台独”",
           "url": "https://www.toutiao.com/trending/7641033902121058340/",
           "source": "今日头条",
@@ -113,16 +126,15 @@
           "time_info": "[02时02分 ~ 07时46分]"
         },
         {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 14时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "评论员：中俄关系不受特朗普炒G2影响",
@@ -172,6 +184,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 18时08分]"
+        },
+        {
           "title": "美国总统特朗普：可获得的折扣药物数量将增加七倍。TrumpRx网站将增加超过600种仿制药。",
           "url": "https://flash.jin10.com/detail/20260519052145564800",
           "source": "金十数据",
@@ -206,17 +229,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时38分 ~ 09时51分]"
-        },
-        {
-          "title": "特朗普连发15张图分享“中国记忆”",
-          "url": "https://news.ifeng.com/c/8tFAH622lBt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 14时07分]"
         },
         {
           "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
@@ -433,6 +445,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "特朗普暗示日本过头了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "美国总统特朗普：没有一艘船突破霍尔木兹海峡的封锁。",
           "url": "https://flash.jin10.com/detail/20260519054614196800",
           "source": "金十数据",
@@ -623,18 +646,19 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
           "url": "https://wallstreetcn.com/articles/3772473",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时40分 ~ 14时07分]"
+          "appearance_count": 8,
+          "time_info": "[06时40分 ~ 18时08分]"
         },
         {
           "title": "A股新“股王”联讯仪器，提示4大风险",
@@ -718,7 +742,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -732,6 +756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "美股股指期货跌幅扩大，纳指期货跌超0.8%，标普500指数期货跌超0.5%，道指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260519175344100800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "A股绿电概念反复活跃，华能蒙电直线涨停，华光环能、京能电力、大唐发电、拓日新能、建投能源跟涨。",
@@ -806,7 +841,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -828,7 +863,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -866,6 +901,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "禾赛美股盘前涨超8%，公司2026年第一季度净收入6.81亿元，同比增长29.6%；净利润1830万元。",
+          "url": "https://wallstreetcn.com/livenews/3105925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "周一（5月18日），美股AI软件先驱指数涨1.76%，报107.43点。 15只成分股普遍收涨，ServiceNOW涨8.78%，ESTC涨6.54%，GitLab涨6.04%，MongoDB、HubSpot、ServiceNOW、Salesforce、Adobe、C3.ai至少涨1.16%，铿腾电子、新思科技则至多收跌0.79%，甲骨文跌3.29%。",
           "url": "https://wallstreetcn.com/livenews/3105605",
           "source": "华尔街见闻-快讯",
@@ -883,9 +929,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "南向资金今日净买入12.66亿元。港股通（沪）方面，中国移动、中国海洋石油分别获净买入7.46亿港元、5.63亿港元；腾讯控股净卖出额居首，金额为4.13亿港元；港股通（深）方面，阿里巴巴-W、盈富基金分别获净买入8.28亿港元、7.57亿港元；长飞光纤光缆净卖出额居首，金额为2.49亿港元。",
+          "url": "https://flash.jin10.com/detail/20260519173149959800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
@@ -916,7 +973,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -1012,7 +1069,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "马斯克发视频点赞重庆东站",
@@ -1097,6 +1154,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "SpaceX即将成为马斯克旗下第二家上市公司 特斯拉可能遭边缘化",
+          "url": "https://wallstreetcn.com/livenews/3105931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "马斯克：将针对美国陪审团的OpenAI判决结果向第九巡回法庭提出上诉。",
           "url": "https://wallstreetcn.com/livenews/3105609",
           "source": "华尔街见闻-快讯",
@@ -1152,6 +1220,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "重庆东站为何能让马斯克点赞",
+          "url": "https://www.toutiao.com/trending/7641444363007970852/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
           "url": "https://wallstreetcn.com/livenews/3105549",
           "source": "华尔街见闻-快讯",
@@ -1166,7 +1245,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
@@ -1194,6 +1273,18 @@
           "time_info": "[02时02分 ~ 06时41分]"
         },
         {
+          "title": "产能将激增，前三星芯片负责人预测明年下半年内存将显著降价！",
+          "url": "https://www.cls.cn/detail/2374934",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 18时08分]"
+        },
+        {
           "title": "报道：AI芯片初创公司Tenstorrent吸引英特尔与高通早期收购兴趣，估值或超50亿美元",
           "url": "https://wallstreetcn.com/livenews/3105620",
           "source": "华尔街见闻-快讯",
@@ -1206,15 +1297,37 @@
           "time_info": "[05时38分 ~ 06时41分]"
         },
         {
-          "title": "产能将激增，前三星芯片负责人预测明年下半年内存将显著降价！",
-          "url": "https://www.cls.cn/detail/2374934",
+          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
+          "url": "https://www.cls.cn/detail/2375439",
           "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 14时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "存储芯片爆发 安徽还有哪些“黑马”",
+          "url": "https://www.toutiao.com/trending/7641499606286601747/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "英特尔(INTC.O)CEO陈立武：14A芯片将于2028年实现生产，2029年将进入量产阶段。",
@@ -1242,8 +1355,20 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "三星半导体前总裁：预测存储价格明年下半年开跌，中国企业正在大幅扩产",
+          "url": "https://wallstreetcn.com/articles/3772583",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 18时08分]"
+        },
         {
           "title": "创业板指跌超1%，沪指跌0.37%，深成指跌0.79%，体育、半导体、CPO、油气等方向跌幅居前，沪深京三市下跌个股超1900只。",
           "url": "https://wallstreetcn.com/livenews/3105711",
@@ -1256,15 +1381,15 @@
           "time_info": "09时51分"
         },
         {
-          "title": "三星半导体前总裁：预测存储价格明年下半年开跌，中国企业正在大幅扩产",
-          "url": "https://wallstreetcn.com/articles/3772583",
-          "source": "华尔街见闻",
+          "title": "【每日收评】科创50探底回升涨近4%，电力股反复活跃，半导体产业链午后再度爆发",
+          "url": "https://www.cls.cn/detail/2375505",
+          "source": "财联社热门",
           "ranks": [
-            6
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 14时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
@@ -1276,6 +1401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "半导体龙头沪硅产业涨停",
+          "url": "https://www.toutiao.com/trending/7641022394785857590/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "何立峰会见美国超威半导体CEO苏姿丰",
@@ -1292,7 +1428,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "丁薛祥：算力是国家综合国力的重要体现，要统筹布局、有序建设",
@@ -1311,11 +1447,23 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 18时08分]"
+        },
+        {
+          "title": "中国算力平台（北京）正式上线",
+          "url": "https://wallstreetcn.com/livenews/3105932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "AMD董事会主席兼CEO苏姿丰：中国市场极其重要，算力已成为公司开展业务的关键",
@@ -1360,36 +1508,8 @@
       ]
     },
     {
-      "keyword_group": "新易盛",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "新易盛：预计2026年硅光产品的占比将进一步提升",
-          "url": "https://flash.jin10.com/detail/20260519131111228800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "新易盛：预计2026年硅光产品的占比将进一步提升",
-          "url": "https://wallstreetcn.com/livenews/3105801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "长鑫存储凭什么高歌猛进",
@@ -1401,6 +1521,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时02分]"
+        },
+        {
+          "title": "长江存储启动IPO辅导",
+          "url": "https://wallstreetcn.com/livenews/3105913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新易盛",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新易盛：预计2026年硅光产品的占比将进一步提升",
+          "url": "https://flash.jin10.com/detail/20260519131111228800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        },
+        {
+          "title": "新易盛：预计2026年硅光产品的占比将进一步提升",
+          "url": "https://wallstreetcn.com/livenews/3105801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         }
       ]
     },
@@ -1415,7 +1574,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         }
@@ -1435,6 +1594,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 06时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国卫星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国卫星跌停，公司回应：控股股东减持还没有开始实施",
+          "url": "https://wallstreetcn.com/livenews/3105938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     }
