@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T07:46:15.606577+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-05-19T09:51:46.097480+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -13,18 +13,6 @@
           "source": "凤凰网",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 07时46分]"
-        },
-        {
-          "title": "特朗普连发15张图分享中国记忆",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -42,6 +30,19 @@
           "time_info": "[02时02分 ~ 07时46分]"
         },
         {
+          "title": "特朗普连发15张图分享中国记忆",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时02分 ~ 09时51分]"
+        },
+        {
           "title": "特朗普敲打“台独” 日本被美撤梯子",
           "url": "https://www.toutiao.com/trending/7640786941127196678/",
           "source": "今日头条",
@@ -53,6 +54,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时02分 ~ 07时46分]"
+        },
+        {
+          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
+          "url": "https://www.cls.cn/detail/2374617",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时02分 ~ 09时51分]"
         },
         {
           "title": "特朗普访华整晚都在谈台湾问题",
@@ -85,17 +99,17 @@
           "time_info": "[02时02分 ~ 07时46分]"
         },
         {
-          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
-          "url": "https://www.cls.cn/detail/2374617",
+          "title": "特朗普称将推迟对伊朗发动军事打击",
+          "url": "https://www.cls.cn/detail/2374774",
           "source": "财联社热门",
           "ranks": [
             13,
-            11,
-            12
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 07时46分]"
+          "appearance_count": 5,
+          "time_info": "[06时40分 ~ 09时51分]"
         },
         {
           "title": "评论员：中俄关系不受特朗普炒G2影响",
@@ -123,6 +137,28 @@
           "time_info": "04时02分"
         },
         {
+          "title": "默克尔：不要低估特朗普",
+          "url": "https://www.toutiao.com/trending/7641032208708436014/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "美、布两油短线大幅跳水，现货金银快速拉升。特朗普称，应中东国家请求暂缓原定于明天进行的对伊朗的攻击。",
           "url": "https://flash.jin10.com/detail/20260519030540752800",
           "source": "金十数据",
@@ -132,18 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        },
-        {
-          "title": "特朗普称将推迟对伊朗发动军事打击",
-          "url": "https://www.cls.cn/detail/2374774",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时40分 ~ 07时46分]"
         },
         {
           "title": "美国总统特朗普：可获得的折扣药物数量将增加七倍。TrumpRx网站将增加超过600种仿制药。",
@@ -178,8 +202,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时38分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[05时38分 ~ 09时51分]"
         },
         {
           "title": "美国总统特朗普宣布扩大折扣药品定价计划。",
@@ -241,6 +265,28 @@
           "time_info": "[06时41分 ~ 07时46分]"
         },
         {
+          "title": "外交部回应特朗普涉台表态",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "美国总统特朗普：已作进一步指示，一旦未能达成可接受的协议，应随时准备立即执行对伊朗的大规模全面军事打击行动。",
           "url": "https://flash.jin10.com/detail/20260519030449861800",
           "source": "金十数据",
@@ -269,7 +315,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -316,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2374803",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
@@ -368,7 +425,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -489,7 +546,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -525,12 +582,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普称推迟攻击伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%8E%A8%E8%BF%9F%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 17,
+      "match_count": 27,
       "titles": [
         {
           "title": "A股新“股王”联讯仪器，提示4大风险",
@@ -539,11 +607,36 @@
           "ranks": [
             6,
             5,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 07时46分]"
+          "appearance_count": 9,
+          "time_info": "[02时02分 ~ 09时51分]"
+        },
+        {
+          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时40分 ~ 09时51分]"
+        },
+        {
+          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2374572",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时02分 ~ 09时51分]"
         },
         {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
@@ -557,50 +650,73 @@
           "time_info": "[02时02分 ~ 05时38分]"
         },
         {
-          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时40分 ~ 07时46分]"
-        },
-        {
-          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2374572",
+          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
+          "url": "https://www.cls.cn/detail/2374787",
           "source": "财联社热门",
           "ranks": [
-            7,
-            11
+            11,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 07时46分]"
+          "appearance_count": 5,
+          "time_info": "[06时40分 ~ 09时51分]"
         },
         {
           "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
           "url": "https://www.cls.cn/detail/2374806",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 07时46分]"
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 09时51分]"
         },
         {
-          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
-          "url": "https://www.cls.cn/detail/2374787",
-          "source": "财联社热门",
+          "title": "A股光伏、储能板块震荡走强，正泰电源涨停，双良节能冲击涨停，金博股份、阳光电源、国晟科技、锦浪科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3105720",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股绿电概念反复活跃，华能蒙电直线涨停，华光环能、京能电力、大唐发电、拓日新能、建投能源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3105713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股燃气板块短线走强，贵州燃气2连板，佛燃能源、大众公用、胜通能源、皖天然气、深圳燃气跟涨。",
+          "url": "https://flash.jin10.com/detail/20260519094936083800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股电信服务板块短线拉升，中国电信涨超4%，国安股份涨超2%，北纬科技、梦网科技等股上涨。",
+          "url": "https://flash.jin10.com/detail/20260519094924862800",
+          "source": "金十数据",
+          "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时40分 ~ 07时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "美股开盘：百度集团涨近4%",
@@ -623,6 +739,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 06时41分]"
+        },
+        {
+          "title": "A股CPO、MLCC等算力硬件股短线拉升，弘信电子20cm涨停走出两连板，风华高科涨超9%，金字火腿、中贝通信、国瓷材料跟涨。",
+          "url": "https://flash.jin10.com/detail/20260519094104033800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股光伏设备板块盘初冲高，正泰电源涨停，双良节能、阳光电源、亚玛顿、国际实业、东方日升跟涨。",
+          "url": "https://flash.jin10.com/detail/20260519093841870800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股机器人概念股盘初拉升，北自科技4连板，达实智能3连板，景兴纸业、川润股份、北投科技、福莱新材涨停。",
+          "url": "https://flash.jin10.com/detail/20260519093731135800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股AI应用板块走强，弘信电子涨超18%，南威软件、新致软件涨超4%，易点天下、蓝色光标等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260519093706195800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "周一（5月18日），美股AI软件先驱指数涨1.76%，报107.43点。 15只成分股普遍收涨，ServiceNOW涨8.78%，ESTC涨6.54%，GitLab涨6.04%，MongoDB、HubSpot、ServiceNOW、Salesforce、Adobe、C3.ai至少涨1.16%，铿腾电子、新思科技则至多收跌0.79%，甲骨文跌3.29%。",
@@ -658,6 +818,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "港股腾讯音乐(01698.HK)涨超5%，公司宣布完成收购喜马拉雅。",
+          "url": "https://flash.jin10.com/detail/20260519093410390800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
           "url": "https://wallstreetcn.com/livenews/3105599",
           "source": "华尔街见闻-快讯",
@@ -689,6 +860,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "A股白酒板块走强，威龙股份封板涨停，酒鬼酒、会稽山涨超2%，皇台酒业、五粮液等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260519093331922800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "大豆基金收涨1.9%，与农产品基金领跑美股大类资产类ETF，小盘股指ETF跌约0.6%",
@@ -727,7 +909,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "马斯克发视频点赞重庆东站",
@@ -776,6 +958,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "马斯克怒喷达美航空弃用星链服务 高管反击：亚马逊竞品更便宜、功能更多",
+          "url": "https://www.cls.cn/detail/2374760",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "马斯克爆料：正着手推进SpaceX IPO事宜，自动驾驶汽车今年将实现更广泛部署",
@@ -866,11 +1059,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 07时46分]"
+          "appearance_count": 9,
+          "time_info": "[02时02分 ~ 09时51分]"
         },
         {
           "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
@@ -903,7 +1097,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -922,8 +1116,19 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "创业板指跌超1%，沪指跌0.37%，深成指跌0.79%，体育、半导体、CPO、油气等方向跌幅居前，沪深京三市下跌个股超1900只。",
+          "url": "https://wallstreetcn.com/livenews/3105711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
         {
           "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
           "url": "https://wallstreetcn.com/livenews/3105527",
@@ -950,7 +1155,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "丁薛祥：算力是国家综合国力的重要体现，要统筹布局、有序建设",
@@ -962,6 +1167,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时02分 ~ 07时46分]"
+        },
+        {
+          "title": "从卖流量到卖Token，运营商算力生意破局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33193847",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "AMD董事会主席兼CEO苏姿丰：中国市场极其重要，算力已成为公司开展业务的关键",
@@ -978,7 +1194,7 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
@@ -991,6 +1207,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时02分 ~ 06时41分]"
+        },
+        {
+          "title": "上证指数开盘报4122.96点，跌0.21%。 深证成指开盘报15469.36点，跌0.39%。 创业板指开盘报3894.00点，跌0.53%。 沪深300开盘报4818.71点，跌0.31%。 科创50开盘报1697.40点，跌0.73%。 中证500开盘报8524.15点，跌0.35%。 中证1000开盘报8691.38点，跌0.33%。",
+          "url": "https://wallstreetcn.com/livenews/3105703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     },
