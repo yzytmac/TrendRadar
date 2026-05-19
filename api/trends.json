@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T18:08:30.066594+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-05-19T21:32:29.872075+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 61,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -56,6 +56,20 @@
           "time_info": "[02时02分 ~ 07时46分]"
         },
         {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 21时32分]"
+        },
+        {
           "title": "特朗普称将推迟对伊朗发动军事打击",
           "url": "https://www.cls.cn/detail/2374774",
           "source": "财联社热门",
@@ -98,19 +112,6 @@
           "time_info": "[02时02分 ~ 07时46分]"
         },
         {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 18时08分]"
-        },
-        {
           "title": "特朗普涉台“四不”示警“台独”",
           "url": "https://www.toutiao.com/trending/7641033902121058340/",
           "source": "今日头条",
@@ -130,11 +131,12 @@
           "url": "https://www.cls.cn/detail/2375112",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 21时32分]"
         },
         {
           "title": "评论员：中俄关系不受特朗普炒G2影响",
@@ -267,6 +269,18 @@
           "time_info": "[06时41分 ~ 07时46分]"
         },
         {
+          "title": "特朗普暗示日本过头了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 21时32分]"
+        },
+        {
           "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
           "url": "https://wallstreetcn.com/articles/3772466",
           "source": "华尔街见闻",
@@ -335,6 +349,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
+          "url": "https://news.ifeng.com/c/8tG27n1FK2V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "美国总统特朗普：已作进一步指示，一旦未能达成可接受的协议，应随时准备立即执行对伊朗的大规模全面军事打击行动。",
           "url": "https://flash.jin10.com/detail/20260519030449861800",
           "source": "金十数据",
@@ -379,6 +404,28 @@
           "time_info": "04时02分"
         },
         {
+          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
+          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "美国白宫： 特朗普将在东部时间下午4:30（北京时间周三凌晨4:30）签署一项行政命令。",
+          "url": "https://flash.jin10.com/detail/20260519212204133800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3105539",
           "source": "华尔街见闻-快讯",
@@ -399,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普称不考虑向伊朗作任何让步，美官员称美同意暂时豁免对伊石油制裁是假消息",
+          "url": "https://wallstreetcn.com/articles/3772567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "特朗普：取消原定明天对伊朗发动袭击的计划",
@@ -445,17 +503,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "特朗普暗示日本过头了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
           "title": "美国总统特朗普：没有一艘船突破霍尔木兹海峡的封锁。",
           "url": "https://flash.jin10.com/detail/20260519054614196800",
           "source": "金十数据",
@@ -487,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "为何特朗普抛涉台“四不”说法",
+          "url": "https://www.toutiao.com/trending/7640681040356671526/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美国总统特朗普：伊朗必须将其不拥有核武器的承诺以书面形式确认。我认为我们在伊朗问题上取得了很大进展。",
@@ -531,6 +589,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "美防长模仿特朗普口音",
+          "url": "https://www.douyin.com/hot/2504566",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美国总统特朗普：（关于埃博拉病毒）我感到担忧。",
@@ -646,7 +715,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -654,11 +723,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时40分 ~ 18时08分]"
+          "appearance_count": 9,
+          "time_info": "[06时40分 ~ 21时32分]"
         },
         {
           "title": "A股新“股王”联讯仪器，提示4大风险",
@@ -764,7 +834,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -846,6 +916,39 @@
           "time_info": "14时07分"
         },
         {
+          "title": "通胀忧虑升温，美股期指下挫，美债收益率高企，现货黄金跌破4500",
+          "url": "https://wallstreetcn.com/articles/3772605",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3106075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2375879",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "A股CPO、MLCC等算力硬件股短线拉升，弘信电子20cm涨停走出两连板，风华高科涨超9%，金字火腿、中贝通信、国瓷材料跟涨。",
           "url": "https://flash.jin10.com/detail/20260519094104033800",
           "source": "金十数据",
@@ -907,7 +1010,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -940,7 +1043,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -1055,6 +1158,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-05-19）",
+          "url": "https://flash.jin10.com/detail/20260519210459781800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "美股行业ETF涨跌各异，能源业ETF涨约1.9%，半导体ETF跌超1.8%",
           "url": "https://wallstreetcn.com/livenews/3105594",
           "source": "华尔街见闻-快讯",
@@ -1069,7 +1183,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "马斯克发视频点赞重庆东站",
@@ -1160,7 +1274,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -1185,6 +1299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "马斯克预测：10年后，自己开车将是一种非常小众的行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197981",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "马斯克：（关于OpenAI 裁决）我将向第九巡回法院提出上诉。",
@@ -1226,7 +1351,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -1245,7 +1370,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
@@ -1285,6 +1410,29 @@
           "time_info": "[14时06分 ~ 18时08分]"
         },
         {
+          "title": "“芯片女王”在华入场通道变追星现场",
+          "url": "https://www.toutiao.com/trending/7641163582352199187/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
+          "url": "https://www.cls.cn/detail/2375439",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 21时32分]"
+        },
+        {
           "title": "报道：AI芯片初创公司Tenstorrent吸引英特尔与高通早期收购兴趣，估值或超50亿美元",
           "url": "https://wallstreetcn.com/livenews/3105620",
           "source": "华尔街见闻-快讯",
@@ -1297,26 +1445,27 @@
           "time_info": "[05时38分 ~ 06时41分]"
         },
         {
-          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
-          "url": "https://www.cls.cn/detail/2375439",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
           "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
           "url": "https://wallstreetcn.com/articles/3772582",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 21时32分]"
+        },
+        {
+          "title": "一文看懂：三星将爆发芯片史上最大规模罢工 三重冲击风暴即将形成？",
+          "url": "https://www.cls.cn/detail/2375716",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "21时32分"
         },
         {
           "title": "存储芯片爆发 安徽还有哪些“黑马”",
@@ -1325,7 +1474,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -1355,7 +1504,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "三星半导体前总裁：预测存储价格明年下半年开跌，中国企业正在大幅扩产",
@@ -1363,11 +1512,23 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时06分 ~ 18时08分]"
+          "appearance_count": 4,
+          "time_info": "[14时06分 ~ 21时32分]"
+        },
+        {
+          "title": "江苏省委书记信长星会见美国超威半导体公司董事会主席兼首席执行官苏姿丰",
+          "url": "https://flash.jin10.com/detail/20260519212702024800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "创业板指跌超1%，沪指跌0.37%，深成指跌0.79%，体育、半导体、CPO、油气等方向跌幅居前，沪深京三市下跌个股超1900只。",
@@ -1385,11 +1546,12 @@
           "url": "https://www.cls.cn/detail/2375505",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 21时32分]"
         },
         {
           "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
@@ -1409,7 +1571,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -1428,7 +1590,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "丁薛祥：算力是国家综合国力的重要体现，要统筹布局、有序建设",
@@ -1448,11 +1610,12 @@
           "ranks": [
             16,
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 18时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 21时32分]"
         },
         {
           "title": "中国算力平台（北京）正式上线",
@@ -1461,7 +1624,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -1475,6 +1638,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "国家数据局：加快建设全国一体化算力网",
+          "url": "https://wallstreetcn.com/livenews/3106049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "长江存储控股完成IPO辅导备案 国产存储IDM双雄“奔赴”资本市场",
+          "url": "https://www.cls.cn/detail/2375849",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "长鑫存储凭什么高歌猛进",
+          "url": "https://www.toutiao.com/trending/7641180814205521451/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时02分]"
+        },
+        {
+          "title": "长江存储启动IPO辅导",
+          "url": "https://wallstreetcn.com/livenews/3105913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     },
@@ -1504,34 +1717,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "长鑫存储凭什么高歌猛进",
-          "url": "https://www.toutiao.com/trending/7641180814205521451/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时02分]"
-        },
-        {
-          "title": "长江存储启动IPO辅导",
-          "url": "https://wallstreetcn.com/livenews/3105913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
         }
       ]
     },
@@ -1598,6 +1783,40 @@
       ]
     },
     {
+      "keyword_group": "人形机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美湖股份回复监管工作函：本次签订的合同涉及的产品为四足机器狗的零部件产品，不属于人形机器人产品",
+          "url": "https://wallstreetcn.com/livenews/3106068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中芯国际把中芯北方收回来了",
+          "url": "https://www.toutiao.com/trending/7641530122847129138/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中国卫星",
       "match_count": 1,
       "titles": [
@@ -1608,7 +1827,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         }
