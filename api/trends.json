@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T05:25:50.218779+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-05-21T06:52:29.324898+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 05时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时52分]"
         },
         {
           "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 05时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时52分]"
         },
         {
           "title": "特朗普：不认为古巴局势会升级，将很快就石油禁运问题发表声明",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 05时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时52分]"
         },
         {
           "title": "特朗普：（关于伊朗）无论如何，这将很快结束。",
@@ -113,7 +113,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -220,7 +220,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 7,
+      "match_count": 17,
       "titles": [
         {
           "title": "英伟达美股盘后跌1.8%。",
@@ -229,9 +229,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
+          "url": "https://www.cls.cn/detail/2377305",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
@@ -252,11 +274,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 05时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时52分]"
         },
         {
           "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
@@ -267,8 +290,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 05时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时52分]"
+        },
+        {
+          "title": "纳指期货跌幅在亚太盘初扩大至0.9%，科技股AMD美股盘后跌2.6%，高通跌2%，美光跌1.6%，英特尔跌1.5%，英伟达跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3106963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "Applied Digital Corp.（APLD）美股盘后涨5%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
@@ -277,9 +311,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "亚太盘初，纳指期货跌超0.4%，标普股指期货跌0.3%。 当前（美股盘后），AMD跌1.2%，英伟达跌1.2%，高通跌0.8%，英特尔跌0.7%，C3.ai跌0.7%，美光跌0.5%，闪迪涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3106958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "小盘股指ETF收涨超2.5%，与新兴市场ETF领跑美股大类资产类ETF",
@@ -288,9 +333,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "美银：对冲基金上周抛售美股规模创纪录",
+          "url": "https://wallstreetcn.com/livenews/3106953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
+          "url": "https://wallstreetcn.com/livenews/3106952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "周三（5月20日），美股行业ETF多数收涨，全球航空业ETF反弹6.57%，半导体ETF涨3.81%，可选消费ETF涨2.53%，区域银行ETF涨2.38%，能源业ETF跌2.43%。",
@@ -299,16 +366,93 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
+          "url": "https://wallstreetcn.com/livenews/3106951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "周三（5月20日），美股信息科技指数涨2.97%，报384.54点。 成分股Astera Labs收涨17.69%，IREN涨10.41%，超微电脑涨9.49%，IonQ涨8.32%，Credo科技集团涨8.28%，AMD涨8.10%表现第六，英特尔涨7.36%，Workday则收跌2.11%跌幅第五大，Lumentum跌2.47%，Nebius集团跌2.99%，ADI跌3.92%，财捷INTU跌3.95%。",
+          "url": "https://wallstreetcn.com/livenews/3106949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "周三（5月20日），美股存储芯片与硬件供应链指数涨3.17%，报179.14点，跳空高开之后整体持续高位震荡。 成分股全面收涨，Rambus涨9.45%，泰瑞达涨7.1%，拉姆研究涨6.84%，应用材料、美光至少涨4.76%，希捷科技涨2.42%，西部数据、闪迪至少涨0.67%。",
+          "url": "https://wallstreetcn.com/livenews/3106946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（5月20日），美国科技股七巨头（Magnificent 7）指数涨1.17%，报225.84点。 “超大”市值科技股指数涨涨2.27%，报450.52点。",
+          "url": "https://wallstreetcn.com/livenews/3106945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "马斯克：我们正在与其他公司讨论开展同样的合作。随着时间的推移，特别是借助轨道数据中心，我们预计将以极高的规模提供人工智能服务。",
+          "url": "https://flash.jin10.com/detail/20260521063704751800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "马斯克：最近与AnthropicAI扩展的合作关系表明，SpaceX正在大规模提供人工智能计算服务。",
+          "url": "https://flash.jin10.com/detail/20260521063630853800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "马斯克：SpaceX洽谈向其他公司提供AI计算。",
+          "url": "https://wallstreetcn.com/livenews/3106972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
         {
           "title": "SpaceX申请美国IPO，代码SPCX。 将有两类股票：A类股和B类股。 （首次公开发行股票前）马斯克投票权合计为85.1%，将控制“SpaceX需要股东批准的事项”。 向马斯克授予2亿股业绩挂钩B类股。 特斯拉持有（SpaceX）将近1900万股A类股。 签署收购Cursor的选择权协议。",
           "url": "https://wallstreetcn.com/livenews/3106924",
@@ -316,9 +460,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "为了拿下SpaceX的IPO主承销商，高盛CEO亲自私信马斯克",
+          "url": "https://wallstreetcn.com/livenews/3106962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "SpaceX在“星舰”巨型火箭上已砸超150亿美元，马斯克曾豪言最低20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3106959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "SpaceX：马斯克可以选举、罢免或填补B类董事的空缺。",
@@ -327,7 +493,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -338,9 +504,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "SpaceX：2026年1月13日，董事会批准向马斯克授予10亿股基于业绩的B类普通股限制性股份。",
+          "url": "https://flash.jin10.com/detail/20260521053301191800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "SpaceX：马斯克拥有12.3%的A类股份和93.6%的B类股份。",
@@ -349,7 +526,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -360,9 +537,81 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "ASML最新光刻机开始量产芯片",
+          "url": "https://www.toutiao.com/trending/7641964325422239278/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时52分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：Vera CPU的独立销售额未包含在Blackwell和Rubin芯片1万亿美元收入的预测中，Vera将成为1万亿美元预测之外最大的销售贡献来源。",
+          "url": "https://flash.jin10.com/detail/20260521060128162800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：Vera CPU 200亿美元的预估是针对独立CPU销售额，不包含与Rubin芯片组合销售的情况。",
+          "url": "https://flash.jin10.com/detail/20260521054630952800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：包括自身产品在内的基于SRAM的AI芯片，在一段时间内将是一个小众产品。",
+          "url": "https://flash.jin10.com/detail/20260521054442062800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：公司对Blackwell和Rubin芯片在2025年至2027年期间实现1万亿美元收入的预测充满信心。",
+          "url": "https://flash.jin10.com/detail/20260521052624543800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：公司的增速将超过超大规模云服务商（Hyperscaler）的资本开支。 超大规模云服务商们将继续大规模开支。 Anthropic的（计算）能力将是巨大的。 我的感觉是，Vera Rubin整个生命周期内都将存在供应受限问题。 像Groq那种类型的芯片“在未来相当长一段时间内都将只是分众/小众产品（Niche product for some time）”。",
+          "url": "https://wallstreetcn.com/livenews/3106948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         }
       ]
     },
@@ -375,11 +624,12 @@
           "url": "https://www.cls.cn/detail/2376768",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 05时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时52分]"
         },
         {
           "title": "英伟达2027财年一季度营收816.2亿美元，分析师预期791.9亿美元。 一季度数据中心营收752亿美元，分析师预期734.8亿美元。 一季度计算与网络营收745.50亿美元，Graphics营收70.65亿美元，边缘计算营收64亿美元。 在数据中心营收中，超大规模云服务商（Hyperscaler）收入占比大约50%。 公司切换到新版报告框架，将报告数据与边缘计算。 预计二季度营收891.8亿-873.6亿美元，分析师预期873.6亿美元。 Vera Rubin处于下半年（交付给客户）的正轨之上。 英伟达盘后涨0.3%，随后转而跌2.18%。半导体ETF盘后跌1.2%。",
@@ -388,7 +638,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -410,7 +660,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         }
@@ -427,7 +677,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -438,7 +688,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         }
@@ -456,25 +706,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 05时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "ASML最新光刻机开始量产芯片",
-          "url": "https://www.toutiao.com/trending/7641964325422239278/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 05时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时52分]"
         }
       ]
     },
@@ -487,11 +720,12 @@
           "url": "https://www.zhihu.com/question/2039872777084195454",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 06时52分]"
         }
       ]
     },
@@ -505,11 +739,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时41分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[03时41分 ~ 06时52分]"
         }
       ]
     }
