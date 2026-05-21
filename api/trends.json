@@ -1,264 +1,11 @@
 {
-  "generated_at": "2026-05-21T08:06:45.911593+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-05-21T12:44:30.127009+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 a股 港股",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
-          "url": "https://www.cls.cn/detail/2377305",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 08时06分]"
-        },
-        {
-          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "英伟达美股盘后跌1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3106935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
-          "url": "https://www.cls.cn/detail/2377339",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
-          "url": "https://wallstreetcn.com/articles/3772698",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 08时06分]"
-        },
-        {
-          "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 05时25分]"
-        },
-        {
-          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
-          "url": "https://wallstreetcn.com/articles/3772678",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 06时52分]"
-        },
-        {
-          "title": "纳指期货跌幅在亚太盘初扩大至0.9%，科技股AMD美股盘后跌2.6%，高通跌2%，美光跌1.6%，英特尔跌1.5%，英伟达跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3106963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "年内A股回购规模近千亿元",
-          "url": "https://wallstreetcn.com/livenews/3106994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "美股三大指数均涨超1% 特斯拉涨3.25%",
-          "url": "https://www.toutiao.com/trending/7642114363104431662/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "Applied Digital Corp.（APLD）美股盘后涨5%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
-          "url": "https://wallstreetcn.com/livenews/3106919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "亚太盘初，纳指期货跌超0.4%，标普股指期货跌0.3%。 当前（美股盘后），AMD跌1.2%，英伟达跌1.2%，高通跌0.8%，英特尔跌0.7%，C3.ai跌0.7%，美光跌0.5%，闪迪涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3106958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "美股三大指数收涨超1% CPU概念股强势",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%94%B6%E6%B6%A8%E8%B6%851%25+CPU%E6%A6%82%E5%BF%B5%E8%82%A1%E5%BC%BA%E5%8A%BF",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "小盘股指ETF收涨超2.5%，与新兴市场ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3106914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美银：对冲基金上周抛售美股规模创纪录",
-          "url": "https://wallstreetcn.com/livenews/3106953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3106952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "周三（5月20日），美股行业ETF多数收涨，全球航空业ETF反弹6.57%，半导体ETF涨3.81%，可选消费ETF涨2.53%，区域银行ETF涨2.38%，能源业ETF跌2.43%。",
-          "url": "https://wallstreetcn.com/livenews/3106910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
-          "url": "https://wallstreetcn.com/livenews/3106951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "周三（5月20日），美股信息科技指数涨2.97%，报384.54点。 成分股Astera Labs收涨17.69%，IREN涨10.41%，超微电脑涨9.49%，IonQ涨8.32%，Credo科技集团涨8.28%，AMD涨8.10%表现第六，英特尔涨7.36%，Workday则收跌2.11%跌幅第五大，Lumentum跌2.47%，Nebius集团跌2.99%，ADI跌3.92%，财捷INTU跌3.95%。",
-          "url": "https://wallstreetcn.com/livenews/3106949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "周三（5月20日），美股存储芯片与硬件供应链指数涨3.17%，报179.14点，跳空高开之后整体持续高位震荡。 成分股全面收涨，Rambus涨9.45%，泰瑞达涨7.1%，拉姆研究涨6.84%，应用材料、美光至少涨4.76%，希捷科技涨2.42%，西部数据、闪迪至少涨0.67%。",
-          "url": "https://wallstreetcn.com/livenews/3106946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（5月20日），美国科技股七巨头（Magnificent 7）指数涨1.17%，报225.84点。 “超大”市值科技股指数涨涨2.27%，报450.52点。",
-          "url": "https://wallstreetcn.com/livenews/3106945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
@@ -287,11 +34,34 @@
           "url": "https://news.ifeng.com/c/8tIcotw8V5W",
           "source": "凤凰网",
           "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 12时44分]"
+        },
+        {
+          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
+          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 12时44分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
+          "source": "凤凰网",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "12时44分"
         },
         {
           "title": "特朗普：不认为古巴局势会升级，将很快就石油禁运问题发表声明",
@@ -305,26 +75,38 @@
           "time_info": "03时41分"
         },
         {
-          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
-          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 08时06分]"
-        },
-        {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
           "url": "https://wallstreetcn.com/articles/3772754",
           "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 12时44分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "12时44分"
+        },
+        {
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "特朗普：（关于伊朗）无论如何，这将很快结束。",
@@ -426,6 +208,28 @@
           "time_info": "01时31分"
         },
         {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "俄方：普京与特朗普11月或在中国见面",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE11%E6%9C%88%E6%88%96%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%A7%81%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "特朗普：（关于伊朗）我们必须得到正确的答案。",
           "url": "https://flash.jin10.com/detail/20260521024415165800",
           "source": "金十数据",
@@ -454,7 +258,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -505,8 +309,307 @@
       ]
     },
     {
+      "keyword_group": "美股 a股 港股",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
+          "url": "https://www.cls.cn/detail/2377305",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 12时44分]"
+        },
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 12时44分]"
+        },
+        {
+          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
+          "url": "https://www.cls.cn/detail/2377339",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 12时44分]"
+        },
+        {
+          "title": "英伟达美股盘后跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3106935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 08时06分]"
+        },
+        {
+          "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 05时25分]"
+        },
+        {
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时52分]"
+        },
+        {
+          "title": "港股午评：恒指高开低走收跌0.02% 半导体板块延续强势",
+          "url": "https://flash.jin10.com/detail/20260521120559488800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "纳指期货跌幅在亚太盘初扩大至0.9%，科技股AMD美股盘后跌2.6%，高通跌2%，美光跌1.6%，英特尔跌1.5%，英伟达跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3106963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "年内A股回购规模近千亿元",
+          "url": "https://wallstreetcn.com/livenews/3106994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "美股三大指数均涨超1% 特斯拉涨3.25%",
+          "url": "https://www.toutiao.com/trending/7642114363104431662/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "Applied Digital Corp.（APLD）美股盘后涨5%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
+          "url": "https://wallstreetcn.com/livenews/3106919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "亚太盘初，纳指期货跌超0.4%，标普股指期货跌0.3%。 当前（美股盘后），AMD跌1.2%，英伟达跌1.2%，高通跌0.8%，英特尔跌0.7%，C3.ai跌0.7%，美光跌0.5%，闪迪涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3106958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美股三大指数收涨超1% CPU概念股强势",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%94%B6%E6%B6%A8%E8%B6%851%25+CPU%E6%A6%82%E5%BF%B5%E8%82%A1%E5%BC%BA%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "小盘股指ETF收涨超2.5%，与新兴市场ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3106914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美银：对冲基金上周抛售美股规模创纪录",
+          "url": "https://wallstreetcn.com/livenews/3106953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "A股19股今日停牌",
+          "url": "https://www.toutiao.com/trending/7642144275744849963/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
+          "url": "https://wallstreetcn.com/livenews/3106952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "周三（5月20日），美股行业ETF多数收涨，全球航空业ETF反弹6.57%，半导体ETF涨3.81%，可选消费ETF涨2.53%，区域银行ETF涨2.38%，能源业ETF跌2.43%。",
+          "url": "https://wallstreetcn.com/livenews/3106910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
+          "url": "https://wallstreetcn.com/livenews/3106951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "A股午评：三大股指冲高回落 机器人板块表现活跃",
+          "url": "https://flash.jin10.com/detail/20260521113420178800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "周三（5月20日），美股信息科技指数涨2.97%，报384.54点。 成分股Astera Labs收涨17.69%，IREN涨10.41%，超微电脑涨9.49%，IonQ涨8.32%，Credo科技集团涨8.28%，AMD涨8.10%表现第六，英特尔涨7.36%，Workday则收跌2.11%跌幅第五大，Lumentum跌2.47%，Nebius集团跌2.99%，ADI跌3.92%，财捷INTU跌3.95%。",
+          "url": "https://wallstreetcn.com/livenews/3106949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "周三（5月20日），美股存储芯片与硬件供应链指数涨3.17%，报179.14点，跳空高开之后整体持续高位震荡。 成分股全面收涨，Rambus涨9.45%，泰瑞达涨7.1%，拉姆研究涨6.84%，应用材料、美光至少涨4.76%，希捷科技涨2.42%，西部数据、闪迪至少涨0.67%。",
+          "url": "https://wallstreetcn.com/livenews/3106946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（5月20日），美国科技股七巨头（Magnificent 7）指数涨1.17%，报225.84点。 “超大”市值科技股指数涨涨2.27%，报450.52点。",
+          "url": "https://wallstreetcn.com/livenews/3106945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "据彭博计算，4月外资净流入A股逾2000亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3107106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "马斯克：我们正在与其他公司讨论开展同样的合作。随着时间的推移，特别是借助轨道数据中心，我们预计将以极高的规模提供人工智能服务。",
@@ -541,6 +644,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 08时06分]"
+        },
+        {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "SpaceX申请美国IPO，代码SPCX。 将有两类股票：A类股和B类股。 （首次公开发行股票前）马斯克投票权合计为85.1%，将控制“SpaceX需要股东批准的事项”。 向马斯克授予2亿股业绩挂钩B类股。 特斯拉持有（SpaceX）将近1900万股A类股。 签署收购Cursor的选择权协议。",
@@ -629,12 +743,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "OpenAI最快本周秘密递表，不想让华尔街的钱全流向马斯克？",
+          "url": "https://flash.jin10.com/detail/20260521113142876800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "ASML最新光刻机开始量产芯片",
@@ -646,6 +771,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时31分 ~ 08时06分]"
+        },
+        {
+          "title": "全球芯片LOF玩心跳，连跌4天后大反弹，风险提示也难刹车？",
+          "url": "https://www.cls.cn/detail/2377382",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "三星罢工危机暂解，加薪6.2%，芯片部门按业绩10.5%计提奖金，以税后股票发放",
+          "url": "https://wallstreetcn.com/articles/3772758",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "英伟达CEO黄仁勋：Vera CPU的独立销售额未包含在Blackwell和Rubin芯片1万亿美元收入的预测中，Vera将成为1万亿美元预测之外最大的销售贡献来源。",
@@ -706,7 +853,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "华泰证券：硅光技术有望成为全新增长极 关注半导体代工企业发展机会",
@@ -715,7 +862,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -754,6 +901,17 @@
           "time_info": "03时41分"
         },
         {
+          "title": "金十图示：2026年05月21日（周四）富时中国A50指数成分股午盘收盘行情一览：半导体、银行等板块走势分化，保险、证券、白酒等板块普涨",
+          "url": "https://flash.jin10.com/detail/20260521113300076800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "标普500指数收涨79.36点，涨幅1.08%，报7432.97点。 道琼斯工业平均指数收涨645.47点，涨幅1.31%，报50009.35点。 纳斯达克综合指数（纳指）收涨399.65点，涨幅1.54%，报26270.359点。 纳斯达克100指数收涨478.854点，涨幅1.66%，报29297.698点。 纳斯达克科技市值加权指数收涨2.04%，报2840.8936点。 费城半导体指数收涨4.49%，报11813.286点。 费城证交所KBW银行指数收涨2.55%，报166.67点。 道琼斯KBW地区银行指数收涨2.35%，报134.20点。 罗素2000指数收涨2.56%，报2817.365点。 纳斯达克生物科技指数收涨2.47%，报5860.92点。 标普中盘股400指数收涨1.94%，纳斯达克美国中等市值指数涨1.73%。 恐慌指数VIX收跌3.38%，报17.45。",
           "url": "https://wallstreetcn.com/livenews/3106903",
           "source": "华尔街见闻-快讯",
@@ -767,9 +925,71 @@
       ]
     },
     {
-      "keyword_group": "算力",
-      "match_count": 2,
+      "keyword_group": "科创",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "【焦点复盘】市场再现“冰火两重天”行情，科创芯片股独领风骚，“寒王”总市值突破8500亿",
+          "url": "https://www.cls.cn/detail/2376807",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 08时06分]"
+        },
+        {
+          "title": "上证指数早盘收报4162.37点，涨0.00%。 深证成指早盘收报15662.21点，涨0.59%。 创业板指早盘收报3942.36点，涨0.52%。 沪深300早盘收报4878.61点，涨0.58%。 科创50早盘收报1830.90点，跌0.06%。 中证500早盘收报8670.32点，涨0.16%。 中证1000早盘收报8777.55点，跌0.36%。",
+          "url": "https://wallstreetcn.com/livenews/3107135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "5月21日午间收评：科创50指数冲高回落翻绿，玻璃基板概念集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3107134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "科创50指数回落翻绿，此前一度涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3107130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "一组数据看懂我国硬核算力网",
+          "url": "https://www.douyin.com/hot/2506409",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
         {
           "title": "SpaceX：Anthropic将在2029年5月前每月向公司支付12.5亿美元，而2026年5月和6月的算力提升期间将按较低费率计费。",
           "url": "https://flash.jin10.com/detail/20260521045829764800",
@@ -795,27 +1015,20 @@
       ]
     },
     {
-      "keyword_group": "科创",
-      "match_count": 1,
+      "keyword_group": "存储",
+      "match_count": 2,
       "titles": [
         {
-          "title": "【焦点复盘】市场再现“冰火两重天”行情，科创芯片股独领风骚，“寒王”总市值突破8500亿",
-          "url": "https://www.cls.cn/detail/2376807",
-          "source": "财联社热门",
+          "title": "中国最牛存储公司日赚近4亿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E7%89%9B%E5%AD%98%E5%82%A8%E5%85%AC%E5%8F%B8%E6%97%A5%E8%B5%9A%E8%BF%914%E4%BA%BF",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 08时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 1,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
         {
           "title": "如何看待长鑫存储 IPO 一家市值超南京总和？",
           "url": "https://www.zhihu.com/question/2039872777084195454",
@@ -841,11 +1054,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时41分 ~ 08时06分]"
+          "appearance_count": 5,
+          "time_info": "[03时41分 ~ 12时44分]"
         }
       ]
     }
