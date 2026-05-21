@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T12:44:30.127009+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-05-21T16:22:26.749081+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
@@ -38,8 +38,33 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 16时22分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时44分]"
+          "time_info": "[12时44分 ~ 16时22分]"
+        },
+        {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 16时22分]"
         },
         {
           "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
@@ -53,15 +78,48 @@
           "time_info": "[01时31分 ~ 12时44分]"
         },
         {
-          "title": "特朗普回应中俄元首会晤",
-          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
+          "title": "中方回应特朗普称将与赖清德对话",
+          "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "16时22分"
+        },
+        {
+          "title": "中方回应特朗普称将与赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7642244493529321014/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
+          "url": "https://news.ifeng.com/c/8tJDfVFuwhB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "外交部回应“特朗普将与赖清德交谈”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E8%B5%96%E6%B8%85%E5%BE%B7%E4%BA%A4%E8%B0%88%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "特朗普：不认为古巴局势会升级，将很快就石油禁运问题发表声明",
@@ -75,16 +133,15 @@
           "time_info": "03时41分"
         },
         {
-          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
-          "url": "https://wallstreetcn.com/articles/3772754",
-          "source": "华尔街见闻",
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时44分]"
+          "time_info": "[12时44分 ~ 16时22分]"
         },
         {
           "title": "特朗普回应中俄元首会晤",
@@ -93,18 +150,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "特朗普：不要中国学生，那可太冒犯了",
-          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -120,6 +166,17 @@
           "time_info": "03时41分"
         },
         {
+          "title": "美媒称特朗普政府已开始制定对古巴军事行动方案",
+          "url": "https://www.cls.cn/detail/2377710",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "特朗普：土耳其总统埃尔多安一直是盟友。",
           "url": "https://flash.jin10.com/detail/20260521024751852800",
           "source": "金十数据",
@@ -129,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2377369",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "特朗普：与土耳其总统埃尔多安进行了良好的通话。",
@@ -186,6 +254,17 @@
           "time_info": "03时41分"
         },
         {
+          "title": "特朗普称卸任后不排除去竞选以总理",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8D%B8%E4%BB%BB%E5%90%8E%E4%B8%8D%E6%8E%92%E9%99%A4%E5%8E%BB%E7%AB%9E%E9%80%89%E4%BB%A5%E6%80%BB%E7%90%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "特朗普：（关于伊朗）我们正在与理性的人打交道。",
           "url": "https://flash.jin10.com/detail/20260521024427486800",
           "source": "金十数据",
@@ -214,7 +293,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -225,9 +304,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33203925",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "特朗普：（关于伊朗）我们必须得到正确的答案。",
@@ -310,8 +400,31 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 16时22分]"
+        },
+        {
+          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
+          "url": "https://www.cls.cn/detail/2377339",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 16时22分]"
+        },
         {
           "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
           "url": "https://www.cls.cn/detail/2377305",
@@ -325,27 +438,26 @@
           "time_info": "[06时52分 ~ 12时44分]"
         },
         {
-          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
+          "title": "A股为何逆势跳水",
+          "url": "https://www.toutiao.com/trending/7642240091305283099/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
-          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
-          "url": "https://www.cls.cn/detail/2377339",
-          "source": "财联社热门",
+          "title": "港股收盘，恒指收跌1.03%，科指收跌2.15%，科网股表现疲软，哔哩哔哩(09626.HK)收跌7.46%，百度(09888.HK)收跌5.74%。",
+          "url": "https://flash.jin10.com/detail/20260521160854011800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            1
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "英伟达美股盘后跌1.8%。",
@@ -408,13 +520,24 @@
           "time_info": "[01时31分 ~ 06时52分]"
         },
         {
+          "title": "英伟达美股盘前跌0.5%，公司Q1营收超预期增85%、指引再新高仍不够亮眼，新增回购800亿且大幅上调股息。",
+          "url": "https://wallstreetcn.com/livenews/3107285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "港股午评：恒指高开低走收跌0.02% 半导体板块延续强势",
           "url": "https://flash.jin10.com/detail/20260521120559488800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -461,6 +584,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "A股和港股午后突然下跌，分析人士：两大原因",
+          "url": "https://wallstreetcn.com/livenews/3107276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "A股跌破4100",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B7%8C%E7%A0%B44100%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "亚太盘初，纳指期货跌超0.4%，标普股指期货跌0.3%。 当前（美股盘后），AMD跌1.2%，英伟达跌1.2%，高通跌0.8%，英特尔跌0.7%，C3.ai跌0.7%，美光跌0.5%，闪迪涨0.3%。",
@@ -513,7 +658,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -527,6 +672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "A股和港股午后突然下跌，分析人士：两大原因",
+          "url": "https://flash.jin10.com/detail/20260521155413636800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "周三（5月20日），美股行业ETF多数收涨，全球航空业ETF反弹6.57%，半导体ETF涨3.81%，可选消费ETF涨2.53%，区域银行ETF涨2.38%，能源业ETF跌2.43%。",
@@ -557,7 +713,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -601,7 +757,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
@@ -609,7 +765,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "马斯克：我们正在与其他公司讨论开展同样的合作。随着时间的推移，特别是借助轨道数据中心，我们预计将以极高的规模提供人工智能服务。",
@@ -634,6 +790,18 @@
           "time_info": "06时52分"
         },
         {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 16时22分]"
+        },
+        {
           "title": "马斯克：SpaceX洽谈向其他公司提供AI计算。",
           "url": "https://wallstreetcn.com/livenews/3106972",
           "source": "华尔街见闻-快讯",
@@ -646,15 +814,15 @@
           "time_info": "[06时52分 ~ 08时06分]"
         },
         {
-          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
-          "url": "https://wallstreetcn.com/articles/3772765",
-          "source": "华尔街见闻",
+          "title": "马斯克离全球首位万亿美元富翁又近了一步",
+          "url": "https://news.ifeng.com/c/8tIqDq4kbYk",
+          "source": "凤凰网",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "16时22分"
         },
         {
           "title": "SpaceX申请美国IPO，代码SPCX。 将有两类股票：A类股和B类股。 （首次公开发行股票前）马斯克投票权合计为85.1%，将控制“SpaceX需要股东批准的事项”。 向马斯克授予2亿股业绩挂钩B类股。 特斯拉持有（SpaceX）将近1900万股A类股。 签署收购Cursor的选择权协议。",
@@ -751,7 +919,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
@@ -779,9 +947,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 16时22分]"
         },
         {
           "title": "三星罢工危机暂解，加薪6.2%，芯片部门按业绩10.5%计提奖金，以税后股票发放",
@@ -790,9 +958,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 16时22分]"
         },
         {
           "title": "英伟达CEO黄仁勋：Vera CPU的独立销售额未包含在Blackwell和Rubin芯片1万亿美元收入的预测中，Vera将成为1万亿美元预测之外最大的销售贡献来源。",
@@ -853,7 +1021,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "华泰证券：硅光技术有望成为全新增长极 关注半导体代工企业发展机会",
@@ -890,6 +1058,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "涪陵榨菜5月21日在互动平台表示，公司主业主责清晰且明确，未入股半导体企业。",
+          "url": "https://flash.jin10.com/detail/20260521155457537800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "欧洲半导体概念股普遍收涨，Soitec涨10.37%，阿斯麦控股涨6.73%，意法半导体米兰股价涨6%，BE半导体实业公司涨3.96%，ASM国际涨3.93%。",
           "url": "https://wallstreetcn.com/livenews/3106873",
           "source": "华尔街见闻-快讯",
@@ -907,7 +1086,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -947,7 +1126,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -958,7 +1137,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -969,7 +1148,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
@@ -977,7 +1156,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "一组数据看懂我国硬核算力网",
@@ -986,9 +1165,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
+          "url": "https://www.cls.cn/detail/2377636",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "SpaceX：Anthropic将在2029年5月前每月向公司支付12.5亿美元，而2026年5月和6月的算力提升期间将按较低费率计费。",
@@ -1016,7 +1206,7 @@
     },
     {
       "keyword_group": "存储",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国最牛存储公司日赚近4亿",
@@ -1025,9 +1215,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 16时22分]"
+        },
+        {
+          "title": "国产存储巨头长江存储启动 IPO 辅导，辅导券商为中信证券、中信建投证券，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040108886431118270",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "16时22分"
         },
         {
           "title": "如何看待长鑫存储 IPO 一家市值超南京总和？",
