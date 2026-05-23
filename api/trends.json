@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T16:55:44.536745+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-05-23T18:26:13.445758+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3772951",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 16时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 18时26分]"
         },
         {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
@@ -42,6 +43,30 @@
           "time_info": "[00时57分 ~ 08时06分]"
         },
         {
+          "title": "特朗普变卦前，接到电话警告“会输给中国”",
+          "url": "https://news.ifeng.com/c/8tMYpnHTqBH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时06分 ~ 18时26分]"
+        },
+        {
           "title": "特朗普将强制要求申请绿卡的外国人回国申请",
           "url": "https://flash.jin10.com/detail/20260523022626087800",
           "source": "金十数据",
@@ -53,6 +78,20 @@
           "time_info": "02时56分"
         },
         {
+          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
+          "url": "https://www.zhihu.com/question/2041148892323000444",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 18时26分]"
+        },
+        {
           "title": "美国商务部长卢特尼克捍卫总统特朗普入股英特尔的做法，要求一名法官驳回该公司股东有关这笔交易涉嫌政府非法持股的指控。",
           "url": "https://wallstreetcn.com/livenews/3108172",
           "source": "华尔街见闻-快讯",
@@ -62,6 +101,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
+          "url": "https://wallstreetcn.com/articles/3772968",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 18时26分]"
         },
         {
           "title": "如何看特朗普家族获得豁免",
@@ -87,31 +138,6 @@
           "time_info": "[14时46分 ~ 16时55分]"
         },
         {
-          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
-          "url": "https://wallstreetcn.com/articles/3772950",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时06分 ~ 14时46分]"
-        },
-        {
-          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
-          "url": "https://www.zhihu.com/question/2041148892323000444",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 16时55分]"
-        },
-        {
           "title": "特朗普儿媳再忆中国行直呼震撼",
           "url": "https://www.toutiao.com/trending/7641561881347309611/",
           "source": "今日头条",
@@ -134,6 +160,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时45分 ~ 16时55分]"
+        },
+        {
+          "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
+          "url": "https://v.ifeng.com/c/8tMPX6NaRot",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 18时26分]"
         },
         {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
@@ -162,6 +200,18 @@
           "time_info": "[12时08分 ~ 16时55分]"
         },
         {
+          "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218086",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 18时26分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗非常渴望达成和解。",
           "url": "https://wallstreetcn.com/livenews/3108228",
           "source": "华尔街见闻-快讯",
@@ -172,6 +222,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时48分]"
+        },
+        {
+          "title": "“新美联储通讯社”：特朗普选沃什本为降息，但市场已开始押注加息",
+          "url": "https://wallstreetcn.com/articles/3772936",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "美国总统特朗普夸耀股市上涨。",
@@ -221,15 +282,15 @@
           "time_info": "[00时57分 ~ 00时58分]"
         },
         {
-          "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
-          "url": "https://wallstreetcn.com/articles/3772968",
-          "source": "华尔街见闻",
+          "title": "特朗普取消出席儿子婚礼返回白宫",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E5%87%BA%E5%B8%AD%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC%E8%BF%94%E5%9B%9E%E7%99%BD%E5%AE%AB%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "特朗普政府宣布：外国人必须回本国才能申请绿卡",
@@ -241,17 +302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
-        },
-        {
-          "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
-          "url": "https://v.ifeng.com/c/8tMPX6NaRot",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
         },
         {
           "title": "美国总统特朗普：图尔西·加巴德将于6月30日离开政府；国家情报局副局长亚伦·卢卡斯将担任国家情报局代理局长。",
@@ -364,17 +414,6 @@
           "time_info": "02时56分"
         },
         {
-          "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218086",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
           "title": "美联储主席沃什：感谢美国总统特朗普。我们正处于一个重要的时刻。",
           "url": "https://flash.jin10.com/detail/20260523001217430800",
           "source": "金十数据",
@@ -466,7 +505,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "“A股不死鸟”终折翼：*ST岩石确定退市",
@@ -477,8 +516,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 16时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 18时26分]"
         },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -486,11 +525,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时06分 ~ 16时55分]"
+          "appearance_count": 7,
+          "time_info": "[08时06分 ~ 18时26分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -502,8 +542,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时06分 ~ 16时55分]"
+          "appearance_count": 7,
+          "time_info": "[08时06分 ~ 18时26分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -584,6 +624,29 @@
           "time_info": "[04时43分 ~ 08时06分]"
         },
         {
+          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
+          "url": "https://www.cls.cn/detail/2379735",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 18时26分]"
+        },
+        {
+          "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2041150006099501503",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
           "title": "美股行业ETF几乎全线收涨，半导体ETF涨约1.5%",
           "url": "https://wallstreetcn.com/livenews/3108237",
           "source": "华尔街见闻-快讯",
@@ -616,17 +679,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 00时58分]"
-        },
-        {
-          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
-          "url": "https://www.cls.cn/detail/2379735",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
         },
         {
           "title": "美股量子计算概念股延续强势，Infeqtion涨近20%",
@@ -737,9 +789,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 18时26分]"
         },
         {
           "title": "马斯克SpaceX星舰V3首飞成功",
