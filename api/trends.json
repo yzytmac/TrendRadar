@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T06:56:57.056426+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-05-23T08:06:50.673218+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 08时06分]"
         },
         {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 08时06分]"
         },
         {
           "title": "特朗普将强制要求申请绿卡的外国人回国申请",
@@ -66,6 +66,19 @@
           "time_info": "[04时42分 ~ 06时56分]"
         },
         {
+          "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
+          "url": "https://wallstreetcn.com/livenews/3108245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 08时06分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗非常渴望达成和解。",
           "url": "https://wallstreetcn.com/livenews/3108228",
           "source": "华尔街见闻-快讯",
@@ -76,18 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时48分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
-          "url": "https://wallstreetcn.com/livenews/3108245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时56分]"
         },
         {
           "title": "美国总统特朗普夸耀股市上涨。",
@@ -146,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "美国总统特朗普：图尔西·加巴德将于6月30日离开政府；国家情报局副局长亚伦·卢卡斯将担任国家情报局代理局长。",
@@ -327,7 +339,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "“A股不死鸟”终折翼：*ST岩石确定退市",
@@ -338,8 +350,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 08时06分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
+          "url": "https://wallstreetcn.com/livenews/3108276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -351,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3108274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股盘中）",
@@ -371,8 +416,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时56分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 08时06分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
@@ -382,8 +427,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时56分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 08时06分]"
         },
         {
           "title": "美股收盘：三大股指收涨 高通涨超11%",
@@ -393,8 +438,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时56分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 08时06分]"
         },
         {
           "title": "美股行业ETF几乎全线收涨，半导体ETF涨约1.5%",
@@ -418,6 +463,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 00时58分]"
+        },
+        {
+          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
+          "url": "https://www.cls.cn/detail/2379649",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "美股量子计算概念股延续强势，Infeqtion涨近20%",
@@ -495,6 +551,35 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SpaceX成功发射星舰，马斯克IPO帝国版图迎来关键大考",
+          "url": "https://wallstreetcn.com/livenews/3108267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 08时06分]"
+        },
+        {
+          "title": "马斯克SpaceX星舰V3首飞成功",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%98%9F%E8%88%B0V3%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片",
       "match_count": 2,
       "titles": [
@@ -506,8 +591,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 08时06分]"
         },
         {
           "title": "美光科技CEO Mehrotra：存储芯片供应短缺问题将持续到2026年之后。（彭博）",
@@ -519,23 +604,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX成功发射星舰，马斯克IPO帝国版图迎来关键大考",
-          "url": "https://wallstreetcn.com/livenews/3108267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
         }
       ]
     }
