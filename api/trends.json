@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T08:01:41.277066+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-05-25T12:26:39.402631+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 08时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 12时26分]"
         },
         {
           "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
@@ -234,6 +234,39 @@
           "time_info": "[08时00分 ~ 08时01分]"
         },
         {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "特朗普80岁生日前接受体检，白宫仅称“年度常规检查”，外界疑虑重重",
+          "url": "https://flash.jin10.com/detail/20260525114406456800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
           "title": "据以色列第13频道：以色列总理内塔尼亚胡在私下谈话中承认，难以对特朗普施加压力。",
           "url": "https://flash.jin10.com/detail/20260525010916654800",
           "source": "金十数据",
@@ -248,7 +281,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -288,13 +321,26 @@
           "time_info": "[00时15分 ~ 08时01分]"
         },
         {
+          "title": "龙头20CM三连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2380086",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时55分 ~ 12时26分]"
+        },
+        {
           "title": "年内已有22家港股公司退市",
           "url": "https://wallstreetcn.com/livenews/3108566",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -305,21 +351,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        },
-        {
-          "title": "龙头20CM三连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2380086",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时55分 ~ 08时01分]"
         },
         {
           "title": "A股市场波动有所放大，科技主线韧性仍存，机构：建议聚焦盈利兑现和高景气方向",
@@ -344,12 +378,67 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，美股期货、黄金齐涨、日经强势涨破65000点",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "A股午评：芯片股走强 科创50指数半日涨3.56%",
+          "url": "https://flash.jin10.com/detail/20260525113544629800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "A股PCB概念股反复活跃，鹏鼎控股2连板，股价续创历史新高，正业科技涨超10%，博敏电子、满坤科技、生益科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3108613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "A股煤炭板块开盘领涨，郑州煤电接近涨停，平煤股份、陕西黑猫、淮北矿业、兖矿能源、辽宁能源、潞安环能涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3108608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 3,
+      "match_count": 11,
       "titles": [
         {
           "title": "7只半导体热门股拟套现近127亿",
@@ -394,12 +483,100 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 05时55分]"
+        },
+        {
+          "title": "5月25日午间收评：科创50指数半日涨超3%，半导体板块延续强势",
+          "url": "https://wallstreetcn.com/livenews/3108660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "7只半导体热门股拟套现127亿",
+          "url": "https://www.baidu.com/s?wd=7%E5%8F%AA%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%83%AD%E9%97%A8%E8%82%A1%E6%8B%9F%E5%A5%97%E7%8E%B0127%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "深成指、创业板指均涨超1%，沪指涨0.62%，培育钻石、白酒、煤炭、半导体等方向涨幅居前，沪深京三市上涨个股超2000只。",
+          "url": "https://wallstreetcn.com/livenews/3108648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "华为半导体领域新突破",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A2%86%E5%9F%9F%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "华为发表半导体韬定律",
+          "url": "https://www.douyin.com/hot/2511106",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "半导体芯片股集体走强，新洁能涨停，东芯股份、晶丰明源、帝奥微、芯朋微涨超10%，寒武纪、中芯国际拉升涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3108620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "金十图示：2026年05月25日（周一）富时中国A50指数成分股午盘收盘行情一览：多数板块走强，半导体股强势上扬，炼化及贸易板块走低",
+          "url": "https://flash.jin10.com/detail/20260525113317167800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "华为正式发表半导体领域新定律，晶体管密度与系统性能通过逻辑折叠技术实现新突破",
+          "url": "https://wallstreetcn.com/livenews/3108603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     },
     {
       "keyword_group": "科创",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "今年以来科创债发行超8000亿元",
@@ -408,9 +585,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "上证指数早盘收报4136.25点，涨0.57%。 深证成指早盘收报15732.86点，涨0.87%。 创业板指早盘收报3983.30点，涨1.14%。 沪深300早盘收报4889.40点，涨0.91%。 科创50早盘收报1854.56点，涨3.56%。 中证500早盘收报8629.02点，涨0.61%。 中证1000早盘收报8758.65点，涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3108661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "政策红利持续释放 今年以来科创债发行超8000亿元",
@@ -423,43 +611,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 08时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "存储热引爆氢氟酸行情？ 业内：整体价格企稳 G5级氢氟酸有望走强",
-          "url": "https://www.cls.cn/detail/2380130",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 08时01分]"
         },
         {
-          "title": "存储巨头冲刺IPO",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E5%B7%A8%E5%A4%B4%E5%86%B2%E5%88%BAIPO%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "上证指数开盘报4126.34点，涨0.33%。 深证成指开盘报15716.39点，涨0.76%。 创业板指开盘报3974.97点，涨0.93%。 沪深300开盘报4873.20点，涨0.58%。 科创50开盘报1791.67点，涨0.05%。 中证500开盘报8631.21点，涨0.63%。 中证1000开盘报8756.46点，涨0.73%。",
+          "url": "https://wallstreetcn.com/livenews/3108605",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            28
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     },
     {
       "keyword_group": "算力",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "算力巨头超聚变闯关创业板，80亿募资要下怎样一盘棋？",
@@ -483,6 +651,115 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时19分]"
+        },
+        {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "香港交易所回应“算力期货布局规划”：暂无评论可提供，将来如有相关信息将及时公布。（一财）",
+          "url": "https://wallstreetcn.com/livenews/3108615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "存储热引爆氢氟酸行情？ 业内：整体价格企稳 G5级氢氟酸有望走强",
+          "url": "https://www.cls.cn/detail/2380130",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 12时26分]"
+        },
+        {
+          "title": "存储巨头冲刺IPO",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E5%B7%A8%E5%A4%B4%E5%86%B2%E5%88%BAIPO%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
+          "title": "存储热潮愈演愈烈！奖金拿到手软 三星、SK海力士员工涌入豪车展厅",
+          "url": "https://www.cls.cn/detail/2380008",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华为麒麟2026手机芯片今秋面世",
+          "url": "https://www.toutiao.com/trending/7643436000194199579/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "华为：今年秋季面世的麒麟手机芯片性能将大幅提升",
+          "url": "https://wallstreetcn.com/livenews/3108621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "寒武纪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "寒武纪涨逾11%，股价刷新历史新高，总市值超9000亿元。",
+          "url": "https://wallstreetcn.com/livenews/3108624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     }
