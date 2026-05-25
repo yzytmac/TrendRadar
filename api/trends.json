@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T20:15:15.857434+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-05-25T23:32:18.426679+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -67,6 +67,19 @@
           "time_info": "[00时15分 ~ 08时01分]"
         },
         {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时45分 ~ 23时32分]"
+        },
+        {
           "title": "特朗普一季度做了3711笔证券交易",
           "url": "https://www.toutiao.com/trending/7643303101427879430/",
           "source": "今日头条",
@@ -84,16 +97,15 @@
           "time_info": "[01时19分 ~ 08时01分]"
         },
         {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
+          "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
+          "url": "https://v.ifeng.com/c/8tPourOxMbK",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时45分 ~ 20时15分]"
+          "time_info": "[20时14分 ~ 23时32分]"
         },
         {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
@@ -124,17 +136,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时15分 ~ 06时57分]"
-        },
-        {
-          "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
-          "url": "https://v.ifeng.com/c/8tPourOxMbK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
         },
         {
           "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
@@ -184,6 +185,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时53分 ~ 08时01分]"
+        },
+        {
+          "title": "美司法部：白宫附近枪击案是针对特朗普的暗杀图谋",
+          "url": "https://wallstreetcn.com/livenews/3108956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
@@ -313,13 +325,35 @@
           "time_info": "02时37分"
         },
         {
+          "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
+          "url": "https://wallstreetcn.com/livenews/3108943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "特朗普称伊朗核谈判“进展顺利”，协议似乎即将达成",
+          "url": "https://wallstreetcn.com/livenews/3108939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "特朗普：不会签署让伊朗获得核武器的协议",
           "url": "https://wallstreetcn.com/livenews/3108835",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         }
@@ -327,7 +361,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "7只半导体热门股拟套现近127亿",
@@ -360,6 +394,17 @@
           "time_info": "[00时15分 ~ 08时01分]"
         },
         {
+          "title": "人民锐评：半导体迎来“韬（τ）定律” 中国定义将改写世界",
+          "url": "https://www.cls.cn/detail/2380675",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时14分 ~ 23时32分]"
+        },
+        {
           "title": "7 家半导体公司股价刚创新高就减持，套现金额可达 127 亿元，如何解读这波操作？对半导体产业意味着什么？",
           "url": "https://www.zhihu.com/question/2042169548472677366",
           "source": "知乎",
@@ -381,17 +426,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时45分 ~ 20时15分]"
-        },
-        {
-          "title": "人民锐评：半导体迎来“韬（τ）定律” 中国定义将改写世界",
-          "url": "https://www.cls.cn/detail/2380675",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
         },
         {
           "title": "半导体扩产预期升温 设备板块集体井喷 机构看好国产化进程",
@@ -437,7 +471,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -453,6 +487,18 @@
           "time_info": "12时26分"
         },
         {
+          "title": "创业板涨超2%，科创50狂飙近6%，芯片半导体大爆发，中芯国际涨停、寒武纪创历史新高，“双焦”强势涨停",
+          "url": "https://wallstreetcn.com/articles/3773021",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时14分 ~ 23时32分]"
+        },
+        {
           "title": "华为发表半导体韬定律",
           "url": "https://www.cls.cn/detail/2380319",
           "source": "财联社热门",
@@ -463,6 +509,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时45分 ~ 20时15分]"
+        },
+        {
+          "title": "豆浆店竟是台湾半导体发源地",
+          "url": "https://www.toutiao.com/trending/7643593515133419583/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时14分 ~ 23时32分]"
         },
         {
           "title": "7只半导体热门股拟套现127亿",
@@ -477,33 +535,11 @@
           "time_info": "[12时26分 ~ 16时46分]"
         },
         {
-          "title": "创业板涨超2%，科创50狂飙近6%，芯片半导体大爆发，中芯国际涨停、寒武纪创历史新高，“双焦”强势涨停",
-          "url": "https://wallstreetcn.com/articles/3773021",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
-        },
-        {
           "title": "半导体芯片股集体涨停",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%8A%AF%E7%89%87%E8%82%A1%E9%9B%86%E4%BD%93%E6%B6%A8%E5%81%9C",
           "source": "bilibili 热搜",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
-        },
-        {
-          "title": "豆浆店竟是台湾半导体发源地",
-          "url": "https://www.toutiao.com/trending/7643593515133419583/",
-          "source": "今日头条",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -519,6 +555,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时14分 ~ 20时15分]"
+        },
+        {
+          "title": "24只半导体股创新高",
+          "url": "https://www.toutiao.com/trending/7643792817097018907/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "人民锐评：半导体迎来“韬（τ）定律” 中国定义将改写世界",
@@ -601,7 +648,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -721,6 +768,17 @@
           "time_info": "[16时45分 ~ 16时46分]"
         },
         {
+          "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
+          "url": "https://www.cls.cn/detail/2381067",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
+        },
+        {
           "title": "美股三大股指期货走高，标普500期货、道指期货涨约0.5%，纳斯达克100期货上涨0.6%。",
           "url": "https://flash.jin10.com/detail/20260525060644652800",
           "source": "金十数据",
@@ -753,6 +811,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时45分 ~ 16时46分]"
+        },
+        {
+          "title": "A股有110只个股至少连跌5天",
+          "url": "https://www.toutiao.com/trending/7643432895135416329/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "中国500万美股账户被冻结 后续怎么办",
@@ -827,22 +896,22 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "麒麟2026芯片性能大幅提升",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BA%92%E9%BA%9F2026%E8%8A%AF%E7%89%87%E6%80%A7%E8%83%BD%E5%A4%A7%E5%B9%85%E6%8F%90%E5%8D%87%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
-        },
-        {
           "title": "华为正式发表“韬（τ）定律”！今秋面世的麒麟手机芯片性能将大幅提升",
           "url": "https://wallstreetcn.com/articles/3773020",
           "source": "华尔街见闻",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时14分 ~ 23时32分]"
+        },
+        {
+          "title": "麒麟2026芯片性能大幅提升",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BA%92%E9%BA%9F2026%E8%8A%AF%E7%89%87%E6%80%A7%E8%83%BD%E5%A4%A7%E5%B9%85%E6%8F%90%E5%8D%87%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -864,11 +933,12 @@
           "url": "https://wallstreetcn.com/articles/3773040",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
+          "appearance_count": 4,
+          "time_info": "[20时14分 ~ 23时32分]"
         },
         {
           "title": "中国芯片走出不同于西方的路",
@@ -910,7 +980,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -929,7 +999,7 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "今年以来科创债发行超8000亿元",
@@ -954,6 +1024,18 @@
           "time_info": "12时26分"
         },
         {
+          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
+          "url": "https://www.cls.cn/detail/2380739",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时14分 ~ 23时32分]"
+        },
+        {
           "title": "政策红利持续释放 今年以来科创债发行超8000亿元",
           "url": "https://flash.jin10.com/detail/20260525062534587800",
           "source": "金十数据",
@@ -966,26 +1048,27 @@
           "time_info": "[06时57分 ~ 08时01分]"
         },
         {
-          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
-          "url": "https://www.cls.cn/detail/2380739",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
-        },
-        {
           "title": "【焦点复盘】创业板指涨逾2%收复4000点，全市场连续2日超百股涨停，科创芯片股批量创历史新高",
           "url": "https://www.cls.cn/detail/2380774",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时14分 ~ 23时32分]"
+        },
+        {
+          "title": "宇树科技科创板IPO将于6月1日上会",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%A7%91%E5%88%9B%E6%9D%BFIPO%E5%B0%86%E4%BA%8E6%E6%9C%881%E6%97%A5%E4%B8%8A%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "科创50创出历史新高",
@@ -1127,9 +1210,37 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中芯国际20cm涨停",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%8520cm%E6%B6%A8%E5%81%9C%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 20时15分]"
+        },
+        {
+          "title": "中芯国际市值超1.2万亿",
+          "url": "https://www.toutiao.com/trending/7643831945524153919/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         }
       ]
     },
@@ -1144,26 +1255,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中芯国际",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中芯国际20cm涨停",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%8520cm%E6%B6%A8%E5%81%9C%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
         }
       ]
     },
@@ -1178,7 +1272,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         }
