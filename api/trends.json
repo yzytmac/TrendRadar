@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T10:54:19.714385+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-05-26T14:45:13.984163+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -36,9 +36,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 14时45分]"
+        },
+        {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 14时45分]"
         },
         {
           "title": "据Axios记者：特朗普有关伊朗浓缩铀的最新表态似乎表明美国在浓缩铀库存问题上的立场有所软化，更接近伊朗在这一问题上的立场。",
@@ -114,16 +127,27 @@
           "time_info": "[06时45分 ~ 07时49分]"
         },
         {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
+          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
+          "url": "https://www.cls.cn/detail/2381211",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            7
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时48分 ~ 10时54分]"
+          "time_info": "[10时54分 ~ 14时45分]"
+        },
+        {
+          "title": "特朗普冰火两重天：一边准备最精彩演出庆生，一边支持率创新低",
+          "url": "https://news.ifeng.com/c/8tRHolWd0Kl",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
           "title": "据AXIOS：一位美国高级官员透露，特朗普政府将支持以色列加大对真主党的军事打击力度。",
@@ -186,17 +210,6 @@
           "time_info": "[03时00分 ~ 04时26分]"
         },
         {
-          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
-          "url": "https://www.cls.cn/detail/2381211",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
           "title": "浓缩铀交给美国？特朗普扔最新方案，多家媒体爆料：霍尔木兹30天内打通，伊朗石油获豁免",
           "url": "https://flash.jin10.com/detail/20260526071724879800",
           "source": "金十数据",
@@ -214,7 +227,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -236,7 +249,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -266,7 +279,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
@@ -296,6 +309,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时20分 ~ 07时49分]"
+        },
+        {
+          "title": "港股大模型概念股午后持续走高，智谱涨近10%，站上1400港元，股价创新高，MiniMax涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3109221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "美股三大股指期货涨幅收窄，纳斯达克100指数期货现涨1%，道指期货、标普500指数期货涨约0.7%。",
@@ -344,6 +368,17 @@
           "time_info": "[07时48分 ~ 07时49分]"
         },
         {
+          "title": "A股行情分化 散户直言赚钱好难",
+          "url": "https://www.toutiao.com/trending/7643434140397961279/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
           "title": "美股三大股指期货走高，纳斯达克期货上涨1.3%，标普500指数期货涨0.9%，道指期货涨0.87%。",
           "url": "https://flash.jin10.com/detail/20260526060620011800",
           "source": "金十数据",
@@ -361,7 +396,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -372,7 +407,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -388,15 +423,59 @@
           "time_info": "07时49分"
         },
         {
+          "title": "A股商业航天板块震荡走弱，航天动力触及跌停，西部材料跌近8%，信维通信、航宇微跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3109215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "A股有色·铝概念午后活跃，中国铝业逼近涨停，南山铝业、云铝股份、天山铝业、神火股份、新疆众和跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3109214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "A股小金属概念水下拉起，红星发展、招金黄金、新金路涨停，甬金股份、三祥新材、金钼股份、中国铝业等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260526103317537800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "一个危险信号正在闪烁：买美股和买美债的预期回报已几乎没差别",
+          "url": "https://flash.jin10.com/detail/20260526142116078800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "A股玻纤概念股异动拉升，山东玻纤午后涨停，中国巨石、宏和科技、国际复材、南玻A涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3109210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "中国500万美股账户被冻结 后续怎么办",
@@ -416,7 +495,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -427,7 +506,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -449,7 +528,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         }
@@ -457,7 +536,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "人民锐评：半导体迎来“韬（τ）定律” 中国定义将改写世界",
@@ -475,11 +554,12 @@
           "url": "https://wallstreetcn.com/articles/3773021",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时20分 ~ 10时54分]"
+          "appearance_count": 11,
+          "time_info": "[01时20分 ~ 14时45分]"
         },
         {
           "title": "芯片半导体暴涨",
@@ -512,9 +592,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "中韩半导体ETF华泰柏瑞、全球芯片LOF将于2026年5月26日下午开市起停牌至当日收市。",
+          "url": "https://wallstreetcn.com/livenews/3109200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "金百泽：相关能力可应用于半导体产业链相关环节 但现阶段处于产品研发迭代阶段",
@@ -523,7 +614,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         }
@@ -531,8 +622,20 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "【早报】广东1000亿战新基金正式启动；宇树科技科创板IPO6月1日上会",
+          "url": "https://www.cls.cn/detail/2381183",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 14时45分]"
+        },
         {
           "title": "【焦点复盘】创业板指涨逾2%收复4000点，全市场连续2日超百股涨停，科创芯片股批量创历史新高",
           "url": "https://www.cls.cn/detail/2380774",
@@ -558,18 +661,6 @@
           "time_info": "[01时20分 ~ 07时49分]"
         },
         {
-          "title": "【早报】广东1000亿战新基金正式启动；宇树科技科创板IPO6月1日上会",
-          "url": "https://www.cls.cn/detail/2381183",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 10时54分]"
-        },
-        {
           "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
           "url": "https://www.cls.cn/detail/2380739",
           "source": "财联社热门",
@@ -582,13 +673,24 @@
           "time_info": "[01时20分 ~ 06时45分]"
         },
         {
+          "title": "创业板午后翻红，科创50跌超2%，芯片集体调整，恒科指涨近2%，中芯国际盘中大涨16%",
+          "url": "https://wallstreetcn.com/articles/3773113",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
           "title": "机器人概念股逆势活跃，首开股份触及涨停，长盛轴承、中大力德、金发科技、上纬新材、三瑞智能涨超6%，据上交所上市委消息，宇树科技科创板IPO将于6月1日上会，拟募资42.02亿元。",
           "url": "https://wallstreetcn.com/livenews/3109114",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -599,7 +701,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         }
@@ -607,8 +709,22 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "华为τ缩放：芯片竞争从“节点”转向“时间”",
+          "url": "https://wallstreetcn.com/articles/3773040",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时20分 ~ 14时45分]"
+        },
         {
           "title": "华为正式发表“韬（τ）定律”！今秋面世的麒麟手机芯片性能将大幅提升",
           "url": "https://wallstreetcn.com/articles/3773020",
@@ -623,19 +739,6 @@
           "time_info": "[01时20分 ~ 07时49分]"
         },
         {
-          "title": "华为τ缩放：芯片竞争从“节点”转向“时间”",
-          "url": "https://wallstreetcn.com/articles/3773040",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时20分 ~ 10时54分]"
-        },
-        {
           "title": "8000亿国产芯片一哥是如何崛起的",
           "url": "https://www.toutiao.com/trending/7643715760035991103/",
           "source": "今日头条",
@@ -646,13 +749,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时00分 ~ 06时45分]"
+        },
+        {
+          "title": "深圳“十五五”规划纲要：到2030年全市实时可用算力规模超150EFlops，国产芯片部分指标和算力集群达到国际先进水平",
+          "url": "https://wallstreetcn.com/livenews/3109192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         }
       ]
     },
     {
       "keyword_group": "人形机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "人形机器人第一股大考在即，谁是宇树科技IPO背后的超级赢家？",
+          "url": "https://www.cls.cn/detail/2381451",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
         {
           "title": "全球人形机器人约90%来自中国",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BA%A690%25%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
@@ -660,7 +785,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -671,9 +796,54 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中贝通信：公司各项算力项目均在稳步推进 供应商变动不会产生实质性不利影响",
+          "url": "https://flash.jin10.com/detail/20260526143454370800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "算力租赁，遭传闻突袭！上市公司回应",
+          "url": "https://flash.jin10.com/detail/20260526135617609800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "存储散热新技术！SK海力士发布iHBM冷却方案 可降低热阻超30%",
+          "url": "https://www.cls.cn/detail/2381297",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
         }
       ]
     },
