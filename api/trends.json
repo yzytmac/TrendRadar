@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T05:31:33.109781+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-05-29T06:59:29.734829+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时59分]"
         },
         {
           "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
@@ -37,9 +37,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时59分]"
         },
         {
           "title": "金十图示：2026年05月28日（周四）热门中概股行情一览（美股盘中）",
@@ -53,28 +53,6 @@
           "time_info": "00时35分"
         },
         {
-          "title": "戴尔科技美股盘后涨幅扩大至27%。",
-          "url": "https://wallstreetcn.com/livenews/3110950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "惠与（HPE）美股盘后涨9%。",
-          "url": "https://wallstreetcn.com/livenews/3110944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
           "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
           "url": "https://www.cls.cn/detail/2384590",
           "source": "财联社热门",
@@ -83,8 +61,64 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时59分]"
+        },
+        {
+          "title": "A股进入2025年年度分红密集实施期",
+          "url": "https://flash.jin10.com/detail/20260529065124908800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "A股进入2025年年度分红密集实施期",
+          "url": "https://wallstreetcn.com/livenews/3110979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "证券日报：A股券商板块估值修复潜力凸显",
+          "url": "https://wallstreetcn.com/livenews/3110978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "惠与（HPE）美股盘后涨9%。",
+          "url": "https://wallstreetcn.com/livenews/3110944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "戴尔科技美股盘后涨幅扩大至27%。",
+          "url": "https://wallstreetcn.com/livenews/3110950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时59分]"
         },
         {
           "title": "戴尔科技美股盘后涨幅扩大至22%。",
@@ -93,9 +127,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "戴尔美股盘后狂飙将近40%，高管直呼“AI机遇未见放缓迹象”",
+          "url": "https://wallstreetcn.com/livenews/3110974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "戴尔美股盘后涨幅扩大至35%，纳指期货目前持平。",
+          "url": "https://wallstreetcn.com/livenews/3110972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "周四（5月28日），美股行业ETF涨跌各异，网络股指数ETF收涨1.63%，全球科技股指数ETF涨1.44%，医疗业ETF涨1.40%，能源业ETF、银行业ETF、金融业ETF至多跌0.29%，公用事业ETF跌1.13%。",
@@ -104,7 +171,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -115,7 +182,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -137,9 +204,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "A股集体大涨原因",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8%E5%8E%9F%E5%9B%A0&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         }
       ]
     },
@@ -155,8 +233,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时59分]"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -166,8 +244,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时59分]"
         },
         {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
@@ -178,8 +256,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时59分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -189,8 +267,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时59分]"
         },
         {
           "title": "据福克斯新闻记者：美国消息人士向白宫记者团证实，美国和伊朗已达成一项初步协议，但该协议尚待特朗普总统批准。",
@@ -254,7 +332,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -265,7 +343,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -294,8 +372,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时59分]"
+        },
+        {
+          "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
+          "url": "https://www.cls.cn/detail/2384655",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时59分]"
         },
         {
           "title": "何庭波三分钟详解华为韬（τ）定律：芯片发展有了加速度，未来10年我们不会越来越远，只会越来越好",
@@ -305,20 +396,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时31分]"
-        },
-        {
-          "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
-          "url": "https://www.cls.cn/detail/2384655",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时59分]"
         },
         {
           "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
@@ -329,8 +408,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时59分]"
         },
         {
           "title": "比亚迪发布中国首款4nm智驾芯片",
@@ -341,19 +420,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时59分]"
         },
         {
           "title": "中国自研高算力芯片突破4纳米",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%A0%94%E9%AB%98%E7%AE%97%E5%8A%9B%E8%8A%AF%E7%89%87%E7%AA%81%E7%A0%B44%E7%BA%B3%E7%B1%B3%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 05时31分]"
+          "appearance_count": 4,
+          "time_info": "[03时22分 ~ 06时59分]"
         },
         {
           "title": "评论员：国产芯片开启全面突围时代",
@@ -384,7 +464,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -403,7 +483,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "仅差1个涨停！“算力新贵”市值剑指茅台，板块均价位次更迭，这些行业紧追白酒",
@@ -414,8 +494,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时59分]"
         },
         {
           "title": "午后反转！创业板涨2%，算力硬件大爆发，“易中天”齐创新高，恒指跌超1%，科网股集体低迷",
@@ -426,8 +506,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时59分]"
+        },
+        {
+          "title": "AI算力需求增加，多家公司加速布局高端电子电路铜箔领域",
+          "url": "https://wallstreetcn.com/livenews/3110977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "算力价格",
@@ -435,11 +526,12 @@
           "source": "微博",
           "ranks": [
             20,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 05时31分]"
+          "appearance_count": 4,
+          "time_info": "[03时22分 ~ 06时59分]"
         }
       ]
     },
@@ -455,8 +547,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时59分]"
         },
         {
           "title": "纽约市长效仿美国总统与马斯克的DOGE，推出COGE计划",
@@ -482,7 +574,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -493,7 +585,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         }
