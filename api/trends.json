@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-29T16:34:00.476302+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-05-29T19:57:12.990558+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时15分 ~ 19时57分]"
+        },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 06时59分]"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时15分 ~ 16时34分]"
         },
         {
           "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
@@ -89,6 +90,17 @@
           "time_info": "[06时59分 ~ 12时46分]"
         },
         {
+          "title": "今日A股下跌的原因是什么",
+          "url": "https://www.toutiao.com/trending/7644850608377266219/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
           "title": "金十图示：2026年05月28日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260529003024162800",
           "source": "金十数据",
@@ -117,7 +129,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -169,6 +181,18 @@
           "time_info": "[06时59分 ~ 08时16分]"
         },
         {
+          "title": "A股5月收官",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A15%E6%9C%88%E6%94%B6%E5%AE%98&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时57分]"
+        },
+        {
           "title": "戴尔美股盘后狂飙将近40%，高管直呼“AI机遇未见放缓迹象”",
           "url": "https://wallstreetcn.com/livenews/3110974",
           "source": "华尔街见闻-快讯",
@@ -194,14 +218,25 @@
         },
         {
           "title": "A股5月收官",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A15%E6%9C%88%E6%94%B6%E5%AE%98&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "url": "https://www.toutiao.com/trending/7644509101556908068/",
+          "source": "今日头条",
           "ranks": [
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
+          "title": "A股平均股价14.95元 55股不足2元",
+          "url": "https://www.toutiao.com/trending/7644153339986427942/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "戴尔科技美股盘后涨幅扩大至22%。",
@@ -254,7 +289,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -265,7 +300,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -364,7 +399,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -394,7 +429,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
@@ -464,11 +499,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 16时34分]"
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 19时57分]"
         },
         {
           "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
@@ -476,11 +512,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时15分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[08时15分 ~ 19时57分]"
         },
         {
           "title": "中国自研高算力芯片突破4纳米",
@@ -495,6 +532,28 @@
           "time_info": "[03时22分 ~ 06时59分]"
         },
         {
+          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
+          "url": "https://www.zhihu.com/question/2042260682780009473",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时57分]"
+        },
+        {
+          "title": "史上首款2nm芯片性能分析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%BE2nm%E8%8A%AF%E7%89%87%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时57分]"
+        },
+        {
           "title": "从“卖卡”到“卖Token”：AI算力市场重构与国产芯片的窗口期|深度",
           "url": "https://www.cls.cn/detail/2384876",
           "source": "财联社热门",
@@ -507,28 +566,6 @@
           "time_info": "[12时46分 ~ 16时34分]"
         },
         {
-          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
-          "url": "https://www.zhihu.com/question/2042260682780009473",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
-          "title": "史上首款2nm芯片性能分析",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%BE2nm%E8%8A%AF%E7%89%87%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
           "title": "中国芯片又传来好消息",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%8F%88%E4%BC%A0%E6%9D%A5%E5%A5%BD%E6%B6%88%E6%81%AF",
           "source": "百度热搜",
@@ -538,6 +575,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
+          "title": "芯片股集体暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%AF%E7%89%87%E8%82%A1%E9%9B%86%E4%BD%93%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "评论员：国产芯片开启全面突围时代",
@@ -579,7 +627,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -623,8 +671,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 16时34分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 19时57分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -656,8 +704,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时57分]"
         },
         {
           "title": "据福克斯新闻记者：美国消息人士向白宫记者团证实，美国和伊朗已达成一项初步协议，但该协议尚待特朗普总统批准。",
@@ -773,8 +821,20 @@
     },
     {
       "keyword_group": "存储",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
+          "url": "https://www.cls.cn/detail/2385245",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时57分]"
+        },
         {
           "title": "估值上天，杠杆拉满！存储热催生个股杠杆ETF历史级“投机风潮”",
           "url": "https://www.cls.cn/detail/2385028",
@@ -796,17 +856,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
-        },
-        {
-          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
-          "url": "https://www.cls.cn/detail/2385245",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "长江存储陈南翔谈华为“韬定律”",
@@ -851,6 +900,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "存储器产品出口量稳价升 物流企业称单笔过亿大单增多",
+          "url": "https://flash.jin10.com/detail/20260529193701213800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【焦点复盘】科创50指数放量跌超5%，半导体产业链遭深幅回调，地产产业链逆势大涨",
+          "url": "https://www.cls.cn/detail/2385496",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
+          "title": "打破传统盛衰周期！全球半导体设备龙头：行业迎来史上最好时代",
+          "url": "https://www.cls.cn/detail/2385006",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
+          "title": "四大股指齐跌 半导体产业链深度回调",
+          "url": "https://www.toutiao.com/trending/7644246196043694116/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
+          "title": "上交所：本周对301起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对中韩半导体ETF、全球芯片LOF等溢价较高的基金，*ST春天、泰金新能等严重异常波动股票、*ST正平等异常波动退市风险警示股票以及退市观典进行重点监控。",
+          "url": "https://wallstreetcn.com/livenews/3111378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.48%，报6586.59点，跳空低开之后、早盘形成V形走势，大部分时间高位震荡。 热门中概股里，逸仙电商初步收涨18.2%，微易芯涨8.2%，爱奇艺涨8%，阿特斯太阳能涨6.8%，万国数据涨4.1%，日月光半导体涨3.7%，百度涨1.7%，小米涨0.9%，阿里跌1.3%，腾讯跌1.7%，蔚来跌3.2%，拼多多跌4.1%，美团跌4.8%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.11%，MSCI新兴市场ex中国ETF（EMXC）收涨0.61%，XtrackersHarvest中证50（ASHS）收涨1.14%，中概互联网指数ETF（KWEB）收跌1.41%，中国科技指数ETF（CQQQ）收涨0.39%。",
+          "url": "https://wallstreetcn.com/livenews/3110919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美国股市创收盘历史新高，半导体指数涨1%",
+          "url": "https://wallstreetcn.com/livenews/3110917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     },
@@ -923,56 +1055,6 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "打破传统盛衰周期！全球半导体设备龙头：行业迎来史上最好时代",
-          "url": "https://www.cls.cn/detail/2385006",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
-          "title": "四大股指齐跌 半导体产业链深度回调",
-          "url": "https://www.toutiao.com/trending/7644246196043694116/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.48%，报6586.59点，跳空低开之后、早盘形成V形走势，大部分时间高位震荡。 热门中概股里，逸仙电商初步收涨18.2%，微易芯涨8.2%，爱奇艺涨8%，阿特斯太阳能涨6.8%，万国数据涨4.1%，日月光半导体涨3.7%，百度涨1.7%，小米涨0.9%，阿里跌1.3%，腾讯跌1.7%，蔚来跌3.2%，拼多多跌4.1%，美团跌4.8%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.11%，MSCI新兴市场ex中国ETF（EMXC）收涨0.61%，XtrackersHarvest中证50（ASHS）收涨1.14%，中概互联网指数ETF（KWEB）收跌1.41%，中国科技指数ETF（CQQQ）收涨0.39%。",
-          "url": "https://wallstreetcn.com/livenews/3110919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "美国股市创收盘历史新高，半导体指数涨1%",
-          "url": "https://wallstreetcn.com/livenews/3110917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
       "match_count": 2,
       "titles": [
@@ -1002,8 +1084,19 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "上证50、科创50等指数调整样本，华虹公司、源杰科技等热门股被纳入多条指数",
+          "url": "https://www.cls.cn/detail/2385558",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
         {
           "title": "上证指数早盘收报4083.62点，跌0.37%。 深证成指早盘收报15704.04点，跌1.00%。 创业板指早盘收报4077.94点，跌1.14%。 沪深300早盘收报4917.02点，涨0.06%。 科创50早盘收报1777.24点，跌3.63%。 中证500早盘收报8425.69点，跌1.61%。 中证1000早盘收报8477.09点，跌1.86%。",
           "url": "https://wallstreetcn.com/livenews/3111111",
@@ -1018,6 +1111,23 @@
       ]
     },
     {
+      "keyword_group": "光模块",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "麦捷科技：Bias-Tee模块、磁珠和电感等相关产品已经直接或间接供货光模块客户",
+          "url": "https://flash.jin10.com/detail/20260529194731494800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "宁德时代",
       "match_count": 1,
       "titles": [
@@ -1026,11 +1136,12 @@
           "url": "https://www.toutiao.com/trending/7645160727468052006/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时57分]"
         }
       ]
     }
