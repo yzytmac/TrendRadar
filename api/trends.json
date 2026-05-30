@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T07:49:46.143639+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-05-30T10:50:18.692464+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
@@ -53,6 +53,19 @@
           "time_info": "[02时19分 ~ 06时20分]"
         },
         {
+          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2385789",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 10时50分]"
+        },
+        {
           "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。",
           "url": "https://wallstreetcn.com/livenews/3111637",
           "source": "华尔街见闻-快讯",
@@ -62,18 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
-        },
-        {
-          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2385789",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 07时49分]"
         },
         {
           "title": "周五（5月29日），美股人工智能（AI）赢家指数行1.70%，报424.90点，本周累涨6.44%，5月份累涨19%。",
@@ -113,6 +114,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时43分 ~ 07时49分]"
+        },
+        {
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 10时50分]"
         },
         {
           "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
@@ -174,22 +187,33 @@
           "time_info": "[06时20分 ~ 07时49分]"
         },
         {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
-          "source": "财联社热门",
+          "title": "MiniMax启动A股IPO辅导备案",
+          "url": "https://wallstreetcn.com/livenews/3111690",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时49分"
+          "time_info": "10时50分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "特朗普肖像纪念钞能流通吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%82%96%E5%83%8F%E7%BA%AA%E5%BF%B5%E9%92%9E%E8%83%BD%E6%B5%81%E9%80%9A%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
         {
           "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
           "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
@@ -200,6 +224,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时19分 ~ 07时49分]"
+        },
+        {
+          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
+          "url": "https://wallstreetcn.com/articles/3773469",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时20分 ~ 10时50分]"
         },
         {
           "title": "特朗普签署法令，放宽美国联邦土地准入限制",
@@ -225,25 +262,13 @@
           "time_info": "[04时43分 ~ 07时49分]"
         },
         {
-          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
-          "url": "https://wallstreetcn.com/articles/3773469",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时49分]"
-        },
-        {
           "title": "美国将对法官要求广泛退还特朗普关税的裁决提出上诉",
           "url": "https://wallstreetcn.com/livenews/3111660",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -254,7 +279,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -268,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：美国总统特朗普今年将在国防上进行1.5万亿美元的代际投资。",
+          "url": "https://flash.jin10.com/detail/20260530085921874800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "美国财长贝森特：应当将总统特朗普印到250面值美元上。",
@@ -304,11 +340,12 @@
           "ranks": [
             7,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 07时49分]"
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 10时50分]"
         },
         {
           "title": "【焦点复盘】科创50指数放量跌超5%，半导体产业链遭深幅回调，地产产业链逆势大涨",
@@ -347,11 +384,12 @@
             17,
             11,
             13,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 07时49分]"
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 10时50分]"
         },
         {
           "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
@@ -374,8 +412,36 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时49分]"
+          "appearance_count": 3,
+          "time_info": "[06时20分 ~ 10时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "蓝色起源火箭测试中爆炸，贝索斯“太空梦”受挫，马斯克：火箭就是这么难",
+          "url": "https://wallstreetcn.com/articles/3773436",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX很对美国“金穹”反导系统卫星赢得40亿美元合同。",
+          "url": "https://wallstreetcn.com/livenews/3111614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         }
       ]
     },
@@ -391,43 +457,38 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 07时49分]"
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 10时50分]"
         },
         {
           "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
           "url": "https://www.cls.cn/detail/2385959",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克旗下太空探索公司SpaceX很对美国“金穹”反导系统卫星赢得40亿美元合同。",
-          "url": "https://wallstreetcn.com/livenews/3111614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            13,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 10时50分]"
         }
       ]
     },
     {
       "keyword_group": "宁德时代",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "中国工程院院士、宁德时代首席科学家吴凯：今年实现钠离子电池规模量产，下一步聚焦锂空气电池研发",
+          "url": "https://wallstreetcn.com/livenews/3111704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
         {
           "title": "张雪拿下宁德时代大单",
           "url": "https://www.toutiao.com/trending/7645160727468052006/",
@@ -440,6 +501,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时19分 ~ 07时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高温提前叠加算力负荷高增，电力板块或迎来业绩与估值双重提升",
+          "url": "https://wallstreetcn.com/livenews/3111676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     }
