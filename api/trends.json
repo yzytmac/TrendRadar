@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-01T03:49:30.367838+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-06-01T04:58:01.356950+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
           "url": "https://wallstreetcn.com/articles/3773514",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "特朗普将伊拉克纳入特使汤姆·巴拉克治叙职能范围",
@@ -26,19 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时49分]"
-        },
-        {
-          "title": "叙利亚总统沙拉与特朗普通电话，沙拉告诉特朗普解除对叙利亚剩余的制裁措施是重振叙利亚经济的重要一步。",
-          "url": "https://flash.jin10.com/detail/20260601025902421800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "多名艺人辞演后特朗普决定自己上台",
@@ -47,11 +37,12 @@
           "ranks": [
             8,
             12,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "特朗普肖像上250美元钞票有哪些难题",
@@ -59,11 +50,24 @@
           "source": "今日头条",
           "ranks": [
             18,
-            21
+            21,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
+        },
+        {
+          "title": "叙利亚总统沙拉与特朗普通电话，沙拉告诉特朗普解除对叙利亚剩余的制裁措施是重振叙利亚经济的重要一步。",
+          "url": "https://flash.jin10.com/detail/20260601025902421800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时58分]"
         },
         {
           "title": "据以色列第12频道：内塔尼亚胡试图说服特朗普扩大军事行动范围，将贝鲁特纳入其中。",
@@ -76,6 +80,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时49分]"
+        },
+        {
+          "title": "美媒称特朗普政府损失大量法律人才 特朗普：是件好事",
+          "url": "https://flash.jin10.com/detail/20260601042418213800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
         },
         {
           "title": "美国总统特朗普：白宫舞厅屋顶的无人机港口可能将成为世界上最先进的设施！它将长期保障我国首都华盛顿特区的安全。",
@@ -102,8 +117,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
@@ -113,8 +128,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -124,8 +139,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "A股新一轮抱团还能走多远",
@@ -163,11 +178,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "芯片三巨头齐聚！COMPUTEX下周揭幕 哪些亮点值得期待？",
@@ -177,8 +193,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "景顺长城全球芯片LOF将于2026年6月1日开市起至当日10:30停牌。",
@@ -188,8 +204,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         }
       ]
     },
@@ -206,8 +222,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "MCU巨头意法半导体年内二次涨价",
@@ -217,8 +233,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         }
       ]
     },
@@ -234,8 +250,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "MINIMAX-W：截至本公告日期，本公司已聘请专业顾问就本公司符合在科创板上市的条件提供咨询，并已签订辅导协议。",
@@ -245,8 +261,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         }
       ]
     },
@@ -263,8 +279,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "美媒：美公司在乌克兰测试人形机器人，计划将技术引入美军",
@@ -274,8 +290,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         }
       ]
     },
@@ -291,8 +307,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "多地电力负荷连创新高 算力用电年均或增超千亿度 绿电直连开启消纳“第二通道”",
@@ -302,8 +318,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
         }
       ]
     },
@@ -319,8 +335,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "中际旭创：澄清“董事长演讲全文”网络传闻为虚假内容",
@@ -330,8 +346,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         }
       ]
     },
@@ -344,11 +360,12 @@
           "url": "https://wallstreetcn.com/articles/3773499",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 04时58分]"
         }
       ]
     },
@@ -364,8 +381,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         }
       ]
     }
