@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-31T07:43:06.736669+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-05-31T09:53:24.081899+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
           "url": "https://www.cls.cn/detail/2385988",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 09时53分]"
         },
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
@@ -72,6 +73,17 @@
           "time_info": "[00时43分 ~ 01时47分]"
         },
         {
+          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
+          "url": "https://wallstreetcn.com/livenews/3111866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
           "url": "https://wallstreetcn.com/livenews/3111814",
           "source": "华尔街见闻-快讯",
@@ -118,12 +130,122 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 03时10分]"
+        },
+        {
+          "title": "美媒：特朗普对美伊协议的修改建议涉及核材料获取与霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260531092405852800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "伊朗最高领袖顾问批特朗普背弃外交原则",
+          "url": "https://news.ifeng.com/c/8tYiCwmfwnC",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "美国启动「特朗普账户」让儿童自出生起成股民，这项金融实验会引发哪些讨论？",
+          "url": "https://www.zhihu.com/question/2043592324899500076",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，正以缓慢而稳定的方式从德黑兰获得想要的，如果这无法实现，将以完全不同的方式结束冲突。",
+          "url": "https://flash.jin10.com/detail/20260531091429020800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，伊朗人是非常有经验的谈判者，这需要时间，但他并不着急。",
+          "url": "https://flash.jin10.com/detail/20260531091413075800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，他坚持的唯一且基本的保证是防止伊朗获得核武器。伊朗人已经同意不发展或购买核武器。",
+          "url": "https://flash.jin10.com/detail/20260531091223315800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，最佳的外交选择是签署协议，因为这意味着霍尔木兹海峡将立即重新开放航行。",
+          "url": "https://flash.jin10.com/detail/20260531091153872800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，与伊朗的协议非常接近，如果协议对美国不公平，将再次使用军事手段。",
+          "url": "https://flash.jin10.com/detail/20260531091144086800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "美媒：特朗普收紧对伊协议条款 修改建议已提交伊方",
+          "url": "https://flash.jin10.com/detail/20260531083031644800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "据纽约时报：据三名官员透露，美国总统特朗普收紧了旨在结束伊朗战争的潜在协议框架的条款，并将这些修改建议发回伊朗供其考虑。",
+          "url": "https://flash.jin10.com/detail/20260531082708525800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
@@ -135,8 +257,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 09时53分]"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -146,8 +268,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 09时53分]"
         },
         {
           "title": "业内：A股交易拥挤度达历史罕见水平",
@@ -170,11 +292,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 09时53分]"
         },
         {
           "title": "MiniMax启动A股IPO进程",
@@ -186,23 +309,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时42分 ~ 07时43分]"
+        },
+        {
+          "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
+          "url": "https://www.cls.cn/detail/2386240",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达、微软一同发布神秘预告 传闻中的PC芯片下周亮相？",
           "url": "https://www.cls.cn/detail/2385944",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 09时53分]"
         },
         {
           "title": "为什么比亚迪既能自研芯片，又敢兜底 1 年？如何评价？",
@@ -233,6 +368,17 @@
           "time_info": "[00时43分 ~ 07时43分]"
         },
         {
+          "title": "芯片三巨头齐聚！COMPUTEX下周揭幕 哪些亮点值得期待？",
+          "url": "https://www.cls.cn/detail/2386206",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "首款搭载英伟达芯片的Windows PC将于下周亮相",
           "url": "https://flash.jin10.com/detail/20260530201028116800",
           "source": "金十数据",
@@ -258,8 +404,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 09时53分]"
         },
         {
           "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
@@ -267,11 +413,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 09时53分]"
         }
       ]
     },
@@ -288,8 +435,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 09时53分]"
         },
         {
           "title": "美国人形机器人被曝已投入俄乌战场 军事专家：基本不能打仗",
@@ -320,8 +467,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 09时53分]"
         },
         {
           "title": "多地电力负荷连创新高 算力用电年均或增超千亿度 绿电直连开启消纳“第二通道”",
@@ -332,8 +479,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 09时53分]"
         }
       ]
     },
@@ -364,11 +511,12 @@
           "url": "https://wallstreetcn.com/articles/3773493",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 07时43分]"
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 09时53分]"
         }
       ]
     },
@@ -384,11 +532,12 @@
             10,
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 09时53分]"
         }
       ]
     },
@@ -423,8 +572,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 09时53分]"
         }
       ]
     }
