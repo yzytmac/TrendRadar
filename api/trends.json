@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T04:25:41.677439+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-06-03T06:34:41.479184+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "半导体ETF收涨4%，领跑美股行业ETF，标普电信板块跌2.6%",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "6月百基新发、多点开花，机构：A股市场中长期配置价值不改",
+          "url": "https://wallstreetcn.com/livenews/3113321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "派拓网络第三财季调整后每股收益（EPS）为0.85美元，分析师预期0.79美元。 预计全年营收114.2亿-114.3亿美元，公司原本预计112.8亿-113.1亿美元。 派拓网络（PANW）美股盘后涨12%。",
@@ -25,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -48,8 +59,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时34分]"
+        },
+        {
+          "title": "A股或将重返强势格局",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%88%96%E5%B0%86%E9%87%8D%E8%BF%94%E5%BC%BA%E5%8A%BF%E6%A0%BC%E5%B1%80",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时34分]"
         },
         {
           "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
@@ -63,27 +86,26 @@
           "time_info": "[01时21分 ~ 04时25分]"
         },
         {
-          "title": "A股或将重返强势格局",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%88%96%E5%B0%86%E9%87%8D%E8%BF%94%E5%BC%BA%E5%8A%BF%E6%A0%BC%E5%B1%80",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时25分]"
-        },
-        {
           "title": "金十图示：2026年06月02日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260603040522026800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股盘中）",
@@ -103,9 +125,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "迈威尔科技美股盘后涨9.4%。",
+          "url": "https://wallstreetcn.com/livenews/3113304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "金十图示：2026年06月02日（周二）热门中概股行情一览（美股盘中）",
@@ -117,12 +161,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "网络安全公司NetSkope美股盘后涨3.8%，该公司宣布加入Anthropic的Project Glasswing。",
+          "url": "https://wallstreetcn.com/livenews/3113295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普，开掉“不听话的情报头子”",
@@ -133,8 +188,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时34分]"
         },
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
@@ -144,8 +199,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时34分]"
         },
         {
           "title": "特朗普：美伊暂停谈判？假新闻！",
@@ -154,9 +209,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 06时34分]"
         },
         {
           "title": "特朗普：“美伊几日前已停止对话”是假新闻 双方对话一直在持续",
@@ -192,6 +247,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "特朗普政府提出上诉，挑战要求退还IEEPA关税的法院裁决",
+          "url": "https://flash.jin10.com/detail/20260603060218736800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
           "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
           "url": "https://wallstreetcn.com/livenews/3113212",
           "source": "华尔街见闻-快讯",
@@ -210,8 +276,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时34分]"
+        },
+        {
+          "title": "特朗普要求伊朗就核问题作出更坚定的承诺",
+          "url": "https://flash.jin10.com/detail/20260603052655387800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "美国国务卿鲁比奥：特朗普政府不希望曾协助美军的阿富汗人被迫返回阿富汗。",
@@ -220,9 +297,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普敦促伊朗做出更坚定的核承诺。（ABC）",
+          "url": "https://wallstreetcn.com/livenews/3113300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "丹麦首相公布福利推进计划，并对特朗普展现强硬姿态",
@@ -239,7 +327,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：微软部署最强大的英伟达Blackwell芯片。",
@@ -281,9 +369,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "英伟达宣布进军个人电脑芯片市场",
+          "url": "https://www.douyin.com/hot/2520688",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         }
       ]
     },
@@ -326,7 +425,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -337,7 +436,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         }
@@ -355,8 +454,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时34分]"
         },
         {
           "title": "创业板大涨超2%，算力硬件全线爆发，恒科指狂飙超4%，美团、阿里、腾讯集体猛拉",
@@ -401,8 +500,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时34分]"
         }
       ]
     },
@@ -435,8 +534,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时34分]"
         }
       ]
     }
