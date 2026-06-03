@@ -1,183 +1,11 @@
 {
-  "generated_at": "2026-06-03T06:34:41.479184+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-06-03T08:18:14.211248+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 a股 港股",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "半导体ETF收涨4%，领跑美股行业ETF，标普电信板块跌2.6%",
-          "url": "https://wallstreetcn.com/livenews/3113269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "6月百基新发、多点开花，机构：A股市场中长期配置价值不改",
-          "url": "https://wallstreetcn.com/livenews/3113321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "派拓网络第三财季调整后每股收益（EPS）为0.85美元，分析师预期0.79美元。 预计全年营收114.2亿-114.3亿美元，公司原本预计112.8亿-113.1亿美元。 派拓网络（PANW）美股盘后涨12%。",
-          "url": "https://wallstreetcn.com/livenews/3113267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260603040522463800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2388757",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时34分]"
-        },
-        {
-          "title": "A股或将重返强势格局",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%88%96%E5%B0%86%E9%87%8D%E8%BF%94%E5%BC%BA%E5%8A%BF%E6%A0%BC%E5%B1%80",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时34分]"
-        },
-        {
-          "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时25分]"
-        },
-        {
-          "title": "金十图示：2026年06月02日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260603040522026800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260603005621906800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 迈威尔科技大涨超30%",
-          "url": "https://flash.jin10.com/detail/20260603040117832800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
-          "url": "https://www.cls.cn/detail/2388968",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "迈威尔科技美股盘后涨9.4%。",
-          "url": "https://wallstreetcn.com/livenews/3113304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "金十图示：2026年06月02日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260603004322353800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "网络安全公司NetSkope美股盘后涨3.8%，该公司宣布加入Anthropic的Project Glasswing。",
-          "url": "https://wallstreetcn.com/livenews/3113295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普，开掉“不听话的情报头子”",
@@ -188,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时18分]"
         },
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
           "url": "https://wallstreetcn.com/articles/3773609",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时18分]"
         },
         {
           "title": "特朗普：美伊暂停谈判？假新闻！",
@@ -212,6 +41,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 06时34分]"
+        },
+        {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时18分]"
+        },
+        {
+          "title": "被特朗普斥\"疯了\"后，内塔尼亚胡最新强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 08时18分]"
         },
         {
           "title": "特朗普：“美伊几日前已停止对话”是假新闻 双方对话一直在持续",
@@ -253,7 +105,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
@@ -269,15 +121,37 @@
           "time_info": "01时22分"
         },
         {
-          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
-          "url": "https://wallstreetcn.com/articles/3773679",
-          "source": "华尔街见闻",
+          "title": "枪击案发生后白宫记协晚宴改期至7月，特朗普称计划出席",
+          "url": "https://news.ifeng.com/c/8tdrAsAjTLD",
+          "source": "凤凰网",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时34分]"
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 08时18分]"
+        },
+        {
+          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
+          "url": "https://www.cls.cn/detail/2388943",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 08时18分]"
+        },
+        {
+          "title": "特朗普被曝同以总理通话爆粗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 08时18分]"
         },
         {
           "title": "特朗普要求伊朗就核问题作出更坚定的承诺",
@@ -286,7 +160,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
@@ -308,7 +182,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
@@ -326,8 +200,194 @@
       ]
     },
     {
+      "keyword_group": "美股 a股 港股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 08时18分]"
+        },
+        {
+          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2388757",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时18分]"
+        },
+        {
+          "title": "半导体ETF收涨4%，领跑美股行业ETF，标普电信板块跌2.6%",
+          "url": "https://wallstreetcn.com/livenews/3113269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "6月百基新发、多点开花，机构：A股市场中长期配置价值不改",
+          "url": "https://wallstreetcn.com/livenews/3113321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "A股或将重返强势格局",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%88%96%E5%B0%86%E9%87%8D%E8%BF%94%E5%BC%BA%E5%8A%BF%E6%A0%BC%E5%B1%80",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时18分]"
+        },
+        {
+          "title": "派拓网络第三财季调整后每股收益（EPS）为0.85美元，分析师预期0.79美元。 预计全年营收114.2亿-114.3亿美元，公司原本预计112.8亿-113.1亿美元。 派拓网络（PANW）美股盘后涨12%。",
+          "url": "https://wallstreetcn.com/livenews/3113267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260603040522463800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 08时18分]"
+        },
+        {
+          "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 04时25分]"
+        },
+        {
+          "title": "金十图示：2026年06月02日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260603040522026800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260603005621906800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 迈威尔科技大涨超30%",
+          "url": "https://flash.jin10.com/detail/20260603040117832800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "迈威尔科技美股盘后涨9.4%。",
+          "url": "https://wallstreetcn.com/livenews/3113304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "金十图示：2026年06月02日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260603004322353800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "网络安全公司NetSkope美股盘后涨3.8%，该公司宣布加入Anthropic的Project Glasswing。",
+          "url": "https://wallstreetcn.com/livenews/3113295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：微软部署最强大的英伟达Blackwell芯片。",
@@ -350,6 +410,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "微软Build火力全开：Web IQ要做智能体搜索的Bing，量子芯片升级瞄准2029年实用，“龙虾”搬上Windows PC",
+          "url": "https://wallstreetcn.com/articles/3773707",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 08时18分]"
+        },
+        {
+          "title": "微软发布全新量子芯片",
+          "url": "https://www.toutiao.com/trending/7646945546279603755/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 08时18分]"
         },
         {
           "title": "微软(MSFT.O)宣布推出Surface RTX Spark Dev Box——一款搭载英伟达 RTX Spark芯片、基于 Windows开发平台打造的紧凑型开发者电脑，专为本地优先的AI开发而设计。",
@@ -380,7 +462,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         }
@@ -451,22 +533,41 @@
           "url": "https://wallstreetcn.com/articles/3773656",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时18分]"
         },
         {
           "title": "创业板大涨超2%，算力硬件全线爆发，恒科指狂飙超4%，美团、阿里、腾讯集体猛拉",
           "url": "https://wallstreetcn.com/articles/3773623",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 08时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宇树科技科创板 IPO 过会，这意味着什么？将给国产人形机器人行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2044829108081775769",
+          "source": "知乎",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "time_info": "[08时17分 ~ 08时18分]"
         }
       ]
     },
@@ -489,6 +590,23 @@
       ]
     },
     {
+      "keyword_group": "光模块",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华泰证券：光模块功耗提升驱动液冷加速渗透",
+          "url": "https://flash.jin10.com/detail/20260603080522376800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天",
       "match_count": 1,
       "titles": [
@@ -500,8 +618,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时18分]"
         }
       ]
     },
@@ -523,6 +641,23 @@
       ]
     },
     {
+      "keyword_group": "人形机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球首款全尺寸超仿生人形机器人预售",
+          "url": "https://www.toutiao.com/trending/7646707443086446143/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 08时18分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "再升科技",
       "match_count": 1,
       "titles": [
@@ -534,8 +669,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时18分]"
         }
       ]
     }
