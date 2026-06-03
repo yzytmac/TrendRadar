@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T13:26:13.035186+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-06-03T18:19:28.840027+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时17分 ~ 13时26分]"
+          "appearance_count": 5,
+          "time_info": "[08时17分 ~ 18时19分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 08时18分]"
+        },
+        {
+          "title": "大V：A股午后经历“过山车”",
+          "url": "https://www.toutiao.com/trending/7647070572244897286/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "半导体ETF收涨4%，领跑美股行业ETF，标普电信板块跌2.6%",
@@ -97,7 +108,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -111,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "评论员：A股正成为全民财富新蓄水池",
+          "url": "https://www.toutiao.com/trending/7647043750434180627/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股收盘）",
@@ -168,6 +190,17 @@
           "time_info": "06时34分"
         },
         {
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260603005621906800",
           "source": "金十数据",
@@ -196,9 +229,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "英特尔美股盘前涨超4%，新处理器Xeon 6 Plus亮相，进军AI整机柜市场。",
+          "url": "https://wallstreetcn.com/livenews/3113678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "迈威尔科技美股盘后涨9.4%。",
@@ -223,6 +267,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "A股收评：创业板指冲高回落涨1.65%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%86%B2%E9%AB%98%E5%9B%9E%E8%90%BD%E6%B6%A81.65%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "网络安全公司NetSkope美股盘后涨3.8%，该公司宣布加入Anthropic的Project Glasswing。",
           "url": "https://wallstreetcn.com/livenews/3113295",
           "source": "华尔街见闻-快讯",
@@ -240,7 +295,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         }
@@ -248,7 +303,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普，开掉“不听话的情报头子”",
@@ -343,6 +398,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "特朗普：有可能在美国劳动节前解除对伊朗的封锁。 美国没有多少通胀问题。",
+          "url": "https://wallstreetcn.com/livenews/3113707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "美国总统特朗普：有假新闻报道伊朗和美国几天前停止对话，这是错误的。这段时间我们之间的对话一直在持续，包括四天前、三天前、两天前、一天前和今天。",
           "url": "https://flash.jin10.com/detail/20260603010204707800",
           "source": "金十数据",
@@ -352,6 +418,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普：正在与伊朗商讨达成协议。 美国股市表现良好。 伊朗已同意不会拥有核武器。 从未想过要会见任何伊朗领导人。 未来可能会与伊朗领导人会面，这取决于谈判结果。",
+          "url": "https://wallstreetcn.com/livenews/3113705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡“疯了”：要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "地产商治国？“小特朗普”将任代理国家情报总监",
+          "url": "https://news.ifeng.com/c/8teUlNkkPvO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "特朗普政府提出上诉，挑战要求退还IEEPA关税的法院裁决",
@@ -376,6 +475,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-03）",
+          "url": "https://flash.jin10.com/detail/20260603180239805800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
           "url": "https://www.cls.cn/detail/2388943",
           "source": "财联社热门",
@@ -385,6 +495,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时17分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
+          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 18时19分]"
         },
         {
           "title": "枪击案发生后白宫记协晚宴改期至7月，特朗普称计划出席",
@@ -398,17 +519,6 @@
           "time_info": "[08时17分 ~ 08时18分]"
         },
         {
-          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
-          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时26分]"
-        },
-        {
           "title": "特朗普被曝同以总理通话爆粗口",
           "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
           "source": "澎湃新闻",
@@ -418,6 +528,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时17分 ~ 08时18分]"
+        },
+        {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "特朗普要求伊朗就核问题作出更坚定的承诺",
@@ -467,7 +588,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：微软部署最强大的英伟达Blackwell芯片。",
@@ -481,15 +602,16 @@
           "time_info": "01时22分"
         },
         {
-          "title": "微软(MSFT.O)首席执行官宣布推出Cobalt 200芯片预览版。",
-          "url": "https://flash.jin10.com/detail/20260603005825510800",
-          "source": "金十数据",
+          "title": "从12毫秒到20秒！微软亮出全新量子芯片：可靠性实现千倍飞跃",
+          "url": "https://www.cls.cn/detail/2389226",
+          "source": "财联社热门",
           "ranks": [
-            5
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 18时19分]"
         },
         {
           "title": "微软Build火力全开：Web IQ要做智能体搜索的Bing，量子芯片升级瞄准2029年实用，“龙虾”搬上Windows PC",
@@ -500,19 +622,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时17分 ~ 13时26分]"
+          "appearance_count": 5,
+          "time_info": "[08时17分 ~ 18时19分]"
         },
         {
-          "title": "从12毫秒到20秒！微软亮出全新量子芯片：可靠性实现千倍飞跃",
-          "url": "https://www.cls.cn/detail/2389226",
-          "source": "财联社热门",
+          "title": "微软(MSFT.O)首席执行官宣布推出Cobalt 200芯片预览版。",
+          "url": "https://flash.jin10.com/detail/20260603005825510800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时26分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "微软发布全新量子芯片",
@@ -535,6 +657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "【午报】创业板指震荡走高涨近4%，AI硬件与芯片产业联袂领涨",
+          "url": "https://www.cls.cn/detail/2389313",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "微软新推量子芯片Majorana 2，剑指2029年打造实用机器",
@@ -571,7 +704,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -621,7 +754,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -632,9 +765,51 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
+          "url": "https://wallstreetcn.com/articles/3773656",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 13时26分]"
+        },
+        {
+          "title": "创业板大涨超2%，算力硬件全线爆发，恒科指狂飙超4%，美团、阿里、腾讯集体猛拉",
+          "url": "https://wallstreetcn.com/articles/3773623",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 13时26分]"
+        },
+        {
+          "title": "创业板冲高回落涨逾1.5%，算力硬件再爆发、“易中天”齐创新高，恒科指跌近3%，科网股集体下跌",
+          "url": "https://wallstreetcn.com/articles/3773737",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     },
@@ -688,40 +863,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
-          "url": "https://wallstreetcn.com/articles/3773656",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 13时26分]"
-        },
-        {
-          "title": "创业板大涨超2%，算力硬件全线爆发，恒科指狂飙超4%，美团、阿里、腾讯集体猛拉",
-          "url": "https://wallstreetcn.com/articles/3773623",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 13时26分]"
         }
       ]
     },
