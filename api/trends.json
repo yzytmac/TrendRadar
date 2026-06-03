@@ -1,11 +1,396 @@
 {
-  "generated_at": "2026-06-03T18:19:28.840027+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-06-03T23:15:13.843818+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 34,
+      "titles": [
+        {
+          "title": "特朗普，开掉“不听话的情报头子”",
+          "url": "https://news.ifeng.com/c/8tdYs26KHgt",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时18分]"
+        },
+        {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时18分]"
+        },
+        {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普：美伊暂停谈判？假新闻！",
+          "url": "https://news.ifeng.com/c/8tdl2ZQctsW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 06时34分]"
+        },
+        {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
+        },
+        {
+          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
+          "url": "https://wallstreetcn.com/articles/3773781",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
+        },
+        {
+          "title": "被特朗普斥\"疯了\"后，内塔尼亚胡最新强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 08时18分]"
+        },
+        {
+          "title": "特朗普任命房屋监管主管兼任情报总监",
+          "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
+        },
+        {
+          "title": "被特朗普斥“疯了”后，内塔尼亚胡强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普：“美伊几日前已停止对话”是假新闻 双方对话一直在持续",
+          "url": "https://flash.jin10.com/detail/20260603010657488800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普：（与伊朗）结果如何，谁也不知道，但正如我对伊朗所说，“是时候了，无论如何，你们都需要达成协议。”",
+          "url": "https://flash.jin10.com/detail/20260603010241610800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普：有可能在美国劳动节前解除对伊朗的封锁。 美国没有多少通胀问题。",
+          "url": "https://wallstreetcn.com/livenews/3113707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "美国总统特朗普：有假新闻报道伊朗和美国几天前停止对话，这是错误的。这段时间我们之间的对话一直在持续，包括四天前、三天前、两天前、一天前和今天。",
+          "url": "https://flash.jin10.com/detail/20260603010204707800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普：正在与伊朗商讨达成协议。 美国股市表现良好。 伊朗已同意不会拥有核武器。 从未想过要会见任何伊朗领导人。 未来可能会与伊朗领导人会面，这取决于谈判结果。",
+          "url": "https://wallstreetcn.com/livenews/3113705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡“疯了”：要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "地产商治国？“小特朗普”将任代理国家情报总监",
+          "url": "https://news.ifeng.com/c/8teUlNkkPvO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "特朗普政府提出上诉，挑战要求退还IEEPA关税的法院裁决",
+          "url": "https://flash.jin10.com/detail/20260603060218736800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
+          "url": "https://wallstreetcn.com/livenews/3113212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国财长贝森特：我们存在开支问题和增长问题。 总统特朗普任期届满时，赤字与GDP比率可能会低于4%。",
+          "url": "https://wallstreetcn.com/livenews/3113884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-03）",
+          "url": "https://flash.jin10.com/detail/20260603180239805800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
+          "url": "https://www.cls.cn/detail/2388943",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时17分 ~ 13时26分]"
+        },
+        {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 23时15分]"
+        },
+        {
+          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
+          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 18时19分]"
+        },
+        {
+          "title": "枪击案发生后白宫记协晚宴改期至7月，特朗普称计划出席",
+          "url": "https://news.ifeng.com/c/8tdrAsAjTLD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 08时18分]"
+        },
+        {
+          "title": "特朗普被曝同以总理通话爆粗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 08时18分]"
+        },
+        {
+          "title": "美国财长贝森特在听证会上宣称：并没有提前知道总统特朗普会起诉（财政部下辖）国税局（IRS）。",
+          "url": "https://wallstreetcn.com/livenews/3113880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普要求伊朗就核问题作出更坚定的承诺",
+          "url": "https://flash.jin10.com/detail/20260603052655387800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：特朗普政府不希望曾协助美军的阿富汗人被迫返回阿富汗。",
+          "url": "https://flash.jin10.com/detail/20260603031816499800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：与美国总统特朗普的关系没有改变。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3113869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "美国总统特朗普敦促伊朗做出更坚定的核承诺。（ABC）",
+          "url": "https://wallstreetcn.com/livenews/3113300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "美国国务卿卢比奥：总统特朗普知道挑起伊朗战争的经济后果。",
+          "url": "https://wallstreetcn.com/livenews/3113867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "美国财长贝森特在听证会上宣称：特朗普税法避免了超过5万亿美元的税收增长。",
+          "url": "https://wallstreetcn.com/livenews/3113866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：特朗普希望与伊朗当前政权达成协议，但这并不意味着他希望政权继续存在。",
+          "url": "https://flash.jin10.com/detail/20260603224645937800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "丹麦首相公布福利推进计划，并对特朗普展现强硬姿态",
+          "url": "https://wallstreetcn.com/livenews/3113190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 a股 港股",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -16,8 +401,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时17分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[08时17分 ~ 23时15分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -62,7 +447,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -124,17 +509,6 @@
           "time_info": "04时25分"
         },
         {
-          "title": "评论员：A股正成为全民财富新蓄水池",
-          "url": "https://www.toutiao.com/trending/7647043750434180627/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260603040522463800",
           "source": "金十数据",
@@ -144,6 +518,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "评论员：A股正成为全民财富新蓄水池",
+          "url": "https://www.toutiao.com/trending/7647043750434180627/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 23时15分]"
+        },
+        {
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 23时15分]"
         },
         {
           "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
@@ -157,6 +555,39 @@
           "time_info": "[01时21分 ~ 04时25分]"
         },
         {
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
+        },
+        {
+          "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
+        },
+        {
+          "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2389957",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
+        },
+        {
           "title": "美股散户热议：该跟黄仁勋还是特朗普",
           "url": "https://www.toutiao.com/trending/7646982770446569014/",
           "source": "今日头条",
@@ -166,6 +597,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 13时26分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
           "title": "金十图示：2026年06月02日（周二）热门中概股行情一览（美股收盘）",
@@ -188,17 +630,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
-        },
-        {
-          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
-          "url": "https://www.cls.cn/detail/2389478",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股盘中）",
@@ -240,7 +671,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -273,7 +704,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -302,294 +733,22 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 25,
+      "keyword_group": "芯片",
+      "match_count": 9,
       "titles": [
         {
-          "title": "特朗普，开掉“不听话的情报头子”",
-          "url": "https://news.ifeng.com/c/8tdYs26KHgt",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 08时18分]"
-        },
-        {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
+          "title": "微软Build火力全开：Web IQ要做智能体搜索的Bing，量子芯片升级瞄准2029年实用，“龙虾”搬上Windows PC",
+          "url": "https://wallstreetcn.com/articles/3773707",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 08时18分]"
-        },
-        {
-          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
-          "url": "https://wallstreetcn.com/articles/3773679",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
+            9,
             6,
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[08时17分 ~ 23时15分]"
         },
-        {
-          "title": "特朗普：美伊暂停谈判？假新闻！",
-          "url": "https://news.ifeng.com/c/8tdl2ZQctsW",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时34分]"
-        },
-        {
-          "title": "被特朗普斥\"疯了\"后，内塔尼亚胡最新强硬表态",
-          "url": "https://news.ifeng.com/c/8tdev8HIju4",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时17分 ~ 08时18分]"
-        },
-        {
-          "title": "被特朗普斥“疯了”后，内塔尼亚胡强硬表态",
-          "url": "https://news.ifeng.com/c/8tdev8HIju4",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普：“美伊几日前已停止对话”是假新闻 双方对话一直在持续",
-          "url": "https://flash.jin10.com/detail/20260603010657488800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国总统特朗普：（与伊朗）结果如何，谁也不知道，但正如我对伊朗所说，“是时候了，无论如何，你们都需要达成协议。”",
-          "url": "https://flash.jin10.com/detail/20260603010241610800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普：有可能在美国劳动节前解除对伊朗的封锁。 美国没有多少通胀问题。",
-          "url": "https://wallstreetcn.com/livenews/3113707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "美国总统特朗普：有假新闻报道伊朗和美国几天前停止对话，这是错误的。这段时间我们之间的对话一直在持续，包括四天前、三天前、两天前、一天前和今天。",
-          "url": "https://flash.jin10.com/detail/20260603010204707800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普：正在与伊朗商讨达成协议。 美国股市表现良好。 伊朗已同意不会拥有核武器。 从未想过要会见任何伊朗领导人。 未来可能会与伊朗领导人会面，这取决于谈判结果。",
-          "url": "https://wallstreetcn.com/livenews/3113705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡“疯了”：要不是我你早进监狱了！",
-          "url": "https://wallstreetcn.com/articles/3773679",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "地产商治国？“小特朗普”将任代理国家情报总监",
-          "url": "https://news.ifeng.com/c/8teUlNkkPvO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "特朗普政府提出上诉，挑战要求退还IEEPA关税的法院裁决",
-          "url": "https://flash.jin10.com/detail/20260603060218736800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
-          "url": "https://wallstreetcn.com/livenews/3113212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-03）",
-          "url": "https://flash.jin10.com/detail/20260603180239805800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
-          "url": "https://www.cls.cn/detail/2388943",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时17分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
-          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 18时19分]"
-        },
-        {
-          "title": "枪击案发生后白宫记协晚宴改期至7月，特朗普称计划出席",
-          "url": "https://news.ifeng.com/c/8tdrAsAjTLD",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时17分 ~ 08时18分]"
-        },
-        {
-          "title": "特朗普被曝同以总理通话爆粗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时17分 ~ 08时18分]"
-        },
-        {
-          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
-          "url": "https://wallstreetcn.com/articles/3773725",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "特朗普要求伊朗就核问题作出更坚定的承诺",
-          "url": "https://flash.jin10.com/detail/20260603052655387800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：特朗普政府不希望曾协助美军的阿富汗人被迫返回阿富汗。",
-          "url": "https://flash.jin10.com/detail/20260603031816499800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国总统特朗普敦促伊朗做出更坚定的核承诺。（ABC）",
-          "url": "https://wallstreetcn.com/livenews/3113300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "丹麦首相公布福利推进计划，并对特朗普展现强硬姿态",
-          "url": "https://wallstreetcn.com/livenews/3113190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片",
-      "match_count": 9,
-      "titles": [
         {
           "title": "英伟达CEO黄仁勋：微软部署最强大的英伟达Blackwell芯片。",
           "url": "https://wallstreetcn.com/livenews/3113216",
@@ -612,18 +771,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时25分 ~ 18时19分]"
-        },
-        {
-          "title": "微软Build火力全开：Web IQ要做智能体搜索的Bing，量子芯片升级瞄准2029年实用，“龙虾”搬上Windows PC",
-          "url": "https://wallstreetcn.com/articles/3773707",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时17分 ~ 18时19分]"
         },
         {
           "title": "微软(MSFT.O)首席执行官宣布推出Cobalt 200芯片预览版。",
@@ -665,7 +812,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -695,8 +842,19 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "纳斯达克100指数转涨，费城半导体指数涨超1.6%，生物科技指数反弹超0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3113886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
         {
           "title": "上交所：景顺长城全球半导体芯片产业股票型证券投资基金（QDII-LOF）将于2026年6月3日下午开市起停牌至当日收市，停牌期间本基金赎回业务照常办理。",
           "url": "https://wallstreetcn.com/livenews/3113504",
@@ -805,11 +963,12 @@
           "url": "https://wallstreetcn.com/articles/3773737",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 23时15分]"
         }
       ]
     },
