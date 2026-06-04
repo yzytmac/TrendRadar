@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T10:12:26.916566+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2026-06-04T14:58:04.947094+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 14时58分]"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[03时01分 ~ 10时12分]"
+          "time_info": "[07时43分 ~ 14时58分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -32,18 +44,6 @@
           "time_info": "[03时01分 ~ 10时12分]"
         },
         {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 10时12分]"
-        },
-        {
           "title": "“离签署协议已非常接近”，特朗普披露美伊谈判细节",
           "url": "https://news.ifeng.com/c/8tfYHflwBeK",
           "source": "凤凰网",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时43分 ~ 10时12分]"
+        },
+        {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
@@ -102,6 +113,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "美众议院通过决议限制特朗普对伊动武",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时43分 ~ 14时58分]"
+        },
+        {
           "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
           "url": "https://wallstreetcn.com/livenews/3114035",
           "source": "华尔街见闻-快讯",
@@ -114,15 +136,27 @@
           "time_info": "[05时57分 ~ 07时44分]"
         },
         {
-          "title": "美众议院通过决议限制特朗普对伊动武",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
-          "source": "百度热搜",
+          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
+          "url": "https://www.cls.cn/detail/2390202",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 14时58分]"
+        },
+        {
+          "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2390155",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时43分 ~ 10时12分]"
+          "time_info": "[10时12分 ~ 14时58分]"
         },
         {
           "title": "特朗普点名万斯、鲁比奥：两人大选联手将是一支难以被击败的团队",
@@ -131,7 +165,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -142,18 +176,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
-          "url": "https://www.cls.cn/detail/2390202",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -167,17 +190,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
-        },
-        {
-          "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2390155",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "特朗普称内塔尼亚胡是“伟大的伙伴”",
@@ -230,7 +242,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -301,6 +313,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "特朗普将提名其前私人律师任美国司法部长",
+          "url": "https://wallstreetcn.com/livenews/3114206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
           "title": "特朗普称美伊协议可能在本周末达成",
           "url": "https://flash.jin10.com/detail/20260604060822313800",
           "source": "金十数据",
@@ -340,7 +363,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         }
@@ -348,19 +371,8 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
-        {
-          "title": "《新闻联播》披露A股重要数据",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 07时44分]"
-        },
         {
           "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
           "url": "https://wallstreetcn.com/articles/3773769",
@@ -368,11 +380,12 @@
           "ranks": [
             6,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 10时12分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 14时58分]"
         },
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -382,8 +395,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 10时12分]"
+          "appearance_count": 5,
+          "time_info": "[07时43分 ~ 14时58分]"
         },
         {
           "title": "【早报】A股上新闻联播；光纤企业爆单；富时A50，纳入多只牛股",
@@ -394,8 +407,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 10时12分]"
+          "appearance_count": 5,
+          "time_info": "[07时43分 ~ 14时58分]"
         },
         {
           "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
@@ -406,8 +419,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 10时12分]"
+          "appearance_count": 5,
+          "time_info": "[07时43分 ~ 14时58分]"
+        },
+        {
+          "title": "《新闻联播》披露A股重要数据",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 07时44分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -438,7 +462,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -449,7 +473,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -467,6 +491,19 @@
           "time_info": "[03时01分 ~ 07时44分]"
         },
         {
+          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时43分 ~ 14时58分]"
+        },
+        {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2389957",
           "source": "财联社热门",
@@ -479,16 +516,26 @@
           "time_info": "[03时01分 ~ 10时12分]"
         },
         {
-          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
-          "source": "澎湃新闻",
+          "title": "A股再登新闻联播释放何种信息",
+          "url": "https://www.toutiao.com/trending/7647311695521549870/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时43分 ~ 10时12分]"
+          "time_info": "[10时12分 ~ 14时58分]"
+        },
+        {
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "新闻联播披露A股重要数据",
@@ -519,7 +566,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -530,18 +577,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "A股再登新闻联播释放何种信息",
-          "url": "https://www.toutiao.com/trending/7647311695521549870/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -552,7 +588,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -574,7 +610,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -596,9 +632,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走强，德明利触及涨停，佰维存储涨超10%，江波龙、香农芯创跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3114215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "周四亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.6%，道指期货涨0.1%。 科技股中，博通目前（美股盘后）跌12.9%，甲骨文跌4.7%，IBM跌3.8%，AMD跌2.6%，闪迪跌2.5%，美光跌2.4%，高通跌1.9%，苹果涨1.2%，C3.ai涨2.3%。",
@@ -610,6 +657,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "A股铜缆高速连接概念反复活跃，鼎通科技20cm涨停，奕东电子涨超15%，鑫科材料此前封板，金信诺、中航光电、意华股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3114214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "A股燃气轮机概念持续走强，博盈特焊20cm涨停，杰瑞股份、中国动力此前封板，联德股份、应流股份、万泽股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3114212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "小盘股指ETF收跌将近1.4%，领跌美股大类资产类ETF，布油基金涨约2%",
@@ -629,7 +698,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -767,6 +836,18 @@
           "time_info": "05时57分"
         },
         {
+          "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
+          "url": "https://www.cls.cn/detail/2390246",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 14时58分]"
+        },
+        {
           "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
           "url": "https://flash.jin10.com/detail/20260604051716270800",
           "source": "金十数据",
@@ -776,17 +857,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
-        },
-        {
-          "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
-          "url": "https://www.cls.cn/detail/2390246",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "博通首席执行官：预计2026财年人工智能半导体收入将达到560亿美元。",
@@ -806,35 +876,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科创50指数涨幅扩大至1%。",
-          "url": "https://flash.jin10.com/detail/20260604095721071800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "上证指数开盘报4053.67点，跌0.74%。 深证成指开盘报15540.06点，跌1.05%。 创业板指开盘报4072.55点，跌1.22%。 沪深300开盘报4897.32点，跌0.84%。 科创50开盘报1700.31点，跌1.50%。 中证500开盘报8279.86点，跌0.98%。 中证1000开盘报8338.85点，跌1.11%。",
-          "url": "https://wallstreetcn.com/livenews/3114112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         }
@@ -842,7 +884,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "创业板冲高回落涨逾1.5%，算力硬件再爆发、“易中天”齐创新高，恒科指跌近3%，科网股集体下跌",
@@ -858,6 +900,28 @@
           "time_info": "[03时01分 ~ 10时12分]"
         },
         {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
+        },
+        {
+          "title": "财通证券：MLCC需求逻辑重构 AI算力与汽车电子驱动行业步入“K型复苏”",
+          "url": "https://flash.jin10.com/detail/20260604144700700800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
           "title": "博通首席执行官：已达成协议，自2027年起，将向Anthropic提供额外5GW基于下一代TPU的算力。已收到Meta Platforms(META.O)的首批订单，规模为1GW，该订单涵盖XPU及我们的网络解决方案，并将于2027年下半年开始交付。",
           "url": "https://flash.jin10.com/detail/20260604051612385800",
           "source": "金十数据",
@@ -871,6 +935,45 @@
       ]
     },
     {
+      "keyword_group": "科创",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "科创50指数涨幅扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20260604095721071800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "中诚信总裁岳志岗：科创债累计发行规模突破5.4万亿元 出海亟需跨境信用支撑",
+          "url": "https://wallstreetcn.com/livenews/3114232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "上证指数开盘报4053.67点，跌0.74%。 深证成指开盘报15540.06点，跌1.05%。 创业板指开盘报4072.55点，跌1.22%。 沪深300开盘报4897.32点，跌0.84%。 科创50开盘报1700.31点，跌1.50%。 中证500开盘报8279.86点，跌0.98%。 中证1000开盘报8338.85点，跌1.11%。",
+          "url": "https://wallstreetcn.com/livenews/3114112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
@@ -879,11 +982,12 @@
           "url": "https://wallstreetcn.com/articles/3773813",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 14时58分]"
         }
       ]
     },
