@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T11:32:19.288102+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-06-05T15:55:55.856150+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时55分]"
         },
         {
           "title": "特朗普最新支持率曝光，压力骤增",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时55分]"
         },
         {
           "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时55分]"
         },
         {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
@@ -63,6 +63,19 @@
           "time_info": "03时23分"
         },
         {
+          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2391265",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 15时55分]"
+        },
+        {
           "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
           "url": "https://flash.jin10.com/detail/20260605044910796800",
           "source": "金十数据",
@@ -73,18 +86,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时46分]"
-        },
-        {
-          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2391265",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 11时32分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -507,7 +508,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -537,7 +538,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
@@ -573,8 +574,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 11时32分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 15时55分]"
         },
         {
           "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
@@ -585,8 +586,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时45分 ~ 11时32分]"
+          "appearance_count": 7,
+          "time_info": "[06时45分 ~ 15时55分]"
         },
         {
           "title": "A股机器人概念反复活跃，绿的谐波涨超12%，中重科技、宇环数控此前涨停，宁波东力、华锐精密、中坚科技涨幅居前。",
@@ -595,9 +596,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "鑫科材料：终止2026年度向特定对象发行A股股票事项并撤回申请文件 原拟募资不超3.5亿元",
+          "url": "https://flash.jin10.com/detail/20260605154526222800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "港股有色金属板块尾盘震荡走弱，五矿资源(01208.HK)跌超4%，天齐锂业(09696.HK)跌超3%，赤峰黄金(06693.HK)、中国宏桥(01378.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260605154515536800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "Meta股价涨幅扩大至3.1%，刷新日高。",
@@ -617,7 +640,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -646,6 +669,17 @@
           "time_info": "[00时53分 ~ 06时46分]"
         },
         {
+          "title": "A股三大指数集体下跌，芯片半导体逆势拉升，京东方涨停，恒指、恒科指双双跌超1%",
+          "url": "https://wallstreetcn.com/articles/3773833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 15时55分]"
+        },
+        {
           "title": "韩国资金押注A股科技股",
           "url": "https://www.toutiao.com/trending/7647424442825572395/",
           "source": "今日头条",
@@ -658,24 +692,13 @@
           "time_info": "[03时23分 ~ 06时46分]"
         },
         {
-          "title": "A股三大指数集体下跌，芯片半导体逆势拉升，京东方涨停，恒指、恒科指双双跌超1%",
-          "url": "https://wallstreetcn.com/articles/3773833",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
           "title": "瑞银：全年港股新股IPO融资额有望达到450亿至500亿美元 对今年恒生指数突破3万点的目标保持信心",
           "url": "https://flash.jin10.com/detail/20260605111034747800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -686,7 +709,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -700,6 +723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "地产ETF、道指ETF、小盘股指ETF至少收涨1.5%，领跑美股大类资产类ETF",
@@ -724,13 +758,24 @@
           "time_info": "05时12分"
         },
         {
+          "title": "A股收评：创业板指放量跌超3%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%94%BE%E9%87%8F%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "A股光伏板块异动走强，帝尔激光涨超10%，高测股份、奥特维、拉普拉斯、金辰股份、迈为股份等跟涨。",
           "url": "https://flash.jin10.com/detail/20260605105815846800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -741,7 +786,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -752,7 +797,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -763,7 +808,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -785,7 +830,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
@@ -876,11 +921,24 @@
           "url": "https://wallstreetcn.com/articles/3773885",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 11时32分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 15时55分]"
+        },
+        {
+          "title": "成也存储、败也存储！韩股“黑色星期五”：三星、SK海力士双双暴跌",
+          "url": "https://www.cls.cn/detail/2391421",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时55分]"
         },
         {
           "title": "长江存储闪存份额追上美光闪迪",
@@ -894,24 +952,13 @@
           "time_info": "[11时31分 ~ 11时32分]"
         },
         {
-          "title": "成也存储、败也存储！韩股“黑色星期五”：三星、SK海力士双双暴跌",
-          "url": "https://www.cls.cn/detail/2391421",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
           "title": "金十数据整理：每日存储市场要闻速递（2026-06-05）",
           "url": "https://flash.jin10.com/detail/20260605110136411800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
@@ -953,7 +1000,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1000,6 +1047,35 @@
       ]
     },
     {
+      "keyword_group": "科创",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
+          "url": "https://www.cls.cn/detail/2390870",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 07时58分]"
+        },
+        {
+          "title": "上证指数收报4027.74点，跌0.74%。 深证成指收报15314.70点，跌2.21%。 创业板指收报3957.93点，跌3.20%。 沪深300收报4816.92点，跌1.79%。 科创50收报1668.33点，跌4.01%。 中证500收报8251.14点，跌1.26%。 中证1000收报8340.96点，跌0.94%。",
+          "url": "https://wallstreetcn.com/livenews/3114876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "光模块",
       "match_count": 2,
       "titles": [
@@ -1008,11 +1084,12 @@
           "url": "https://www.cls.cn/detail/2391327",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时55分]"
         },
         {
           "title": "1.6T光模块量产 测试设备迎黄金时代",
@@ -1087,24 +1164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
-          "url": "https://www.cls.cn/detail/2390870",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 07时58分]"
         }
       ]
     },
