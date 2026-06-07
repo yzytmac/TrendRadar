@@ -1,537 +1,182 @@
 {
-  "generated_at": "2026-06-07T23:23:37.934090+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-06-08T00:52:08.186988+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 9,
       "titles": [
         {
-          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
-          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
-          "source": "凤凰网",
+          "title": "学者：特朗普外交抑制了两极化阵营化",
+          "url": "https://www.toutiao.com/trending/7647971110792757299/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 09时56分]"
-        },
-        {
-          "title": "特朗普“官宣”：我和马斯克又成朋友了",
-          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时02分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 14时23分]"
-        },
-        {
-          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
-          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 21时48分]"
-        },
-        {
-          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
-          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时23分 ~ 21时48分]"
-        },
-        {
-          "title": "伊朗开价240亿美元，这可要了特朗普的命",
-          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 19时47分]"
-        },
-        {
-          "title": "对伊战争百日 特朗普仍未赢得美国民众支持",
-          "url": "https://flash.jin10.com/detail/20260607031222169800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时54分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普宣布将前往现场看NBA总决赛",
-          "url": "https://wallstreetcn.com/livenews/3115551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 23时23分]"
-        },
-        {
-          "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
-          "url": "https://flash.jin10.com/detail/20260607212819197800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 23时23分]"
-        },
-        {
-          "title": "特朗普首席人工智能顾问克里希南将于月底离职",
-          "url": "https://flash.jin10.com/detail/20260607003735471800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时22分]"
-        },
-        {
-          "title": "特朗普：若达成协议 或可与伊朗合作回收并销毁其高浓缩铀",
-          "url": "https://flash.jin10.com/detail/20260607212252758800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 23时23分]"
-        },
-        {
-          "title": "美国总统特朗普：（关于美联储）没有理由提高利率。",
-          "url": "https://flash.jin10.com/detail/20260607211401019800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 23时23分]"
-        },
-        {
-          "title": "据NBC新闻：特朗普表示，并不要求将黎巴嫩纳入与伊朗的短期协议，不会在任何协议中提前解冻伊朗资产或解除任何制裁。",
-          "url": "https://flash.jin10.com/detail/20260607211037787800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 23时23分]"
-        },
-        {
-          "title": "美防长在法国模仿特朗普，美军被逗得哈哈大笑",
-          "url": "https://v.ifeng.com/c/8tl4ufgZGdN",
-          "source": "凤凰网",
-          "ranks": [
-            7,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 17时47分]"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "特朗普刚起床就发了AI视频",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%B5%B7%E5%BA%8A%E5%B0%B1%E5%8F%91%E4%BA%86AI%E8%A7%86%E9%A2%91&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 19时47分]"
-        },
-        {
-          "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
-          "url": "https://flash.jin10.com/detail/20260607002708297800",
+          "title": "据Axios援引美国官员及两名知情人士：以色列在对贝鲁特南郊发动空袭前已通报特朗普政府。",
+          "url": "https://flash.jin10.com/detail/20260607231852307800",
           "source": "金十数据",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时22分]"
-        },
-        {
-          "title": "美国总统特朗普转发了白宫关于就业数据的社交媒体帖子，内容为：“就业、就业、就业。数据不会骗人。”",
-          "url": "https://flash.jin10.com/detail/20260607001237895800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时22分]"
-        },
-        {
-          "title": "伊朗高官：谈判主动权在特朗普手里",
-          "url": "https://www.toutiao.com/trending/7648086385831804969/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 03时54分]"
-        },
-        {
-          "title": "马克龙准备用凡尔赛宫晚宴留住特朗普",
-          "url": "https://www.toutiao.com/trending/7647497205582741547/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 19时47分]"
-        },
-        {
-          "title": "【特朗普称解冻伊朗资产或解除制裁不是协议先决条件】 美国总统特朗普告诉美国媒体，他不会把解冻伊朗资产或取消对伊制裁作为任何协议的先决条件。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3115567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "美军打击伊朗目标，巴林、科威特拉响防空警报，特朗普坚称将很快从伊朗战事中“脱身”",
-          "url": "https://wallstreetcn.com/articles/3774015",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "特朗普：希望看到更低的利率。 没有理由加息。 （谈及沃什）不想对他产生太大影响。 我们实际上应该降低利率。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3115564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "特朗普：经济好转不应导致加息 美国存在债务问题、还有很多其他问题需要处理",
-          "url": "https://flash.jin10.com/detail/20260607220749081800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
-          "url": "https://wallstreetcn.com/livenews/3115567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "特朗普：如果美国和伊朗达成协议，“我们将一起行动”。 如果没有达成协议，将以严厉的军事手段打击伊朗。 美国在伊朗问题上将等待军事行动。 不排除向国会山袭击案中被指控者支付赔偿。 暂时没有计划撤出美军。 哈梅内伊比其前任更理性。 与伊朗协议“还差几个要点”，“非常接近”（达成） 希望以色列对真主党进行更多“外科手术式”打击。 在伊朗行动中维持驻军成本极低。 希望“在军事上更进一步”。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3115561",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时48分"
+          "time_info": "00时52分"
         },
         {
-          "title": "特朗普5月猛发800多条Truth帖文 美化首都的帖子占了十分之一",
-          "url": "https://flash.jin10.com/detail/20260607133116790800",
+          "title": "特朗普称美伊达成协议前不会解冻伊朗资产",
+          "url": "https://flash.jin10.com/detail/20260607231712644800",
           "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时23分"
+          "time_info": "00时52分"
         },
         {
-          "title": "特朗普：希望看到更低的利率。 没有理由加息。我们实际上应该降低利率。 （谈及沃什）不想对他产生太大影响。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3115564",
+          "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
+          "url": "https://wallstreetcn.com/livenews/3115567",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "00时52分"
         },
         {
-          "title": "特朗普：如果美国和伊朗达成协议，“我们将一起行动”。 如果没有达成协议，将以严厉的军事手段打击伊朗。 美国在伊朗问题上将等待军事行动。 不排除向国会山袭击案中被指控者支付赔偿。 暂时没有计划撤出美军。 哈梅内伊比其前任更理性。 与伊朗协议“还差几个要点”，“非常接近”（达成）。 希望以色列对真主党进行更多“外科手术式”打击。 在伊朗行动中维持驻军成本极低。 希望“在军事上更进一步”。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3115561",
+          "title": "特朗普称18亿美元“反武器化基金”是好主意 尽管遭遇共和党反弹",
+          "url": "https://flash.jin10.com/detail/20260607231507080800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "特朗普：希望看到更低的利率。 没有理由加息。我们实际上应该降低利率。 （谈及沃什）不想对他产生太大影响。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3115564",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "00时52分"
         },
         {
-          "title": "英媒：特朗普无法迫使伊朗让步 转而迁怒海湾盟友",
-          "url": "https://flash.jin10.com/detail/20260607124414554800",
-          "source": "金十数据",
+          "title": "特朗普：如果美国和伊朗达成协议，“我们将一起行动”。 如果没有达成协议，将以严厉的军事手段打击伊朗。 美国在伊朗问题上将等待军事行动。 不排除向国会山袭击案中被指控者支付赔偿。 暂时没有计划撤出美军。 哈梅内伊比其前任更理性。 与伊朗协议“还差几个要点”，“非常接近”（达成）。 希望以色列对真主党进行更多“外科手术式”打击。 在伊朗行动中维持驻军成本极低。 希望“在军事上更进一步”。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3115561",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "特朗普：美军在中东的驻军费用很低 暂时没有撤军计划",
-          "url": "https://flash.jin10.com/detail/20260607213857218800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "00时52分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-07）",
-          "url": "https://flash.jin10.com/detail/20260607181845041800",
+          "title": "特朗普：经济好转不应导致加息 美国存在债务问题、还有很多其他问题需要处理",
+          "url": "https://flash.jin10.com/detail/20260607220749081800",
           "source": "金十数据",
           "ranks": [
-            23
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时47分"
+          "time_info": "00时52分"
+        },
+        {
+          "title": "特朗普宣布将前往现场看NBA总决赛",
+          "url": "https://wallstreetcn.com/livenews/3115551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 16,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时11分 ~ 21时48分]"
-        },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
           "url": "https://www.cls.cn/detail/2392638",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4,
-            5,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时11分 ~ 23时23分]"
-        },
-        {
-          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 06时17分]"
-        },
-        {
-          "title": "龙头五连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2392448",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时11分 ~ 23时23分]"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
           "title": "张忆东：警惕6月10-18日变盘点！6-8月“夏日寒风”，活着最重要、勿加杠杆；快则8月慢则9月，恒科恒指有望随A股迎主升浪",
           "url": "https://wallstreetcn.com/articles/3774033",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时46分 ~ 23时23分]"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "美股暴跌是AI第一次冲击人类经济吗",
-          "url": "https://www.toutiao.com/trending/7648276875000679942/",
-          "source": "今日头条",
+          "title": "龙头五连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2392448",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时02分]"
-        },
-        {
-          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
-          "url": "https://wallstreetcn.com/articles/3773991",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时02分]"
-        },
-        {
-          "title": "A股重大调整来袭",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%E6%9D%A5%E8%A2%AD%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时46分 ~ 21时48分]"
-        },
-        {
-          "title": "如何应对美股泡沫爆破",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时53分 ~ 06时17分]"
-        },
-        {
-          "title": "美股大跌 A股周一能扛住吗",
-          "url": "https://www.toutiao.com/trending/7648566314880994870/",
-          "source": "今日头条",
-          "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时47分]"
-        },
-        {
-          "title": "美股IPO后续怎么看",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1IPO%E5%90%8E%E7%BB%AD%E6%80%8E%E4%B9%88%E7%9C%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
-        },
-        {
-          "title": "国泰海通：美股或迎来至少一两个月的波动期",
-          "url": "https://flash.jin10.com/detail/20260607222627146800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2392910",
           "source": "财联社热门",
           "ranks": [
-            11
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
+        },
+        {
+          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
+          "url": "https://www.zhihu.com/question/2046639064917586455",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
+        },
+        {
+          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
+          "url": "https://wallstreetcn.com/articles/3774038",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
@@ -540,425 +185,82 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "中信证券：短期美股科技股调整，市场料将继续维持高波动状态",
-          "url": "https://flash.jin10.com/detail/20260607184311159800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
-          "title": "兴业银行：2025年度A股每股派发现金红利0.501元",
-          "url": "https://flash.jin10.com/detail/20260607154156950800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "黄仁勋：新款Vera芯片将采用SK海力士的内存产品",
-          "url": "https://wallstreetcn.com/livenews/3115580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "报道：英伟达与SK将宣布合作计划，黄仁勋称芯片短缺将持续数年",
-          "url": "https://wallstreetcn.com/livenews/3115546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            28
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时48分 ~ 23时23分]"
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "标杆“芯片融资”交易：阿波罗、黑石和博通联手“募资”350亿美元，用于Anthropic向谷歌租赁TPU",
-          "url": "https://wallstreetcn.com/articles/3774013",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "极客湾解读RTX Spark芯片",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E8%A7%A3%E8%AF%BBRTX%20Spark%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "景顺长城全球芯片LOF(501225)：本基金将于2026年6月8日开市起停牌，自当日10:30起复牌，停牌期间本基金赎回业务照常办理。",
-          "url": "https://flash.jin10.com/detail/20260607190615647800",
+          "title": "国泰海通：美股或迎来至少一两个月的波动期",
+          "url": "https://flash.jin10.com/detail/20260607222627146800",
           "source": "金十数据",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
-          "title": "硅片行业的“结构性牛市”：AI芯片“喂饱”硅片巨头，国产硅片迎来黄金窗口",
-          "url": "https://wallstreetcn.com/premium/articles/3773871?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "AI炒完芯片后，下一轮被抢的会是谁？",
-          "url": "https://flash.jin10.com/detail/20260607214620913800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "芯片制造有新突破 光芯片压印，成本仅DUV的1/10",
-          "url": "https://flash.jin10.com/detail/20260607082216031800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "00时52分"
         }
       ]
     },
     {
       "keyword_group": "算力",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
           "title": "周末要闻汇总：全球首个“预制算力中心底座”正式投用；交易员预计美联储将到明年1月底前加息25个基点",
           "url": "https://www.cls.cn/detail/2392816",
           "source": "财联社热门",
           "ranks": [
-            9,
-            6,
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时46分 ~ 23时23分]"
-        },
-        {
-          "title": "全球首个“预制算力中心底座”正式投用",
-          "url": "https://www.toutiao.com/trending/7648459837035593774/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时46分 ~ 19时47分]"
-        },
-        {
-          "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
-          "url": "https://wallstreetcn.com/articles/3774016",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时02分 ~ 14时23分]"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
           "url": "https://wallstreetcn.com/articles/3774034",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时46分 ~ 23时23分]"
-        },
-        {
-          "title": "算力普惠再提速，全球首个“预制算力中心底座”正式投用",
-          "url": "https://wallstreetcn.com/livenews/3115522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 19时47分]"
-        },
-        {
-          "title": "多家供给方下调算力价格 算力普惠再提速",
-          "url": "https://flash.jin10.com/detail/20260607122553709800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "算力普惠再提速 全球首个“预制算力中心底座”正式投用",
-          "url": "https://flash.jin10.com/detail/20260607115930059800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         }
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 3,
+      "keyword_group": "芯片",
+      "match_count": 1,
       "titles": [
         {
-          "title": "阿斯麦：马斯克将出席本公司闭门技术研讨会，讨论Terafab项目",
-          "url": "https://wallstreetcn.com/livenews/3115479",
+          "title": "黄仁勋：新款Vera芯片将采用SK海力士的内存产品",
+          "url": "https://wallstreetcn.com/livenews/3115580",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            8,
-            10,
-            16,
-            17,
-            22
+            5
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 09时56分]"
-        },
-        {
-          "title": "马斯克称禁止中国客户投SpaceX",
-          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%AE%A2%E6%88%B7%E6%8A%95SpaceX&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 17时47分]"
-        },
-        {
-          "title": "阿斯麦(ASML.O)：埃隆·马斯克将在公司虚拟技术会议上发言，马斯克将讨论TERAFAB项目、人工智能愿景及芯片制造。",
-          "url": "https://flash.jin10.com/detail/20260606230103106800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "00时52分"
         }
       ]
     },
     {
       "keyword_group": "存储",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "三大存储厂打响“散热”攻关战 热管理成下一代HBM核心竞争力",
           "url": "https://www.cls.cn/detail/2391811",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时11分 ~ 23时23分]"
-        },
-        {
-          "title": "京东方A回应存储涨价对显示行业的影响",
-          "url": "https://wallstreetcn.com/livenews/3115524",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 19时47分]"
-        },
-        {
-          "title": "京东方A回应存储涨价对显示行业的影响",
-          "url": "https://flash.jin10.com/detail/20260607135334701800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3773996",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 03时54分]"
-        },
-        {
-          "title": "中韩半导体ETF华泰柏瑞：本基金将于2026年6月8日开市起至当日10:30停牌。",
-          "url": "https://flash.jin10.com/detail/20260607190408906800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "光模块",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "唯特偶：在光模块及先进封装领域的营收占比贡献率均不到1%",
-          "url": "https://flash.jin10.com/detail/20260607164849570800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球首款全尺寸超仿生人形机器人来了",
-          "url": "https://www.toutiao.com/trending/7647117592154882091/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            19,
-            26,
-            24,
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中际旭创",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中际旭创6月7日在互动平台表示，公司产能在持续扩建中。",
-          "url": "https://flash.jin10.com/detail/20260607140015000800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "领益智造",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "领益智造通过港交所上市聆讯",
-          "url": "https://flash.jin10.com/detail/20260607184151319800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "宁德时代",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "新宙邦：与宁德时代签订《电解液合作协议》",
-          "url": "https://wallstreetcn.com/livenews/3115539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 21时48分]"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         }
       ]
     }
