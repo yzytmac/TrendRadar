@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-08T06:18:43.926957+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-06-08T07:36:43.465614+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "特朗普：我说了算，以色列总理别无选择",
+          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
         {
           "title": "据阿拉伯卫星电视台：内塔尼亚胡与特朗普的通话持续了20分钟。",
           "url": "https://flash.jin10.com/detail/20260608054713959800",
@@ -14,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -51,8 +62,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 07时36分]"
         },
         {
           "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
@@ -144,7 +155,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -155,7 +166,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -259,6 +270,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "据半岛电视台：以色列第12频道报道称，内塔尼亚胡在通话中试图反对特朗普“不对伊朗进行报复的要求”，但最终还是接受了。",
+          "url": "https://flash.jin10.com/detail/20260608065348810800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
           "title": "据AXIOS：特朗普表示他马上要给内塔尼亚胡打电话，告诉他不要进行反击。",
           "url": "https://flash.jin10.com/detail/20260608040738850800",
           "source": "金十数据",
@@ -279,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "伊朗导弹直击以色列空军基地，特朗普紧急喊停以军：所有事我做主，内塔尼亚胡别无选择",
+          "url": "https://flash.jin10.com/detail/20260608064132856800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         },
         {
           "title": "美国总统特朗普：（关于以色列今天早些时候袭击贝鲁特）我对此并不满意。",
@@ -303,15 +336,48 @@
           "time_info": "00时52分"
         },
         {
+          "title": "特朗普称内塔尼亚胡“只能接受美伊协议”",
+          "url": "https://wallstreetcn.com/livenews/3115650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "特朗普力压内塔尼亚胡：美伊协议“我说了算”，他必须接受",
+          "url": "https://flash.jin10.com/detail/20260608061944614800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
           "title": "特朗普对伊朗喊话：行了，回来谈判吧",
           "url": "https://wallstreetcn.com/livenews/3115623",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "伊朗导弹袭击以色列后 特朗普与内塔尼亚胡通电话",
+          "url": "https://wallstreetcn.com/livenews/3115649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         },
         {
           "title": "美国总统特朗普：空袭不会有助于谈判成功。",
@@ -347,6 +413,28 @@
           "time_info": "05时11分"
         },
         {
+          "title": "美国总统特朗普：（当被问及如果任何协议失败会发生什么时）会考虑对伊朗进行突袭。",
+          "url": "https://flash.jin10.com/detail/20260608061403914800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "美国总统特朗普：这件事我说了算，所有事都是我说了算。他（内塔尼亚胡）说了不算。伊朗的袭击并未改变我达成协议的意愿。",
+          "url": "https://flash.jin10.com/detail/20260608061143135800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
           "title": "伊朗向以色列发射第三波导弹，特朗普已听取局势升级的简报",
           "url": "https://wallstreetcn.com/livenews/3115608",
           "source": "华尔街见闻-快讯",
@@ -356,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美国总统特朗普：以色列总理内塔尼亚胡将“别无选择”，只能接受与伊朗的协议。",
+          "url": "https://flash.jin10.com/detail/20260608061018459800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         },
         {
           "title": "特朗普宣布将前往现场看NBA总决赛",
@@ -383,7 +482,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -393,8 +492,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时36分]"
         },
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -407,8 +506,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时36分]"
+        },
+        {
+          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2392910",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时36分]"
         },
         {
           "title": "张忆东：警惕6月10-18日变盘点！6-8月“夏日寒风”，活着最重要、勿加杠杆；快则8月慢则9月，恒科恒指有望随A股迎主升浪",
@@ -419,8 +531,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时36分]"
         },
         {
           "title": "龙头五连板！本周披露并购重组进展的A股名单一览",
@@ -431,20 +543,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时18分]"
-        },
-        {
-          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2392910",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时36分]"
         },
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
@@ -456,19 +556,53 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时36分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
           "url": "https://www.cls.cn/detail/2392886",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时36分]"
+        },
+        {
+          "title": "一年增加66家，千亿市值A股公司跃升至201家，大市值公司版图正改写",
+          "url": "https://www.cls.cn/detail/2392822",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "A股市场震荡回调，机构称科技成长仍是下半年核心主线",
+          "url": "https://wallstreetcn.com/livenews/3115658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "全球资本重构中国核心资产定价逻辑，硬科技H股对A股溢价频现",
+          "url": "https://wallstreetcn.com/livenews/3115657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         },
         {
           "title": "国泰海通：美股或迎来至少一两个月的波动期",
@@ -480,6 +614,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "现货黄金、美股股指期货小幅拉升，WTI原油小幅下挫。",
+          "url": "https://flash.jin10.com/detail/20260608061554196800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "国际油价亚市盘初上涨3%，此前伊朗对以色列发动打击。 美股期货走低，标普500指数期货、道指期货跌0.4%，纳斯达克100指数期货跌0.3%。 美元指数上涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3115648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         },
         {
           "title": "美股IPO后续怎么看",
@@ -506,39 +662,20 @@
       ]
     },
     {
-      "keyword_group": "算力",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周末要闻汇总：全球首个“预制算力中心底座”正式投用；交易员预计美联储将到明年1月底前加息25个基点",
-          "url": "https://www.cls.cn/detail/2392816",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时18分]"
-        },
-        {
-          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
-          "url": "https://wallstreetcn.com/articles/3774034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "SK海力士：将利用英伟达数字孪生技术虚拟复刻芯片工厂。",
+          "url": "https://flash.jin10.com/detail/20260608070810410800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
         {
           "title": "黄仁勋：新款Vera芯片将采用SK海力士的内存产品",
           "url": "https://wallstreetcn.com/livenews/3115580",
@@ -551,12 +688,92 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时52分 ~ 03时47分]"
+        },
+        {
+          "title": "SK海力士：正与英伟达联合开发面向全球AI工厂的下一代内存/显存。 考虑到先进内存较长的开发周期，这一长期合作伙伴关系将有助于保障稳定供应。 通过这次合作，公司将进入个人AI和具身AI等AI领域的新市场。 将继续供应满足英伟达基础设施路线图以及全球AI基础设施需求的内存/显存。 将利用英伟达的数字孪生技术，在虚拟世界中重现芯片工厂。",
+          "url": "https://wallstreetcn.com/livenews/3115668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周末要闻汇总：全球首个“预制算力中心底座”正式投用；交易员预计美联储将到明年1月底前加息25个基点",
+          "url": "https://www.cls.cn/detail/2392816",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时36分]"
+        },
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时36分]"
+        },
+        {
+          "title": "算力引爆MLCC超级周期，“电子工业大米”或结构性缺货",
+          "url": "https://wallstreetcn.com/livenews/3115672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达和SK海力士将把AI应用于半导体芯片设计。",
+          "url": "https://wallstreetcn.com/livenews/3115665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "英伟达：SK电讯将与英伟达共筑AI基础设施，驱动韩国AI创新腾飞，深化合作部署GPU集群，赋能半导体制造与数字孪生。",
+          "url": "https://flash.jin10.com/detail/20260608070118770800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         }
       ]
     },
     {
       "keyword_group": "存储",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "三大存储厂打响“散热”攻关战 热管理成下一代HBM核心竞争力",
@@ -566,8 +783,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时36分]"
+        },
+        {
+          "title": "英伟达：与SK海力士将进行多年技术合作，共推AI工厂内存革新，深化HBM与定制存储开发，加速万亿参数大模型推理。",
+          "url": "https://flash.jin10.com/detail/20260608070137821800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         }
       ]
     }
