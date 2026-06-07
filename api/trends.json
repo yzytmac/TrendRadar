@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T19:47:00.505144+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2026-06-07T21:48:14.607714+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
@@ -52,8 +52,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 19时47分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 21时48分]"
+        },
+        {
+          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
+          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时23分 ~ 21时48分]"
         },
         {
           "title": "伊朗开价240亿美元，这可要了特朗普的命",
@@ -68,27 +80,48 @@
           "time_info": "[09时56分 ~ 19时47分]"
         },
         {
-          "title": "特朗普宣布将前往现场看NBA总决赛",
-          "url": "https://wallstreetcn.com/livenews/3115551",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
+          "url": "https://flash.jin10.com/detail/20260607212819197800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时47分"
+          "time_info": "21时48分"
         },
         {
-          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
-          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
-          "source": "凤凰网",
+          "title": "特朗普：若达成协议 或可与伊朗合作回收并销毁其高浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260607212252758800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时23分 ~ 19时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "美国总统特朗普：（关于美联储）没有理由提高利率。",
+          "url": "https://flash.jin10.com/detail/20260607211401019800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "据NBC新闻：特朗普表示，并不要求将黎巴嫩纳入与伊朗的短期协议，不会在任何协议中提前解冻伊朗资产或解除任何制裁。",
+          "url": "https://flash.jin10.com/detail/20260607211037787800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "对伊战争百日 特朗普仍未赢得美国民众支持",
@@ -103,6 +136,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时54分 ~ 07时35分]"
+        },
+        {
+          "title": "特朗普宣布将前往现场看NBA总决赛",
+          "url": "https://wallstreetcn.com/livenews/3115551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 21时48分]"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -187,6 +232,17 @@
           "time_info": "[19时46分 ~ 19时47分]"
         },
         {
+          "title": "【特朗普称解冻伊朗资产或解除制裁不是协议先决条件】 美国总统特朗普告诉美国媒体，他不会把解冻伊朗资产或取消对伊制裁作为任何协议的先决条件。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3115567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "美军打击伊朗目标，巴林、科威特拉响防空警报，特朗普坚称将很快从伊朗战事中“脱身”",
           "url": "https://wallstreetcn.com/articles/3774015",
           "source": "华尔街见闻",
@@ -196,6 +252,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "特朗普：希望看到更低的利率。 没有理由加息。 （谈及沃什）不想对他产生太大影响。 我们实际上应该降低利率。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3115564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "特朗普：如果美国和伊朗达成协议，“我们将一起行动”。 如果没有达成协议，将以严厉的军事手段打击伊朗。 美国在伊朗问题上将等待军事行动。 不排除向国会山袭击案中被指控者支付赔偿。 暂时没有计划撤出美军。 哈梅内伊比其前任更理性。 与伊朗协议“还差几个要点”，“非常接近”（达成） 希望以色列对真主党进行更多“外科手术式”打击。 在伊朗行动中维持驻军成本极低。 希望“在军事上更进一步”。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3115561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "特朗普5月猛发800多条Truth帖文 美化首都的帖子占了十分之一",
@@ -226,7 +304,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         }
@@ -234,7 +312,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -243,11 +321,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时11分 ~ 19时47分]"
+          "appearance_count": 16,
+          "time_info": "[01时11分 ~ 21时48分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -256,11 +335,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时11分 ~ 19时47分]"
+          "appearance_count": 16,
+          "time_info": "[01时11分 ~ 21时48分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -284,8 +364,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时11分 ~ 19时47分]"
+          "appearance_count": 16,
+          "time_info": "[01时11分 ~ 21时48分]"
         },
         {
           "title": "美股暴跌是AI第一次冲击人类经济吗",
@@ -302,6 +382,19 @@
           "time_info": "[01时11分 ~ 05时02分]"
         },
         {
+          "title": "张忆东：警惕6月10-18日变盘点！6-8月“夏日寒风”，活着最重要、勿加杠杆；快则8月慢则9月，恒科恒指有望随A股迎主升浪",
+          "url": "https://wallstreetcn.com/articles/3774033",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时46分 ~ 21时48分]"
+        },
+        {
           "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
           "url": "https://wallstreetcn.com/articles/3773991",
           "source": "华尔街见闻",
@@ -314,18 +407,6 @@
           "time_info": "[01时11分 ~ 05时02分]"
         },
         {
-          "title": "张忆东：警惕6月10-18日变盘点！6-8月“夏日寒风”，活着最重要、勿加杠杆；快则8月慢则9月，恒科恒指有望随A股迎主升浪",
-          "url": "https://wallstreetcn.com/articles/3774033",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时46分 ~ 19时47分]"
-        },
-        {
           "title": "A股重大调整来袭",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%E6%9D%A5%E8%A2%AD%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -334,8 +415,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时46分 ~ 19时47分]"
+          "appearance_count": 6,
+          "time_info": "[17时46分 ~ 21时48分]"
         },
         {
           "title": "如何应对美股泡沫爆破",
@@ -360,13 +441,24 @@
           "time_info": "[17时46分 ~ 17时47分]"
         },
         {
+          "title": "美股IPO后续怎么看",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1IPO%E5%90%8E%E7%BB%AD%E6%80%8E%E4%B9%88%E7%9C%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 21时48分]"
+        },
+        {
           "title": "中信证券：短期美股科技股调整，市场料将继续维持高波动状态",
           "url": "https://flash.jin10.com/detail/20260607184311159800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -399,6 +491,19 @@
           "time_info": "[17时46分 ~ 19时47分]"
         },
         {
+          "title": "周末要闻汇总：全球首个“预制算力中心底座”正式投用；交易员预计美联储将到明年1月底前加息25个基点",
+          "url": "https://www.cls.cn/detail/2392816",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时46分 ~ 21时48分]"
+        },
+        {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
           "url": "https://wallstreetcn.com/articles/3774016",
           "source": "华尔街见闻",
@@ -412,18 +517,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时02分 ~ 14时23分]"
-        },
-        {
-          "title": "周末要闻汇总：全球首个“预制算力中心底座”正式投用；交易员预计美联储将到明年1月底前加息25个基点",
-          "url": "https://www.cls.cn/detail/2392816",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时46分 ~ 19时47分]"
         },
         {
           "title": "算力普惠再提速，全球首个“预制算力中心底座”正式投用",
@@ -443,11 +536,12 @@
           "url": "https://wallstreetcn.com/articles/3774034",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 19时47分]"
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 21时48分]"
         },
         {
           "title": "多家供给方下调算力价格 算力普惠再提速",
@@ -475,7 +569,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "标杆“芯片融资”交易：阿波罗、黑石和博通联手“募资”350亿美元，用于Anthropic向谷歌租赁TPU",
@@ -506,7 +600,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -531,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "报道：英伟达与SK将宣布合作计划，黄仁勋称芯片短缺将持续数年",
+          "url": "https://wallstreetcn.com/livenews/3115546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         }
       ]
     },
@@ -592,8 +697,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时11分 ~ 19时47分]"
+          "appearance_count": 16,
+          "time_info": "[01时11分 ~ 21时48分]"
         },
         {
           "title": "京东方A回应存储涨价对显示行业的影响",
@@ -643,7 +748,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         }
@@ -716,7 +821,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         }
@@ -732,11 +837,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 19时47分]"
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 21时48分]"
         }
       ]
     }
