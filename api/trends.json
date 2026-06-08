@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T10:01:59.737810+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-06-08T14:56:24.074301+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：我说了算，以色列总理别无选择",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 10时01分]"
+          "appearance_count": 3,
+          "time_info": "[07时36分 ~ 14时56分]"
         },
         {
           "title": "据阿拉伯卫星电视台：内塔尼亚胡与特朗普的通话持续了20分钟。",
@@ -28,6 +28,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 14时56分]"
         },
         {
           "title": "据半岛电视台：特朗普和内塔尼亚胡正在进行电话交谈。",
@@ -127,17 +139,6 @@
           "time_info": "[05时11分 ~ 06时18分]"
         },
         {
-          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
-          "url": "https://wallstreetcn.com/articles/3774049",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
           "title": "美国总统特朗普：一切进展顺利。",
           "url": "https://flash.jin10.com/detail/20260608043710675800",
           "source": "金十数据",
@@ -147,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
+          "url": "https://wallstreetcn.com/articles/3774055",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "以色列广播公司：特朗普政府的一个法律代表团抵达以色列，将与内塔尼亚胡、国防部长卡茨和外长萨阿尔会面。",
@@ -257,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "特朗普称18亿美元“反武器化基金”是好主意 尽管遭遇共和党反弹",
@@ -493,7 +516,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -505,6 +528,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时51分 ~ 07时36分]"
+        },
+        {
+          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2392910",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 14时56分]"
         },
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -522,18 +560,18 @@
           "time_info": "[00时51分 ~ 10时01分]"
         },
         {
-          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2392910",
+          "title": "如何看待美股黑色星期五？如何影响A股？",
+          "url": "https://www.cls.cn/detail/2392886",
           "source": "财联社热门",
           "ranks": [
-            8,
-            7,
+            13,
+            9,
             6,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 10时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 14时56分]"
         },
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
@@ -542,24 +580,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 10时01分]"
-        },
-        {
-          "title": "如何看待美股黑色星期五？如何影响A股？",
-          "url": "https://www.cls.cn/detail/2392886",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 10时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 14时56分]"
         },
         {
           "title": "张忆东：警惕6月10-18日变盘点！6-8月“夏日寒风”，活着最重要、勿加杠杆；快则8月慢则9月，恒科恒指有望随A股迎主升浪",
@@ -567,11 +593,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 14时56分]"
         },
         {
           "title": "龙头五连板！本周披露并购重组进展的A股名单一览",
@@ -586,13 +613,25 @@
           "time_info": "[00时51分 ~ 07时36分]"
         },
         {
+          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
+          "url": "https://www.cls.cn/detail/2393027",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 14时56分]"
+        },
+        {
           "title": "A股氟化工板块短线拉升，昊华科技触及涨停，金石资源、多氟多、巨化股份、三美股份、永太科技等纷纷走高。",
           "url": "https://flash.jin10.com/detail/20260608094840551800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -603,18 +642,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
-          "url": "https://www.cls.cn/detail/2393027",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -625,9 +653,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "A股旅游概念短线回升，西藏旅游涨超8%，西域旅游、云南旅游、中国中免、风语筑等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260608144338560800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "一年增加66家，千亿市值A股公司跃升至201家，大市值公司版图正改写",
@@ -642,13 +681,25 @@
           "time_info": "[07时36分 ~ 10时01分]"
         },
         {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 14时56分]"
+        },
+        {
           "title": "A股地产股低开回升，南山控股、荣安地产双双涨停，北辰实业、世荣兆业、阳光股份、天保基建跟涨。",
           "url": "https://wallstreetcn.com/livenews/3115768",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -659,7 +710,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -670,7 +721,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -681,9 +732,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2526841",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "A股养殖业板块走强，湘佳股份涨停，晓鸣股份涨超10%，民和股份、益生股份、立华股份、仙坛股份、京基智农跟涨。",
@@ -692,7 +754,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -703,18 +765,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "A股行情",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -725,7 +776,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -736,9 +787,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "美股科技大跌对A股影响有多大",
+          "url": "https://www.toutiao.com/trending/7648866478107659803/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "A股半导体芯片股大幅低开，新相微、裕太微、晶丰明源、优迅股份跌超10%，德明利、江波龙、恒烁股份、东微半导跌超9%。",
@@ -747,7 +809,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -758,7 +820,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -785,13 +847,24 @@
           "time_info": "07时36分"
         },
         {
+          "title": "业内：A股再度迎来4000点关口考验",
+          "url": "https://www.toutiao.com/trending/7648816183089397766/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
           "title": "A股油气开采及服务盘初拉升，科力股份涨超10%，通源石油、潜能恒信、首华燃气、中曼石油、蓝焰控股跟涨。",
           "url": "https://flash.jin10.com/detail/20260608093213375800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -824,7 +897,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -846,7 +919,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -876,7 +949,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达和SK海力士将把AI应用于半导体芯片设计。",
@@ -907,9 +980,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "6 月 8 日韩国股市开盘跌超 8% 后熔断，日经 225 盘中跌幅近 5%，A 股低开震荡，半导体泡沫会破吗？",
+          "url": "https://www.zhihu.com/question/2047250872799908693",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "恒生科技指数跌超3%，光通信、存储、PCB、半导体等概念跌幅居前。",
@@ -918,7 +1002,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
@@ -970,7 +1054,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
@@ -978,7 +1062,7 @@
     },
     {
       "keyword_group": "存储",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "三大存储厂打响“散热”攻关战 热管理成下一代HBM核心竞争力",
@@ -996,11 +1080,23 @@
           "url": "https://wallstreetcn.com/articles/3774048",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 14时56分]"
+        },
+        {
+          "title": "英伟达与SK海力士多年期技术合作 黄仁勋称存储短缺未见结束迹象",
+          "url": "https://www.cls.cn/detail/2393080",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "14时56分"
         },
         {
           "title": "英伟达：与SK海力士将进行多年技术合作，共推AI工厂内存革新，深化HBM与定制存储开发，加速万亿参数大模型推理。",
@@ -1012,6 +1108,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
+          "url": "https://www.cls.cn/detail/2392919",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "上证指数开盘报3938.71点，跌2.21%。 深证成指开盘报14835.37点，跌3.13%。 创业板指开盘报3820.23点，跌3.48%。 沪深300开盘报4703.77点，跌2.35%。 科创50开盘报1587.97点，跌4.82%。 中证500开盘报7978.66点，跌3.30%。 中证1000开盘报8069.48点，跌3.25%。",
+          "url": "https://wallstreetcn.com/livenews/3115744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "科创50指数跌幅扩大至5%，翱捷科技、思特威、西部超导、天岳先进、佰维存储领跌。",
+          "url": "https://wallstreetcn.com/livenews/3115894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         }
       ]
     },
@@ -1037,11 +1172,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 14时56分]"
         },
         {
           "title": "算力引爆MLCC超级周期，“电子工业大米”或结构性缺货",
@@ -1057,19 +1193,19 @@
       ]
     },
     {
-      "keyword_group": "科创",
+      "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
         {
-          "title": "上证指数开盘报3938.71点，跌2.21%。 深证成指开盘报14835.37点，跌3.13%。 创业板指开盘报3820.23点，跌3.48%。 沪深300开盘报4703.77点，跌2.35%。 科创50开盘报1587.97点，跌4.82%。 中证500开盘报7978.66点，跌3.30%。 中证1000开盘报8069.48点，跌3.25%。",
-          "url": "https://wallstreetcn.com/livenews/3115744",
-          "source": "华尔街见闻-快讯",
+          "title": "马斯克SpaceX拒绝中国投资者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
+          "source": "贴吧",
           "ranks": [
-            20
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "14时56分"
         }
       ]
     }
