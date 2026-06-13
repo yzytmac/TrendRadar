@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T04:48:46.960032+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-06-14T06:02:41.316725+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -15,8 +15,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时02分]"
+        },
+        {
+          "title": "国际原子能机构前总干事批评特朗普：试图让美伊新协议显得优于伊核协议",
+          "url": "https://flash.jin10.com/detail/20260614051019663800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
@@ -26,8 +37,41 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时02分]"
+        },
+        {
+          "title": "学者：协议的不确定性折射特朗普外交的“混乱”",
+          "url": "https://flash.jin10.com/detail/20260614045258501800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时02分]"
+        },
+        {
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时02分]"
         },
         {
           "title": "美国总统特朗普：将任命詹姆斯·麦克唐纳为纽约南区联邦检察官。",
@@ -35,11 +79,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 06时02分]"
         },
         {
           "title": "特朗普将在G7峰会期间会晤中东伙伴",
@@ -66,26 +111,17 @@
           "time_info": "[01时53分 ~ 03时22分]"
         },
         {
-          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
-          "url": "https://wallstreetcn.com/livenews/3119159",
-          "source": "华尔街见闻-快讯",
+          "title": "一名以色列高级官员就特朗普的伊朗协议对以色列第12频道表示：“这是一笔糟糕透顶的协议。”",
+          "url": "https://flash.jin10.com/detail/20260614021404765800",
+          "source": "金十数据",
           "ranks": [
-            15
+            7,
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时48分]"
-        },
-        {
-          "title": "美媒细数特朗普曾39次说与伊朗谈好",
-          "url": "https://wallstreetcn.com/livenews/3119158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 06时02分]"
         },
         {
           "title": "唐宁街10号（英国首相府）：英国首相斯塔默表示支持美国总统特朗普结束与伊朗冲突的努力。",
@@ -110,18 +146,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 03时22分]"
-        },
-        {
-          "title": "一名以色列高级官员就特朗普的伊朗协议对以色列第12频道表示：“这是一笔糟糕透顶的协议。”",
-          "url": "https://flash.jin10.com/detail/20260614021404765800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时48分]"
         },
         {
           "title": "特朗普社交媒体发文：明天将签署协议，霍尔木兹海峡即刻开放",
@@ -230,8 +254,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时02分]"
+        },
+        {
+          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
+          "url": "https://www.cls.cn/detail/2398924",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时02分]"
         },
         {
           "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
@@ -245,28 +281,17 @@
           "time_info": "[00时20分 ~ 03时22分]"
         },
         {
-          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
-          "url": "https://www.cls.cn/detail/2398924",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时48分]"
-        },
-        {
           "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
           "url": "https://wallstreetcn.com/articles/3774568",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时02分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -275,11 +300,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时02分]"
         },
         {
           "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
@@ -290,8 +316,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时02分]"
         },
         {
           "title": "很难赌马斯克会输！散户一边骂贵一边疯抢SpaceX，但绝大多数不打算长期持股",
@@ -301,8 +327,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 06时02分]"
         }
       ]
     },
@@ -318,19 +344,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时02分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时02分]"
         },
         {
           "title": "A股又一4倍大牛股诞生",
@@ -340,11 +367,12 @@
             20,
             8,
             17,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时02分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -356,8 +384,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时02分]"
         }
       ]
     }
