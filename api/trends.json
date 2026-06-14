@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T01:48:44.396275+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-06-15T03:23:18.073426+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -15,8 +15,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时23分]"
+        },
+        {
+          "title": "不满以色列空袭贝鲁特，特朗普指责内塔尼亚胡“缺乏理智”",
+          "url": "https://wallstreetcn.com/livenews/3119268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时48分]"
+          "time_info": "[01时48分 ~ 03时23分]"
         },
         {
           "title": "以色列一名高级内阁部长对第12频道表示：“在我们看来，伊朗是特朗普的问题，他有权寻求达成协议，但黎巴嫩是我们的问题，我们绝不能同意伊朗提出的等式，即便付出与美国发生严重对抗的代价。”",
@@ -25,18 +37,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "不满以色列空袭贝鲁特，特朗普指责内塔尼亚胡“缺乏理智”",
-          "url": "https://wallstreetcn.com/livenews/3119268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -45,11 +46,12 @@
           "url": "https://wallstreetcn.com/livenews/3119266",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时23分]"
         },
         {
           "title": "据以色列第12频道：美国总统特朗普称，我与内塔尼亚胡通话时告诉他：“你到底在干什么？？？”",
@@ -71,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时23分]"
         },
         {
           "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
@@ -82,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时23分]"
         },
         {
           "title": "特朗普批评以色列“干扰”美伊签署协议：“非常接近”达成美伊协议，将给黎巴嫩带来和平",
@@ -91,11 +93,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时23分]"
         },
         {
           "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
@@ -105,19 +108,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时23分]"
         },
         {
           "title": "俄总统助理：特朗普与普京通话，美伊谈判结果将公布",
           "url": "https://wallstreetcn.com/livenews/3119264",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时23分]"
         },
         {
           "title": "克里姆林宫：普京与特朗普达成一致，史蒂夫·威特科夫和贾里德·库什纳将在近期再次访问俄罗斯。",
@@ -137,9 +141,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "美国总统特朗普：如果《外国情报监视法》法案不附带《拯救美国法案》，我就反对。",
+          "url": "https://flash.jin10.com/detail/20260615022113547800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "据以色列媒体报道，以色列评估认为，尽管特朗普试图遏制伊朗的反应，但伊朗仍将发动攻击。",
+          "url": "https://flash.jin10.com/detail/20260615021407670800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "特朗普批以方“打乱计划” 称美伊仍将14日签协议",
+          "url": "https://flash.jin10.com/detail/20260615020629292800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "美国总统特朗普对福克斯新闻表示：与伊朗的协议将先以远程方式签署，随后可能在一周后于欧洲举行面对面签字仪式。",
@@ -148,7 +185,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -159,7 +196,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -175,13 +212,24 @@
           "time_info": "00时12分"
         },
         {
+          "title": "美伊协议文本浮现多个版本 特朗普坚称周日签署",
+          "url": "https://flash.jin10.com/detail/20260615014618261800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特朗普告诉俄罗斯总统普京，美国总统特使威特科夫和特朗普女婿库什纳将很快前往俄罗斯。",
           "url": "https://flash.jin10.com/detail/20260615002315803800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -192,7 +240,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -214,9 +262,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "据以色列第15频道：以色列不会同意不对伊朗做出回应，即使这是美国总统特朗普的意愿。",
+          "url": "https://flash.jin10.com/detail/20260615013903490800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "俄媒：普京与特朗普通电话，持续55分钟",
@@ -247,9 +306,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "据以色列第13频道：以方评估认为，特朗普旨在阻止伊朗发动打击的努力将取得成功。",
+          "url": "https://flash.jin10.com/detail/20260615013436769800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         }
       ]
     },
@@ -265,8 +335,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时23分]"
         },
         {
           "title": "10家A股公司退市",
@@ -315,8 +385,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时23分]"
         },
         {
           "title": "马斯克“锁死”SpaceX背后",
@@ -343,8 +413,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时23分]"
         },
         {
           "title": "经济日报：人形机器人为何热衷秀才艺",
@@ -353,9 +423,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时23分]"
         }
       ]
     },
@@ -372,8 +442,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时23分]"
         }
       ]
     }
