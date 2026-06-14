@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T14:22:29.899550+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-06-14T18:03:40.335626+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             8,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 14时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 18时03分]"
         },
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -56,6 +57,30 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 14时22分]"
+        },
+        {
+          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
+          "url": "https://www.cls.cn/detail/2399150",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 18时03分]"
+        },
+        {
+          "title": "以色列官员：以色列总理内塔尼亚胡与美国总统特朗普关系良好，盟友之间难免会出现分歧，这些分歧能够被克服。",
+          "url": "https://flash.jin10.com/detail/20260614173808225800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "国际原子能机构前总干事批评特朗普：试图让美伊新协议显得优于伊核协议",
@@ -98,28 +123,29 @@
           "time_info": "[06时02分 ~ 09时43分]"
         },
         {
-          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
-          "url": "https://www.cls.cn/detail/2399150",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 14时22分]"
-        },
-        {
           "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
           "url": "https://wallstreetcn.com/livenews/3119179",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 18时03分]"
+        },
+        {
+          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
+          "url": "https://wallstreetcn.com/articles/3774599",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时43分 ~ 14时22分]"
+          "time_info": "[14时22分 ~ 18时03分]"
         },
         {
           "title": "特朗普将在G7峰会期间会晤中东伙伴",
@@ -195,6 +221,18 @@
           "time_info": "[01时53分 ~ 03时22分]"
         },
         {
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 18时03分]"
+        },
+        {
           "title": "美国总统特朗普就伊朗问题表示：我们与伊朗的关系比前任政府时期更加不同、更加良好。",
           "url": "https://flash.jin10.com/detail/20260614005039363800",
           "source": "金十数据",
@@ -243,17 +281,6 @@
           "time_info": "[01时53分 ~ 03时22分]"
         },
         {
-          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
-          "url": "https://wallstreetcn.com/articles/3774599",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
           "title": "美军被曝曾制订抢夺伊朗浓缩铀计划 特朗普未批准",
           "url": "https://flash.jin10.com/detail/20260614080502801800",
           "source": "金十数据",
@@ -276,15 +303,26 @@
           "time_info": "00时20分"
         },
         {
-          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
-          "source": "澎湃新闻",
+          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
+          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
+          "source": "凤凰网",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "18时03分"
+        },
+        {
+          "title": "特朗普发布 AI 视频，变身火影忍者，引发日本民众抗议，日本官员称已多次提醒美方注意版权，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2049169967136953360",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
@@ -304,7 +342,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -360,6 +398,22 @@
           "time_info": "[00时20分 ~ 07时21分]"
         },
         {
+          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
+          "url": "https://www.cls.cn/detail/2398924",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 18时03分]"
+        },
+        {
           "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
           "url": "https://m.thepaper.cn/newsDetail_forward_33374147",
           "source": "澎湃新闻",
@@ -374,19 +428,18 @@
           "time_info": "[00时20分 ~ 14时22分]"
         },
         {
-          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
-          "url": "https://www.cls.cn/detail/2398924",
+          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
+          "url": "https://www.cls.cn/detail/2399065",
           "source": "财联社热门",
           "ranks": [
-            5,
-            6,
-            7,
-            9,
-            11
+            12,
+            11,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 14时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 18时03分]"
         },
         {
           "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
@@ -401,20 +454,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 09时43分]"
-        },
-        {
-          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
-          "url": "https://www.cls.cn/detail/2399065",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 14时22分]"
         },
         {
           "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
@@ -453,7 +492,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
@@ -461,11 +500,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 14时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 18时03分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -510,6 +550,17 @@
           "time_info": "[00时20分 ~ 07时21分]"
         },
         {
+          "title": "陈茂波：香港股市前五个月日均成交额同比增长14%",
+          "url": "https://wallstreetcn.com/livenews/3119203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "A股又现重大调整",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E7%8E%B0%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -535,18 +586,19 @@
     },
     {
       "keyword_group": "中际旭创",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中际旭创：受汇兑影响业绩暴雷传闻不属实",
           "url": "https://wallstreetcn.com/livenews/3119193",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 18时03分]"
         },
         {
           "title": "中际旭创：受汇兑影响业绩暴雷传闻不属实",
@@ -555,9 +607,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "两倍做多中际旭创ETF将面世",
+          "url": "https://www.toutiao.com/trending/7650113841397841946/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     },
@@ -570,11 +633,12 @@
           "url": "https://www.cls.cn/detail/2399188",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 18时03分]"
         }
       ]
     }
