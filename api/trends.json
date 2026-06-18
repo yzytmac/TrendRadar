@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T14:29:24.154053+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2026-06-18T18:55:59.814289+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
@@ -15,11 +15,12 @@
             13,
             14,
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 18时55分]"
         },
         {
           "title": "特朗普对记者大喊：我们签了，在凡尔赛宫里签的",
@@ -44,13 +45,24 @@
           "time_info": "[01时23分 ~ 09时42分]"
         },
         {
+          "title": "美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！",
+          "url": "https://www.cls.cn/detail/2403312",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "特朗普：感谢中俄“完全中立”，让情况好转了很多",
           "url": "https://news.ifeng.com/c/8u3EpDjUAsS",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -123,6 +135,29 @@
           "time_info": "[01时23分 ~ 07时08分]"
         },
         {
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 18时55分]"
+        },
+        {
+          "title": "特朗普G7答UP主提问点赞中国",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AEG7%E7%AD%94UP%E4%B8%BB%E6%8F%90%E9%97%AE%E7%82%B9%E8%B5%9E%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "据AXIOS网站：美国总统特朗普与人工智能企业首席执行官在七国集团会议上讨论全球人工智能规则。",
           "url": "https://flash.jin10.com/detail/20260618005222154800",
           "source": "金十数据",
@@ -140,7 +175,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -203,17 +238,6 @@
           "time_info": "[01时23分 ~ 04时28分]"
         },
         {
-          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
-          "url": "https://wallstreetcn.com/articles/3774946",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 14时29分]"
-        },
-        {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
           "url": "https://wallstreetcn.com/articles/3774815",
           "source": "华尔街见闻",
@@ -223,6 +247,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 01时24分]"
+        },
+        {
+          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
+          "url": "https://wallstreetcn.com/articles/3774952",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 18时55分]"
         },
         {
           "title": "特朗普：欧洲承诺参与霍尔木兹海峡扫雷",
@@ -259,6 +295,18 @@
           "time_info": "[09时42分 ~ 14时29分]"
         },
         {
+          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 18时55分]"
+        },
+        {
           "title": "美国总统特朗普：如果人们想要投资伊朗，他们确实有石油。",
           "url": "https://flash.jin10.com/detail/20260618005131462800",
           "source": "金十数据",
@@ -287,7 +335,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -325,17 +373,6 @@
           "time_info": "01时24分"
         },
         {
-          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
-          "url": "https://wallstreetcn.com/articles/3774952",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "美国总统特朗普：由于伊朗协议，对以色列拥有筹码。",
           "url": "https://flash.jin10.com/detail/20260618004948191800",
           "source": "金十数据",
@@ -358,6 +395,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
+          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "美国总统特朗普：我们的储备在大约四周内就会用完。",
           "url": "https://flash.jin10.com/detail/20260618004856411800",
           "source": "金十数据",
@@ -378,6 +426,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美学者：特朗普凡尔赛签约离谱至极",
+          "url": "https://news.ifeng.com/c/8u3ct1grAdS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "美国总统特朗普：如果不把钱还给伊朗，这对美元不利。",
@@ -408,7 +467,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -466,17 +525,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
         },
         {
           "title": "美国总统特朗普：如果伊朗不听话，我们会再次出手，这轻而易举。",
@@ -540,9 +588,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "特朗普愤怒回应美伊谅解备忘录批评者",
+          "url": "https://wallstreetcn.com/livenews/3121626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "美国总统特朗普：只有伊朗把事情做对了，美国才会解除对其石油制裁。",
@@ -562,7 +632,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -749,7 +819,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -768,7 +838,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -782,6 +852,18 @@
           "time_info": "[01时23分 ~ 07时08分]"
         },
         {
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 18时55分]"
+        },
+        {
           "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
           "url": "https://wallstreetcn.com/articles/3774887",
           "source": "华尔街见闻",
@@ -792,18 +874,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时23分 ~ 05时35分]"
-        },
-        {
-          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 14时29分]"
         },
         {
           "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
@@ -858,7 +928,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -972,6 +1042,17 @@
           "time_info": "[09时42分 ~ 14时29分]"
         },
         {
+          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3774939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 18时55分]"
+        },
+        {
           "title": "美股收盘：沃什美联储首秀 三大股指集体收跌",
           "url": "https://flash.jin10.com/detail/20260618040054736800",
           "source": "金十数据",
@@ -995,13 +1076,24 @@
           "time_info": "05时35分"
         },
         {
+          "title": "风险偏好重燃，美股盘前半导体股大涨，英特尔涨近9%，日元创近两年新低，黄金向上触及4300美元",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "A股电力板块持续下挫，豫能控股跌停，深南电A、粤电力A、西昌电力均跌超9%。",
           "url": "https://wallstreetcn.com/livenews/3121449",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1017,17 +1109,6 @@
           "time_info": "09时42分"
         },
         {
-          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
-          "url": "https://wallstreetcn.com/articles/3774939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "港股开盘，恒指开跌0.69%，科指开跌0.88%；MINIMAX-W(00100.HK)涨超3.8%，泡泡玛特(09992.HK)跌超3.3%，网易(09999.HK)跌超2.8%。",
           "url": "https://flash.jin10.com/detail/20260618092105196800",
           "source": "金十数据",
@@ -1039,13 +1120,24 @@
           "time_info": "09时42分"
         },
         {
+          "title": "港股博弈现冰火两重天 建滔集团、长飞光纤光缆遭空头加码",
+          "url": "https://www.cls.cn/detail/2403381",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "A股CPO板块持续走高，麦捷科技、兴森科技等股涨停，奕东电子、博敏电子、优迅股份涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3121445",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1059,6 +1151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "今日工业富联资金净流入额为A股第一",
+          "url": "https://www.toutiao.com/trending/7652648957840818239/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "美伊签了！美股期货直线拉升",
@@ -1078,7 +1181,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1111,7 +1214,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1127,6 +1230,17 @@
           "time_info": "09时42分"
         },
         {
+          "title": "全球资本正在回流美国 A股会失血吗",
+          "url": "https://www.toutiao.com/trending/7652596192932531722/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2026-06-18）",
           "url": "https://flash.jin10.com/detail/20260618091346812800",
           "source": "金十数据",
@@ -1136,6 +1250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "HSBC将顺丰控股A股评级从持有上调至买进，目标价43.30元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3121617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "日韩股市齐创新高，美股期货扩大涨幅",
@@ -1204,6 +1329,18 @@
           "time_info": "05时35分"
         },
         {
+          "title": "最强芯片液冷技术！无需特种散热材料 冷却性能达此前纪录10倍",
+          "url": "https://www.cls.cn/detail/2403131",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 18时55分]"
+        },
+        {
           "title": "库克：苹果将因存储芯片供应问题而涨价",
           "url": "https://wallstreetcn.com/livenews/3121261",
           "source": "华尔街见闻-快讯",
@@ -1216,24 +1353,13 @@
           "time_info": "[05时35分 ~ 07时08分]"
         },
         {
-          "title": "最强芯片液冷技术！无需特种散热材料 冷却性能达此前纪录10倍",
-          "url": "https://www.cls.cn/detail/2403131",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "存储芯片疯狂涨价",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%96%AF%E7%8B%82%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1345,7 +1471,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1356,7 +1482,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1367,9 +1493,71 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "国家金融监督管理总局：鼓励有条件的大型金融机构向中小金融机构输出算力服务",
+          "url": "https://wallstreetcn.com/livenews/3121647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "国家发改委回应大规模投建算力网：市场力量将起决定性作用",
+          "url": "https://www.cls.cn/detail/2403218",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 18时55分]"
+        },
+        {
+          "title": "金融监管总局：鼓励有条件的大型金融机构向中小金融机构输出算力服务，支持同业探索基础设施共建共享",
+          "url": "https://flash.jin10.com/detail/20260618183855754800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "摩尔线程：首款家庭消费产品开启预售 异构AI算力达50 TOPS",
+          "url": "https://wallstreetcn.com/livenews/3121633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "摩尔线程：首款家庭消费产品开启预售 异构AI算力达50 TOPS",
+          "url": "https://flash.jin10.com/detail/20260618183131096800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     },
@@ -1420,9 +1608,37 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "低空经济",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "安徽出台低空经济重要方案：2028年度低空飞行时长达500万小时",
+          "url": "https://wallstreetcn.com/livenews/3121632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "安徽出台低空经济重要方案：2028年度低空飞行时长达500万小时",
+          "url": "https://flash.jin10.com/detail/20260618182614445800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     },
@@ -1438,28 +1654,12 @@
             13,
             11,
             8,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时28分 ~ 14时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家发改委回应大规模投建算力网：市场力量将起决定性作用",
-          "url": "https://www.cls.cn/detail/2403218",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "appearance_count": 6,
+          "time_info": "[04时28分 ~ 18时55分]"
         }
       ]
     },
@@ -1474,7 +1674,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         }
@@ -1491,7 +1691,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         }
@@ -1508,9 +1708,43 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "铂力特",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "铂力特：公司目前生产经营正常，未发生重大变化",
+          "url": "https://flash.jin10.com/detail/20260618182841123800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宁德时代利润超7家车企总和",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%88%A9%E6%B6%A6%E8%B6%857%E5%AE%B6%E8%BD%A6%E4%BC%81%E6%80%BB%E5%92%8C%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     }
