@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T21:26:31.572178+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-06-21T23:25:22.979326+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 43,
       "titles": [
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -81,6 +81,20 @@
           "time_info": "[00时53分 ~ 07时50分]"
         },
         {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 23时25分]"
+        },
+        {
           "title": "特朗普：若不能达成协议，美或收取海峡通行费",
           "url": "https://news.ifeng.com/c/8u6beESPjqG",
           "source": "凤凰网",
@@ -90,19 +104,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时50分]"
-        },
-        {
-          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
-          "url": "https://www.cls.cn/detail/2404722",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 21时26分]"
         },
         {
           "title": "分析：特朗普承认伊朗战争的经济风险削弱了美国谈判筹码",
@@ -116,15 +117,15 @@
           "time_info": "00时54分"
         },
         {
-          "title": "美媒：特朗普昨夜警告伊朗不要关闭霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260621210602297800",
-          "source": "金十数据",
+          "title": "特朗普：斯塔默将辞去英国首相职务",
+          "url": "https://wallstreetcn.com/livenews/3122370",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时26分"
+          "time_info": "23时25分"
         },
         {
           "title": "美国总统特朗普：必要时，美国可能会接管霍尔木兹海峡，可能会收取海峡通行费。 接管海峡将意味着美国攫取20%的石油。（福克斯新闻）",
@@ -133,20 +134,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
         {
-          "title": "万斯称特朗普致力于区域全面停火",
-          "url": "https://wallstreetcn.com/livenews/3122356",
+          "title": "【特朗普就黎巴嫩问题再度威胁伊朗】美国总统特朗普21日在社交媒体上发文称，伊朗必须立即停止在黎巴嫩的“代理人”行动，否则美国将会再次对伊朗发起猛烈打击，“就像上周那样，而且会更猛烈”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3122368",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时26分"
+          "time_info": "23时25分"
+        },
+        {
+          "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
+          "url": "https://news.ifeng.com/c/8u90rSz0ftO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "特朗普：霍尔木兹海峡停火期间及结束后都免征通行费 若协议未达成将由美方收费",
@@ -162,6 +174,41 @@
           "time_info": "[03时57分 ~ 07时50分]"
         },
         {
+          "title": "美国总统特朗普：以色列无法“干掉”（黎巴嫩）真主党，这让我感到失望。",
+          "url": "https://wallstreetcn.com/livenews/3122366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美媒：特朗普昨夜警告伊朗不要关闭霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260621210602297800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 23时25分]"
+        },
+        {
+          "title": "万斯称特朗普致力于区域全面停火",
+          "url": "https://wallstreetcn.com/livenews/3122356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 23时25分]"
+        },
+        {
           "title": "学者：伊朗效仿特朗普采取“周末战略”",
           "url": "https://flash.jin10.com/detail/20260621012943584800",
           "source": "金十数据",
@@ -172,6 +219,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时09分 ~ 03时57分]"
+        },
+        {
+          "title": "特朗普的新专机，首次亮相",
+          "url": "https://www.cls.cn/detail/2404514",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 23时25分]"
         },
         {
           "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
@@ -196,6 +254,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 11时55分]"
+        },
+        {
+          "title": "美国副总统万斯在伊朗会谈之后表示：问题在于，我们还能在中东实现多少进展。 总统特朗普要求我们翻开新的篇章。 最近数小时取得很大的进展。 预计未来数小时还将取得更多进展。 如果伊朗弃核，美国愿意转变与伊朗人民的关系。 特朗普承诺推动实现该地区全面停火。 两国设法为（美国与伊朗之间的）技术对话制定框架。",
+          "url": "https://wallstreetcn.com/livenews/3122351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 23时25分]"
         },
         {
           "title": "梅洛尼回应特朗普“乞求合影”言论",
@@ -234,17 +304,6 @@
           "time_info": "[00时54分 ~ 02时09分]"
         },
         {
-          "title": "特朗普的新专机，首次亮相",
-          "url": "https://www.cls.cn/detail/2404514",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 21时26分]"
-        },
-        {
           "title": "特朗普的“空中行宫”谁买单",
           "url": "https://www.toutiao.com/trending/7653479351521906217/",
           "source": "今日头条",
@@ -257,15 +316,15 @@
           "time_info": "[02时09分 ~ 03时57分]"
         },
         {
-          "title": "美国副总统万斯在伊朗会谈之后表示：问题在于，我们还能在中东实现多少进展。 总统特朗普要求我们翻开新的篇章。 最近数小时取得很大的进展。 预计未来数小时还将取得更多进展。 如果伊朗弃核，美国愿意转变与伊朗人民的关系。 特朗普承诺推动实现该地区全面停火。 两国设法为（美国与伊朗之间的）技术对话制定框架。",
-          "url": "https://wallstreetcn.com/livenews/3122351",
+          "title": "美国总统特朗普：与伊朗的谅解备忘录（MoU）仅仅是（之前）停火的延长而已。 伊朗必须阻止在黎巴嫩的代理人（给以色列）制造麻烦。 如果代理人没有被阻止，我们（美国与以色列）将再次袭击伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3122364",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时26分"
+          "time_info": "23时25分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-21）",
@@ -285,7 +344,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -296,9 +355,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
+        },
+        {
+          "title": "美国总统特朗普：昨天有1900万桶石油流出波斯湾。",
+          "url": "https://wallstreetcn.com/livenews/3122360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美国总统特朗普：Pezeshkian（伊朗总统）要管好自己的嘴。",
+          "url": "https://wallstreetcn.com/livenews/3122359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美国副总统万斯：美国总统特朗普致力于实现全面地区停火。",
@@ -307,9 +388,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
+        },
+        {
+          "title": "美国总统特朗普：斯塔默将辞去英国首相职务。他在两个非常重要的议题上表现糟糕，即移民和能源（开放北海石油！）。祝他一切顺利！",
+          "url": "https://flash.jin10.com/detail/20260621215950118800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "特朗普指责意大利总理“拒绝美国”",
@@ -323,6 +415,28 @@
           "time_info": "00时54分"
         },
         {
+          "title": "据福克斯新闻：特朗普对以色列“收拾不了真主党”感到失望。特朗普称考虑授权叙利亚进入黎巴嫩南部地区。",
+          "url": "https://flash.jin10.com/detail/20260621214336991800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美国总统特朗普：必要时，美国可能会接管霍尔木兹海峡，可能会收取海峡通行费。 接管海峡将意味着美国攫取20%的石油（收益）。 我昨夜与伊朗官员们通话，用了脏话（expletive）。 告诉伊朗人，如果关闭海峡，伊朗人民将没有国家。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3122357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "分析：特朗普对经济风险的担忧削弱了美国谈判筹码",
           "url": "https://flash.jin10.com/detail/20260621004843090800",
           "source": "金十数据",
@@ -334,13 +448,24 @@
           "time_info": "02时09分"
         },
         {
+          "title": "特朗普威胁伊朗控制真主党 否则将再次发动打击",
+          "url": "https://flash.jin10.com/detail/20260621213111218800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "美国副总统万斯：美国总统特朗普要求我们 \"翻开新的一页\"，以改变我们与伊朗人民的关系。",
           "url": "https://flash.jin10.com/detail/20260621205336767800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -362,7 +487,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -417,8 +542,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 21时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 23时25分]"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -492,7 +617,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "EMIB+玻璃基板+金刚石......陈立武谈英特尔芯片业务：在材料层面寻求突破",
@@ -552,6 +677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "伯恩斯坦资深分析师：这是职业生涯第一次真正的“芯片超级周期”，“瓶颈”才是造富机器",
+          "url": "https://wallstreetcn.com/articles/3775133",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         }
       ]
     },
@@ -651,11 +787,12 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时55分 ~ 21时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时55分 ~ 23时25分]"
         },
         {
           "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
@@ -707,8 +844,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 21时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 23时25分]"
         }
       ]
     },
