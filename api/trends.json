@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T09:41:53.938985+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-06-22T15:05:25.636273+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
@@ -53,13 +53,24 @@
           "time_info": "07时11分"
         },
         {
+          "title": "美媒称对伊朗开战近四个月几乎没成果，特朗普怒了",
+          "url": "https://news.ifeng.com/c/8uA2kEZD4Zh",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "特朗普威胁伊朗,美伊谈判暂停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
           "source": "贴吧",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -76,6 +87,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 05时54分]"
+        },
+        {
+          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
+          "url": "https://wallstreetcn.com/articles/3775145",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "伊朗代表团因抗议特朗普言论而离开谈判会场",
@@ -348,6 +370,18 @@
           "time_info": "[04时24分 ~ 05时54分]"
         },
         {
+          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 15时05分]"
+        },
+        {
           "title": "德国国防部长：霍尔木兹海峡关闭责任在特朗普",
           "url": "https://flash.jin10.com/detail/20260622020611881800",
           "source": "金十数据",
@@ -378,9 +412,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "美伊和平又生变数？特朗普威胁言论激怒伊朗 谈判陷入暂停",
+          "url": "https://www.cls.cn/detail/2405074",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗代表团不会重返谈判，除非特朗普为其威胁道歉，并且以色列从黎巴嫩南部撤军。",
@@ -405,17 +450,6 @@
           "time_info": "07时11分"
         },
         {
-          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
           "title": "伊朗代表团抗议特朗普近期口头威胁",
           "url": "https://flash.jin10.com/detail/20260621234839102800",
           "source": "金十数据",
@@ -425,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "特朗普称美国或收取中东地区20%的石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425530",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "据伊朗Press TV：伊朗代表团已就特朗普近期的言辞威胁向美方提出抗议，目前正权衡采取适当回应的各项选项。",
@@ -452,7 +497,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 10,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -472,9 +517,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "港股长飞光纤光缆持续拉升，涨逾32%。",
+          "url": "https://wallstreetcn.com/livenews/3122592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "A股培育钻石板块盘初活跃，黄河旋风、博云新材双双涨停，四方达涨18%，惠丰钻石涨超17%，中兵红箭涨近5%。",
@@ -483,7 +539,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -494,7 +550,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -504,11 +560,45 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 09时41分]"
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 15时05分]"
+        },
+        {
+          "title": "A股三大股指午后均涨1%，培育钻石飙升，大金融崛起，恒科指跌超1%，智谱暴涨17%市值破万亿",
+          "url": "https://wallstreetcn.com/articles/3775154",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "A股液冷板块震荡拉升，大元泵业涨停，冰轮环境此前封板，川润股份、永太科技、英维克跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3122585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "港股，是人民币和美元的实时记分板",
+          "url": "https://wallstreetcn.com/articles/3775127",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "港股开盘，恒指开跌0.47%，科指开跌0.2%。中芯国际(00981.HK)涨约3%，阿里巴巴(09988.HK)跌2%。",
@@ -517,7 +607,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -555,21 +645,87 @@
           "time_info": "07时11分"
         },
         {
+          "title": "港股长飞光纤光缆(06869.HK)持续走高，现涨超30%，成交额超115亿港元。",
+          "url": "https://flash.jin10.com/detail/20260622143533387800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "A股三大指数午后均涨超1%，培育钻石、氟化工、小金属概念涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3122563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "A股培育钻石概念持续走强，惠丰钻石30cm涨停，创历史新高，此前力量钻石、四方达、黄河旋风、恒盛能源涨停，中兵红箭、楚江新材、国机精工、英诺激光涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3122560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "A股大金融板块涨势扩大，中信建投午后涨停。",
+          "url": "https://wallstreetcn.com/livenews/3122555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2026-06-22）",
           "url": "https://flash.jin10.com/detail/20260622091033929800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "A股锂矿股震荡走强，永杉锂业午后涨停，德方纳米、金圆股份、亿纬锂能、西藏珠峰、宁德时代等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3122550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "A股券商股持续走高，广发证券此前涨停，长江证券午后涨停，中信建投涨超7％，华泰证券、中信证券、东方财富等涨超5％。",
+          "url": "https://wallstreetcn.com/livenews/3122548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伯恩斯坦资深分析师：这是职业生涯第一次真正的“芯片超级周期”，“瓶颈”才是造富机器",
@@ -577,11 +733,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 09时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 15时05分]"
+        },
+        {
+          "title": "韩国交易所CEO：考虑到收益预测等多种因素，芯片行业的高度集中是“自然的”。",
+          "url": "https://flash.jin10.com/detail/20260622145459378800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "日本五大芯片设备商对华销售额下降",
@@ -590,7 +758,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -608,36 +776,8 @@
       ]
     },
     {
-      "keyword_group": "科创",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国上证综指6月22日（周一）开盘上涨3.47点，涨幅：0.08%，报4093.95点；<br/>中国深证成指6月22日（周一）开盘上涨64.93点，涨幅：0.41%，报16095.63点；<br/>中国沪深300指数6月22日（周一）开盘上涨7.75点，涨幅：0.16%，报4949.35点；<br/>中国创业板指数6月22日（周一）开盘上涨20.6点，涨幅：0.48%，报4272.99点；<br/>中国科创50指数6月22日（周一）开盘上涨10.96点，涨幅：0.57%，报1922.47点。",
-          "url": "https://flash.jin10.com/detail/20260622092743499800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "上证指数开盘报4093.95点，涨0.08%。 深证成指开盘报16095.63点，涨0.41%。 创业板指开盘报4272.99点，涨0.48%。 沪深300开盘报4949.35点，涨0.16%。 科创50开盘报1922.47点，涨0.57%。 中证500开盘报8709.66点，涨0.42%。 中证1000开盘报8813.72点，涨0.49%。",
-          "url": "https://wallstreetcn.com/livenews/3122465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "消费龙头们跨界半导体、算力赛道 多家公司出现股价异动",
@@ -649,12 +789,34 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 07时11分]"
+        },
+        {
+          "title": "供需错配引爆“算力金属”涨价潮 光通信、半导体材料公司多举措应对成本压力",
+          "url": "https://www.cls.cn/detail/2405188",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "AI狂潮重塑韩国半导体版图：SK海力士终结三星24年市值霸榜神话！",
+          "url": "https://flash.jin10.com/detail/20260622143513778800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         }
       ]
     },
     {
       "keyword_group": "算力",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
@@ -669,6 +831,90 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时04分 ~ 09时41分]"
+        },
+        {
+          "title": "国家能源局：算力设施、5G基站等新兴行业快速发展，将成为未来用电量增长的重要组成部分",
+          "url": "https://flash.jin10.com/detail/20260622145633925800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "散热成太空算力“命门” 热管理头部企业抢先布局｜行业观察",
+          "url": "https://www.cls.cn/detail/2404892",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国上证综指6月22日（周一）开盘上涨3.47点，涨幅：0.08%，报4093.95点；<br/>中国深证成指6月22日（周一）开盘上涨64.93点，涨幅：0.41%，报16095.63点；<br/>中国沪深300指数6月22日（周一）开盘上涨7.75点，涨幅：0.16%，报4949.35点；<br/>中国创业板指数6月22日（周一）开盘上涨20.6点，涨幅：0.48%，报4272.99点；<br/>中国科创50指数6月22日（周一）开盘上涨10.96点，涨幅：0.57%，报1922.47点。",
+          "url": "https://flash.jin10.com/detail/20260622092743499800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "上证指数开盘报4093.95点，涨0.08%。 深证成指开盘报16095.63点，涨0.41%。 创业板指开盘报4272.99点，涨0.48%。 沪深300开盘报4949.35点，涨0.16%。 科创50开盘报1922.47点，涨0.57%。 中证500开盘报8709.66点，涨0.42%。 中证1000开盘报8813.72点，涨0.49%。",
+          "url": "https://wallstreetcn.com/livenews/3122465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长江存储旗下武汉资本投资管理公司增资至8.1亿元 增幅约169%",
+          "url": "https://wallstreetcn.com/livenews/3122586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "能源电力",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家发展改革委印发《可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法》",
+          "url": "https://flash.jin10.com/detail/20260622145114543800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         }
       ]
     },
@@ -681,11 +927,12 @@
           "url": "https://www.cls.cn/detail/2404865",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 15时05分]"
         }
       ]
     }
