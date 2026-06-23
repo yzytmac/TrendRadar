@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T14:50:25.726513+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-06-23T18:35:51.415709+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -134,15 +134,38 @@
           "time_info": "[04时44分 ~ 06时27分]"
         },
         {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 18时35分]"
+        },
+        {
           "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
           "url": "https://news.ifeng.com/c/8uBgi1AZcfM",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "特朗普政府将叙利亚比特币交易所XChange纳入制裁清单。",
@@ -310,17 +333,6 @@
           "time_info": "04时44分"
         },
         {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
           "title": "特朗普：伊朗被冻结资金将用于购买美国农产品，必要时可重新封锁海峡",
           "url": "https://wallstreetcn.com/livenews/3123007",
           "source": "华尔街见闻-快讯",
@@ -365,6 +377,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-23）",
+          "url": "https://flash.jin10.com/detail/20260623180118451800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "美国加州起诉特朗普政府，因后者将州级车辆排放规则提交国会以寻求废除。",
           "url": "https://wallstreetcn.com/livenews/3122953",
           "source": "华尔街见闻-快讯",
@@ -379,7 +402,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -389,8 +412,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时50分 ~ 14时50分]"
+          "appearance_count": 5,
+          "time_info": "[07时50分 ~ 18时35分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
@@ -538,7 +561,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -565,6 +588,39 @@
           "time_info": "07时51分"
         },
         {
+          "title": "A股现冰火两重天钱袋子该往哪放",
+          "url": "https://www.toutiao.com/trending/7654493156720774706/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
+          "url": "https://wallstreetcn.com/articles/3775254",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
+          "url": "https://wallstreetcn.com/articles/3775250",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "A股动漫概念部分走高，涟升科技涨超6%，光线传媒涨超4%，天舟文化、慈文传媒、苏宁环球等跟涨。",
           "url": "https://flash.jin10.com/detail/20260623102650503800",
           "source": "金十数据",
@@ -576,6 +632,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "股价挺进A股前20！“光纤一哥”924以来暴涨24倍，谁在重仓这些高倍股？",
+          "url": "https://www.cls.cn/detail/2406940",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "港股人工智能板块走低，智谱跌超13%，曦智科技-P、群核科技跌超7%，MINIMAX-W跌超6%，澜起科技、兆易创新跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3123126",
           "source": "华尔街见闻-快讯",
@@ -585,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "美股指期货盘前集体下跌",
+          "url": "https://www.douyin.com/hot/2544962",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "A股面板概念股活跃，凯盛科技盘中续创新高，彩虹股份涨停，八亿时空涨超10%，华塑控股、深华发A、同兴达跟涨。",
@@ -604,7 +682,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -648,7 +726,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -670,7 +748,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -681,7 +759,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -703,9 +781,70 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "报道：高通接近收购AI芯片初创公司Modular",
+          "url": "https://wallstreetcn.com/livenews/3123034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "高盛：AI资本开支热潮对韩国芯片周期拉动力度、持续时长均超预期",
+          "url": "https://wallstreetcn.com/livenews/3123351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "国内最大车规级芯片测试中心投产",
+          "url": "https://flash.jin10.com/detail/20260623181058962800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "日本芯片股延续跌势，铠侠股价下跌14%，软银集团跌近10%。",
+          "url": "https://flash.jin10.com/detail/20260623140913244800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "美存储芯片光通信盘前暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%85%89%E9%80%9A%E4%BF%A1%E7%9B%98%E5%89%8D%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         }
       ]
     },
@@ -771,7 +910,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -782,7 +921,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -821,7 +960,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -832,7 +971,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -859,11 +998,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 14时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 18时35分]"
         },
         {
           "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
@@ -891,37 +1031,20 @@
       ]
     },
     {
-      "keyword_group": "芯片",
+      "keyword_group": "存储",
       "match_count": 2,
       "titles": [
         {
-          "title": "报道：高通接近收购AI芯片初创公司Modular",
-          "url": "https://wallstreetcn.com/livenews/3123034",
-          "source": "华尔街见闻-快讯",
+          "title": "黑色星期二！韩股暴跌8% “存储双雄”齐重挫",
+          "url": "https://www.cls.cn/detail/2406617",
+          "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "日本芯片股延续跌势，铠侠股价下跌14%，软银集团跌近10%。",
-          "url": "https://flash.jin10.com/detail/20260623140913244800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 1,
-      "titles": [
+          "time_info": "18时35分"
+        },
         {
           "title": "G胖偷师苹果收天价存储税",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355521&amp;topic_name=G%E8%83%96%E5%81%B7%E5%B8%88%E8%8B%B9%E6%9E%9C%E6%94%B6%E5%A4%A9%E4%BB%B7%E5%AD%98%E5%82%A8%E7%A8%8E",
@@ -929,9 +1052,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 18时35分]"
         }
       ]
     },
@@ -946,9 +1069,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宁德时代发布全球首款场站级钠电储能系统，开启GWh级规模化交付",
+          "url": "https://wallstreetcn.com/livenews/3123352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         }
       ]
     }
