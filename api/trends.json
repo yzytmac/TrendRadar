@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-06-24T19:18:35.950115+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-06-24T21:36:05.731550+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时36分]"
+        },
+        {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 21时36分]"
+        },
         {
           "title": "特朗普称美国正致力于与伊朗达成一项公平协议",
           "url": "https://flash.jin10.com/detail/20260624041231469800",
@@ -72,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
-        },
-        {
-          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
-          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
         },
         {
           "title": "路透社/益普索民调显示，美国总统特朗普支持率跌至34%，与他第二个任期内的最低水平持平。",
@@ -159,19 +174,6 @@
           "time_info": "[02时16分 ~ 04时25分]"
         },
         {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 19时18分]"
-        },
-        {
           "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
           "url": "https://news.ifeng.com/c/8uClVTnMwCW",
           "source": "凤凰网",
@@ -223,7 +225,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -393,6 +395,17 @@
           "time_info": "08时13分"
         },
         {
+          "title": "油价持续下跌 此前特朗普称伊朗未在海峡收取通行费",
+          "url": "https://flash.jin10.com/detail/20260624210524478800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "美国总统特朗普：在军事力量和能力遭受重创之后，伊朗已不具备有利的谈判地位。",
           "url": "https://flash.jin10.com/detail/20260624012030463800",
           "source": "金十数据",
@@ -492,6 +505,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "特朗普对福克斯表示：视察人员将获准前往伊朗的铀所在地。 不急于派遣视察人员进入伊朗设施。 伊朗初期将获5亿美元，用于购买美国商品。",
+          "url": "https://wallstreetcn.com/livenews/3124039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "特朗普家族阿尔巴尼亚投资项目遭抗议",
           "url": "https://www.toutiao.com/trending/7654476356897783846/",
           "source": "今日头条",
@@ -580,6 +604,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "美国财长贝森特：不确定今年能否在赤字问题上取得进展。 到特朗普任期结束时，赤字/GDP比率可以降至4%以下。",
+          "url": "https://wallstreetcn.com/livenews/3124031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "美国总统特朗普：伊朗经济正遭受重创，需要多年时间才能恢复。",
           "url": "https://flash.jin10.com/detail/20260624030322913800",
           "source": "金十数据",
@@ -600,6 +635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "美国财长贝森特：降息阶段，美元仍然可以表现坚挺。 我们热衷于采取行动让美元坚挺。 预计今年剩余时间经济将加速增长，同时不会推高通胀。 我赞赏沃什取消前瞻指引。 认为实际工资增长将恢复到4月之前的节奏。 2月时曾认为通胀到夏中会接近2%。 过去曾（在交易中）与美联储点阵图反向操作。 不认为任何人应该做美联储点阵图预测。 可以实现高GDP增长而不伴随传统意义上的通胀。 很有可能重现上世纪90年代经济持续扩张的态势。 沃什在谈及通胀问题时“态度强硬”。 特朗普公开和私下都表示他对沃什有信心。 认为今年可以实现3%或更高的增长。",
+          "url": "https://wallstreetcn.com/livenews/3124026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美国总统特朗普打算周三在国会山签署住房法案。（PunchBowl）",
@@ -627,7 +673,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
@@ -715,6 +761,17 @@
           "time_info": "[00时14分 ~ 08时13分]"
         },
         {
+          "title": "静待美光财报，美股盘前半导体股上扬、美光涨4%，现货黄金跌破4000美元，布油跌超2%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
+        },
+        {
           "title": "A股年内已有31天成交破3万亿，券商日子过得如何？几个指标结合看",
           "url": "https://www.cls.cn/detail/2407102",
           "source": "财联社热门",
@@ -726,6 +783,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 08时13分]"
+        },
+        {
+          "title": "SpaceX美股盘前跌幅扩大至2.7%，至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3124063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "金十图示：2026年06月23日（周二）美股热门股票行情一览（美股收盘）",
@@ -767,7 +835,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -845,6 +913,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时09分 ~ 08时13分]"
+        },
+        {
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "周二（6月23日），美股AI软件先驱指数跌0.20%，报103.52点，成分股中，甲骨文收跌5.66%，铿腾电子跌2.57%，Palantir跌2.34%跌幅第三大，Salesforce、ServiceNOW、GitLab涨2.20%-4.53%领跑。",
@@ -930,6 +1009,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "分析师：急涨急跌，美股市场走势令人担忧",
+          "url": "https://flash.jin10.com/detail/20260624210900671800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "美股收盘：纳指跌超2% 芯片股重挫",
           "url": "https://flash.jin10.com/detail/20260624040129835800",
           "source": "金十数据",
@@ -939,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3124055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "港股午评：恒生指数涨0.04%，恒生科技指数1.34%",
@@ -980,7 +1081,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1098,7 +1199,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
@@ -1136,6 +1237,18 @@
           "time_info": "04时25分"
         },
         {
+          "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
+          "url": "https://www.cls.cn/detail/2407987",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时36分]"
+        },
+        {
           "title": "【数读IPO】半导体零部件概念股，今日上市",
           "url": "https://www.cls.cn/detail/2407387",
           "source": "财联社热门",
@@ -1145,6 +1258,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 12时37分]"
+        },
+        {
+          "title": "半导体板块迎来一只十倍股",
+          "url": "https://www.toutiao.com/trending/7654875013652856883/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "半导体专家：第一次真正看到超级周期",
@@ -1176,18 +1300,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
-          "url": "https://www.cls.cn/detail/2407987",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1242,7 +1355,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
@@ -1250,18 +1363,19 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时13分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[08时13分 ~ 21时36分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
@@ -1273,6 +1387,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 07时09分]"
+        },
+        {
+          "title": "OpenAI和博通发布AI芯片，旨在更快、更经济地运行模型",
+          "url": "https://wallstreetcn.com/livenews/3124062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "高盛复盘韩股暴跌：养老金撤退、散户杠杆爆仓引发芯片股雪崩",
@@ -1299,13 +1424,25 @@
           "time_info": "[08时13分 ~ 12时37分]"
         },
         {
+          "title": "韩国引爆“黑色星期二”，全球芯片股大牛市遭“当头棒喝”，只是“技术性调整”吗？",
+          "url": "https://wallstreetcn.com/articles/3775350",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时36分]"
+        },
+        {
           "title": "景顺长城全球芯片LOF(501225)：本基金将于2026年6月25日开市起停牌,自2026年6月25日10:30起复牌，停牌期间本基金赎回业务照常办理。",
           "url": "https://flash.jin10.com/detail/20260624190304571800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1321,15 +1458,15 @@
           "time_info": "12时37分"
         },
         {
-          "title": "韩国引爆“黑色星期二”，全球芯片股大牛市遭“当头棒喝”，只是“技术性调整”吗？",
-          "url": "https://wallstreetcn.com/articles/3775350",
-          "source": "华尔街见闻",
+          "title": "博通(AVGO.O)预计将比预期更快地部署OpenAI芯片。",
+          "url": "https://flash.jin10.com/detail/20260624210245809800",
+          "source": "金十数据",
           "ranks": [
-            10
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "21时36分"
         },
         {
           "title": "韩国总统府官员：三星与SK海力士新芯片集群规划进入收尾阶段",
@@ -1341,6 +1478,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "博通(AVGO.O)CEO：OpenAI的新芯片可节省50%的成本。",
+          "url": "https://flash.jin10.com/detail/20260624210227845800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "OpenAI与博通(AVGO.O)联合发布人工智能芯片，旨在更快、更经济地运行模型。",
+          "url": "https://flash.jin10.com/detail/20260624210130831800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
@@ -1379,11 +1538,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[16时05分 ~ 21时36分]"
         },
         {
           "title": "Grok融资6.5亿美元，旨在扩大数据中心算力，并成为一家AI计算供应商。",
@@ -1417,6 +1577,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "存储暴跌的导火索之一！韩媒“小作文”：英伟达Rubin预期减产，SK海力士HBM4扩产放缓",
+          "url": "https://wallstreetcn.com/articles/3775325",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 21时36分]"
+        },
+        {
+          "title": "黑色星期二！韩股暴跌8% “存储双雄”齐重挫",
+          "url": "https://www.cls.cn/detail/2406617",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 05时57分]"
+        },
+        {
+          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
+          "url": "https://www.cls.cn/detail/2408054",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时36分]"
+        },
+        {
+          "title": "“存储浩劫”最新案例：游戏主机厂商直言“能上市已是奇迹”",
+          "url": "https://www.cls.cn/detail/2407327",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 12时37分]"
+        },
+        {
+          "title": "我国自研全闪存储系统斩获IO500双料冠军",
+          "url": "https://wallstreetcn.com/livenews/3124034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
@@ -1471,57 +1694,6 @@
       ]
     },
     {
-      "keyword_group": "存储",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "黑色星期二！韩股暴跌8% “存储双雄”齐重挫",
-          "url": "https://www.cls.cn/detail/2406617",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 05时57分]"
-        },
-        {
-          "title": "存储暴跌的导火索之一！韩媒“小作文”：英伟达Rubin预期减产，SK海力士HBM4扩产放缓",
-          "url": "https://wallstreetcn.com/articles/3775325",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 19时18分]"
-        },
-        {
-          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
-          "url": "https://www.cls.cn/detail/2408054",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "“存储浩劫”最新案例：游戏主机厂商直言“能上市已是奇迹”",
-          "url": "https://www.cls.cn/detail/2407327",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
       "match_count": 3,
       "titles": [
@@ -1561,6 +1733,45 @@
       ]
     },
     {
+      "keyword_group": "人形机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国人形机器人商业化部署提速！大摩年内第二次翻倍上调出货量预测",
+          "url": "https://www.cls.cn/detail/2407968",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
+        },
+        {
+          "title": "据华尔街日报：高管称人形机器人制造商Agility Robotics将通过SPAC合并上市，估值约25亿美元。",
+          "url": "https://flash.jin10.com/detail/20260624115952011800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "宇树R1人形机器人降价至2.99万元起",
+          "url": "https://wallstreetcn.com/livenews/3124028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "光模块",
       "match_count": 1,
       "titles": [
@@ -1578,23 +1789,6 @@
       ]
     },
     {
-      "keyword_group": "人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据华尔街日报：高管称人形机器人制造商Agility Robotics将通过SPAC合并上市，估值约25亿美元。",
-          "url": "https://flash.jin10.com/detail/20260624115952011800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中芯国际",
       "match_count": 1,
       "titles": [
@@ -1605,7 +1799,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
@@ -1622,7 +1816,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
