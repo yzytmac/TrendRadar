@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T07:03:13.307584+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-06-25T08:22:26.582229+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -25,11 +25,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时22分]"
         },
         {
           "title": "北约秘书长吕特：与美国总统特朗普的会谈情况不错。",
@@ -244,6 +245,17 @@
           "time_info": "05时47分"
         },
         {
+          "title": "特朗普与共和党参议员爆发激烈争吵，伊朗战争分歧点燃党内火药桶",
+          "url": "https://flash.jin10.com/detail/20260625073705480800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
+        },
+        {
           "title": "特朗普称英国首相热门人选伯纳姆“可能”不会开放北海油田",
           "url": "https://wallstreetcn.com/livenews/3124232",
           "source": "华尔街见闻-快讯",
@@ -316,7 +328,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         }
@@ -324,7 +336,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -338,8 +350,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时22分]"
         },
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -365,22 +377,22 @@
           "time_info": "[00时02分 ~ 07时03分]"
         },
         {
-          "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 07时03分]"
-        },
-        {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
           "url": "https://www.cls.cn/detail/2408510",
           "source": "财联社热门",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 08时22分]"
+        },
+        {
+          "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -396,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
@@ -414,11 +437,12 @@
           "url": "https://wallstreetcn.com/livenews/3124274",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 08时22分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -438,7 +462,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -490,7 +514,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -509,11 +533,23 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时22分]"
+        },
+        {
+          "title": "标普纳指三连跌但跌势缓和，金银油大跳水，盘后美光高通拉动芯片大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
         },
         {
           "title": "全球芯片股灾的暴风眼：韩股暴跌背后的“各种鬼故事”",
@@ -568,7 +604,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -590,7 +626,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -615,12 +651,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "中国成功研制超表面芯片",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E7%A0%94%E5%88%B6%E8%B6%85%E8%A1%A8%E9%9D%A2%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
@@ -641,11 +688,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 08时22分]"
         },
         {
           "title": "半导体板块迎来一只十倍股",
@@ -657,6 +705,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时03分]"
+        },
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至0.5%，刷新日低。标普500指数大致持平，道指涨234点、涨幅0.4%，纳指跌0.2%，半导体指数跌1.5%。",
@@ -706,7 +765,7 @@
     },
     {
       "keyword_group": "存储",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -717,8 +776,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时22分]"
         },
         {
           "title": "存储暴跌的导火索之一！韩媒“小作文”：英伟达Rubin预期减产，SK海力士HBM4扩产放缓",
@@ -738,11 +797,23 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时08分 ~ 07时03分]"
+          "appearance_count": 7,
+          "time_info": "[02时08分 ~ 08时22分]"
+        },
+        {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
         },
         {
           "title": "美光上季营收增逾三倍大超预期、指引炸裂，料AI存储供应紧张持续至2027年后，盘后拉升 | 财报见闻",
@@ -754,6 +825,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 07时03分]"
+        },
+        {
+          "title": "存储超级周期实锤！美光财报会实录：16份SCA改写周期逻辑 行业紧缺持续至2027年",
+          "url": "https://www.cls.cn/detail/2408555",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克“被迫”陪母亲走红毯",
+          "url": "https://www.toutiao.com/trending/7654560134204604422/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时03分]"
+        },
+        {
+          "title": "中国企业家回了马斯克一句话，西方媒体不淡定了",
+          "url": "https://news.ifeng.com/c/8uE6Ferc62C",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
         }
       ]
     },
@@ -767,11 +877,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时22分]"
         },
         {
           "title": "宇树R1人形机器人降价至2.99万元起",
@@ -779,23 +890,6 @@
           "source": "百度热搜",
           "ranks": [
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克“被迫”陪母亲走红毯",
-          "url": "https://www.toutiao.com/trending/7654560134204604422/",
-          "source": "今日头条",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 2,
