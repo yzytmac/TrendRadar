@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-26T09:54:56.192022+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-06-26T14:09:20.818330+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 27,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
+          "url": "https://www.cls.cn/detail/2409639",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 14时09分]"
+        },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=15&Refer=top",
@@ -20,18 +32,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时45分]"
-        },
-        {
-          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
-          "url": "https://www.cls.cn/detail/2409639",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时54分]"
         },
         {
           "title": "A股这轮牛市你赚钱了吗",
@@ -53,9 +53,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "A股商业航天板块再度拉升，中国卫星涨停，航天动力此前封板，电科蓝天、上海瀚讯、广联航空涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3125074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
@@ -66,8 +77,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 14时09分]"
+        },
+        {
+          "title": "A股商业航天板块再度拉升，中国卫星涨停，航天动力此前封板，上海瀚讯涨超14%，电科蓝天涨超13%，广联航空涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260626133740341800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "周四（6月25日），美股超大规模云服务商（Hyperscalers）跌2.27%，报87.43点，6月1日达到106.56点之后，持续回撤，逼近4月7日顶部82.45点。 成分股全线溃败，微软收跌3.46%，甲骨文跌3.22%，亚马逊跌3.10%，Meta Platforms跌2.65%，谷歌A跌0.46%。",
@@ -148,9 +170,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "A股半导体硅片概念持续活跃，有研硅触及20CM涨停，TCL中环此前封板，立昂微、沪硅产业、西安奕材跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3125065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股锂电池板块持续走弱，永杉锂业、融捷股份触及跌停，海科新源、容百科技、蔚蓝锂芯、丰元股份、孚日股份等跌幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3125063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "港股AI概念股震荡走低，长飞光纤光缆跌超14%，天数智芯跌超13%，智谱跌超11%，MINIMAX跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3125061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "港股汽车股多数下跌，北京汽车(01958.HK)、蔚来-SW(09866.HK)跌超5%，零跑汽车(09863.HK)跌超4%，比亚迪股份(01211.HK)跌超3%，理想汽车(02015.HK)跌近3%。",
@@ -159,7 +214,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -181,9 +236,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "来福谐波港股IPO价格定在区间的高端。（IFR）",
+          "url": "https://wallstreetcn.com/livenews/3125059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "A股电网设备板块高开，宝胜股份涨停，白云电器、亿能电力、安科瑞、杭州柯林、长城科技跟涨。",
@@ -192,7 +258,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -203,7 +269,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -225,7 +291,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -247,7 +313,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -263,6 +329,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "A股三大指数集体飘绿",
+          "url": "https://www.douyin.com/hot/2548178",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周四（6月25日），美国科技股七巨头（Magnificent 7）指数跌2.79%，报198.56点，美股盘初显著下跌，整体呈现出长尾L形走势。成分股苹果收跌6.1%，创2025年4月以来最大单日跌幅。 “超大”市值科技股指数跌1.36%，报414.51点，微幅高开后盘初转跌，整体也呈现出长尾L形走势。",
           "url": "https://wallstreetcn.com/livenews/3124848",
           "source": "华尔街见闻-快讯",
@@ -274,13 +351,24 @@
           "time_info": "06时08分"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "深交所：港股通标的证券名单调入领益智造",
           "url": "https://wallstreetcn.com/livenews/3124918",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -291,9 +379,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "A股半导体材料板块午后持续活跃，有研硅触及20CM涨停，此前TCL中环涨停，立昂微、沪硅产业、西安奕材跟涨。",
+          "url": "https://flash.jin10.com/detail/20260626132005024800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "港股人工智能股震荡走低，长飞光纤光缆(06869.HK)跌超14%，天数智芯(09903.HK)跌超13%，智谱(02513.HK)跌超11%，MINIMAX-W(00100.HK)跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260626131031623800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "港股开盘，恒指开跌0.54%，科指开跌0.78%。友邦保险(01299.HK)跌近4%，阿里巴巴(09988.HK)跌约3%。",
@@ -302,7 +412,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -379,6 +489,18 @@
           "time_info": "07时45分"
         },
         {
+          "title": "美最高法院裁决支持特朗普强硬移民政策",
+          "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 14时09分]"
+        },
+        {
           "title": "白宫：特朗普签署了一项与农业相关的行政命令。",
           "url": "https://flash.jin10.com/detail/20260626070338375800",
           "source": "金十数据",
@@ -451,18 +573,6 @@
           "time_info": "[06时08分 ~ 07时45分]"
         },
         {
-          "title": "美最高法院裁决支持特朗普强硬移民政策",
-          "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时54分]"
-        },
-        {
           "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
           "url": "https://www.cls.cn/detail/2408936",
           "source": "财联社热门",
@@ -472,6 +582,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时03分]"
+        },
+        {
+          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
+          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 14时09分]"
         },
         {
           "title": "特朗普寻求为陷入困境的美国农民提供111亿美元新援助",
@@ -503,7 +624,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -517,17 +638,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
-          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
         },
         {
           "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
@@ -580,7 +690,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         }
@@ -588,7 +698,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
@@ -627,6 +737,17 @@
           "time_info": "[00时02分 ~ 07时45分]"
         },
         {
+          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 14时09分]"
+        },
+        {
           "title": "美光“定心丸”带动芯片股反攻 人形机器人或接棒算力成存储应用下一站",
           "url": "https://www.cls.cn/detail/2408999",
           "source": "财联社热门",
@@ -663,17 +784,6 @@
           "time_info": "[06时07分 ~ 06时08分]"
         },
         {
-          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
-          "url": "https://wallstreetcn.com/articles/3775470",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时54分]"
-        },
-        {
           "title": "市场消息：三星电子或将在韩国新建芯片工厂，投资规模或达300万亿韩元。",
           "url": "https://flash.jin10.com/detail/20260626065012470800",
           "source": "金十数据",
@@ -691,7 +801,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -727,12 +837,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "苹果涨价引发亚洲科技股抛售，市场担忧存储芯片涨价拖累AI需求",
+          "url": "https://flash.jin10.com/detail/20260626130421294800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
@@ -753,9 +874,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "半导体硅片新一轮涨价潮将至？多家供应商开始协商调价",
+          "url": "https://www.cls.cn/detail/2409929",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "新股N惠科盘初涨超300%触发临停，报41.08元。公司主营半导体显示面板等核心显示器件以及智能显示终端的研发、制造和销售。",
@@ -764,7 +896,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -774,11 +906,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 14时09分]"
         },
         {
           "title": "市场消息：由罗伯特·弗里德兰（Robert Friedland）联合创立的 I-Pulse Inc. 将获得 2.5 亿美元的美国资金，用于半导体和脉冲功率技术的开发。",
@@ -875,11 +1008,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 09时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 14时09分]"
         },
         {
           "title": "【焦点复盘】科创50指数连续2日涨近4%，多只存储芯片股迭创历史新高，超级电容概念大放异彩",
@@ -901,7 +1035,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -912,7 +1046,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         }
@@ -931,8 +1065,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 09时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 14时09分]"
         },
         {
           "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
@@ -951,11 +1085,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 14时09分]"
         },
         {
           "title": "长鑫存储年底产能有望超越美光",
@@ -975,9 +1110,71 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "面向中小集成商，宁德时代线上直销平台上线",
+          "url": "https://wallstreetcn.com/livenews/3125060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "宁德时代利润超 7 家车企总和，其超强盈利能力由何而来？",
+          "url": "https://www.zhihu.com/question/2050972423017780054",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克旗下的SpaceX已向投资者表示，计划面向美国消费者推出Starlink移动通信服务。（英国《金融时报》）",
+          "url": "https://wallstreetcn.com/livenews/3125055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI算力“烤”热培育钻石 金刚石散热现成长拐点 业内：2027年或迎放量期",
+          "url": "https://www.cls.cn/detail/2409699",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         }
       ]
     }
