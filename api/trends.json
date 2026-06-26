@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T20:10:05.355724+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-06-26T22:47:58.785309+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -51,7 +51,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 06时08分]"
+        },
+        {
+          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "A股光伏设备板块盘初冲高，金刚光伏涨超8%，TCL中环、易成新能、协鑫集成、华民股份、晶澳科技跟涨。",
@@ -101,6 +112,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时45分 ~ 14时09分]"
+        },
+        {
+          "title": "美股跌幅收窄，标普500指数短暂转涨，道指微幅下跌0.01%，纳指跌幅收窄至0.26%。",
+          "url": "https://flash.jin10.com/detail/20260626221022478800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "A股商业航天板块再度拉升，中国卫星涨停，航天动力此前封板，上海瀚讯涨超14%，电科蓝天涨超13%，广联航空涨超10%。",
@@ -318,6 +340,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "港股新股集体走强，科拓股份(02272.HK)涨178.38%，中科闻歌(01956.HK)涨81.22%，芯碁微装(09630.HK)涨73.70%。",
           "url": "https://flash.jin10.com/detail/20260626092955572800",
           "source": "金十数据",
@@ -417,6 +450,17 @@
           "time_info": "14时09分"
         },
         {
+          "title": "美股存储板块集体下跌，铠侠美股ADR跌超14%。",
+          "url": "https://flash.jin10.com/detail/20260626215422071800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "深交所：港股通标的证券名单调入领益智造",
           "url": "https://wallstreetcn.com/livenews/3124918",
           "source": "华尔街见闻-快讯",
@@ -459,6 +503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "美股盘初：纳指跌1.1%，费城半导体指数跌超4%，美光科技跌约6%",
+          "url": "https://wallstreetcn.com/livenews/3125341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "港股开盘，恒指开跌0.54%，科指开跌0.78%。友邦保险(01299.HK)跌近4%，阿里巴巴(09988.HK)跌约3%。",
@@ -507,8 +562,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 22时47分]"
         },
         {
           "title": "美国总统特朗普：将宣布110亿美元的农民救助。",
@@ -745,7 +800,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -774,9 +829,209 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "半导体硅片新一轮涨价潮将至？多家供应商开始协商调价",
+          "url": "https://www.cls.cn/detail/2409929",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时09分 ~ 20时10分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2409159",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时45分]"
+        },
+        {
+          "title": "半导体产业链延续强势，新莱应材20cm涨停，股价创历史新高，上海合晶、中科飞测、正帆科技涨超10%，彤程新材、南大光电、圣晖集成涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3124944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "物理极限被打破！IBM推出全球首款0.7纳米芯片技术，半导体迈入“埃米时代”",
+          "url": "https://wallstreetcn.com/articles/3775516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时45分 ~ 17时52分]"
+        },
+        {
+          "title": "新股N惠科盘初涨超300%触发临停，报41.08元。公司主营半导体显示面板等核心显示器件以及智能显示终端的研发、制造和销售。",
+          "url": "https://flash.jin10.com/detail/20260626093412425800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "【焦点复盘】沪指缩量跌超2%失守半年线，光通信概念遭重挫，半导体设备股强势依旧",
+          "url": "https://www.cls.cn/detail/2410338",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 22时47分]"
+        },
+        {
+          "title": "市场消息：由罗伯特·弗里德兰（Robert Friedland）联合创立的 I-Pulse Inc. 将获得 2.5 亿美元的美国资金，用于半导体和脉冲功率技术的开发。",
+          "url": "https://flash.jin10.com/detail/20260626040337981800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 06时08分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌2.7%。 热门中概股里，携程初步收跌12.5%，万国数据跌6.3%，金山云跌5.6%，阿里巴巴跌4.8%，拼多多跌3.2%，日月光半导体涨0.8%。 ETF中，KWEB跌2.7%，CQQQ涨1.1%，ASHR涨2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3124845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "安森美半导体将按大约70亿美元估值收购Synaptics Inc.。",
+          "url": "https://wallstreetcn.com/livenews/3124854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "台积电闭门会预计全球半导体市场将在今年突破1万亿美元，业内：再度坚定业界的AI信仰",
+          "url": "https://wallstreetcn.com/livenews/3124752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "费城半导体指数跌幅扩大至超5%。",
+          "url": "https://wallstreetcn.com/livenews/3125350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "中国半导体行业协会魏少军：八成以上集成电路设计企业为小微企业",
+          "url": "https://wallstreetcn.com/livenews/3125171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌2.70%，报5690.24点，日内整体呈现出长尾L形走势，逼近2024年9月18日收盘位5639.37点、当年8月28日收盘位5399.48点（当年8月5日盘中曾走低至5373.21点）。 热门中概股里，携程初步收跌12.5%，万国数据跌6.3%，金山云跌5.6%，阿里巴巴跌4.8%，拼多多跌3.2%，日月光半导体涨0.8%。 ETF中，中概互联网指数ETF（KWEB）收跌2.76%，中国科技指数ETF（CQQQ）收涨1.24%。 MSCI新兴市场ex中国ETF（EMXC）收涨1.67%，XtrackersHarvest中证50（ASHS）收涨2.01%，德银嘉实沪深300指数ETF（ASHR）收涨2.31%。",
+          "url": "https://wallstreetcn.com/livenews/3124845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "标普、纳指四连跌，半导体指数涨约3.6%，银行指数、生物科技指数、小盘股指创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3124843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "高盛策略师看好大型科技股 称半导体板块波动较大",
+          "url": "https://wallstreetcn.com/livenews/3125338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "拓荆科技：正在筹划以发行股份及支付现金的方式购买无锡尚积半导体科技股份有限公司的控股权并募集配套资金，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3125246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片",
       "match_count": 15,
       "titles": [
+        {
+          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时45分 ~ 22时47分]"
+        },
         {
           "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
           "url": "https://wallstreetcn.com/articles/3775351",
@@ -788,17 +1043,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时45分]"
-        },
-        {
-          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
-          "url": "https://wallstreetcn.com/articles/3775470",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时45分 ~ 20时10分]"
         },
         {
           "title": "IBM开创“亚1纳米”芯片时代：指甲盖大小塞进千亿晶体管",
@@ -889,7 +1133,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -944,173 +1188,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "半导体硅片新一轮涨价潮将至？多家供应商开始协商调价",
-          "url": "https://www.cls.cn/detail/2409929",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时09分 ~ 20时10分]"
-        },
-        {
-          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
-          "url": "https://www.cls.cn/detail/2409159",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时45分]"
-        },
-        {
-          "title": "半导体产业链延续强势，新莱应材20cm涨停，股价创历史新高，上海合晶、中科飞测、正帆科技涨超10%，彤程新材、南大光电、圣晖集成涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3124944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "物理极限被打破！IBM推出全球首款0.7纳米芯片技术，半导体迈入“埃米时代”",
-          "url": "https://wallstreetcn.com/articles/3775516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时45分 ~ 17时52分]"
-        },
-        {
-          "title": "新股N惠科盘初涨超300%触发临停，报41.08元。公司主营半导体显示面板等核心显示器件以及智能显示终端的研发、制造和销售。",
-          "url": "https://flash.jin10.com/detail/20260626093412425800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "市场消息：由罗伯特·弗里德兰（Robert Friedland）联合创立的 I-Pulse Inc. 将获得 2.5 亿美元的美国资金，用于半导体和脉冲功率技术的开发。",
-          "url": "https://flash.jin10.com/detail/20260626040337981800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 06时08分]"
-        },
-        {
-          "title": "【焦点复盘】沪指缩量跌超2%失守半年线，光通信概念遭重挫，半导体设备股强势依旧",
-          "url": "https://www.cls.cn/detail/2410338",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌2.7%。 热门中概股里，携程初步收跌12.5%，万国数据跌6.3%，金山云跌5.6%，阿里巴巴跌4.8%，拼多多跌3.2%，日月光半导体涨0.8%。 ETF中，KWEB跌2.7%，CQQQ涨1.1%，ASHR涨2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3124845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "安森美半导体将按大约70亿美元估值收购Synaptics Inc.。",
-          "url": "https://wallstreetcn.com/livenews/3124854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "台积电闭门会预计全球半导体市场将在今年突破1万亿美元，业内：再度坚定业界的AI信仰",
-          "url": "https://wallstreetcn.com/livenews/3124752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "中国半导体行业协会魏少军：八成以上集成电路设计企业为小微企业",
-          "url": "https://wallstreetcn.com/livenews/3125171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌2.70%，报5690.24点，日内整体呈现出长尾L形走势，逼近2024年9月18日收盘位5639.37点、当年8月28日收盘位5399.48点（当年8月5日盘中曾走低至5373.21点）。 热门中概股里，携程初步收跌12.5%，万国数据跌6.3%，金山云跌5.6%，阿里巴巴跌4.8%，拼多多跌3.2%，日月光半导体涨0.8%。 ETF中，中概互联网指数ETF（KWEB）收跌2.76%，中国科技指数ETF（CQQQ）收涨1.24%。 MSCI新兴市场ex中国ETF（EMXC）收涨1.67%，XtrackersHarvest中证50（ASHS）收涨2.01%，德银嘉实沪深300指数ETF（ASHR）收涨2.31%。",
-          "url": "https://wallstreetcn.com/livenews/3124845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "标普、纳指四连跌，半导体指数涨约3.6%，银行指数、生物科技指数、小盘股指创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3124843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "拓荆科技：正在筹划以发行股份及支付现金的方式购买无锡尚积半导体科技股份有限公司的控股权并募集配套资金，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3125246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "20时10分"
         }
@@ -1161,11 +1239,12 @@
           "url": "https://wallstreetcn.com/articles/3775599",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 22时47分]"
         },
         {
           "title": "长鑫存储年底产能有望超越美光",
@@ -1335,7 +1414,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         }
