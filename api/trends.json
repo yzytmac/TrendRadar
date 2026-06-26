@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T04:47:43.143693+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-06-27T06:11:31.580440+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 06时11分]"
         },
         {
           "title": "美国总统特朗普结束讲话。",
@@ -258,7 +258,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -277,7 +277,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -287,8 +287,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 06时11分]"
+        },
+        {
+          "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3125469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -298,8 +309,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 06时11分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "金十图示：2026年06月26日（周五）热门中概股行情一览（美股收盘）",
@@ -308,7 +330,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -319,7 +341,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -348,8 +370,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 06时11分]"
         },
         {
           "title": "据美国财经媒体Semafor：高通(QCOM.O)计划推出全新手机芯片架构。",
@@ -371,8 +393,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 06时11分]"
         },
         {
           "title": "高通计划推出全新手机芯片架构。（Semafor）",
@@ -392,17 +414,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，网易初步收涨7.8%，拼多多涨4.5%，新东方、蔚来、百胜中国、理想至多涨4.2%，阿里涨0.1%，日月光半导体跌3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3125451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
           "title": "【焦点复盘】沪指缩量跌超2%失守半年线，光通信概念遭重挫，半导体设备股强势依旧",
           "url": "https://www.cls.cn/detail/2410338",
           "source": "财联社热门",
@@ -410,8 +421,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 06时11分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，网易初步收涨7.8%，拼多多涨4.5%，新东方、蔚来、百胜中国、理想至多涨4.2%，阿里涨0.1%，日月光半导体跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3125451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 06时11分]"
         },
         {
           "title": "费城半导体指数本周下跌7.9%，创下4月初以来的最大单周跌幅。",
@@ -420,7 +443,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         }
@@ -437,7 +460,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -446,11 +469,12 @@
           "url": "https://wallstreetcn.com/livenews/3125444",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 06时11分]"
         }
       ]
     },
@@ -466,8 +490,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 06时11分]"
         }
       ]
     }
