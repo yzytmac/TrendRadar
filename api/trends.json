@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T17:52:05.962434+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-06-26T20:10:05.355724+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -32,6 +32,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时45分]"
+        },
+        {
+          "title": "科技股拖累全球股市，美股盘前半导体股普跌，美光跌近6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 20时10分]"
+        },
+        {
+          "title": "天海防务：拟向特定对象发行A股股票募资不超10亿元用于高端绿色船舶扩产等项目",
+          "url": "https://wallstreetcn.com/livenews/3125303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "A股这轮牛市你赚钱了吗",
@@ -184,6 +206,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时45分]"
+        },
+        {
+          "title": "A股缩量419亿调整",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%BC%A9%E9%87%8F419%E4%BA%BF%E8%B0%83%E6%95%B4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 20时10分]"
         },
         {
           "title": "港股科网股盘初走低，BOSS直聘(02076.HK)、阿里巴巴(09988.HK)跌超4%，携程集团-S(09961.HK)跌超3%，小米集团(01810.HK)、哔哩哔哩(09626.HK)跌近3%。",
@@ -453,7 +486,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -465,6 +498,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时45分]"
+        },
+        {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 20时10分]"
         },
         {
           "title": "美国总统特朗普：将宣布110亿美元的农民救助。",
@@ -695,6 +739,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "特朗普据悉悄然续签行政令，巩固对伊拉克石油收入的控制权",
+          "url": "https://flash.jin10.com/detail/20260626190559441800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "美国最高法院表示，下周一将是下一个意见征询日。 据彭博报道，最高法院完成审议后，下周可能会对特朗普政府起诉美联储理事库克一案作出裁决。",
           "url": "https://wallstreetcn.com/livenews/3124740",
           "source": "华尔街见闻-快讯",
@@ -720,7 +775,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
@@ -733,6 +788,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时45分]"
+        },
+        {
+          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时45分 ~ 20时10分]"
         },
         {
           "title": "IBM开创“亚1纳米”芯片时代：指甲盖大小塞进千亿晶体管",
@@ -757,17 +823,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时45分]"
-        },
-        {
-          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
-          "url": "https://wallstreetcn.com/articles/3775470",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时45分 ~ 17时52分]"
         },
         {
           "title": "美光“定心丸”带动芯片股反攻 人形机器人或接棒算力成存储应用下一站",
@@ -828,6 +883,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "上交所：6月22日至2026年6月26日，对长盈通、中船特气、昀冢科技等异常波动股票以及财通福鑫LOF、全球芯片LOF等溢价较高的基金进行重点监控。",
+          "url": "https://wallstreetcn.com/livenews/3125277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "存储芯片供不应求",
           "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E4%BE%9B%E4%B8%8D%E5%BA%94%E6%B1%82&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -870,13 +936,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "上交所：本周对长盈通、中船特气、昀冢科技等异常波动股票以及财通福鑫LOF、全球芯片LOF等溢价较高的基金进行重点监控",
+          "url": "https://flash.jin10.com/detail/20260626190459479800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "半导体硅片新一轮涨价潮将至？多家供应商开始协商调价",
+          "url": "https://www.cls.cn/detail/2409929",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时09分 ~ 20时10分]"
+        },
         {
           "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
           "url": "https://www.cls.cn/detail/2409159",
@@ -888,18 +977,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时45分]"
-        },
-        {
-          "title": "半导体硅片新一轮涨价潮将至？多家供应商开始协商调价",
-          "url": "https://www.cls.cn/detail/2409929",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时09分 ~ 17时52分]"
         },
         {
           "title": "半导体产业链延续强势，新莱应材20cm涨停，股价创历史新高，上海合晶、中科飞测、正帆科技涨超10%，彤程新材、南大光电、圣晖集成涨超7%。",
@@ -950,6 +1027,17 @@
           "time_info": "[04时31分 ~ 06时08分]"
         },
         {
+          "title": "【焦点复盘】沪指缩量跌超2%失守半年线，光通信概念遭重挫，半导体设备股强势依旧",
+          "url": "https://www.cls.cn/detail/2410338",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 20时10分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌2.7%。 热门中概股里，携程初步收跌12.5%，万国数据跌6.3%，金山云跌5.6%，阿里巴巴跌4.8%，拼多多跌3.2%，日月光半导体涨0.8%。 ETF中，KWEB跌2.7%，CQQQ涨1.1%，ASHR涨2.3%。",
           "url": "https://wallstreetcn.com/livenews/3124845",
           "source": "华尔街见闻-快讯",
@@ -989,7 +1077,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1014,6 +1102,92 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "拓荆科技：正在筹划以发行股份及支付现金的方式购买无锡尚积半导体科技股份有限公司的控股权并募集配套资金，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3125246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33453348",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 20时10分]"
+        },
+        {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时31分]"
+        },
+        {
+          "title": "存储成本压力山大！苹果罕见全球提价，直言“无法再保护消费者”",
+          "url": "https://wallstreetcn.com/articles/3775531",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时45分 ~ 20时10分]"
+        },
+        {
+          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
+          "url": "https://wallstreetcn.com/articles/3775599",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 20时10分]"
+        },
+        {
+          "title": "长鑫存储年底产能有望超越美光",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E5%B9%B4%E5%BA%95%E4%BA%A7%E8%83%BD%E6%9C%89%E6%9C%9B%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%85%89&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时03分]"
+        },
+        {
+          "title": "微软官宣涨价：存储成本暴涨2.5倍",
+          "url": "https://www.toutiao.com/trending/7655375304636416038/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         }
       ]
     },
@@ -1088,70 +1262,6 @@
       ]
     },
     {
-      "keyword_group": "存储",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33453348",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 17时52分]"
-        },
-        {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时31分]"
-        },
-        {
-          "title": "存储成本压力山大！苹果罕见全球提价，直言“无法再保护消费者”",
-          "url": "https://wallstreetcn.com/articles/3775531",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时45分 ~ 17时52分]"
-        },
-        {
-          "title": "长鑫存储年底产能有望超越美光",
-          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E5%B9%B4%E5%BA%95%E4%BA%A7%E8%83%BD%E6%9C%89%E6%9C%9B%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%85%89&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
-        },
-        {
-          "title": "微软官宣涨价：存储成本暴涨2.5倍",
-          "url": "https://www.toutiao.com/trending/7655375304636416038/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "宁德时代",
       "match_count": 2,
       "titles": [
@@ -1208,9 +1318,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "优必选正式发布轮式工业人形机器人Cruzr Y1",
+          "url": "https://wallstreetcn.com/livenews/3125280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         }
       ]
     },
@@ -1243,7 +1370,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         }
