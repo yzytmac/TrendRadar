@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T02:57:43.829377+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-06-27T04:47:43.143693+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时47分]"
         },
         {
           "title": "美国总统特朗普结束讲话。",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -41,26 +41,39 @@
           "time_info": "01时02分"
         },
         {
-          "title": "美国总统特朗普：伊朗仍然具备某些（军事打击）能力，但不太大。 （美国）汽油价格很快就会跌到每加仑2.5美元。",
-          "url": "https://wallstreetcn.com/livenews/3125432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
           "title": "美国总统特朗普：（谈委内瑞拉）他们那里发生了强烈地震，很多人丧生。我们派了很多人去那里提供援助。委内瑞拉一直都很棒，我们和委内瑞拉的关系很好。",
           "url": "https://flash.jin10.com/detail/20260627024123678800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗仍然具备某些（军事打击）能力，但不太大。 （美国）汽油价格很快就会跌到每加仑2.5美元。",
+          "url": "https://wallstreetcn.com/livenews/3125432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 04时47分]"
+        },
+        {
+          "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
+          "url": "https://wallstreetcn.com/livenews/3125418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 04时47分]"
         },
         {
           "title": "据NewsNation：一位美国官员表示，尽管特朗普称伊朗违反了停火协议，但美伊之间的谈判预计仍将继续进行。",
@@ -80,7 +93,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -91,7 +104,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -135,18 +148,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
-          "url": "https://wallstreetcn.com/livenews/3125418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -157,7 +159,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -168,7 +170,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -179,7 +181,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -190,7 +192,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -201,7 +203,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -212,7 +214,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -234,7 +236,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -250,11 +252,83 @@
           "time_info": "01时02分"
         },
         {
+          "title": "美国总统特朗普：（当被问及伊朗在霍尔木兹海峡的行动时）你们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260627035601886800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "特朗普前国家安全事务助理认罪",
           "url": "https://wallstreetcn.com/livenews/3125373",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 a股 港股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时47分]"
+        },
+        {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时47分]"
+        },
+        {
+          "title": "金十图示：2026年06月26日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260627040745332800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美股收盘，道指跌0.12%、标普500指数跌0.07%、纳指跌0.24%。半导体、存储概念股走软，西部数据(WDC.O)跌13%、希捷科技(STX.O)跌12%、闪迪(SNDK.O)跌10%、美光科技(MU.O)跌6.6%、高通(QCOM.O)跌7%。",
+          "url": "https://flash.jin10.com/detail/20260627040045015800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，医疗业ETF涨近3%，生物科技指数ETF涨超2%，半导体ETF跌超3%，科技行业ETF跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3125372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -274,8 +348,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时47分]"
         },
         {
           "title": "据美国财经媒体Semafor：高通(QCOM.O)计划推出全新手机芯片架构。",
@@ -297,8 +371,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时47分]"
         },
         {
           "title": "高通计划推出全新手机芯片架构。（Semafor）",
@@ -307,55 +381,27 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         }
       ]
     },
     {
-      "keyword_group": "美股 a股 港股",
+      "keyword_group": "半导体",
       "match_count": 3,
       "titles": [
         {
-          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时57分]"
-        },
-        {
-          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2410602",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时57分]"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，医疗业ETF涨近3%，生物科技指数ETF涨超2%，半导体ETF跌超3%，科技行业ETF跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3125372",
+          "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，网易初步收涨7.8%，拼多多涨4.5%，新东方、蔚来、百胜中国、理想至多涨4.2%，阿里涨0.1%，日月光半导体跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3125451",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 1,
-      "titles": [
+          "time_info": "04时47分"
+        },
         {
           "title": "【焦点复盘】沪指缩量跌超2%失守半年线，光通信概念遭重挫，半导体设备股强势依旧",
           "url": "https://www.cls.cn/detail/2410338",
@@ -364,8 +410,47 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时47分]"
+        },
+        {
+          "title": "费城半导体指数本周下跌7.9%，创下4月初以来的最大单周跌幅。",
+          "url": "https://flash.jin10.com/detail/20260627041033190800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克旗下SpaceX本周跌约17%，该公司即将被纳入富时罗素公司的指数。",
+          "url": "https://wallstreetcn.com/livenews/3125453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "马斯克获准收购Mesh，加码数据中心光通信布局",
+          "url": "https://wallstreetcn.com/livenews/3125444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     },
@@ -381,8 +466,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时47分]"
         }
       ]
     }
