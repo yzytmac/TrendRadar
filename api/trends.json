@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T12:41:02.024666+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-06-28T16:06:13.937869+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 12时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 16时06分]"
         },
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
@@ -41,6 +42,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 08时02分]"
+        },
+        {
+          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
+          "url": "https://wallstreetcn.com/articles/3775683",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 16时06分]"
         },
         {
           "title": "特朗普孙女发逛白宫vlog美国网友破防",
@@ -58,17 +71,6 @@
           "time_info": "[03时41分 ~ 08时02分]"
         },
         {
-          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
-          "url": "https://wallstreetcn.com/articles/3775683",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
           "title": "学特朗普“卖金卡”，阿根廷这次直接卖国籍？",
           "url": "https://news.ifeng.com/c/8uJmUX0Ymhg",
           "source": "凤凰网",
@@ -76,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 16时06分]"
         },
         {
           "title": "黎巴嫩总统府表示，特朗普向黎巴嫩总统奥恩确认，美国将支持黎巴嫩经济和合法安全力量。",
@@ -170,6 +172,29 @@
           "time_info": "[04时44分 ~ 08时02分]"
         },
         {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 16时06分]"
+        },
+        {
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 16时06分]"
+        },
+        {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
           "url": "https://news.ifeng.com/c/8uJtXiv6RM9",
           "source": "凤凰网",
@@ -193,43 +218,33 @@
           "time_info": "[00时47分 ~ 02时02分]"
         },
         {
-          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
-          "source": "澎湃新闻",
+          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
+          "url": "https://www.zhihu.com/question/2054471851032539301",
+          "source": "知乎",
           "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
           "url": "https://wallstreetcn.com/livenews/3125614",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 16时06分]"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
@@ -251,8 +266,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 12时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 16时06分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -275,8 +290,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 12时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 16时06分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -288,8 +303,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 12时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 16时06分]"
         },
         {
           "title": "下周A股解禁市值逾1000亿元",
@@ -314,6 +329,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时41分 ~ 06时47分]"
+        },
+        {
+          "title": "明天A股怎么走",
+          "url": "https://www.toutiao.com/trending/7655612888803180607/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         }
       ]
     },
@@ -329,8 +355,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 12时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 16时06分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -341,8 +367,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 12时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 16时06分]"
         },
         {
           "title": "半导体龙头集体加注 先进封装何以成为最具壁垒环节？",
@@ -353,8 +379,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 12时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 16时06分]"
         },
         {
           "title": "日本半导体王牌为何开始担心中国",
@@ -387,8 +413,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 12时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时46分 ~ 16时06分]"
         },
         {
           "title": "报道称苹果游说美国政府希望获批采购长鑫存储内存芯片，成功概率有多大？国产芯片打入苹果高端机型难点在哪？",
@@ -431,18 +457,58 @@
     },
     {
       "keyword_group": "存储",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "WPS再回应C盘占用问题：将新增路径选择、磁盘存储管理功能",
           "url": "https://m.thepaper.cn/newsDetail_forward_33468400",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 16时06分]"
+        },
+        {
+          "title": "苹果和美光关于存储涨价的口水战，你认为谁说的更有道理？",
+          "url": "https://www.zhihu.com/question/2053876477876347476",
+          "source": "知乎",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "time_info": "[16时05分 ~ 16时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
+          "url": "https://flash.jin10.com/detail/20260628120732763800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
+          "url": "https://flash.jin10.com/detail/20260628133655032800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     },
@@ -455,28 +521,12 @@
           "url": "https://www.cls.cn/detail/2410988",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
-          "url": "https://flash.jin10.com/detail/20260628120732763800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 16时06分]"
         }
       ]
     },
