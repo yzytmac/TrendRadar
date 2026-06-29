@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-06-30T06:21:03.088886+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-06-30T07:34:34.237984+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
           "url": "https://www.cls.cn/detail/2411631",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时34分]"
         },
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
           "url": "https://www.cls.cn/detail/2412084",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时34分]"
+        },
+        {
+          "title": "美媒：SpaceX与美国政府讨论向“特朗普账户”捐赠股票事宜",
+          "url": "https://flash.jin10.com/detail/20260630070512009800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "美国总统特朗普：（最高法院）裁决后预计不会有更多解职。",
@@ -54,6 +67,39 @@
           "time_info": "[05时07分 ~ 06时21分]"
         },
         {
+          "title": "美国总统特朗普：提名Keith E. Sonderling为劳工部长。",
+          "url": "https://wallstreetcn.com/livenews/3126345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "报道：SpaceX与美国讨论捐赠股票给“特朗普账户”",
+          "url": "https://wallstreetcn.com/livenews/3126344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "美国总统特朗普： 我很荣幸地宣布，我提名凯斯·E·桑德林（Keith E. Sonderling）担任美国劳工部的常任部长。",
+          "url": "https://flash.jin10.com/detail/20260630065224546800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
           "title": "据华尔街日报：美国国税局调整规则，免除多数“特朗普账户”持有人因小额投入而产生的赠与税申报义务。",
           "url": "https://flash.jin10.com/detail/20260630040343836800",
           "source": "金十数据",
@@ -63,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：SpaceX(SPCX.O)与美国政府讨论向“特朗普账户”捐赠股票事宜。",
+          "url": "https://flash.jin10.com/detail/20260630064846082800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "美国总统特朗普：最高法院今天的裁决赋予总统解雇部分独立联邦机构官员的权力，这是过去100年来总统权力最大的一次扩张，也是在这一关键时刻作出的一项具有里程碑意义的裁决。",
@@ -82,7 +139,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -170,7 +227,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -203,7 +260,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -244,7 +301,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "十大券商看后市｜A股相对外盘走势更具韧性，短期关注再平衡",
@@ -254,8 +311,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时34分]"
         },
         {
           "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
@@ -276,19 +333,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[06时20分 ~ 07时34分]"
         },
         {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
           "url": "https://www.cls.cn/detail/2411748",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时34分]"
         },
         {
           "title": "百度港股涨超8%：昆仑芯拟赴港上市，估值约500亿美元",
@@ -299,19 +357,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时21分]"
-        },
-        {
-          "title": "美股大类资产类ETF周一多数收涨，纳指100 ETF涨2.49%，标普500 ETF、巴克莱美国可转债ETF、美国布伦特油价基金至多涨1.65%，道指ETF涨0.76%，新兴市场ETF、欧元做多、美国国债20+年ETF至多涨0.36%。 日元做多、罗素2000指数ETF、做多美元指数则至多收跌0.53%，农产品基金跌1.08%，大豆基金跌1.14%，黄金ETF跌1.35%。",
-          "url": "https://wallstreetcn.com/livenews/3126325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时34分]"
         },
         {
           "title": "美股",
@@ -320,11 +367,23 @@
           "ranks": [
             10,
             26,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 06时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 07时34分]"
+        },
+        {
+          "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
+          "url": "https://www.cls.cn/detail/2412265",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "周一（6月29日），美股行业ETF多数收涨，半导体ETF涨3.33%，可选消费ETF、科技行业ETF、网络股指数ETF至少涨2.22%，能源业ETF则收跌0.48%，区域银行ETF跌0.56%，全球航空业ETF跌0.60%。 标普500指数的11个板块中，电信板块收涨3.11%，可选消费板块涨2.68%，信息技术/科技板块涨1.69%表现第三，能源板块收跌0.62%，房地产板块跌0.73%，原材料板块跌1.86%。",
@@ -332,11 +391,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 07时34分]"
+        },
+        {
+          "title": "美股大类资产类ETF周一多数收涨，纳指100 ETF涨2.49%，标普500 ETF、巴克莱美国可转债ETF、美国布伦特油价基金至多涨1.65%，道指ETF涨0.76%，新兴市场ETF、欧元做多、美国国债20+年ETF至多涨0.36%。 日元做多、罗素2000指数ETF、做多美元指数则至多收跌0.53%，农产品基金跌1.08%，大豆基金跌1.14%，黄金ETF跌1.35%。",
+          "url": "https://wallstreetcn.com/livenews/3126325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时07分 ~ 06时21分]"
+          "time_info": "[06时21分 ~ 07时34分]"
         },
         {
           "title": "美股费城半导体指数涨幅扩大至3.2%。",
@@ -367,11 +439,12 @@
           "url": "https://wallstreetcn.com/livenews/3126316",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时34分]"
         },
         {
           "title": "金十图示：2026年06月29日（周一）美股热门股票行情一览（美股收盘）",
@@ -383,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
+          "url": "https://www.cls.cn/detail/2412290",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "金十图示：2026年06月29日（周一）热门中概股行情一览（美股收盘）",
@@ -418,6 +502,39 @@
           "time_info": "03时16分"
         },
         {
+          "title": "3家公司告别A股，最后交易日收盘价均不足1元",
+          "url": "https://wallstreetcn.com/livenews/3126337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "热点概念炒作频频引发股价异动，A股公司密集提示风险厘清业务边界",
+          "url": "https://wallstreetcn.com/livenews/3126335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "相关主题ETF上周“吸金”超过250亿元，A股半导体板块高景气下波动加大",
+          "url": "https://wallstreetcn.com/livenews/3126330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
           "title": "美股费城半导体指数转涨。",
           "url": "https://wallstreetcn.com/livenews/3126248",
           "source": "华尔街见闻-快讯",
@@ -443,8 +560,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时34分]"
         },
         {
           "title": "沪指涨超1%，科创50暴涨超4%再创新高，半导体、创新药大爆发，恒科指大涨超3%，科网股集体反攻",
@@ -454,8 +571,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时34分]"
         },
         {
           "title": "韩国全力打造新的半导体集群！三星和SK海力士将斥重金布局存储产业",
@@ -467,8 +584,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时34分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.41%，报5810.93点。 热门中概股里，百度初步收涨7.5%，小鹏涨5.8%，日月光半导体、网易涨4.3%，金山云涨3.4%，阿里巴巴涨0.6%，理想跌0.9%。 ETF中，中国科技指数ETF（CQQQ）收涨2.25%，中概互联网指数ETF（KWEB）收涨1.50%。 XtrackersHarvest中证50（ASHS）收涨1.22%，德银嘉实沪深300指数ETF（ASHR）收涨1.06%，MSCI新兴市场ex中国ETF（EMXC）收涨0.41%。",
@@ -512,55 +629,15 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
       ]
     },
     {
-      "keyword_group": "存储",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "单日成交432亿！存储龙头股价首破800元，高价股阵营持续扩大，这些方向高占比",
-          "url": "https://www.cls.cn/detail/2411859",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时21分]"
-        },
-        {
-          "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
-          "url": "https://wallstreetcn.com/articles/3775711",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时21分]"
-        },
-        {
-          "title": "腾讯与长鑫存储签200亿供应协议",
-          "url": "https://www.douyin.com/hot/2551998",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 06时21分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "韩国史上最大规模产业投资计划！五年内DRAM产能翻倍，三星、SK海力士各新建两座芯片厂",
@@ -570,8 +647,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时34分]"
         },
         {
           "title": "高盛交易员预警：存储芯片板块面临三大下行风险",
@@ -582,8 +659,89 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时34分]"
+        },
+        {
+          "title": "全球芯片巨头史诗级扩产",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%89%A9%E4%BA%A7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
+          "url": "https://wallstreetcn.com/articles/3775711",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时34分]"
+        },
+        {
+          "title": "单日成交432亿！存储龙头股价首破800元，高价股阵营持续扩大，这些方向高占比",
+          "url": "https://www.cls.cn/detail/2411859",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时34分]"
+        },
+        {
+          "title": "腾讯与长鑫存储签200亿供应协议",
+          "url": "https://www.douyin.com/hot/2551998",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 07时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "立讯精密",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "立讯精密：拟全球发售约3.83亿股H股，发售价不超63.28港元",
+          "url": "https://wallstreetcn.com/livenews/3126332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "立讯精密在港交所公告，在港上市拟发行3.834亿股H股（视乎超额配股权行使与否而定），定价不高于63.28港元/股，预期7月9日开始交易。",
+          "url": "https://flash.jin10.com/detail/20260630061357610800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         }
       ]
     },
@@ -597,11 +755,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时34分]"
         }
       ]
     },
