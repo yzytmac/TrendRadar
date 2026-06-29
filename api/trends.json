@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T17:59:32.907471+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-06-29T22:10:17.383252+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "多家A股公司扎堆发异动公告，涉PCB、玻璃基板、液冷等热门赛道",
@@ -43,38 +43,63 @@
           "time_info": "[00时48分 ~ 07时14分]"
         },
         {
+          "title": "十大券商看后市｜A股相对外盘走势更具韧性，短期关注再平衡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33473686",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 22时10分]"
+        },
+        {
           "title": "南向资金今日大幅净卖出103.39亿元。港股通（沪）方面，盈富基金、中芯国际分别获净卖出43.74亿港元、5.42亿港元；腾讯控股净买入额居首，金额为9.17亿港元；港股通（深）方面，盈富基金、南方恒生科技分别获净卖出29.72亿港元、12.02亿港元；中芯国际净买入额居首，金额为14.9亿港元。",
           "url": "https://flash.jin10.com/detail/20260629173204532800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
         {
-          "title": "十大券商看后市｜A股相对外盘走势更具韧性，短期关注再平衡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33473686",
-          "source": "澎湃新闻",
+          "title": "韩国重磅芯片计划支撑市场，美股三大指数集体高开，美光跌超2%，油价回到70上方",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            2
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 17时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
           "url": "https://www.cls.cn/detail/2411748",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 22时10分]"
+        },
+        {
+          "title": "百度港股涨超8%：昆仑芯拟赴港上市，估值约500亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33474481",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 22时10分]"
         },
         {
           "title": "A股三大指数全线收红",
@@ -83,7 +108,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -116,7 +141,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -132,15 +157,15 @@
           "time_info": "08时20分"
         },
         {
-          "title": "百度港股涨超8%：昆仑芯拟赴港上市，估值约500亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33474481",
-          "source": "澎湃新闻",
+          "title": "美股太空股ETF涨幅一度高达4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3126203",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时59分"
+          "time_info": "22时10分"
         },
         {
           "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
@@ -154,15 +179,59 @@
           "time_info": "07时14分"
         },
         {
+          "title": "北美科技软件股指数ETF美股盘初涨约2.1%，进入连续第二个交易日反弹，报90.02美元，",
+          "url": "https://wallstreetcn.com/livenews/3126202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美股三大指数集体高开，纳指涨0.8%，标普500指数涨0.5%，道指涨0.23%。科技股涨跌不一，英伟达涨0.66%，部分存储概念股走低，美光科技跌超2%，闪迪跌超1%。Strategy涨近5%，此前公司宣布授权10亿美元优先股回购计划。康卡斯特上涨12%，公司计划分拆NBC环球。",
+          "url": "https://wallstreetcn.com/livenews/3126200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "A股割裂行情有变化了吗",
           "url": "https://www.toutiao.com/trending/7656722454349352467/",
           "source": "今日头条",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
+        },
+        {
+          "title": "美股三大指数高开 西部数据涨超2%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E6%B6%A8%E8%B6%852%25",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "金十图示：2026年06月29日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260629214150348800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "港股午评：恒指单边走强收涨2.12% 医药板块全线爆发",
@@ -174,12 +243,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3126188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -292,6 +372,18 @@
           "time_info": "[03时46分 ~ 04时47分]"
         },
         {
+          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
+          "url": "https://www.cls.cn/detail/2411631",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 22时10分]"
+        },
+        {
           "title": "美国总统特朗普称，林肯纪念堂倒影池在遭受严重损坏后现已全面投入使用。",
           "url": "https://flash.jin10.com/detail/20260629024517840800",
           "source": "金十数据",
@@ -315,15 +407,15 @@
           "time_info": "13时11分"
         },
         {
-          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
-          "url": "https://www.cls.cn/detail/2411631",
+          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2412084",
           "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时59分"
+          "time_info": "22时10分"
         },
         {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
@@ -343,7 +435,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -362,7 +454,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "又一半导体气体或陷入短缺 存储巨头全力加紧采购",
@@ -428,11 +520,12 @@
           "url": "https://www.cls.cn/detail/2411668",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 22时10分]"
         },
         {
           "title": "半导体零部件头部企业、‌半导体材料‌概念股明日申购",
@@ -457,6 +550,18 @@
           "time_info": "13时11分"
         },
         {
+          "title": "沪指涨超1%，科创50暴涨超4%再创新高，半导体、创新药大爆发，恒科指大涨超3%，科网股集体反攻",
+          "url": "https://wallstreetcn.com/articles/3775723",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 22时10分]"
+        },
+        {
           "title": "功率半导体缺货涨价",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E7%8E%87%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%BC%BA%E8%B4%A7%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -469,15 +574,15 @@
           "time_info": "[07时14分 ~ 08时20分]"
         },
         {
-          "title": "沪指涨超1%，科创50暴涨超4%再创新高，半导体、创新药大爆发，恒科指大涨超3%，科网股集体反攻",
-          "url": "https://wallstreetcn.com/articles/3775723",
-          "source": "华尔街见闻",
+          "title": "费城半导体指数转跌，跌幅0.6%。",
+          "url": "https://flash.jin10.com/detail/20260629215950725800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时59分"
+          "time_info": "22时10分"
         },
         {
           "title": "【图解牛熊股】半导体板块涨幅居前，证券板块表现活跃",
@@ -494,8 +599,20 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "韩国史上最大规模产业投资计划！五年内DRAM产能翻倍，三星、SK海力士各新建两座芯片厂",
+          "url": "https://wallstreetcn.com/articles/3775739",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 22时10分]"
+        },
         {
           "title": "韩国公布芯片、物理AI及AI数据中心领域的大型项目计划。",
           "url": "https://wallstreetcn.com/livenews/3125876",
@@ -519,17 +636,6 @@
           "time_info": "13时11分"
         },
         {
-          "title": "韩国史上最大规模产业投资计划！五年内DRAM产能翻倍，三星、SK海力士各新建两座芯片厂",
-          "url": "https://wallstreetcn.com/articles/3775739",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
           "title": "据The Information：百度芯片部门昆仑芯计划以500亿美元的估值赴港上市，IPO投资者必须承诺购买相当于其认购额3至7倍的芯片。",
           "url": "https://flash.jin10.com/detail/20260629022704553800",
           "source": "金十数据",
@@ -551,6 +657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "高盛交易员预警：存储芯片板块面临三大下行风险",
+          "url": "https://wallstreetcn.com/articles/3775760",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         }
       ]
     },
@@ -558,6 +675,30 @@
       "keyword_group": "存储",
       "match_count": 4,
       "titles": [
+        {
+          "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
+          "url": "https://wallstreetcn.com/articles/3775711",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 22时10分]"
+        },
+        {
+          "title": "单日成交432亿！存储龙头股价首破800元，高价股阵营持续扩大，这些方向高占比",
+          "url": "https://www.cls.cn/detail/2411859",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 22时10分]"
+        },
         {
           "title": "苹果和美光关于存储涨价的口水战，你认为谁说的更有道理？",
           "url": "https://www.zhihu.com/question/2053876477876347476",
@@ -571,35 +712,13 @@
           "time_info": "[00时48分 ~ 02时04分]"
         },
         {
-          "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
-          "url": "https://wallstreetcn.com/articles/3775711",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "单日成交432亿！存储龙头股价首破800元，高价股阵营持续扩大，这些方向高占比",
-          "url": "https://www.cls.cn/detail/2411859",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
           "title": "存储三巨头被告了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E4%B8%89%E5%B7%A8%E5%A4%B4%E8%A2%AB%E5%91%8A%E4%BA%86%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         }
@@ -616,7 +735,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -627,9 +746,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 22时10分]"
         },
         {
           "title": "上证指数早盘收报4034.08点，涨0.17%。 深证成指早盘收报15591.37点，跌1.21%。 创业板指早盘收报4140.65点，跌1.28%。 沪深300早盘收报4871.03点，涨0.06%。 科创50早盘收报2063.94点，涨1.56%。 中证500早盘收报8676.33点，跌0.31%。 中证1000早盘收报8458.74点，跌1.66%。",
@@ -667,7 +786,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -678,7 +797,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         }
@@ -744,7 +863,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         }
@@ -768,6 +887,23 @@
       ]
     },
     {
+      "keyword_group": "胜宏科技",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "胜宏科技：公司已有部分ASIC相关PCB产品进行批量生产",
+          "url": "https://flash.jin10.com/detail/20260629214803677800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "赣锋锂业",
       "match_count": 1,
       "titles": [
@@ -778,7 +914,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         }
