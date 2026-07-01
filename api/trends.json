@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-01T19:28:48.498328+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-07-01T21:54:12.831099+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 50,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时50分 ~ 21时54分]"
+        },
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
           "url": "https://wallstreetcn.com/articles/3775727",
@@ -32,16 +45,15 @@
           "time_info": "[01时15分 ~ 15时59分]"
         },
         {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
+          "title": "下周一正式施行，A股交易新规来了！一图看懂关键调整",
+          "url": "https://www.cls.cn/detail/2414140",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时50分 ~ 19时28分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时54分]"
         },
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
@@ -93,6 +105,17 @@
           "time_info": "[01时15分 ~ 06时40分]"
         },
         {
+          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
+          "url": "https://wallstreetcn.com/articles/3775932",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
+        },
+        {
           "title": "半年收官，A股IPO受理“冲刺潮”，单日44家、单月144家创峰值",
           "url": "https://www.cls.cn/detail/2413611",
           "source": "财联社热门",
@@ -104,15 +127,16 @@
           "time_info": "[11时33分 ~ 15时59分]"
         },
         {
-          "title": "下周一正式施行，A股交易新规来了！一图看懂关键调整",
-          "url": "https://www.cls.cn/detail/2414140",
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
           "source": "财联社热门",
           "ranks": [
-            1
+            13,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时59分 ~ 21时54分]"
         },
         {
           "title": "A股白酒板块震荡反弹，金种子酒涨停，皇台酒业、顺鑫农业、天佑德酒、金徽酒、舍得酒业跟涨。",
@@ -172,6 +196,17 @@
           "time_info": "07时50分"
         },
         {
+          "title": "美股三大股指集体低开，道指跌0.2%，标普500指数跌0.3%，纳指跌0.6%。Meta股票开盘上涨7.9%，创4月8日以来最大涨幅；闪迪股价下跌8.6%；美光科技开盘下跌7%。",
+          "url": "https://wallstreetcn.com/livenews/3127454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "机构密集调研A股上市公司，人形机器人、半导体材料受追捧",
           "url": "https://wallstreetcn.com/livenews/3127014",
           "source": "华尔街见闻-快讯",
@@ -181,6 +216,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时33分 ~ 21时54分]"
         },
         {
           "title": "港股上半年IPO火热，券商加码在港业务",
@@ -195,18 +242,6 @@
           "time_info": "[06时40分 ~ 07时50分]"
         },
         {
-          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
-          "url": "https://www.cls.cn/detail/2413957",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 19时28分]"
-        },
-        {
           "title": "周二（6月30日），美股存储芯片与硬件供应链指数收涨3.83%，报268.03点，6月份累涨27.26%，二季度累涨159.01%，上半年持续上扬——从69.59点涨至277.74点。 二季度，成分股闪迪累涨257.88%，美光科技涨241.67%，希捷科技涨146.55%，西部数据涨136.19%，应用材料涨111.78%，拉姆研究涨103.01%，泰瑞达涨63.28%，Rambus反弹54.30%。",
           "url": "https://wallstreetcn.com/livenews/3127000",
           "source": "华尔街见闻-快讯",
@@ -219,16 +254,16 @@
           "time_info": "[06时40分 ~ 07时50分]"
         },
         {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
+          "title": "A股涨停数创20个月新高！TMT“参团率”降至15%，这一数据仍在历史高位",
+          "url": "https://www.cls.cn/detail/2414312",
+          "source": "财联社热门",
           "ranks": [
             8,
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时33分 ~ 19时28分]"
+          "time_info": "[19时28分 ~ 21时54分]"
         },
         {
           "title": "京东方成交额超400亿元位居A股第一",
@@ -252,6 +287,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时05分 ~ 06时40分]"
+        },
+        {
+          "title": "A股交易新规7月6日起施行",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BA%A4%E6%98%93%E6%96%B0%E8%A7%847%E6%9C%886%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "受美联储风险及美元走强拖累，拉美股市终结季度连涨势头",
@@ -278,6 +324,28 @@
           "time_info": "[05时05分 ~ 06时40分]"
         },
         {
+          "title": "美股狂飙黄金暴跌为何会这样",
+          "url": "https://www.toutiao.com/trending/7657495000493592070/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
+        },
+        {
+          "title": "美股盘前三大股指期货下跌",
+          "url": "https://www.douyin.com/hot/2554626",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
+        },
+        {
           "title": "周二（6月30日），美股行业ETF多数收涨，半导体ETF涨3.78%，全球科技股指数ETF、科技行业ETF至少涨2.76%，医疗业ETF、日常消费品ETF、公用事业ETF、日常消费品ETF跌1.29%-1.54%。 上半年，半导体ETF累计上涨82.13%，全球科技股指数ETF、科技行业ETF至少涨32.66%，能源业ETF、工业ETF至少涨20.04%，金融业ETF、可选消费ETF、网络股指数ETF则至多累跌1.66%。",
           "url": "https://wallstreetcn.com/livenews/3126976",
           "source": "华尔街见闻-快讯",
@@ -302,6 +370,28 @@
           "time_info": "[06时40分 ~ 07时50分]"
         },
         {
+          "title": "美股低开 算力租赁商、存储股大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E5%95%86%E3%80%81%E5%AD%98%E5%82%A8%E8%82%A1%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
+        },
+        {
+          "title": "A股交易新规下周一正式施行",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%BA%A4%E6%98%93%E6%96%B0%E8%A7%84%E4%B8%8B%E5%91%A8%E4%B8%80%E6%AD%A3%E5%BC%8F%E6%96%BD%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
+        },
+        {
           "title": "A股京东方A成交额超250亿元，现跌超1%。",
           "url": "https://flash.jin10.com/detail/20260701105835188800",
           "source": "金十数据",
@@ -322,17 +412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
-        },
-        {
-          "title": "A股涨停数创20个月新高！TMT“参团率”降至15%，这一数据仍在历史高位",
-          "url": "https://www.cls.cn/detail/2414312",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
         },
         {
           "title": "芝商所：将于7月27日推出覆盖50多只美股的单股期货产品。",
@@ -388,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3127439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "金十图示：2026年06月30日（周二）热门中概股行情一览（美股盘中）",
@@ -522,13 +612,24 @@
           "time_info": "06时40分"
         },
         {
+          "title": "Meta美股盘前涨逾5%，报道称Meta正在构建云业务，以出售其富余的AI算力资源。",
+          "url": "https://wallstreetcn.com/livenews/3127424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "博主：A股行情靠科技",
           "url": "https://www.toutiao.com/trending/7656601188129046591/",
           "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -580,7 +681,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -705,6 +806,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 11时33分]"
+        },
+        {
+          "title": "美最高法院驳回特朗普的限制「出生公民权」行政令，维持在美出生即美国公民，这项政策利弊该怎么权衡？",
+          "url": "https://www.zhihu.com/question/2055584524273185650",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "信披：特朗普对苹果、英伟达持股分别至少500万美元",
@@ -873,6 +985,17 @@
           "time_info": "06时40分"
         },
         {
+          "title": "特朗普称美伊处得很好",
+          "url": "https://wallstreetcn.com/livenews/3127437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "美国内政部长：美国总统特朗普实际上阻止了第三次世界大战的发生。",
           "url": "https://flash.jin10.com/detail/20260701052059560800",
           "source": "金十数据",
@@ -937,6 +1060,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗谈判进展顺利。 因为股市上涨，每个人都在获利。 正在美国建设很多汽车工厂和人工智能基地。 到我卸任时，我们可能占据芯片市场50%的份额。",
+          "url": "https://wallstreetcn.com/livenews/3127425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         }
       ]
     },
@@ -983,6 +1117,18 @@
           "time_info": "[01时15分 ~ 07时50分]"
         },
         {
+          "title": "韩国半导体基板厂商：三星、SK海力士拟要求下半年降价，年初3%~4%涨幅或将撤回",
+          "url": "https://wallstreetcn.com/articles/3775950",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时54分]"
+        },
+        {
           "title": "【每日收评】科创50再度涨近4%，算力硬件股集体反弹，半导体产业链反复活跃",
           "url": "https://www.cls.cn/detail/2413033",
           "source": "财联社热门",
@@ -995,15 +1141,16 @@
           "time_info": "[01时15分 ~ 07时50分]"
         },
         {
-          "title": "韩国半导体基板厂商：三星、SK海力士拟要求下半年降价，年初3%~4%涨幅或将撤回",
-          "url": "https://wallstreetcn.com/articles/3775950",
-          "source": "华尔街见闻",
+          "title": "半导体涨价潮蔓延至先进封装 日月光CEO：正全力以赴扩大产能",
+          "url": "https://www.cls.cn/detail/2414349",
+          "source": "财联社热门",
           "ranks": [
-            5
+            11,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时54分]"
         },
         {
           "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
@@ -1053,17 +1200,6 @@
           "time_info": "03时09分"
         },
         {
-          "title": "半导体涨价潮蔓延至先进封装 日月光CEO：正全力以赴扩大产能",
-          "url": "https://www.cls.cn/detail/2414349",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
           "title": "券商晨会精华：聚焦半导体设备结构性机遇",
           "url": "https://www.cls.cn/detail/2413640",
           "source": "财联社热门",
@@ -1081,7 +1217,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
@@ -1182,9 +1318,84 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "八部门：推动工业互联网基础设施和智算设施、超算设施等算力基础设施一体规划、同步建设",
+          "url": "https://www.cls.cn/detail/2413124",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 07时50分]"
+        },
+        {
+          "title": "SemiAnalysis创始人：推理或超越石油成全球最大市场，2040年太空数据中心将主导全球算力",
+          "url": "https://wallstreetcn.com/articles/3775923",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时59分 ~ 21时54分]"
+        },
+        {
+          "title": "【年中盘点】2026上半年十大牛熊股出炉：算力产业链狂揽涨幅榜 十余股涨超500%",
+          "url": "https://www.cls.cn/detail/2412969",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 06时40分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线3连阳收复4100点，算力硬件股遭深幅回调，养殖板块大面积爆发",
+          "url": "https://www.cls.cn/detail/2414302",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时54分]"
+        },
+        {
+          "title": "沪指冲高回落涨0.4%，券商爆发，创业板跌近2%，算力硬件午后集体调整，阳光电源一度跌停",
+          "url": "https://wallstreetcn.com/articles/3775921",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时54分]"
+        },
+        {
+          "title": "算力租赁商Nebius和CoreWeave盘前跌超9%，此前报道称，Meta筹划进军云计算市场，以出售富余的AI算力资源。",
+          "url": "https://wallstreetcn.com/livenews/3127442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         }
       ]
     },
@@ -1230,6 +1441,18 @@
           "time_info": "[03时09分 ~ 06时40分]"
         },
         {
+          "title": "存储三巨头遭美国集体诉讼，被指借机制造「内存末日」，内存涨价有多少人为因素？此番诉讼会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2054955103715422237",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时54分]"
+        },
+        {
           "title": "金十数据整理：每日存储市场要闻速递（2026-07-01）",
           "url": "https://flash.jin10.com/detail/20260701105700151800",
           "source": "金十数据",
@@ -1239,79 +1462,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
-        },
-        {
-          "title": "存储三巨头遭美国集体诉讼，被指借机制造「内存末日」，内存涨价有多少人为因素？此番诉讼会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2054955103715422237",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "八部门：推动工业互联网基础设施和智算设施、超算设施等算力基础设施一体规划、同步建设",
-          "url": "https://www.cls.cn/detail/2413124",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时50分]"
-        },
-        {
-          "title": "【年中盘点】2026上半年十大牛熊股出炉：算力产业链狂揽涨幅榜 十余股涨超500%",
-          "url": "https://www.cls.cn/detail/2412969",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 06时40分]"
-        },
-        {
-          "title": "SemiAnalysis创始人：推理或超越石油成全球最大市场，2040年太空数据中心将主导全球算力",
-          "url": "https://wallstreetcn.com/articles/3775923",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 19时28分]"
-        },
-        {
-          "title": "沪指冲高回落涨0.4%，券商爆发，创业板跌近2%，算力硬件午后集体调整，阳光电源一度跌停",
-          "url": "https://wallstreetcn.com/articles/3775921",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "【焦点复盘】沪指日线3连阳收复4100点，算力硬件股遭深幅回调，养殖板块大面积爆发",
-          "url": "https://www.cls.cn/detail/2414302",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
         }
       ]
     },
@@ -1401,6 +1551,51 @@
       ]
     },
     {
+      "keyword_group": "宁德时代",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "宁德时代与极兔速递签署战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3127451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "宁德时代与极兔速递签署战略合作协议",
+          "url": "https://flash.jin10.com/detail/20260701211721583800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人形机器人",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "洛阳钼业",
       "match_count": 1,
       "titles": [
@@ -1411,7 +1606,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
@@ -1428,7 +1623,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
