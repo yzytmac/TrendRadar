@@ -1,95 +1,11 @@
 {
-  "generated_at": "2026-07-03T02:57:15.499622+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-07-03T04:18:36.968579+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美国财政部：财政部与国税局将接受大型上市公司股票捐赠，为“特朗普账户”儿童金融账户计划提供支持。",
-          "url": "https://flash.jin10.com/detail/20260703023131471800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时57分]"
-        },
-        {
-          "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
-          "url": "https://flash.jin10.com/detail/20260703004456845800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储",
-          "url": "https://wallstreetcn.com/livenews/3128178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "市场消息：美国上诉法院撤销了要求特朗普政府重新安装从国家公园移除的、涉及奴隶制和气候变化等主题的展览的命令。",
-          "url": "https://flash.jin10.com/detail/20260703004136398800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "特朗普参加活动后直接拿走剪刀",
-          "url": "https://www.toutiao.com/trending/7656820359463518259/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普：已正式“终止”相关海洋保护限制，坚决不允许其他国家占据美国海域资源。呼吁选民在中期选举中支持共和党。",
-          "url": "https://flash.jin10.com/detail/20260703015427959800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 a股 港股",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -99,8 +15,63 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时18分]"
+        },
+        {
+          "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260703040606639800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "金十图示：2026年07月02日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260703040551550800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
+          "url": "https://wallstreetcn.com/livenews/3128212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美股收盘：芯片股重挫 闪迪大跌14%",
+          "url": "https://flash.jin10.com/detail/20260703040150384800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美股存储芯片指数初步收跌约11%，费城半导体指数跌约6%。 标普500指数初步大致收平，科技板块跌1.7%，电信板块跌0.8%，可选消费板块跌0.7%，公用事业、保健、日用消费品板块涨超2%。 纳斯达克100指数初步收跌1.6%，成分股中，闪迪初步收跌15.3%，泰瑞达、科磊、迈威尔科技/美满电子、拉姆研究、希捷科技、西部数据至少跌约10%，特斯拉重挫8%，Adobe涨3.9%，苹果涨4.7%，汤森路透涨5.7%，Strategy涨7.9%。",
+          "url": "https://wallstreetcn.com/livenews/3128205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -138,6 +109,101 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美国财政部：财政部与国税局将接受大型上市公司股票捐赠，为“特朗普账户”儿童金融账户计划提供支持。",
+          "url": "https://flash.jin10.com/detail/20260703023131471800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时18分]"
+        },
+        {
+          "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
+          "url": "https://flash.jin10.com/detail/20260703004456845800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储",
+          "url": "https://wallstreetcn.com/livenews/3128178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "市场消息：美国上诉法院撤销了要求特朗普政府重新安装从国家公园移除的、涉及奴隶制和气候变化等主题的展览的命令。",
+          "url": "https://flash.jin10.com/detail/20260703004136398800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "美国官员称：面向新生儿的“特朗普账户”将接受股票捐赠",
+          "url": "https://wallstreetcn.com/livenews/3128200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "特朗普参加活动后直接拿走剪刀",
+          "url": "https://www.toutiao.com/trending/7656820359463518259/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "美国总统特朗普：已正式“终止”相关海洋保护限制，坚决不允许其他国家占据美国海域资源。呼吁选民在中期选举中支持共和党。",
+          "url": "https://flash.jin10.com/detail/20260703015427959800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力",
       "match_count": 4,
       "titles": [
@@ -149,8 +215,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时18分]"
         },
         {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
@@ -160,8 +226,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时18分]"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -171,8 +237,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时18分]"
         },
         {
           "title": "Meta下场“卖算力”，是产能过剩信号还是巨头战略转身？",
@@ -182,14 +248,14 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时18分]"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -199,8 +265,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时18分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
@@ -213,6 +279,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时57分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，百度初步收跌约4%，蔚来、小鹏跌超3%，日月光半导体跌2.7%，网易跌1.9%，腾讯跌1.8%，阿里跌1.5%，美团涨1.6%，小米涨2.7%，比亚迪涨3.1%。 ETF中，CQQQ跌5.2%，KWEB跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3128207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         }
       ]
     },
@@ -228,8 +305,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时18分]"
         },
         {
           "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
@@ -239,8 +316,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时18分]"
         }
       ]
     },
@@ -256,8 +333,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时18分]"
         },
         {
           "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
@@ -267,8 +344,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时18分]"
         }
       ]
     },
@@ -285,8 +362,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时18分]"
         }
       ]
     }
