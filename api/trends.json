@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T13:43:26.062041+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-07-02T16:35:11.481193+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
         {
           "title": "下周一正式施行，A股交易新规来了！一图看懂关键调整",
@@ -30,6 +30,20 @@
           "time_info": "[00时25分 ~ 07时21分]"
         },
         {
+          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2414790",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 16时35分]"
+        },
+        {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
@@ -52,17 +66,15 @@
           "time_info": "[00时25分 ~ 04时24分]"
         },
         {
-          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
-          "url": "https://www.cls.cn/detail/2414790",
-          "source": "财联社热门",
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2555608",
+          "source": "抖音",
           "ranks": [
-            5,
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 13时43分]"
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "港股半导体多股低开，兆易创新(03986.HK)开跌12.46%，澜起科技(06809.HK)开跌6.8%，中芯国际(00981.HK)开跌5.93%，英诺赛科(02577.HK)、纳芯微(02676.HK)等跟跌。",
@@ -74,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "美股盘前，科技股延续此前跌势，美光科技跌近3%，英特尔跌超2%，康宁跌3.68%。",
+          "url": "https://wallstreetcn.com/livenews/3127910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "A股涨停数创20个月新高！TMT“参团率”降至15%，这一数据仍在历史高位",
@@ -109,7 +132,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -120,7 +143,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -155,7 +178,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -197,6 +220,40 @@
           "time_info": "[00时25分 ~ 09时33分]"
         },
         {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 16时35分]"
+        },
+        {
+          "title": "A股收评：科创50指数大跌7.7%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E5%A4%A7%E8%B7%8C7.7%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "博主：A股行情逻辑彻底迭代",
+          "url": "https://www.toutiao.com/trending/7657785657451875894/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
           "title": "美股低开 算力租赁商、存储股大跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E5%95%86%E3%80%81%E5%AD%98%E5%82%A8%E8%82%A1%E5%A4%A7%E8%B7%8C",
           "source": "百度热搜",
@@ -214,7 +271,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -258,9 +315,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "港股收评：恒指冲高回落收涨0.76% 半导体板块集体杀跌",
+          "url": "https://flash.jin10.com/detail/20260702161417660800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "港股南方两倍做多海力士、两倍做多三星电子均跌30%。",
+          "url": "https://wallstreetcn.com/livenews/3127898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-07-02）",
@@ -274,6 +353,17 @@
           "time_info": "09时33分"
         },
         {
+          "title": "港股收盘，恒指收涨0.76%，科指收跌0.40%，半导体板块集体杀跌，兆易创新(03986.HK)收跌18.39%，中芯国际(00981.HK)收跌10.07%。",
+          "url": "https://flash.jin10.com/detail/20260702160901657800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "周三（7月1日）纽约尾盘，美国10年期国债收益率涨0.99个基点，报4.4752%，美股开盘前后出现一波冲高回落行情、北京时间21:08刷新日高至4.4970% 两年期美债收益率大致持平，报4.1702%，21:08刷新日高至4.1971%、随后快速回撤、22:09刷新日低至4.1311%；30年期美债收益率涨1.40个基点，报4.9653%。 2/10年期美债收益率利差涨1.817个基点，报+30.495个基点。 10年期通胀保值国债（TIPS）收益率涨0.85个基点，至2.2305%；两年期TIPS收益率跌0.77个基点，至2.1636%；30年期TIPS收益率涨0.82个基点，至2.7870%。",
           "url": "https://wallstreetcn.com/livenews/3127592",
           "source": "华尔街见闻-快讯",
@@ -283,17 +373,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-07-02）",
@@ -412,7 +491,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -431,7 +510,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国总统特朗普：7月4日大概会有107华氏度的高温，但我还是会去发表一篇非常长的讲话，只是为了证明我什么都能做到。",
@@ -456,6 +535,28 @@
           "time_info": "00时25分"
         },
         {
+          "title": "特朗普首乘卡塔尔赠送的新“空军一号”",
+          "url": "https://wallstreetcn.com/livenews/3127905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
+          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 16时35分]"
+        },
+        {
           "title": "日本软银集团因为5000万美元“特朗普游说捐赠”而遭到美国参议院民主党成员Warren的质询。",
           "url": "https://wallstreetcn.com/livenews/3127574",
           "source": "华尔街见闻-快讯",
@@ -478,17 +579,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时59分]"
-        },
-        {
-          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
-          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 13时43分]"
         },
         {
           "title": "特朗普又来：绝不让中国接管巴拿马运河",
@@ -523,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "德国拒绝特朗普要求北约效忠华盛顿的言论",
+          "url": "https://flash.jin10.com/detail/20260702161952880800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美国总统特朗普：美国与伊朗关系非常融洽。",
@@ -681,8 +782,136 @@
       ]
     },
     {
+      "keyword_group": "芯片",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
+          "url": "https://wallstreetcn.com/articles/3776018",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 16时35分]"
+        },
+        {
+          "title": "连接英伟达芯片 一核能公司在美国首次实现先进反应堆发电",
+          "url": "https://flash.jin10.com/detail/20260702065422880800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "SpaceX披露手机形态AI设备原型 采用高通芯片并接入xAI",
+          "url": "https://flash.jin10.com/detail/20260702020830991800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，该原型机将运行在集成SpaceX(SPCX.O)旗下xAI人工智能技术的专有操作系统上。该原型机设计时尚，比iPhone更纤薄。该设备将采用高通(QCOM.O)骁龙芯片组。",
+          "url": "https://flash.jin10.com/detail/20260702020102144800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "美芯片股抛售拖累亚太股市，韩股重挫逾7%、SK海力士跌14%，日元走强，黄金稳于4000上方",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
+          "url": "https://www.cls.cn/detail/2415140",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "存储芯片概念持续下挫",
+          "url": "https://www.douyin.com/hot/2555165",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "存储芯片涨价",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "存储芯片概念股集体下挫 兆易创新回应",
+          "url": "https://flash.jin10.com/detail/20260702160813977800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "韩国股市暴跌超6% AI忧虑正拖累芯片制造商",
+          "url": "https://flash.jin10.com/detail/20260702085739270800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "创业板指低开低走跌5.71%，算力硬件、芯片股集体调整",
+          "url": "https://wallstreetcn.com/livenews/3127882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "韩国半导体基板厂商：三星、SK海力士拟要求下半年降价，年初3%~4%涨幅或将撤回",
@@ -716,8 +945,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 16时35分]"
+        },
+        {
+          "title": "半导体",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8A%E5%AF%BC%E4%BD%93&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "韩国投资者加仓中国资产！上半年扫货科技ETF，半导体赛道获重点配置",
@@ -725,22 +965,35 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 16时35分]"
         },
         {
           "title": "半导体硅片龙头，股价巨震",
           "url": "https://www.cls.cn/detail/2415056",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 16时35分]"
+        },
+        {
+          "title": "半导体开启年内第二轮涨价",
+          "url": "https://www.douyin.com/hot/2555058",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "成本上涨与市场需求双轮驱动，半导体开启年内第二轮涨价",
@@ -763,12 +1016,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "高云半导体完成数亿元Pre-IPO轮融资",
+          "url": "https://wallstreetcn.com/livenews/3127889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
     {
       "keyword_group": "算力",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "SemiAnalysis创始人：推理或超越石油成全球最大市场，2040年太空数据中心将主导全球算力",
@@ -781,6 +1045,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 09时33分]"
+        },
+        {
+          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 16时35分]"
         },
         {
           "title": "【焦点复盘】沪指日线3连阳收复4100点，算力硬件股遭深幅回调，养殖板块大面积爆发",
@@ -806,17 +1081,6 @@
           "time_info": "[00时25分 ~ 05时59分]"
         },
         {
-          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
-          "url": "https://wallstreetcn.com/articles/3775980",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 13时43分]"
-        },
-        {
           "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
           "url": "https://wallstreetcn.com/articles/3775997",
           "source": "华尔街见闻",
@@ -824,8 +1088,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 16时35分]"
+        },
+        {
+          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
+          "url": "https://wallstreetcn.com/articles/3776029",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
@@ -834,7 +1109,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
@@ -849,22 +1124,24 @@
           "url": "https://www.cls.cn/detail/2415009",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 16时35分]"
         },
         {
           "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
           "url": "https://www.cls.cn/detail/2414781",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 16时35分]"
         },
         {
           "title": "在SpaceX获巨额回报，报道称马斯克盟友Gracias瞄准AI与能源领域投资",
@@ -902,70 +1179,8 @@
       ]
     },
     {
-      "keyword_group": "芯片",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "连接英伟达芯片 一核能公司在美国首次实现先进反应堆发电",
-          "url": "https://flash.jin10.com/detail/20260702065422880800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "SpaceX披露手机形态AI设备原型 采用高通芯片并接入xAI",
-          "url": "https://flash.jin10.com/detail/20260702020830991800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，该原型机将运行在集成SpaceX(SPCX.O)旗下xAI人工智能技术的专有操作系统上。该原型机设计时尚，比iPhone更纤薄。该设备将采用高通(QCOM.O)骁龙芯片组。",
-          "url": "https://flash.jin10.com/detail/20260702020102144800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
-          "url": "https://wallstreetcn.com/articles/3776018",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 13时43分]"
-        },
-        {
-          "title": "韩国股市暴跌超6% AI忧虑正拖累芯片制造商",
-          "url": "https://flash.jin10.com/detail/20260702085739270800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科创",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "科创50指数跌超6%，创业板指跌4.6%，沪指跌近1.3%，算力硬件、存储芯片、证券等方向跌幅居前，沪深京三市下跌个股近2400只。",
@@ -974,15 +1189,26 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "上证指数收报4028.90点，跌2.03%。 深证成指收报15498.81点，跌3.85%。 创业板指收报4017.27点，跌5.71%。 沪深300收报4812.30点，跌2.96%。 科创50收报1987.29点，跌7.70%。 中证500收报8694.18点，跌3.71%。 中证1000收报8625.33点，跌2.83%。",
+          "url": "https://wallstreetcn.com/livenews/3127881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
     {
       "keyword_group": "存储",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "存储三巨头遭美国集体诉讼，被指借机制造「内存末日」，内存涨价有多少人为因素？此番诉讼会带来哪些影响？",
@@ -997,6 +1223,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 07时21分]"
+        },
+        {
+          "title": "“存储一哥”暴跌",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%AD%98%E5%82%A8%E4%B8%80%E5%93%A5%E2%80%9D%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         }
       ]
     },
