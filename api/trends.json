@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T08:04:25.782666+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-07-03T12:08:21.463182+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 08时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 12时08分]"
         },
         {
           "title": "美国财政部：财政部与国税局将接受大型上市公司股票捐赠，为“特朗普账户”儿童金融账户计划提供支持。",
@@ -224,7 +224,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -238,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
+          "url": "https://www.cls.cn/detail/2416012",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
@@ -262,6 +273,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "美空军少校呼吁弹劾特朗普被捕",
+          "url": "https://www.toutiao.com/trending/7657766306192490532/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美国总统特朗普：我在任职总统前就涉足加密货币领域。",
           "url": "https://flash.jin10.com/detail/20260703052743163800",
           "source": "金十数据",
@@ -279,7 +301,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -301,7 +323,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -359,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "特朗普发军费对比图施压北约 称美国在“单方面付出”",
+          "url": "https://flash.jin10.com/detail/20260703112837367800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国总统特朗普：（关于最高法院驳回解雇联储美联储理事库克的请求）我们可以通过赢得案件让她离开。",
@@ -537,6 +570,17 @@
           "time_info": "06时48分"
         },
         {
+          "title": "美国总统特朗普：在（美国与北约）关系根本不对等、缺乏互惠的情况下，美国继续一味单方面付出，简直荒谬。他们当初可没有支持过我们！",
+          "url": "https://flash.jin10.com/detail/20260703111109688800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美国总统特朗普：伊朗没有海军，没有空军。",
           "url": "https://flash.jin10.com/detail/20260703054317374800",
           "source": "金十数据",
@@ -598,7 +642,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -617,7 +661,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -638,9 +682,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 12时08分]"
+        },
+        {
+          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
+          "url": "https://www.cls.cn/detail/2415948",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 12时08分]"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股收盘）",
@@ -665,15 +721,15 @@
           "time_info": "04时18分"
         },
         {
-          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
-          "url": "https://www.cls.cn/detail/2415948",
-          "source": "财联社热门",
+          "title": "A股午评：创业板指半日收涨1.58% 贵金属、人形机器人板块领涨",
+          "url": "https://flash.jin10.com/detail/20260703113735460800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "12时08分"
         },
         {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
@@ -770,6 +826,28 @@
           "time_info": "04时18分"
         },
         {
+          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
+          "url": "https://www.cls.cn/detail/2415987",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "二季度以来险资加仓港股提速：“平安系”超百亿港元增持国寿H股 中国通号、青岛啤酒股份等获长线布局",
+          "url": "https://www.cls.cn/detail/2416037",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF涨2%，新兴市场ETF跌约1.2%，纳指ETF跌超1.7%",
           "url": "https://wallstreetcn.com/livenews/3128216",
           "source": "华尔街见闻-快讯",
@@ -779,6 +857,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "A股染料板块持续走弱，信凯科技跌超9%，怡达股份、福莱蒽特、润禾材料、鼎龙科技跟跌。",
+          "url": "https://flash.jin10.com/detail/20260703112639347800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -825,21 +914,43 @@
           "time_info": "01时20分"
         },
         {
+          "title": "A股新易盛成交额超200亿元，现涨6.48%。",
+          "url": "https://flash.jin10.com/detail/20260703111602150800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美股芯片光通信大跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%85%89%E9%80%9A%E4%BF%A1%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "A股铜箔概念震荡反弹，诺德股份涨停，德福科技、方邦股份、生益科技、宏和科技、宝鼎科技、海星股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703110500101800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
     {
       "keyword_group": "算力",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -850,8 +961,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 08时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 12时08分]"
         },
         {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
@@ -871,11 +982,23 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 08时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 12时08分]"
+        },
+        {
+          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
+          "url": "https://www.cls.cn/detail/2415999",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -905,11 +1028,34 @@
           "url": "https://www.cls.cn/detail/2415788",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 06时48分]"
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 12时08分]"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.67%，深成指涨1.5%，贵金属、军工、机器人、算力硬件等方向涨幅居前，沪深京三市上涨个股近3100只。",
+          "url": "https://wallstreetcn.com/livenews/3128392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "Meta卖算力引科技股大跌",
+          "url": "https://search.bilibili.com/all?keyword=Meta%E5%8D%96%E7%AE%97%E5%8A%9B%E5%BC%95%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
@@ -977,7 +1123,7 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
@@ -990,8 +1136,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 08时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 12时08分]"
         },
         {
           "title": "【焦点复盘】科创50跌7.7%创年内单日最大跌幅，多只硬科技权重股遭遇跌停，贵金属板块逆势领涨",
@@ -1006,21 +1152,43 @@
           "time_info": "[01时20分 ~ 08时04分]"
         },
         {
+          "title": "上证指数早盘收报4056.78点，涨0.69%。 深证成指早盘收报15714.22点，涨1.39%。 创业板指早盘收报4080.57点，涨1.58%。 沪深300早盘收报4867.59点，涨1.15%。 科创50早盘收报2008.07点，涨1.05%。 中证500早盘收报8794.84点，涨1.16%。 中证1000早盘收报8684.93点，涨0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3128410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "券商跟投科创板浮盈推至近年高点 红利高度集中头部券商",
           "url": "https://wallstreetcn.com/livenews/3128276",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "科创50指数探底回升，日内涨超2%，此前一度跌近2%。",
+          "url": "https://flash.jin10.com/detail/20260703110717752800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
@@ -1054,8 +1222,48 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 08时04分]"
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 12时08分]"
+        },
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "1000万台折叠屏、8500万台新机！苹果据称在存储荒里反向加单",
+          "url": "https://www.cls.cn/detail/2415328",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 06时48分]"
+        },
+        {
+          "title": "金十数据整理：每日存储市场要闻速递（2026-07-03）",
+          "url": "https://flash.jin10.com/detail/20260703110603076800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
@@ -1070,27 +1278,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "1000万台折叠屏、8500万台新机！苹果据称在存储荒里反向加单",
-          "url": "https://www.cls.cn/detail/2415328",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 06时48分]"
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 12时08分]"
         }
       ]
     }
