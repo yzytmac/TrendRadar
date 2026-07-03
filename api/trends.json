@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T18:18:59.027555+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2026-07-03T20:25:33.730867+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -105,11 +105,23 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            17
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 20时25分]"
+        },
+        {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时35分 ~ 18时18分]"
+          "time_info": "[15时35分 ~ 20时25分]"
         },
         {
           "title": "特朗普避谈政府是否入股OpenAI 但强调在英特尔的持股",
@@ -122,17 +134,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 08时04分]"
-        },
-        {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 15时36分]"
         },
         {
           "title": "特朗普重申：伊朗将从美国购买食品",
@@ -507,6 +508,17 @@
           "time_info": "06时48分"
         },
         {
+          "title": "德国总理默茨：（就特朗普相关言论）将在下周举行的北约峰会上提及德国和欧洲提高对北约贡献的问题。",
+          "url": "https://flash.jin10.com/detail/20260703194631320800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国总统特朗普：赞赏美光和戴尔科技。 昨天与美光科技（高管）说过话，那可是一家炙手可热的公司。",
           "url": "https://wallstreetcn.com/livenews/3128247",
           "source": "华尔街见闻-快讯",
@@ -758,6 +770,19 @@
           "time_info": "12时08分"
         },
         {
+          "title": "A股机器人概念全线大涨",
+          "url": "https://www.toutiao.com/trending/7657736239235727401/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 20时25分]"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-07-03）",
           "url": "https://flash.jin10.com/detail/20260703151814984800",
           "source": "金十数据",
@@ -767,18 +792,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
-        },
-        {
-          "title": "A股机器人概念全线大涨",
-          "url": "https://www.toutiao.com/trending/7657736239235727401/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 18时18分]"
         },
         {
           "title": "二季度以来险资加仓港股提速：“平安系”超百亿港元增持国寿H股 中国通号、青岛啤酒股份等获长线布局",
@@ -792,6 +805,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时08分 ~ 18时18分]"
+        },
+        {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 20时25分]"
         },
         {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
@@ -816,17 +841,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时08分 ~ 18时18分]"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 18时18分]"
         },
         {
           "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势",
@@ -1027,7 +1041,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1173,11 +1187,12 @@
           "url": "https://wallstreetcn.com/articles/3776123",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 20时25分]"
         },
         {
           "title": "创业板指涨超2%，沪指涨0.67%，深成指涨1.5%，贵金属、军工、机器人、算力硬件等方向涨幅居前，沪深京三市上涨个股近3100只。",
@@ -1194,7 +1209,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
@@ -1205,8 +1220,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时47分 ~ 18时18分]"
+          "appearance_count": 8,
+          "time_info": "[06时47分 ~ 20时25分]"
         },
         {
           "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
@@ -1241,8 +1256,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 20时25分]"
         },
         {
           "title": "足球内置芯片救了葡萄牙",
@@ -1250,11 +1265,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 20时25分]"
         },
         {
           "title": "足球内置芯片救了葡萄牙",
@@ -1263,9 +1279,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
+          "url": "https://www.cls.cn/detail/2416647",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "澜起科技：计划今年完成第三子代MRCD/MDB芯片的工程研发",
@@ -1274,7 +1301,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1288,12 +1315,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "上交所：本周对中船特气、长盈通、昀冢科技等异常波动股票以及财通福鑫LOF、全球芯片LOF等溢价较高的基金进行重点监控。",
+          "url": "https://wallstreetcn.com/livenews/3128664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -1312,11 +1350,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 20时25分]"
+        },
+        {
+          "title": "韩国资金逆势加仓半导体！公募：上行周期未终结",
+          "url": "https://www.cls.cn/detail/2416294",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 20时25分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
@@ -1342,15 +1393,26 @@
           "time_info": "04时18分"
         },
         {
-          "title": "韩国资金逆势加仓半导体！公募：上行周期未终结",
-          "url": "https://www.cls.cn/detail/2416294",
+          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
+          "url": "https://www.cls.cn/detail/2416590",
           "source": "财联社热门",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "20时25分"
+        },
+        {
+          "title": "拓荆科技：拟购买无锡尚积半导体科技股份有限公司的控股权，股票继续停牌",
+          "url": "https://flash.jin10.com/detail/20260703194953704800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.77%，结束此前连续四个交易日反弹的趋势，报5912.23点，本周迄今累涨3.18%。 热门中概股里，百度初步收跌约4%，蔚来、小鹏跌超3%，日月光半导体跌2.7%，网易跌1.9%，腾讯跌1.8%，阿里跌1.5%，美团涨1.6%，小米涨2.7%，比亚迪涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.26%，本周迄今累跌0.37%； XtrackersHarvest中证50（ASHS）收跌4.31%，本周迄今累跌1.32%； 德银嘉实沪深300指数ETF（ASHR）收跌3.25%，本周迄今累跌1.96%，延续上周跌1.29%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.57%，本周迄今累跌3.07%，延续上周回撤5.39%的表现； 中概互联网指数ETF（KWEB）收跌0.52%，本周迄今反弹4.39%。",
@@ -1378,7 +1440,7 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
@@ -1450,6 +1512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "据上交所官网显示，映恩生物（Duality Biotherapeutics Inc）科创板IPO审核状态变更为“已问询”。",
+          "url": "https://flash.jin10.com/detail/20260703194007962800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
@@ -1496,6 +1569,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 12时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光模块",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "鹏鼎控股：拟定增募资不超过96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
+          "url": "https://wallstreetcn.com/livenews/3128681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
