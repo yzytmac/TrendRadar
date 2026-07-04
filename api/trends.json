@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T13:08:14.800606+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-07-04T16:06:10.829285+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
@@ -44,17 +44,6 @@
           "time_info": "[00时13分 ~ 07时46分]"
         },
         {
-          "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
-          "url": "https://flash.jin10.com/detail/20260704124044168800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
           "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
           "url": "https://flash.jin10.com/detail/20260703234037205800",
           "source": "金十数据",
@@ -78,6 +67,18 @@
           "time_info": "[04时38分 ~ 09时20分]"
         },
         {
+          "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
+          "url": "https://flash.jin10.com/detail/20260704124044168800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 16时06分]"
+        },
+        {
           "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
           "url": "https://wallstreetcn.com/livenews/3128826",
           "source": "华尔街见闻-快讯",
@@ -90,6 +91,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时38分 ~ 07时46分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
+          "url": "https://flash.jin10.com/detail/20260704113342386800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 16时06分]"
+        },
+        {
+          "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
+          "url": "https://wallstreetcn.com/livenews/3128882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 16时06分]"
         },
         {
           "title": "特朗普：将接受以公开交易股票形式进行的慈善捐款。",
@@ -114,28 +139,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 03时17分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
-          "url": "https://flash.jin10.com/detail/20260704113342386800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
-          "url": "https://wallstreetcn.com/livenews/3128882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
         },
         {
           "title": "特朗普：财政部接受股票捐赠 以资助“特朗普账户”",
@@ -243,7 +246,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         }
@@ -251,7 +254,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -277,6 +280,21 @@
           "time_info": "[00时13分 ~ 06时45分]"
         },
         {
+          "title": "一颗14克的芯片，拯救了葡萄牙和C罗",
+          "url": "https://wallstreetcn.com/articles/3776164",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时45分 ~ 16时06分]"
+        },
+        {
           "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
           "url": "https://www.zhihu.com/question/2056380849625325900",
           "source": "知乎",
@@ -293,20 +311,6 @@
           "time_info": "[00时13分 ~ 09时20分]"
         },
         {
-          "title": "一颗14克的芯片，拯救了葡萄牙和C罗",
-          "url": "https://wallstreetcn.com/articles/3776164",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时45分 ~ 13时08分]"
-        },
-        {
           "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
           "url": "https://www.cls.cn/detail/2416647",
           "source": "财联社热门",
@@ -314,22 +318,24 @@
             8,
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 13时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 16时06分]"
         },
         {
           "title": "美光斥资90亿美元扩建日本西部芯片工厂",
           "url": "https://flash.jin10.com/detail/20260704122345270800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 16时06分]"
         },
         {
           "title": "首款神经动力学芯片问世，有助于脑机接口等技术发展",
@@ -338,9 +344,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：准备协助海外芯片制造商在日本投资。",
+          "url": "https://flash.jin10.com/detail/20260704135129983800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "首款神经动力学芯片问世 有助于脑机接口等技术发展",
@@ -349,15 +366,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：准备援助在日投资的海外芯片制造商。",
+          "url": "https://wallstreetcn.com/livenews/3128897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -383,19 +411,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 13时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 16时06分]"
         },
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
           "url": "https://wallstreetcn.com/articles/3776174",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 16时06分]"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
@@ -427,11 +456,23 @@
           "url": "https://www.cls.cn/detail/2417055",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 16时06分]"
+        },
+        {
+          "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
+          "url": "https://wallstreetcn.com/articles/3776162",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "time_info": "[16时05分 ~ 16时06分]"
         }
       ]
     },
@@ -451,8 +492,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 13时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 16时06分]"
         },
         {
           "title": "炸裂！存储巨头江波龙上半年净利预增62204%~74394% | 财报见闻",
@@ -466,8 +507,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时49分 ~ 13时08分]"
+          "appearance_count": 13,
+          "time_info": "[01时49分 ~ 16时06分]"
         },
         {
           "title": "如何评价存储巨头江波龙上半年净利预增 622 倍至 743 倍，最高赚 110 亿元？",
@@ -514,8 +555,59 @@
       ]
     },
     {
+      "keyword_group": "人形机器人",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "规范引导情感陪伴人形机器人健康发展，两协会联合倡议",
+          "url": "https://wallstreetcn.com/livenews/3128913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "无界动力张玉峰：2025年全球人形机器人产量约2万台 商用落地仍接近空白",
+          "url": "https://flash.jin10.com/detail/20260704111528600800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 16时06分]"
+        },
+        {
+          "title": "人形机器人的“iPhone时刻”来了吗",
+          "url": "https://www.toutiao.com/trending/7658500001101778458/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
+          "url": "https://flash.jin10.com/detail/20260704150630005800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "SemiAnalysis驳斥“算力过剩论”：Meta算力扩张远超想象，明年资本开支将“高得惊人”",
@@ -543,6 +635,17 @@
           "time_info": "[09时20分 ~ 13时08分]"
         },
         {
+          "title": "三星谈合作、SK海力士扩产、铠侠NAND送样，日韩股市用V型反弹回应算力过剩恐慌",
+          "url": "https://wallstreetcn.com/articles/3776145",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
           "title": "Meta出租算力如何影响市场",
           "url": "https://search.bilibili.com/all?keyword=Meta%E5%87%BA%E7%A7%9F%E7%AE%97%E5%8A%9B%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%B8%82%E5%9C%BA",
           "source": "bilibili 热搜",
@@ -552,6 +655,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时07分 ~ 13时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "宁德时代与北京绿交所等签署战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3128914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "宁德时代与北京绿交所等签署战略合作协议",
+          "url": "https://flash.jin10.com/detail/20260704152503645800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     },
@@ -602,24 +733,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "无界动力张玉峰：2025年全球人形机器人产量约2万台 商用落地仍接近空白",
-          "url": "https://flash.jin10.com/detail/20260704111528600800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         }
