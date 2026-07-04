@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T16:06:10.829285+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-07-04T18:26:00.986520+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时13分 ~ 07时46分]"
+        },
+        {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺贝尔奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
@@ -139,6 +150,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 03时17分]"
+        },
+        {
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "特朗普：财政部接受股票捐赠 以资助“特朗普账户”",
@@ -291,8 +313,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时45分 ~ 16时06分]"
+          "appearance_count": 12,
+          "time_info": "[05时45分 ~ 18时26分]"
         },
         {
           "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
@@ -355,7 +377,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -377,7 +399,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         }
@@ -411,8 +433,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 16时06分]"
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 18时26分]"
         },
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
@@ -420,11 +442,25 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时07分 ~ 16时06分]"
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 18时26分]"
+        },
+        {
+          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
+          "url": "https://www.cls.cn/detail/2417055",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 18时26分]"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
@@ -452,18 +488,6 @@
           "time_info": "[00时13分 ~ 04时38分]"
         },
         {
-          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
-          "url": "https://www.cls.cn/detail/2417055",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时07分 ~ 16时06分]"
-        },
-        {
           "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
           "url": "https://wallstreetcn.com/articles/3776162",
           "source": "华尔街见闻",
@@ -471,8 +495,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "appearance_count": 4,
+          "time_info": "[16时05分 ~ 18时26分]"
         }
       ]
     },
@@ -492,8 +516,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 16时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 18时26分]"
         },
         {
           "title": "炸裂！存储巨头江波龙上半年净利预增62204%~74394% | 财报见闻",
@@ -504,11 +528,12 @@
             8,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时49分 ~ 16时06分]"
+          "appearance_count": 15,
+          "time_info": "[01时49分 ~ 18时26分]"
         },
         {
           "title": "如何评价存储巨头江波龙上半年净利预增 622 倍至 743 倍，最高赚 110 亿元？",
@@ -563,11 +588,36 @@
           "url": "https://wallstreetcn.com/livenews/3128913",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 18时26分]"
+        },
+        {
+          "title": "人形机器人的“iPhone时刻”来了吗",
+          "url": "https://www.toutiao.com/trending/7658500001101778458/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时05分 ~ 18时26分]"
+        },
+        {
+          "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
+          "url": "https://flash.jin10.com/detail/20260704150630005800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 18时26分]"
         },
         {
           "title": "无界动力张玉峰：2025年全球人形机器人产量约2万台 商用落地仍接近空白",
@@ -580,28 +630,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时08分 ~ 16时06分]"
-        },
-        {
-          "title": "人形机器人的“iPhone时刻”来了吗",
-          "url": "https://www.toutiao.com/trending/7658500001101778458/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
-          "url": "https://flash.jin10.com/detail/20260704150630005800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
         }
       ]
     },
@@ -667,22 +695,24 @@
           "url": "https://wallstreetcn.com/livenews/3128914",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 18时26分]"
         },
         {
           "title": "宁德时代与北京绿交所等签署战略合作协议",
           "url": "https://flash.jin10.com/detail/20260704152503645800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 18时26分]"
         }
       ]
     },
