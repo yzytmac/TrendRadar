@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T07:46:04.361073+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-07-04T09:20:36.104147+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时20分]"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时20分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -54,6 +55,18 @@
           "time_info": "00时14分"
         },
         {
+          "title": "美国总统特朗普：赦免6名因“修车被起诉”人士。",
+          "url": "https://flash.jin10.com/detail/20260704032701636800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时38分 ~ 09时20分]"
+        },
+        {
           "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
           "url": "https://wallstreetcn.com/livenews/3128826",
           "source": "华尔街见闻-快讯",
@@ -62,17 +75,6 @@
             19,
             22,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时38分 ~ 07时46分]"
-        },
-        {
-          "title": "美国总统特朗普：赦免6名因“修车被起诉”人士。",
-          "url": "https://flash.jin10.com/detail/20260704032701636800",
-          "source": "金十数据",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -89,6 +91,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 03时17分]"
+        },
+        {
+          "title": "特朗普：财政部接受股票捐赠 以资助“特朗普账户”",
+          "url": "https://flash.jin10.com/detail/20260704081757313800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普：将接受以公开交易股票形式进行的慈善捐款。",
+          "url": "https://wallstreetcn.com/livenews/3128858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "哥伦比亚总统佩特罗：与美国总统特朗普进行了友好交谈。",
@@ -216,11 +240,12 @@
             5,
             4,
             6,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时20分]"
         },
         {
           "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
@@ -228,11 +253,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时20分]"
         },
         {
           "title": "一颗14克的芯片，拯救了葡萄牙和C罗",
@@ -240,11 +266,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时45分 ~ 07时46分]"
+          "appearance_count": 6,
+          "time_info": "[05时45分 ~ 09时20分]"
         }
       ]
     },
@@ -264,8 +291,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时20分]"
+        },
+        {
+          "title": "炸裂！存储巨头江波龙上半年净利预增62204%~74394% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3776160",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时49分 ~ 09时20分]"
         },
         {
           "title": "如何评价存储巨头江波龙上半年净利预增 622 倍至 743 倍，最高赚 110 亿元？",
@@ -277,24 +318,12 @@
             10,
             8,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时49分 ~ 07时46分]"
-        },
-        {
-          "title": "炸裂！存储巨头江波龙上半年净利预增62204%~74394% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3776160",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时49分 ~ 07时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时49分 ~ 09时20分]"
         },
         {
           "title": "瑞银上调存储价格预期：DRAM/NAND涨价周期延续至2027年",
@@ -302,11 +331,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时46分]"
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 09时20分]"
         },
         {
           "title": "瑞银上调存储价格预期：DRAM/NAND涨价周期延续至2027年",
@@ -323,7 +353,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -332,11 +362,36 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时20分]"
+        },
+        {
+          "title": "Meta股价因AI进展不及预期下跌",
+          "url": "https://www.douyin.com/hot/2556589",
+          "source": "抖音",
+          "ranks": [
+            19,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 09时20分]"
+        },
+        {
+          "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
+          "url": "https://www.cls.cn/detail/2417029",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -349,18 +404,36 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 04时38分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "Meta股价因AI进展不及预期下跌",
-          "url": "https://www.douyin.com/hot/2556589",
-          "source": "抖音",
+          "title": "SemiAnalysis驳斥“算力过剩论”：Meta算力扩张远超想象，明年资本开支将“高得惊人”",
+          "url": "https://wallstreetcn.com/articles/3776123",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            14
+            5,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 07时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时20分]"
+        },
+        {
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "url": "https://wallstreetcn.com/articles/3776134",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     },
@@ -374,29 +447,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SemiAnalysis驳斥“算力过剩论”：Meta算力扩张远超想象，明年资本开支将“高得惊人”",
-          "url": "https://wallstreetcn.com/articles/3776123",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时20分]"
         }
       ]
     }
