@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T02:15:26.067205+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-07-05T03:40:42.854128+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时40分]"
         },
         {
           "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
@@ -26,30 +26,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时40分]"
         },
         {
-          "title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。",
-          "url": "https://flash.jin10.com/detail/20260705015152155800",
+          "title": "美国Axios记者称，若内塔尼亚胡造访白宫，这将是他自二月份在情况室与美国总统特朗普的戏剧性会晤以来的首次会面，当时，内塔尼亚胡提交了一份对伊朗开战的方案。",
+          "url": "https://flash.jin10.com/detail/20260705032036905800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时40分"
+        },
+        {
+          "title": "据Axios：一位以色列高级官员表示，会议的最终日期尚未确定，由于特朗普访问土耳其，下周访问可能为时过早。该官员称：“访问可能会在随后一周进行。”",
+          "url": "https://flash.jin10.com/detail/20260705031908205800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时15分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡表示，昨天与美国总统特朗普通了电话，已同意很快在美国与特朗普会面。",
-          "url": "https://flash.jin10.com/detail/20260705013538607800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "time_info": "03时40分"
         },
         {
           "title": "美国250周年庆典变特朗普私人派对？",
@@ -59,8 +59,41 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时40分]"
+        },
+        {
+          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
+          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时40分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡表示，昨天与美国总统特朗普通了电话，已同意很快在美国与特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260705013538607800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "据知情人士透露，乌克兰总统泽连斯基周六与美国总统特朗普通话，并就美国建国250周年向其表示祝贺。",
+          "url": "https://flash.jin10.com/detail/20260705030248819800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时40分"
         },
         {
           "title": "内塔尼亚胡或将访白宫 特朗普称内塔尼亚胡“知道谁才是老大”",
@@ -75,15 +108,16 @@
           "time_info": "[01时16分 ~ 02时15分]"
         },
         {
-          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
-          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
-          "source": "凤凰网",
+          "title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。",
+          "url": "https://flash.jin10.com/detail/20260705015152155800",
+          "source": "金十数据",
           "ranks": [
-            8
+            2,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 03时40分]"
         },
         {
           "title": "特朗普与内塔尼亚胡或最早于下周举行会晤。",
@@ -105,8 +139,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时40分]"
         },
         {
           "title": "美国财政部正式推出“特朗普账户”应用程序",
@@ -121,15 +155,37 @@
           "time_info": "[01时16分 ~ 02时15分]"
         },
         {
+          "title": "美国总统特朗普：欧洲正在领悟一个道理——一旦接纳了来自第三世界的罪犯，自己也就变成了第三世界国家。这种转变发生得极快，往往就在转瞬之间。我当选得正是时候！！！",
+          "url": "https://flash.jin10.com/detail/20260705030120617800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时40分"
+        },
+        {
           "title": "一名美国官员表示，特朗普身边多位核心幕僚都认为，内塔尼亚胡在所有问题上都判断失误。",
           "url": "https://flash.jin10.com/detail/20260705011106298800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "特朗普：华盛顿庆典人潮空前 美国比以往任何时候都更强大",
+          "url": "https://flash.jin10.com/detail/20260705025635485800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时40分"
         },
         {
           "title": "美国总统特朗普：我对伊朗人在哈梅内伊的葬礼上哭泣感到很惊讶，因为我原以为人们是讨厌他的。也许这些都是假眼泪。",
@@ -138,7 +194,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
         },
@@ -149,9 +205,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "美国财长贝森特：在特朗普总统的领导下，我们正迈向史无前例的经济增长、美元的持久主导地位以及财政的稳健与强劲。",
+          "url": "https://flash.jin10.com/detail/20260705024018579800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时40分"
         },
         {
           "title": "美国总统特朗普：美国和伊朗决定暂停会谈一周。哈梅内伊葬礼相关事宜结束前，美伊双方互不交火。",
@@ -160,9 +227,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "内塔尼亚胡近期将访美与特朗普会晤",
+          "url": "https://flash.jin10.com/detail/20260705023446585800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时40分"
         }
       ]
     },
@@ -178,8 +256,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时40分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -190,8 +268,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时40分]"
         },
         {
           "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
@@ -202,8 +280,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时40分]"
         },
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
@@ -223,11 +301,12 @@
           "ranks": [
             23,
             10,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时40分]"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
@@ -237,8 +316,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时40分]"
         },
         {
           "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
@@ -248,8 +327,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时40分]"
         }
       ]
     },
@@ -266,8 +345,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时40分]"
         },
         {
           "title": "韩国存储扩产、Meta出租算力--野村谈“存储两大利空”",
@@ -278,8 +357,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时40分]"
         }
       ]
     },
