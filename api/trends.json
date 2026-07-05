@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T09:26:40.734940+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-07-05T13:36:23.567996+08:00",
+  "total_titles_processed": 829,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -70,20 +70,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "美国总统特朗普：预计将于晚间（北京时间次日上午）11点在美国250周年纪念活动上发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260705091335007800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 13时36分]"
         },
         {
           "title": "特朗普称内塔尼亚胡知道“谁是老大”",
@@ -92,9 +81,42 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 13时36分]"
+        },
+        {
+          "title": "美国总统特朗普：预计将于晚间（北京时间次日上午）11点在美国250周年纪念活动上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260705091335007800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "普京与特朗普通话85分钟",
+          "url": "https://www.toutiao.com/trending/7657794287316664371/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶",
+          "url": "https://news.ifeng.com/c/8uVPLB68Q8C",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         },
         {
           "title": "美国总统特朗普：无论如何都会发表演讲。",
@@ -103,9 +125,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普在美国独立250周年庆典演讲 强调“美国例外论”",
+          "url": "https://flash.jin10.com/detail/20260705124923131800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         },
         {
           "title": "克里姆林宫：在普京与特朗普的通话中，双方谈及乌克兰问题。",
@@ -140,7 +173,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -362,6 +395,18 @@
           "time_info": "[03时40分 ~ 04时36分]"
         },
         {
+          "title": "内塔尼亚胡近期将访美与特朗普会晤",
+          "url": "https://wallstreetcn.com/livenews/3128954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 13时36分]"
+        },
+        {
           "title": "泽连斯基：我已与特朗普讨论了乌克兰前线局势",
           "url": "https://flash.jin10.com/detail/20260705034001314800",
           "source": "金十数据",
@@ -386,6 +431,18 @@
           "time_info": "[03时40分 ~ 04时36分]"
         },
         {
+          "title": "泽连斯基与特朗普通话 商定在北约峰会期间会谈",
+          "url": "https://wallstreetcn.com/livenews/3128952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 13时36分]"
+        },
+        {
           "title": "美国财政部正式推出“特朗普账户”应用程序",
           "url": "https://flash.jin10.com/detail/20260705001056251800",
           "source": "金十数据",
@@ -396,6 +453,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时15分]"
+        },
+        {
+          "title": "普京与特朗普通话 重申倾向于政治解决乌克兰问题",
+          "url": "https://wallstreetcn.com/livenews/3128951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 13时36分]"
         },
         {
           "title": "美国财长贝森特：在特朗普总统的领导下，我们正迈向史无前例的经济增长、美元的持久主导地位以及财政的稳健与强劲。",
@@ -422,15 +491,15 @@
           "time_info": "[03时40分 ~ 04时36分]"
         },
         {
-          "title": "内塔尼亚胡近期将访美与特朗普会晤",
-          "url": "https://wallstreetcn.com/livenews/3128954",
-          "source": "华尔街见闻-快讯",
+          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
+          "url": "https://wallstreetcn.com/articles/3776207",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "13时36分"
         },
         {
           "title": "一名美国官员表示，特朗普身边多位核心幕僚都认为，内塔尼亚胡在所有问题上都判断失误。",
@@ -455,28 +524,6 @@
           "time_info": "02时15分"
         },
         {
-          "title": "泽连斯基与特朗普通话 商定在北约峰会期间会谈",
-          "url": "https://wallstreetcn.com/livenews/3128952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "普京与特朗普通话 重申倾向于政治解决乌克兰问题",
-          "url": "https://wallstreetcn.com/livenews/3128951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
           "title": "特朗普：哈梅内伊葬礼结束前 美伊双方互不交火",
           "url": "https://flash.jin10.com/detail/20260705010025696800",
           "source": "金十数据",
@@ -497,12 +544,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "美国总统特朗普：绝不会让美国走向衰败。",
+          "url": "https://flash.jin10.com/detail/20260705113219080800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "特朗普称已抵达华盛顿国家广场，参加向美国致敬的庆祝活动。",
+          "url": "https://flash.jin10.com/detail/20260705104554358800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "普京与特朗普通话85分钟",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D85%E5%88%86%E9%92%9F",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "特朗普政府拟再废除702项联邦法规 加码放松监管",
+          "url": "https://flash.jin10.com/detail/20260705092619255800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "美国总统特朗普：预计将于晚间（北京时间7月5日上午）11点在美国250周年纪念活动上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260705091335007800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "普京与特朗普通话85分钟",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D85%E5%88%86%E9%92%9F%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
@@ -510,11 +634,27 @@
           "source": "财联社热门",
           "ranks": [
             1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 13时36分]"
+        },
+        {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 09时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 13时36分]"
         },
         {
           "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
@@ -527,22 +667,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 09时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 13时36分]"
         },
         {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
+          "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2417129",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            5,
-            4,
-            3
+            11,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 09时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 13时36分]"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
@@ -554,20 +693,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 09时26分]"
-        },
-        {
-          "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2417129",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 09时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 13时36分]"
         },
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
@@ -579,6 +706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
+          "url": "https://wallstreetcn.com/articles/3776204",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         },
         {
           "title": "下周A股反弹能走多远",
@@ -604,6 +742,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时41分 ~ 07时44分]"
+        },
+        {
+          "title": "业内：下周A股迎三件大事",
+          "url": "https://www.toutiao.com/trending/7658889614756679209/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "如何看待字节员工靠炒美股财富自由后离职，称投资比大厂升职更容易实现财务自由？",
+          "url": "https://www.zhihu.com/question/2055415968537618014",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "韩国股民A股买入额大增130%",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%82%A1%E6%B0%91A%E8%82%A1%E4%B9%B0%E5%85%A5%E9%A2%9D%E5%A4%A7%E5%A2%9E130%25%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     },
@@ -617,11 +788,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时41分 ~ 09时26分]"
+          "appearance_count": 5,
+          "time_info": "[05时41分 ~ 13时36分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -649,8 +821,23 @@
     },
     {
       "keyword_group": "存储",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "韩国存储扩产、Meta出租算力--野村谈“存储两大利空”",
+          "url": "https://wallstreetcn.com/articles/3776202",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 13时36分]"
+        },
         {
           "title": "狂赚约百亿！江波龙半年净利接近去年全年八倍 下半年存储品类仍有涨价|财报解读",
           "url": "https://www.cls.cn/detail/2416926",
@@ -661,28 +848,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 09时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 13时36分]"
         },
         {
-          "title": "韩国存储扩产、Meta出租算力--野村谈“存储两大利空”",
-          "url": "https://wallstreetcn.com/articles/3776202",
-          "source": "华尔街见闻",
+          "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
+          "url": "https://flash.jin10.com/detail/20260705113833548800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7,
-            6,
-            5
+            13
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 09时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
@@ -691,9 +875,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "AI投资进入落地阶段 半导体价格开始显著上涨",
+          "url": "https://flash.jin10.com/detail/20260705094741928800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     }
