@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-07T19:47:30.171547+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-07-07T22:27:40.520868+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时45分 ~ 22时27分]"
+        },
         {
           "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
           "url": "https://news.ifeng.com/c/8uYByScLdvD",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时15分 ~ 07时45分]"
-        },
-        {
-          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时45分 ~ 19时47分]"
         },
         {
           "title": "特朗普：就红牌与国际足联主席通话",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 19时47分]"
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 22时27分]"
         },
         {
           "title": "特朗普插手世界杯红牌",
@@ -116,6 +116,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
+          "url": "https://news.ifeng.com/c/8uZavoCll5c",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "特朗普：我可以“不到一下午”摧毁伊朗所有电厂",
           "url": "https://flash.jin10.com/detail/20260707005154588800",
           "source": "金十数据",
@@ -125,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "特朗普一通电话毁了美国队",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E6%AF%81%E4%BA%86%E7%BE%8E%E5%9B%BD%E9%98%9F&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
@@ -222,13 +244,25 @@
           "time_info": "[01时16分 ~ 03时15分]"
         },
         {
+          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 22时27分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：计划在周三与美国总统特朗普讨论空中防御问题。",
           "url": "https://flash.jin10.com/detail/20260707193628336800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -294,7 +328,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -327,7 +361,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -341,17 +375,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
-        },
-        {
-          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
         },
         {
           "title": "美国总统特朗普：呼吁众议院和参议院领导层将此列为头等要务，并确保3500亿美元资金在国会复会后尽快通过预算委员会审议。",
@@ -420,6 +443,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛应由美国控制。",
+          "url": "https://wallstreetcn.com/livenews/3130019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "美国众议院议长约翰逊：随着民主党无视、否认甚至助长欺诈，共和党正在与特朗普总统合作，根除腐败蓝州中的浪费、欺诈和滥用，确保纳税人的钱不被滥用。",
           "url": "https://flash.jin10.com/detail/20260707014648139800",
           "source": "金十数据",
@@ -429,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普：与普京总统进行了非常好的谈话。",
+          "url": "https://wallstreetcn.com/livenews/3130016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "特朗普称不知道红牌还要禁赛",
@@ -453,15 +498,37 @@
           "time_info": "05时04分"
         },
         {
+          "title": "特朗普：土耳其从美国购买了飞机。 土耳其曾协助试图结束我们与伊朗的战争。",
+          "url": "https://wallstreetcn.com/livenews/3130013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "市场消息：土耳其总统埃尔多安在安卡拉机场迎接美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20260707191743674800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
+        },
+        {
+          "title": "特朗普称赞美国经济。",
+          "url": "https://wallstreetcn.com/livenews/3130012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "特朗普称不知道红牌还要禁赛",
@@ -478,7 +545,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 35,
+      "match_count": 41,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
@@ -566,6 +633,17 @@
           "time_info": "13时35分"
         },
         {
+          "title": "美股开盘涨跌不一，存储股下挫，西部数据跌超8%，油价涨近2%",
+          "url": "https://wallstreetcn.com/articles/3776355",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "港股收盘：恒生指数收跌0.51%，恒生科技指数收跌0.75%。快手跌超12%，此前腾讯减持快手，套现超百亿元；兆易创新跌超12%，澜起科技跌超10%。",
           "url": "https://wallstreetcn.com/livenews/3129835",
           "source": "华尔街见闻-快讯",
@@ -624,6 +702,18 @@
           "time_info": "[06时38分 ~ 07时45分]"
         },
         {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 22时27分]"
+        },
+        {
           "title": "周一（7月6日），彭博电动汽车价格回报指数涨0.01%，报3584.02点。 指数全天呈现出U形反转，北京时间10:00之前呈现出V形反转、10:04刷新日高至3590.43点，21:30美股开盘后快速地显著收复失地。",
           "url": "https://wallstreetcn.com/livenews/3129561",
           "source": "华尔街见闻-快讯",
@@ -657,17 +747,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
-        },
-        {
-          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
-          "url": "https://wallstreetcn.com/articles/3776359",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
         },
         {
           "title": "A股存储芯片板块午后走弱，北京君正跌超10%，普冉股份、德明利、江波龙、香农芯创、佰维存储跌幅居前。",
@@ -709,7 +788,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -802,6 +881,17 @@
           "time_info": "09时26分"
         },
         {
+          "title": "美股三大股指开盘涨跌不一，道指涨0.09%，标普500指数跌0.22%，纳指跌0.6%。存储概念股延续跌势，西部数据跌超8%，闪迪、美光科技跌超6%；Rivian跌超12%，公司计划通过增发股票筹集资金。SpaceX跌1.7%，今日正式纳入纳斯达克100指数。",
+          "url": "https://wallstreetcn.com/livenews/3130024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "金十图示：2026年07月06日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260707040552066800",
           "source": "金十数据",
@@ -811,6 +901,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "郭一鸣：A股万亿缩量 变盘信号来了吗",
+          "url": "https://www.toutiao.com/trending/7659760549286120970/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "金十图示：2026年07月06日（周一）热门中概股行情一览（美股收盘）",
@@ -852,9 +953,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3130018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "A股收盘：沪指跌1.26%失守4000点，全市场下跌个股近4800只",
@@ -868,6 +980,17 @@
           "time_info": "16时55分"
         },
         {
+          "title": "金十图示：2026年07月07日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260707214147191800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "智谱：媒体称撤回A股辅导备案报道失实",
           "url": "https://wallstreetcn.com/livenews/3129739",
           "source": "华尔街见闻-快讯",
@@ -877,13 +1000,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
+        },
+        {
+          "title": "A股失守4000点关口 后市如何演绎",
+          "url": "https://www.toutiao.com/trending/7659771141031988799/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶",
+          "url": "https://wallstreetcn.com/articles/3776333",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时35分 ~ 22时27分]"
+        },
         {
           "title": "存储芯片涨价潮持续！三星Q2营业利润飙升18倍 再创历史新高",
           "url": "https://www.cls.cn/detail/2418641",
@@ -908,17 +1055,38 @@
           "time_info": "01时16分"
         },
         {
-          "title": "大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶",
-          "url": "https://wallstreetcn.com/articles/3776333",
-          "source": "华尔街见闻",
+          "title": "亚洲跌完欧洲跌！芯片股抛售潮席卷全球 华尔街分析师热议",
+          "url": "https://www.cls.cn/detail/2419287",
+          "source": "财联社热门",
           "ranks": [
             7,
-            6,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时35分 ~ 19时47分]"
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 22时27分]"
+        },
+        {
+          "title": "网传新能源车智驾芯片新规系谣言",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87%E6%96%B0%E8%A7%84%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 22时27分]"
+        },
+        {
+          "title": "报道：智谱考虑自研AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3130039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "华为Mate90系列或将秋季登场，这次芯片将用上“韬定律”",
@@ -932,26 +1100,37 @@
           "time_info": "01时16分"
         },
         {
-          "title": "亚洲跌完欧洲跌！芯片股抛售潮席卷全球 华尔街分析师热议",
-          "url": "https://www.cls.cn/detail/2419287",
-          "source": "财联社热门",
+          "title": "DeepSeek被曝自研芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时47分"
+          "time_info": "22时27分"
         },
         {
-          "title": "网传新能源车智驾芯片新规系谣言",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87%E6%96%B0%E8%A7%84%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
+          "title": "三星财报引发全球芯片股回调 纳斯达克100指数期货跌近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2419563",
+          "source": "财联社热门",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时47分"
+          "time_info": "22时27分"
+        },
+        {
+          "title": "智驾芯片70%自主化新规系谣言",
+          "url": "https://www.toutiao.com/trending/7659304880201515034/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "三星二季度运营利润同比激增超1800%，AI需求继续提振存储芯片价格",
@@ -989,9 +1168,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 22时27分]"
         },
         {
           "title": "巨头开始卖算力，打开了什么魔盒",
@@ -999,11 +1178,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时35分 ~ 19时47分]"
+          "appearance_count": 4,
+          "time_info": "[13时35分 ~ 22时27分]"
         },
         {
           "title": "据华尔街日报：消息人士称，OpenAI、Anthropic和谷歌正向初创企业提供价值数十万美元的算力资源及其他优惠，以争取新的企业客户。",
@@ -1046,24 +1226,24 @@
           "time_info": "[07时45分 ~ 16时55分]"
         },
         {
-          "title": "韩股崩跌熔断拖累全球市场！三星跌10%、美光盘前跌超6％，欧洲半导体股普跌，日元162水平徘徊",
-          "url": "https://wallstreetcn.com/articles/3776355",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
           "title": "【焦点复盘】三大指数全天缩量探底，全市场仅30余股涨停，资金逆势抱团半导体设备股",
           "url": "https://www.cls.cn/detail/2419286",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 22时27分]"
+        },
+        {
+          "title": "韩股崩跌熔断拖累全球市场！三星跌10%、美光盘前跌超6％，欧洲半导体股普跌，日元162水平徘徊",
+          "url": "https://wallstreetcn.com/articles/3776355",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -1150,6 +1330,18 @@
           "time_info": "13时35分"
         },
         {
+          "title": "存储“涨到头”了吗？",
+          "url": "https://wallstreetcn.com/articles/3776336",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 22时27分]"
+        },
+        {
           "title": "曾参与“924行情”的华尔街明星基金经理，又在存储板块大赚一笔",
           "url": "https://www.cls.cn/detail/2418574",
           "source": "财联社热门",
@@ -1160,18 +1352,46 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时26分 ~ 16时55分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "存储“涨到头”了吗？",
-          "url": "https://wallstreetcn.com/articles/3776336",
-          "source": "华尔街见闻",
+          "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
+          "url": "https://www.cls.cn/detail/2417841",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 19时47分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时38分]"
+        },
+        {
+          "title": "我国人形机器人整机产量有望破十万台",
+          "url": "https://www.toutiao.com/trending/7659749336267640329/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "人形机器人成高端制造出口新名片",
+          "url": "https://www.douyin.com/hot/2562518",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     },
@@ -1210,24 +1430,6 @@
       ]
     },
     {
-      "keyword_group": "人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
-          "url": "https://www.cls.cn/detail/2417841",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 06时38分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "工业富联",
       "match_count": 1,
       "titles": [
@@ -1238,7 +1440,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         }
