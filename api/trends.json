@@ -1,21 +1,11 @@
 {
-  "generated_at": "2026-07-08T14:29:08.258215+08:00",
-  "total_titles_processed": 936,
-  "failed_sources": [
-    "toutiao",
-    "baidu",
-    "wallstreetcn-hot",
-    "thepaper",
-    "bilibili-hot-search",
-    "ifeng",
-    "jin10",
-    "douyin",
-    "zhihu"
-  ],
+  "generated_at": "2026-07-08T17:07:38.666434+08:00",
+  "total_titles_processed": 1111,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 46,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -54,6 +44,31 @@
           "time_info": "[00时56分 ~ 11时47分]"
         },
         {
+          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
+          "url": "https://www.cls.cn/detail/2419821",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时14分 ~ 17时07分]"
+        },
+        {
+          "title": "特朗普称美伊谅解备忘录已经结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
           "title": "特朗普：对北约非常失望",
           "url": "https://news.ifeng.com/c/8uZl0nkCE3Q",
           "source": "凤凰网",
@@ -78,6 +93,17 @@
           "time_info": "08时14分"
         },
         {
+          "title": "特朗普声称美伊停火协议作废，北约峰会上直接破口大骂",
+          "url": "https://flash.jin10.com/detail/20260708164742398800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：与特朗普偶尔存在分歧。",
           "url": "https://flash.jin10.com/detail/20260708003857320800",
           "source": "金十数据",
@@ -100,6 +126,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国总统特朗普：我是一名成功的交易者。我跟伊朗人打交道时，我发现他们跟我不是一路人。",
+          "url": "https://flash.jin10.com/detail/20260708164722690800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
           "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
           "url": "https://flash.jin10.com/detail/20260708003417595800",
           "source": "金十数据",
@@ -109,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国总统特朗普：北约不愿协助我们对抗伊朗，而伊朗是头号支持恐怖主义的国家。",
+          "url": "https://flash.jin10.com/detail/20260708164651461800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
@@ -137,19 +185,6 @@
           "time_info": "[07时15分 ~ 08时14分]"
         },
         {
-          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
-          "url": "https://www.cls.cn/detail/2419821",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时14分 ~ 14时29分]"
-        },
-        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：美国中央司令部正在打击特朗普四个月前声称已经摧毁的目标，因此他们当中有一方在撒谎。",
           "url": "https://flash.jin10.com/detail/20260708070319563800",
           "source": "金十数据",
@@ -160,6 +195,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 08时14分]"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E2%80%9C%E5%B7%B2%E7%BB%88%E7%BB%93%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "特朗普发表讲话后，日经指数期货跌幅扩大至1.3%。 法国CAC指数跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3130541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "特朗普称美伊临时停火协议已结束",
+          "url": "https://flash.jin10.com/detail/20260708164249740800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "特朗普称美伊备忘录“已终结” 局势已经回到了原点",
+          "url": "https://flash.jin10.com/detail/20260708164211261800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "壳牌涨4.1%，因特朗普表示停火已结束，油价随之上涨。",
+          "url": "https://flash.jin10.com/detail/20260708164141466800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         },
         {
           "title": "特朗普承认与意女总理关系“变糟”：她人不错，但犯了个错误",
@@ -195,6 +285,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "北约据悉考虑跳过2027年峰会 以避免与特朗普关系紧张",
+          "url": "https://wallstreetcn.com/livenews/3130536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
           "title": "据华尔街日报：美国农业部将沃尔玛(WMT.N)的降价计划告知白宫。特朗普周一发文称这是政府施压取得的成果。几分钟后，沃尔玛发布新闻稿称，将下调数千种商品价格，以帮助消费者。",
           "url": "https://flash.jin10.com/detail/20260708072520020800",
           "source": "金十数据",
@@ -204,6 +305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "英国富时100指数下跌1.4%，因美国总统特朗普表示停火已结束。",
+          "url": "https://flash.jin10.com/detail/20260708164010651800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         },
         {
           "title": "特朗普政府解除对OpenAI的GPT 5.6的限制，美国商务部已批准OpenAI广泛推出其先进的GPT 5.6模型。（Axios）",
@@ -250,6 +362,17 @@
           "time_info": "08时14分"
         },
         {
+          "title": "美国总统特朗普：我完全不想跟西班牙人说话，他们无可救药，不是什么好人。",
+          "url": "https://flash.jin10.com/detail/20260708163829615800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
           "title": "特朗普说中国威胁论纯属危言耸听",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81%E8%AE%BA%E7%BA%AF%E5%B1%9E%E5%8D%B1%E8%A8%80%E8%80%B8%E5%90%AC%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -270,6 +393,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "西班牙首相办公室（就特朗普下令切断贸易）发表声明：西班牙将这些表态视为“一切照常”处理。 我们国家与美国享有良好的社会、文化和经济关系，我们不打算改变这一点。",
+          "url": "https://wallstreetcn.com/livenews/3130529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://www.douyin.com/hot/2563445",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "西班牙首相办公室：（关于特朗普下令切断贸易）西班牙将上述言论视为常态事务处理。",
+          "url": "https://flash.jin10.com/detail/20260708163739107800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "欧股跌幅扩大，德国DAX指数下跌2%，法国CAC指数下跌1.7%，西班牙IBEX35指数跌超2%，特朗普要求全面切断与西班牙贸易。",
+          "url": "https://wallstreetcn.com/livenews/3130526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         },
         {
           "title": "特朗普称与梅洛尼关系“变糟”：她人不错但犯了个错误，她拒绝在伊朗问题上帮助美国",
@@ -303,6 +470,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "特朗普发表言论后，市场已完全定价英国央行年底前加息25个基点的预期。",
+          "url": "https://wallstreetcn.com/livenews/3130522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "荷兰AEX指数下跌0.35%，因美国总统特朗普表示与伊朗的停火已结束。",
+          "url": "https://flash.jin10.com/detail/20260708163430647800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         },
         {
           "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
@@ -341,7 +530,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -401,7 +590,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -412,7 +601,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -516,9 +705,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "恒科指暴涨5%，阿里狂飙超10%，A股震荡收跌，创业板跌近2%，芯片、AI服务器爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         },
         {
           "title": "腾讯“打头阵” 上半年港股回购近千亿港元",
@@ -565,6 +765,17 @@
           "time_info": "11时47分"
         },
         {
+          "title": "美股存储概念股盘前持续走低，闪迪股价盘前跌幅扩大至7%，美光科技下跌6%，西部数据跌超4%，希捷科技跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3130530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
           "title": "港股科网股持续走高，百度(09888.HK)、小米集团(01810.HK)涨超5%，阿里巴巴(09988.HK)涨4.6%，腾讯控股(00700.HK)、哔哩哔哩(09626.HK)涨3%。",
           "url": "https://flash.jin10.com/detail/20260708111512150800",
           "source": "金十数据",
@@ -604,7 +815,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -615,7 +826,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -626,7 +837,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -640,12 +851,130 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1％，道琼斯指数期货跌0.85％，标普500指数期货跌0.67％。",
+          "url": "https://wallstreetcn.com/livenews/3130517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "特朗普称美伊谅解备忘录“已终结”，国际油价拉升，美股股指期货跳水",
+          "url": "https://wallstreetcn.com/livenews/3130515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
+          "url": "https://wallstreetcn.com/articles/3776355",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时15分 ~ 17时07分]"
+        },
+        {
+          "title": "金十图示：2026年07月08日（周三）富时中国A50指数成分股午盘收盘行情一览：半导体、通信设备板块涨幅居前，寒武纪涨超6%",
+          "url": "https://flash.jin10.com/detail/20260708113410179800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "【焦点复盘】三大指数全天缩量探底，全市场仅30余股涨停，资金逆势抱团半导体设备股",
+          "url": "https://www.cls.cn/detail/2419286",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时15分]"
+        },
+        {
+          "title": "荷兰大臣访华：同中方合作良好，希望解决安世半导体问题",
+          "url": "https://news.ifeng.com/c/8uaVWTkSZ4C",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 14时26分]"
+        },
+        {
+          "title": "韩国股市跌入技术性熊市，监管紧急开会：半导体板块过度集中加剧市场波动",
+          "url": "https://wallstreetcn.com/articles/3776441",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "科创50指数涨超2%，半导体产业链探底回升，灿芯股份、晶丰明源、中科飞测、联动科技、华峰测控、杰华特均涨超10%，芯源微、瑞芯微、复旦微电等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3130344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "商务部：希望荷方为中国企业赴荷投资营造公平公正可预期的环境，保持半导体产供链稳定",
+          "url": "https://wallstreetcn.com/livenews/3130395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "市场难觅低价电脑 半导体为何却崩了",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%82%E5%9C%BA%E9%9A%BE%E8%A7%85%E4%BD%8E%E4%BB%B7%E7%94%B5%E8%84%91+%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%B8%BA%E4%BD%95%E5%8D%B4%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "亚洲跌完欧洲跌！芯片股抛售潮席卷全球 华尔街分析师热议",
@@ -731,80 +1060,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
-          "url": "https://wallstreetcn.com/articles/3776355",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时15分 ~ 14时26分]"
         },
         {
-          "title": "金十图示：2026年07月08日（周三）富时中国A50指数成分股午盘收盘行情一览：半导体、通信设备板块涨幅居前，寒武纪涨超6%",
-          "url": "https://flash.jin10.com/detail/20260708113410179800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时47分"
-        },
-        {
-          "title": "【焦点复盘】三大指数全天缩量探底，全市场仅30余股涨停，资金逆势抱团半导体设备股",
-          "url": "https://www.cls.cn/detail/2419286",
+          "title": "三星一纸财报带崩全球芯片股？华尔街科技分析师：投资者反应过度！",
+          "url": "https://www.cls.cn/detail/2419990",
           "source": "财联社热门",
           "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 07时15分]"
-        },
-        {
-          "title": "荷兰大臣访华：同中方合作良好，希望解决安世半导体问题",
-          "url": "https://news.ifeng.com/c/8uaVWTkSZ4C",
-          "source": "凤凰网",
-          "ranks": [
-            9,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 14时26分]"
-        },
-        {
-          "title": "科创50指数涨超2%，半导体产业链探底回升，灿芯股份、晶丰明源、中科飞测、联动科技、华峰测控、杰华特均涨超10%，芯源微、瑞芯微、复旦微电等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3130344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时47分"
-        },
-        {
-          "title": "商务部：希望荷方为中国企业赴荷投资营造公平公正可预期的环境，保持半导体产供链稳定",
-          "url": "https://wallstreetcn.com/livenews/3130395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "17时07分"
         }
       ]
     },
@@ -891,11 +1157,12 @@
           "url": "https://www.cls.cn/detail/2419859",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 17时07分]"
         }
       ]
     },
@@ -939,7 +1206,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         }
