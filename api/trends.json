@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-09T07:47:31.483365+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2026-07-09T10:42:26.297510+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
           "url": "https://wallstreetcn.com/articles/3776459",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 10时42分]"
         },
         {
           "title": "特朗普：今晚可能再打伊朗",
@@ -25,11 +26,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 10时42分]"
         },
         {
           "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
@@ -67,18 +69,6 @@
           "time_info": "[01时07分 ~ 07时47分]"
         },
         {
-          "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2058225620715418670",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时47分]"
-        },
-        {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
           "url": "https://wallstreetcn.com/articles/3776487",
           "source": "华尔街见闻",
@@ -87,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时31分 ~ 07时47分]"
+          "appearance_count": 6,
+          "time_info": "[05时31分 ~ 10时42分]"
         },
         {
           "title": "特朗普：美伊谅解备忘录“已终结”",
@@ -97,11 +87,12 @@
           "ranks": [
             12,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 10时42分]"
         },
         {
           "title": "特朗普要求切断美国与西班牙贸易往来",
@@ -111,7 +102,20 @@
             18,
             19,
             20,
-            17
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 10时42分]"
+        },
+        {
+          "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2058225620715418670",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -135,11 +139,23 @@
           "ranks": [
             18,
             16,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时44分 ~ 07时47分]"
+          "appearance_count": 8,
+          "time_info": "[02时44分 ~ 10时42分]"
+        },
+        {
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "美国总统特朗普：西班牙今天非常慷慨。",
@@ -159,9 +175,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "特朗普：我在伊朗的刺杀名单排第一位",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8TF",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "特朗普就美军再次袭击伊朗发声",
@@ -170,7 +197,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -256,6 +283,17 @@
           "time_info": "[01时08分 ~ 02时44分]"
         },
         {
+          "title": "特朗普下令：切断所有与西班牙的贸易往来，“他们是北约内的糟糕盟友”！",
+          "url": "https://wallstreetcn.com/articles/3776465",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 10时42分]"
+        },
+        {
           "title": "美国总统特朗普：美方袭击是对伊朗打击船只的“报复性行为”。 如果再次发生，情况会更加糟糕。",
           "url": "https://wallstreetcn.com/livenews/3130907",
           "source": "华尔街见闻-快讯",
@@ -280,26 +318,48 @@
           "time_info": "[05时32分 ~ 06时44分]"
         },
         {
+          "title": "特朗普点名批评章家敦，释放一个明确信号",
+          "url": "https://news.ifeng.com/c/8ubwZV9LhlF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "特朗普要求切断美国与西班牙贸易往来，如何看待这一举动？",
+          "url": "https://www.zhihu.com/question/2058242652987045100",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "美媒：伊朗在北约峰会期间袭击船只激怒特朗普",
           "url": "https://flash.jin10.com/detail/20260709072702097800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
         {
-          "title": "特朗普下令：切断所有与西班牙的贸易往来，“他们是北约内的糟糕盟友”！",
-          "url": "https://wallstreetcn.com/articles/3776465",
-          "source": "华尔街见闻",
+          "title": "美媒：特朗普称，美国是否进一步从欧洲撤军“取决于格陵兰岛”",
+          "url": "https://wallstreetcn.com/livenews/3131034",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时47分"
+          "time_info": "10时42分"
         },
         {
           "title": "特朗普称看透了伊朗 美伊不会爆发大规模持久战",
@@ -308,7 +368,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -319,7 +379,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -330,7 +390,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -341,7 +401,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -352,7 +412,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -385,7 +445,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -407,7 +467,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -429,7 +489,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -451,7 +511,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -473,7 +533,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -495,7 +555,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -550,7 +610,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -572,7 +632,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         }
@@ -580,7 +640,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -602,11 +662,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 10时42分]"
         },
         {
           "title": "是何催化剂？港股科网全线爆发，重仓ETF已迎8连涨",
@@ -618,8 +679,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 10时42分]"
         },
         {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
@@ -635,6 +696,41 @@
           "time_info": "[01时07分 ~ 06时44分]"
         },
         {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 10时42分]"
+        },
+        {
+          "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
+          "url": "https://www.cls.cn/detail/2421042",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 10时42分]"
+        },
+        {
+          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
+          "url": "https://www.cls.cn/detail/2421032",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 10时42分]"
+        },
+        {
           "title": "金十图示：2026年07月08日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260709040709587800",
           "source": "金十数据",
@@ -646,37 +742,15 @@
           "time_info": "04时11分"
         },
         {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
+          "title": "港股芯片股持续冲高，华虹宏力(01347.HK)、中芯国际(00981.HK)双双涨超10%，芯智控股 (02166.HK)涨近16%。",
+          "url": "https://flash.jin10.com/detail/20260709103154345800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
-          "url": "https://www.cls.cn/detail/2421032",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
-          "url": "https://www.cls.cn/detail/2421042",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
+          "time_info": "10时42分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 金龙指数涨2%",
@@ -735,6 +809,17 @@
           "time_info": "06时44分"
         },
         {
+          "title": "A股三大指数集体翻绿，创业板指此前一度涨超1.8%，锂矿、小金属、培育钻石、稀土永磁等方向跌幅居前，沪深京三市下跌个股超3200只。",
+          "url": "https://wallstreetcn.com/livenews/3131024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "地产ETF收跌超1.6%，与道指ETF领跌美股大类资产类ETF，布油基金涨3.9%",
           "url": "https://wallstreetcn.com/livenews/3130885",
           "source": "华尔街见闻-快讯",
@@ -744,6 +829,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "齐云山食品港股上市首日涨超150%，股价突破20港元，发行价为8港元/股。",
+          "url": "https://wallstreetcn.com/livenews/3131019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "港股通信息技术ETF招商涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260709101526917800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "A股MLCC概念震荡拉升，艾华集团、中京电子双双涨停，南亚新材、江海股份、麦捷科技、法拉电子跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3131013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "A股先进封装板块再度拉升，华天科技、中京电子、朗迪集团、高德红外、同兴达、旭光电子涨停，上海新阳涨超10%，汇成股份、深科达、深科技、太极实业、甬矽电子跟涨。",
+          "url": "https://flash.jin10.com/detail/20260709101403323800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "周三（7月8日），美股行业ETF多数收跌，区域银行ETF跌2.30%，银行业ETF跌2.27%，全球航空业ETF跌2.21%。 科技行业ETF、全球科技股指数ETF至少涨1.24%，能源业ETF涨1.76%，半导体ETF涨1.99%。",
@@ -768,13 +897,24 @@
           "time_info": "05时32分"
         },
         {
+          "title": "A股券商股开盘拉升，华安证券直线涨停，招商证券涨超6%，长江证券、中金公司、中信建投、天风证券跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3131006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "报道：SK海力士美股上市获超7倍超额认购，预计募资约245亿美元",
           "url": "https://wallstreetcn.com/livenews/3130914",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         }
@@ -782,7 +922,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
@@ -806,8 +946,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 10时42分]"
         },
         {
           "title": "美伊局势升温，道指跌幅扩大至1.6%，半导体指数跌0.6%，油价大涨8%，金银下挫",
@@ -820,6 +960,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时07分 ~ 05时32分]"
+        },
+        {
+          "title": "科创50指数涨超3%，半导体产业链涨势扩大，上海合晶20cm涨停，华天科技此前封板，沐曦股份涨超10%，股价创上市以来新高，寒武纪拉升涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3131036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "道指收跌约1.1%，纳指科技指数涨约0.8%，半导体指数涨超2.2%",
@@ -847,7 +998,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "顶着美国压力，携光刻机、芯片巨头，荷兰大臣此时访华有何意味？",
@@ -880,7 +1031,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -894,6 +1045,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "恒生科技指数盘初涨2%，恒指涨0.5%，芯片股走强，芯智控股 (02166.HK)涨超17%，兆易创新(03986.HK)涨超10%，华虹宏力(01347.HK)涨超8%，中芯国际(00981.HK)涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260709101502631800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         }
       ]
     },
@@ -968,6 +1130,23 @@
       ]
     },
     {
+      "keyword_group": "科创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科创50指数涨超3%，沐曦股份涨9.5%领涨成分股。",
+          "url": "https://flash.jin10.com/detail/20260709102216212800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储",
       "match_count": 1,
       "titles": [
@@ -982,6 +1161,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时31分 ~ 07时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒生科技指数涨幅扩大至2%，华虹宏力涨近8%，中芯国际、联想集团涨超6%，阿里巴巴涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3131030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         }
       ]
     }
