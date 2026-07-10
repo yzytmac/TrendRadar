@@ -1,11 +1,280 @@
 {
-  "generated_at": "2026-07-10T07:51:58.456400+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-07-10T10:44:37.383060+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股 a股 港股",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 10时44分]"
+        },
+        {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时43分]"
+        },
+        {
+          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2422043",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 10时44分]"
+        },
+        {
+          "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时51分]"
+        },
+        {
+          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
+          "url": "https://www.cls.cn/detail/2422278",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时44分]"
+        },
+        {
+          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时07分]"
+        },
+        {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
+          "url": "https://www.cls.cn/detail/2421885",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时54分 ~ 07时51分]"
+        },
+        {
+          "title": "华泰证券：A股有色超跌或存修复空间",
+          "url": "https://flash.jin10.com/detail/20260710072734865800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "A股白酒板块持续走高，皇台酒业涨停，今世缘、迎驾贡酒、金徽酒、泸州老窖、酒鬼酒等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260710103755932800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时44分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，纳指ETF涨超1.6%、与小盘股ETF、黄金ETF领跑",
+          "url": "https://wallstreetcn.com/livenews/3131543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时07分 ~ 06时43分]"
+        },
+        {
+          "title": "周四（7月9日），美股行业ETF多数收涨，半导体ETF涨2.48%，科技行业ETF涨2.18%，全球科技股指数ETF涨2.06%，日常消费品ETF、能源业ETF至少跌1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3131539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时07分 ~ 06时43分]"
+        },
+        {
+          "title": "AA股短剧游戏板块冲高，浙文互联、中科金财等多股涨停，荣信文化涨超11%，易点天下涨超9%，幸福蓝海涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260710103338182800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "据华尔街日报，奈飞正探索推出直播电视及捆绑服务。 该公司高管近期讨论了增加直播频道事宜。 该公司正讨论竞标2030年及2034年世界杯转播权。 奈飞美股盘后跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3131557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "SK海力士据称每股定价149美元 或刷新美股最大外企上市纪录",
+          "url": "https://www.cls.cn/detail/2422169",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "金十图示：2026年07月09日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260710040615773800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "金十图示：2026年07月09日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260710040543739800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "港股汽车股多数走强，奇瑞汽车(09973.HK)、小鹏集团(09868.HK)、零跑汽车(09863.HK)、赛力斯(09927.HK)均涨超3%，理想汽车(02015.HK)、比亚迪股份(01211.HK)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260710102659629800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 芯片股走强",
+          "url": "https://flash.jin10.com/detail/20260710040126846800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "美股收盘：纳指涨超1% 存储光通信领涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%BA%B3%E6%8C%87%E6%B6%A8%E8%B6%851%25+%E5%AD%98%E5%82%A8%E5%85%89%E9%80%9A%E4%BF%A1%E9%A2%86%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "A股创新药概念异动拉升，双鹭药业、立方制药涨停，常山药业、前沿生物涨超10%，众生药业、万邦医药、昭衍新药涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3131668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "A股光刻机、光刻胶概念震荡走强，国林科技20cm涨停，波长光电、茂莱光学涨超10%，赛微电子、久日新材跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3131650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -18,6 +287,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时54分 ~ 06时43分]"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 10时44分]"
         },
         {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
@@ -42,18 +324,6 @@
           "time_info": "[01时54分 ~ 07时51分]"
         },
         {
-          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时51分]"
-        },
-        {
           "title": "“二鬼子”章家敦，被特朗普点名批评了",
           "url": "https://news.ifeng.com/c/8ucs5h8eIWd",
           "source": "凤凰网",
@@ -63,6 +333,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时54分 ~ 07时51分]"
+        },
+        {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         },
         {
           "title": "美国白宫：特朗普指示商务部长和美国贸易代表与贸易伙伴谈判，以应对对美国国家安全构成威胁的问题。",
@@ -124,6 +405,28 @@
           "time_info": "[06时43分 ~ 07时51分]"
         },
         {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "特朗普松口了，美媒：泽连斯基但不能高兴太早",
+          "url": "https://news.ifeng.com/c/8uda049HcXP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
           "title": "据福克斯新闻：美国商务部长霍华德·卢特尼克表示，特朗普认为未来油价将保持较低水平。",
           "url": "https://flash.jin10.com/detail/20260710031328477800",
           "source": "金十数据",
@@ -155,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
+        },
+        {
+          "title": "特朗普的加沙维和部队严重“缩水”，首批部署或仅10至20人",
+          "url": "https://flash.jin10.com/detail/20260710102440665800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         },
         {
           "title": "以色列总理办公室：特朗普向内塔尼亚胡告知了美国在海湾地区采取的行动。内塔尼亚胡则提及土耳其总统埃尔多安及其盟友针对以色列存在问题发表的强硬言论，并强调维持以色列边境安全区的必要性。",
@@ -210,203 +524,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 a股 港股",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 06时43分]"
         },
         {
-          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
-          "url": "https://wallstreetcn.com/articles/3776526",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时51分]"
-        },
-        {
-          "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时51分]"
-        },
-        {
-          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 05时07分]"
-        },
-        {
-          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2422043",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时51分]"
-        },
-        {
-          "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
-          "url": "https://www.cls.cn/detail/2421885",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时51分]"
-        },
-        {
-          "title": "华泰证券：A股有色超跌或存修复空间",
-          "url": "https://flash.jin10.com/detail/20260710072734865800",
+          "title": "特朗普账户一年交易超2.1万笔！嘉信理财如何放大其“股票交易狂潮”？",
+          "url": "https://flash.jin10.com/detail/20260710101448387800",
           "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
-          "url": "https://www.cls.cn/detail/2422278",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收涨，纳指ETF涨超1.6%、与小盘股ETF、黄金ETF领跑",
-          "url": "https://wallstreetcn.com/livenews/3131543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
             25
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 06时43分]"
-        },
-        {
-          "title": "周四（7月9日），美股行业ETF多数收涨，半导体ETF涨2.48%，科技行业ETF涨2.18%，全球科技股指数ETF涨2.06%，日常消费品ETF、能源业ETF至少跌1.40%。",
-          "url": "https://wallstreetcn.com/livenews/3131539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 06时43分]"
-        },
-        {
-          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
-          "url": "https://www.cls.cn/detail/2422268",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "据华尔街日报，奈飞正探索推出直播电视及捆绑服务。 该公司高管近期讨论了增加直播频道事宜。 该公司正讨论竞标2030年及2034年世界杯转播权。 奈飞美股盘后跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3131557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "金十图示：2026年07月09日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260710040615773800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "金十图示：2026年07月09日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260710040543739800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 芯片股走强",
-          "url": "https://flash.jin10.com/detail/20260710040126846800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "美股收盘：纳指涨超1% 存储光通信领涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%BA%B3%E6%8C%87%E6%B6%A8%E8%B6%851%25+%E5%AD%98%E5%82%A8%E5%85%89%E9%80%9A%E4%BF%A1%E9%A2%86%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "10时44分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "半导体行业两大催化共振 科创50创今年最大单日涨幅",
@@ -444,6 +578,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时54分 ~ 07时51分]"
+        },
+        {
+          "title": "【数读IPO】今日1申购2上市，涉及半导体零部件龙头等",
+          "url": "https://www.cls.cn/detail/2422276",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         },
         {
           "title": "【每日收评】创业板指探底回升涨超4%，半导体产业链持续爆发，算力硬件股集体反攻",
@@ -492,6 +637,118 @@
       ]
     },
     {
+      "keyword_group": "算力",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "Meta算力过剩？扎克伯格公开否认：市场需求非常大，租出去更赚钱！",
+          "url": "https://www.cls.cn/detail/2422321",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "Meta：探索AI云业务是合理的，考虑出租算力",
+          "url": "https://wallstreetcn.com/livenews/3131509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "广东大力推进算力网建设，大数据ETF盘中走强",
+          "url": "https://flash.jin10.com/detail/20260710102936417800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "扎克伯格否认Meta算力过剩，称：租出去可能更划算",
+          "url": "https://wallstreetcn.com/livenews/3131522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "广东：打造全国算力互联互通区域节点和多个特色鲜明的行业节点",
+          "url": "https://flash.jin10.com/detail/20260710101407688800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "马斯克的野心正在考验太空极限",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E9%87%8E%E5%BF%83%E6%AD%A3%E5%9C%A8%E8%80%83%E9%AA%8C%E5%A4%AA%E7%A9%BA%E6%9E%81%E9%99%90",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时41分 ~ 07时51分]"
+        },
+        {
+          "title": "马斯克“抄了”智谱",
+          "url": "https://wallstreetcn.com/articles/3776533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
+          "url": "https://wallstreetcn.com/livenews/3131501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "马斯克：星链现可在全球任何地方提供可靠的10Gpbs对称收发连接。",
+          "url": "https://flash.jin10.com/detail/20260710101557395800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片",
       "match_count": 4,
       "titles": [
@@ -514,7 +771,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -543,93 +800,8 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克的野心正在考验太空极限",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E9%87%8E%E5%BF%83%E6%AD%A3%E5%9C%A8%E8%80%83%E9%AA%8C%E5%A4%AA%E7%A9%BA%E6%9E%81%E9%99%90",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时41分 ~ 07时51分]"
-        },
-        {
-          "title": "马斯克“抄了”智谱",
-          "url": "https://wallstreetcn.com/articles/3776533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
-          "url": "https://wallstreetcn.com/livenews/3131501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "兆易创新上半年净利润预增1099%，存储业务化身“印钞机” | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3776572",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时51分]"
-        },
-        {
-          "title": "贝恩资本清仓铠侠！10年前“困境资产”接盘，“存储狂潮”造就史诗级回报",
-          "url": "https://wallstreetcn.com/articles/3776532",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时51分]"
-        },
-        {
-          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
-          "url": "https://www.cls.cn/detail/2422188",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时07分 ~ 07时51分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "科创",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "一图看懂 | 下周打新，科创板最能赚钱的企业要来了",
@@ -653,34 +825,82 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时54分 ~ 07时51分]"
+        },
+        {
+          "title": "深成指、创业板指双双涨超1%，科创50指数涨超2%，沪指涨0.39%，玻璃基板、光刻机、CPO、存储芯片等方向涨幅居前，沪深京三市上涨个股超3500只。",
+          "url": "https://wallstreetcn.com/livenews/3131657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     },
     {
-      "keyword_group": "算力",
-      "match_count": 2,
+      "keyword_group": "存储",
+      "match_count": 3,
       "titles": [
         {
-          "title": "Meta：探索AI云业务是合理的，考虑出租算力",
-          "url": "https://wallstreetcn.com/livenews/3131509",
-          "source": "华尔街见闻-快讯",
+          "title": "兆易创新上半年净利润预增1099%，存储业务化身“印钞机” | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3776572",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            7,
+            6,
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 10时44分]"
         },
         {
-          "title": "扎克伯格否认Meta算力过剩，称：租出去可能更划算",
-          "url": "https://wallstreetcn.com/livenews/3131522",
-          "source": "华尔街见闻-快讯",
+          "title": "贝恩资本清仓铠侠！10年前“困境资产”接盘，“存储狂潮”造就史诗级回报",
+          "url": "https://wallstreetcn.com/articles/3776532",
+          "source": "华尔街见闻",
           "ranks": [
-            26
+            9,
+            8,
+            5,
+            6
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 10时44分]"
+        },
+        {
+          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
+          "url": "https://www.cls.cn/detail/2422188",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时07分 ~ 10时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中科曙光",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中科曙光宣布国内首个全国产十万卡AI超集群曙光8000（登峰）落成投用",
+          "url": "https://flash.jin10.com/detail/20260710103347691800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时07分"
+          "time_info": "10时44分"
         }
       ]
     }
