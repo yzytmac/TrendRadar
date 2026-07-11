@@ -1,934 +1,166 @@
 {
-  "generated_at": "2026-07-11T23:55:12.296308+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2026-07-12T00:55:19.574705+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 27,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "又一批A股公司业绩亮眼！5股半年报净利预计增长10倍",
-          "url": "https://www.cls.cn/detail/2423179",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时17分 ~ 18时01分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 07时40分]"
-        },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            4,
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时40分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
           "url": "https://wallstreetcn.com/articles/3776694",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时37分 ~ 23时55分]"
-        },
-        {
-          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
-          "url": "https://wallstreetcn.com/articles/3776629",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时17分 ~ 18时01分]"
-        },
-        {
-          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
-          "url": "https://www.cls.cn/detail/2423160",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时17分 ~ 20时06分]"
-        },
-        {
-          "title": "A股历史第四！存储“一哥”单日成交594亿，天量榜单还有谁？",
-          "url": "https://www.cls.cn/detail/2422969",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时17分 ~ 09时08分]"
-        },
-        {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时17分 ~ 16时28分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
           "url": "https://www.cls.cn/detail/2423438",
           "source": "财联社热门",
           "ranks": [
-            9,
-            6,
-            5,
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时39分 ~ 23时55分]"
-        },
-        {
-          "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
-          "url": "https://wallstreetcn.com/articles/3776623",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 05时35分]"
-        },
-        {
-          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2423243",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时17分 ~ 23时55分]"
-        },
-        {
-          "title": "存储芯片巨头SK海力士登陆美股",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%99%BB%E9%99%86%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 06时41分]"
-        },
-        {
-          "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
-          "url": "https://wallstreetcn.com/articles/3776623",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 06时41分]"
-        },
-        {
-          "title": "下周A股超40股限售解禁，7股解禁比例超10%",
-          "url": "https://wallstreetcn.com/livenews/3132343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时12分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2423581",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时06分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
-          "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
-          "url": "https://wallstreetcn.com/livenews/3132246",
+          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2423243",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "下周A股超40股限售解禁，7股解禁比例超10%",
+          "url": "https://wallstreetcn.com/livenews/3132343",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            11,
-            15,
-            17,
-            20
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时27分 ~ 09时08分]"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，日元做多收涨超0.4%",
-          "url": "https://wallstreetcn.com/livenews/3132248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时35分 ~ 09时08分]"
-        },
-        {
-          "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260711040603182800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时35分]"
-        },
-        {
-          "title": "金十图示：2026年07月10日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260711040543415800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时35分]"
-        },
-        {
-          "title": "A股商业航天板块午后“满屏涨停”",
-          "url": "https://www.toutiao.com/trending/7660879056061074985/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时18分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "A股下周怎么走",
           "url": "https://www.toutiao.com/trending/7661256578196049450/",
           "source": "今日头条",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时54分 ~ 23时55分]"
-        },
-        {
-          "title": "A股一周熊股出炉：最熊股跌超84%",
-          "url": "https://www.toutiao.com/trending/7660657298100764698/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时01分]"
-        },
-        {
-          "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260711003130071800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "金十图示：2026年07月10日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260711003030791800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "美股收盘：三大股指小幅走高 SK海力士收涨近13%",
-          "url": "https://flash.jin10.com/detail/20260711040123431800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "一周热榜精选：美国要求伊朗周六给承诺！SK海力士美股首日涨超12%",
-          "url": "https://flash.jin10.com/detail/20260711094525096800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "SK海力士美股首日开盘报170美元 IPO发行价为149美元",
-          "url": "https://flash.jin10.com/detail/20260710234610274800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "00时55分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
+          "url": "https://flash.jin10.com/detail/20260712002717195800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            6,
-            3,
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时37分 ~ 23时55分]"
-        },
-        {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时17分 ~ 14时37分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
           "url": "https://news.ifeng.com/c/8ufglrDUNWy",
           "source": "凤凰网",
           "ranks": [
-            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时37分 ~ 23时55分]"
-        },
-        {
-          "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
-          "url": "https://news.ifeng.com/c/8uec7dkVT5P",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时17分 ~ 12时28分]"
-        },
-        {
-          "title": "特朗普：伊朗要求继续谈判 美已同意",
-          "url": "https://www.toutiao.com/trending/7660909473094962730/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 07时40分]"
-        },
-        {
-          "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3132269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 09时08分]"
-        },
-        {
-          "title": "特朗普宣布美伊“停火结束”后，美军称暂无行动变化",
-          "url": "https://wallstreetcn.com/livenews/3132190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "00时55分"
         },
         {
-          "title": "美国总统特朗普：原来的那份协议我无法接受！新协议很棒，也很公平。感谢加拿大政府，并祝贺他们。愿我们两国在这一精彩的新工程上共同取得多年成功！！",
-          "url": "https://flash.jin10.com/detail/20260711120611427800",
-          "source": "金十数据",
+          "title": "特朗普在北约峰会说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时37分]"
-        },
-        {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://wallstreetcn.com/livenews/3132301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 16时28分]"
-        },
-        {
-          "title": "美国总统特朗普：我为美国争取到了一份“好得多”的协议，也因此，那座横跨底特律和加拿大安大略省温莎市的全新壮观的“戈迪·豪国际大桥”将按原计划于7月27日开通。",
-          "url": "https://flash.jin10.com/detail/20260711120605603800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时37分]"
-        },
-        {
-          "title": "特朗普又来喊单？2美元战争报价暴露开火空间！",
-          "url": "https://flash.jin10.com/detail/20260711120244661800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时37分]"
-        },
-        {
-          "title": "特朗普改口：美加跨国大桥将于27日通车",
-          "url": "https://wallstreetcn.com/livenews/3132331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时01分 ~ 21时54分]"
-        },
-        {
-          "title": "白宫证实特朗普已“清空”美选举援助委员会",
-          "url": "https://flash.jin10.com/detail/20260711134334234800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 16时28分]"
-        },
-        {
-          "title": "六成美国民众认为特朗普以权谋私",
-          "url": "https://www.toutiao.com/trending/7660740613621841939/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 22时51分]"
-        },
-        {
-          "title": "白宫证实特朗普已“清空”美选举援助委员会",
-          "url": "https://wallstreetcn.com/livenews/3132310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19,
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 18时01分]"
-        },
-        {
-          "title": "披露特朗普新专机安全缺陷的美国记者收到传票",
-          "url": "https://flash.jin10.com/detail/20260711210033072800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时54分 ~ 22时51分]"
-        },
-        {
-          "title": "特朗普再次发出警告：若伊朗企图暗杀我 数千枚导弹将向伊朗发射",
-          "url": "https://flash.jin10.com/detail/20260711112133723800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时37分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-11）",
-          "url": "https://flash.jin10.com/detail/20260711180323221800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时06分]"
-        },
-        {
-          "title": "据AXIOS：美国总统特朗普与沙特王储于周五就地区问题进行会谈，包括美伊谈判。",
-          "url": "https://flash.jin10.com/detail/20260711082355439800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "特朗普宣布美光将在美投资2500亿美元制造存储芯片",
-          "url": "https://flash.jin10.com/detail/20260711081643694800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "特朗普宣布美伊“停火结束”后 美军称暂无行动变化",
-          "url": "https://flash.jin10.com/detail/20260711002454575800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "特朗普改口：美加跨国大桥将于27日通车",
-          "url": "https://flash.jin10.com/detail/20260711162225573800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时01分"
-        },
-        {
-          "title": "土耳其外交部长：土方认为特朗普此前关于“停火结束”的表态，并不意味着停火协议真的终止，而是针对伊美之间近期发生事件的回应。",
-          "url": "https://flash.jin10.com/detail/20260711020724200800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "欧洲STOXX 600指数收涨0.04%，报641.10点，本周累计下跌1.79%。 欧元区STOXX 50指数收跌0.23%，报6269.97点，美国总统特朗普发帖后、在北京时间22:32出现一波短线跳水行情，本周累跌2.23%，周一至周三持续下挫。 富时泛欧绩优300指数收涨0.02%，报2567.04点。",
-          "url": "https://wallstreetcn.com/livenews/3132167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "00时55分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
           "title": "SK海力士CEO：2027年将迎来史上最严重存储芯片短缺，供不应求或持续至2030年后",
           "url": "https://wallstreetcn.com/articles/3776685",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时27分 ~ 23时55分]"
-        },
-        {
-          "title": "SK海力士考虑“内存即服务”模式，或允许客户租赁而非购买芯片",
-          "url": "https://wallstreetcn.com/livenews/3132193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时59分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "存储芯片股过去数周跌超20% 底层逻辑面临重估",
           "url": "https://wallstreetcn.com/livenews/3132353",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时54分 ~ 23时55分]"
-        },
-        {
-          "title": "美国放宽对阿联酋的出口限制，为AI芯片销售打开大门",
-          "url": "https://flash.jin10.com/detail/20260711003717069800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "SK海力士首席执行官预计存储芯片短缺将持续到下一个十年",
-          "url": "https://wallstreetcn.com/livenews/3132206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "SK海力士CEO：内存芯片短缺可能持续到2030年以后",
-          "url": "https://flash.jin10.com/detail/20260711015631376800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "大摩警告称：芯片制造商的定价能力面临更大压力",
-          "url": "https://wallstreetcn.com/livenews/3132169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "存储芯片股过去数周跌超20% 底层逻辑面临重估",
-          "url": "https://flash.jin10.com/detail/20260711200334609800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2422921",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 07时40分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.23%，报6120.74点，本周累计上涨3.53%。 热门中概股里，网易初步收跌4.5%，日月光半导体跌1.2%，腾讯跌1.1%，拼多多跌0.8%，阿里涨1%，比亚迪涨2.9%，小米集团涨3.4%。 ETF中，中国科技指数ETF（CQQQ）收跌2.68%，本周反弹3.06%； 德银嘉实沪深300指数ETF（ASHR）收跌1.39%，本周反弹0.63%； XtrackersHarvest中证50（ASHS）收跌1.33%，本周跌0.89%； 中概互联网指数ETF（KWEB）收跌0.38%，本周累涨5.56%、延续上周反弹4.39%的表现； MSCI新兴市场ex中国ETF（EMXC）收涨0.33%，本周反弹1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3132240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时41分]"
-        },
-        {
-          "title": "纳指科技股指数收涨将近0.7%，本周半导体指数涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/3132238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 09时08分]"
-        },
-        {
-          "title": "本周，标普累涨约1.2%，道指累跌约0.4%，纳指累涨1.7%，半导体指数累涨2.7%，存储芯片指数涨5.1%。 标普500指数初步收涨0.4%，原材料板块涨1.2%，电信板块涨1%，科技板块涨0.5%，能源板块涨0.5%。 纳斯达克100指数初步收涨0.3%，成分股中，Meta初步收涨6%，英伟达涨3.8%，希捷科技涨2.2%，SpaceX跌3.7%，CrowdStrike跌5.9%。",
-          "url": "https://wallstreetcn.com/livenews/3132238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "韩国BOBOO半导体关键耗材维修基地项目落地西安高新区",
-          "url": "https://flash.jin10.com/detail/20260711151104820800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
-          "url": "https://www.cls.cn/detail/2423447",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 16时28分]"
-        },
-        {
-          "title": "SpaceX投资纠纷落幕，马斯克盟友Kahlon胜诉。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3132194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时59分]"
-        },
-        {
-          "title": "据The Information：马斯克要求特斯拉(TSLA.O)员工转向使用Grok。",
-          "url": "https://flash.jin10.com/detail/20260711040529087800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "商业航天板块午后逆势拉升，可回收火箭技术落地重塑产业链估值",
-          "url": "https://www.cls.cn/detail/2423010",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时17分 ~ 12时28分]"
-        },
-        {
-          "title": "我国商业航天燃料实现多元化突破",
-          "url": "https://www.douyin.com/hot/2567185",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时54分 ~ 23时55分]"
-        },
-        {
-          "title": "商业航天板块引爆ETF行情，有ETF单日净申购近21亿元",
-          "url": "https://flash.jin10.com/detail/20260711090143044800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SemiAnalysis最新访谈：存储还有翻倍空间，CPU只是配角，CPO落地推迟至2029年",
-          "url": "https://wallstreetcn.com/articles/3776641",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时17分 ~ 14时37分]"
-        },
-        {
-          "title": "长江存储公布IPO辅导团队 中信与中信建投合计31人组成",
-          "url": "https://flash.jin10.com/detail/20260711223053682800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
+          "time_info": "00时55分"
         }
       ]
     },
@@ -941,64 +173,56 @@
           "url": "https://www.cls.cn/detail/2423220",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2,
-            1,
             4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时17分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
           "url": "https://www.cls.cn/detail/2422869",
           "source": "财联社热门",
           "ranks": [
-            9,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时27分 ~ 23时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【焦点复盘】科创50跌5.53%创成交额历史天量，个股炸板率激增至五成，TMT产业链大面积降温",
-          "url": "https://www.cls.cn/detail/2423004",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时17分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "低空经济",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国航协：下半年要深化通航与低空经济业务开展",
-          "url": "https://flash.jin10.com/detail/20260711152756572800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长江存储公布IPO辅导团队 中信与中信建投合计31人组成",
+          "url": "https://flash.jin10.com/detail/20260711223053682800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我国商业航天燃料实现多元化突破",
+          "url": "https://www.douyin.com/hot/2567185",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         }
       ]
     }
