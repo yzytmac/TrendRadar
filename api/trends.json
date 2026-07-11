@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:06:22.167560+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-07-12T06:08:08.780321+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时08分]"
+        },
+        {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时06分]"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -38,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时08分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -50,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时08分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -62,19 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时06分]"
-        },
-        {
-          "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
-          "url": "https://flash.jin10.com/detail/20260712034752790800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时06分"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时08分]"
         },
         {
           "title": "下周A股超40股限售解禁，7股解禁比例超10%",
@@ -85,8 +75,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时08分]"
+        },
+        {
+          "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
+          "url": "https://flash.jin10.com/detail/20260712034752790800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 06时08分]"
         },
         {
           "title": "A股下周怎么走",
@@ -106,7 +108,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         }
@@ -114,7 +116,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -125,8 +127,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时08分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -136,8 +138,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时08分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -150,8 +152,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时08分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -162,11 +164,45 @@
             6,
             12,
             14,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时08分]"
+        },
+        {
+          "title": "美国总统特朗普：即便所有媒体都对我极尽抹黑、充斥虚假新闻，我依旧以压倒性大胜拿下总统大选。由此可见，主流媒体毫无公信力可言！",
+          "url": "https://flash.jin10.com/detail/20260712053423358800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "六成美国民众认为特朗普以权谋私",
+          "url": "https://www.toutiao.com/trending/7660740613621841939/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时07分 ~ 06时08分]"
+        },
+        {
+          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://wallstreetcn.com/articles/3776705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时07分 ~ 06时08分]"
         }
       ]
     },
@@ -182,11 +218,12 @@
             1,
             7,
             9,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 05时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时08分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -196,8 +233,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[04时07分 ~ 06时08分]"
         }
       ]
     },
@@ -225,8 +262,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时08分]"
         }
       ]
     },
@@ -241,11 +278,12 @@
           "ranks": [
             5,
             7,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[02时59分 ~ 06时08分]"
         },
         {
           "title": "长江存储公布IPO辅导团队 中信与中信建投合计31人组成",
@@ -276,8 +314,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时08分]"
         },
         {
           "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
@@ -302,11 +340,12 @@
           "source": "今日头条",
           "ranks": [
             29,
-            25
+            25,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[04时07分 ~ 06时08分]"
         }
       ]
     },
@@ -322,8 +361,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时08分]"
         }
       ]
     }
