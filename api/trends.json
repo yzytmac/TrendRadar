@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T22:51:12.330839+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-07-11T23:55:12.296308+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "又一批A股公司业绩亮眼！5股半年报净利预计增长10倍",
@@ -43,8 +43,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时40分 ~ 22时51分]"
+          "appearance_count": 18,
+          "time_info": "[06时40分 ~ 23时55分]"
+        },
+        {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时37分 ~ 23时55分]"
         },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -77,21 +92,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[01时17分 ~ 20时06分]"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时37分 ~ 22时51分]"
         },
         {
           "title": "A股历史第四！存储“一哥”单日成交594亿，天量榜单还有谁？",
@@ -134,8 +134,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时39分 ~ 22时51分]"
+          "appearance_count": 16,
+          "time_info": "[07时39分 ~ 23时55分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -161,8 +161,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时17分 ~ 22时51分]"
+          "appearance_count": 24,
+          "time_info": "[01时17分 ~ 23时55分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
@@ -187,6 +187,33 @@
           "time_info": "[06时40分 ~ 06时41分]"
         },
         {
+          "title": "下周A股超40股限售解禁，7股解禁比例超10%",
+          "url": "https://wallstreetcn.com/livenews/3132343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时12分 ~ 23时55分]"
+        },
+        {
+          "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2423581",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时06分 ~ 23时55分]"
+        },
+        {
           "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
           "url": "https://wallstreetcn.com/livenews/3132246",
           "source": "华尔街见闻-快讯",
@@ -202,20 +229,6 @@
           "time_info": "[04时27分 ~ 09时08分]"
         },
         {
-          "title": "下周A股超40股限售解禁，7股解禁比例超10%",
-          "url": "https://wallstreetcn.com/livenews/3132343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 22时51分]"
-        },
-        {
           "title": "美股大类资产类ETF涨跌各异，日元做多收涨超0.4%",
           "url": "https://wallstreetcn.com/livenews/3132248",
           "source": "华尔街见闻-快讯",
@@ -228,18 +241,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时35分 ~ 09时08分]"
-        },
-        {
-          "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2423581",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时06分 ~ 22时51分]"
         },
         {
           "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -275,6 +276,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 01时18分]"
+        },
+        {
+          "title": "A股下周怎么走",
+          "url": "https://www.toutiao.com/trending/7661256578196049450/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "A股一周熊股出炉：最熊股跌超84%",
@@ -349,6 +361,21 @@
       "match_count": 24,
       "titles": [
         {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时37分 ~ 23时55分]"
+        },
+        {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
           "url": "https://news.ifeng.com/c/8udchHV60GP",
           "source": "凤凰网",
@@ -361,20 +388,6 @@
           "time_info": "[01时17分 ~ 14时37分]"
         },
         {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时37分 ~ 22时51分]"
-        },
-        {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
           "url": "https://news.ifeng.com/c/8ufglrDUNWy",
           "source": "凤凰网",
@@ -383,8 +396,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时37分 ~ 22时51分]"
+          "appearance_count": 11,
+          "time_info": "[14时37分 ~ 23时55分]"
         },
         {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
@@ -654,8 +667,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时27分 ~ 22时51分]"
+          "appearance_count": 13,
+          "time_info": "[12时27分 ~ 23时55分]"
         },
         {
           "title": "SK海力士考虑“内存即服务”模式，或允许客户租赁而非购买芯片",
@@ -678,8 +691,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时54分 ~ 22时51分]"
+          "appearance_count": 3,
+          "time_info": "[21时54分 ~ 23时55分]"
         },
         {
           "title": "美国放宽对阿联酋的出口限制，为AI芯片销售打开大门",
@@ -870,8 +883,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时54分 ~ 22时51分]"
+          "appearance_count": 5,
+          "time_info": "[21时54分 ~ 23时55分]"
         },
         {
           "title": "商业航天板块引爆ETF行情，有ETF单日净申购近21亿元",
@@ -887,6 +900,39 @@
       ]
     },
     {
+      "keyword_group": "存储",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SemiAnalysis最新访谈：存储还有翻倍空间，CPU只是配角，CPO落地推迟至2029年",
+          "url": "https://wallstreetcn.com/articles/3776641",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时17分 ~ 14时37分]"
+        },
+        {
+          "title": "长江存储公布IPO辅导团队 中信与中信建投合计31人组成",
+          "url": "https://flash.jin10.com/detail/20260711223053682800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力",
       "match_count": 2,
       "titles": [
@@ -897,11 +943,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时17分 ~ 22时51分]"
+          "appearance_count": 24,
+          "time_info": "[01时17分 ~ 23时55分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -914,8 +961,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时27分 ~ 22时51分]"
+          "appearance_count": 13,
+          "time_info": "[12时27分 ~ 23时55分]"
         }
       ]
     },
@@ -935,28 +982,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时17分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SemiAnalysis最新访谈：存储还有翻倍空间，CPU只是配角，CPO落地推迟至2029年",
-          "url": "https://wallstreetcn.com/articles/3776641",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时17分 ~ 14时37分]"
         }
       ]
     },
