@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T19:32:25.733261+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-07-13T21:42:03.482279+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "多股应声涨停！A股中报行情纵深推进，16家上市公司净利最高同比预增超10倍",
@@ -31,6 +31,42 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 09时14分]"
+        },
+        {
+          "title": "AI恐慌叠加中东局势升温，美股指涨跌互现，存储芯片股普跌，SK海力士跌8%，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
+          "title": "赛力斯A股股价跌停",
+          "url": "https://www.toutiao.com/trending/7661625503505252393/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
+          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
+          "url": "https://wallstreetcn.com/articles/3776747",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 21时42分]"
         },
         {
           "title": "东亚财管：港股下半年或迎来阶段性反弹，调低恒指目标至27100点",
@@ -101,17 +137,38 @@
           "time_info": "[16时15分 ~ 19时32分]"
         },
         {
-          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
-          "url": "https://wallstreetcn.com/articles/3776747",
-          "source": "华尔街见闻",
+          "title": "A股存储一哥回应跌停",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E4%B8%80%E5%93%A5%E5%9B%9E%E5%BA%94%E8%B7%8C%E5%81%9C%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            8,
-            6
+            17,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时49分 ~ 19时32分]"
+          "time_info": "[19时32分 ~ 21时42分]"
+        },
+        {
+          "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
+          "url": "https://www.cls.cn/detail/2424724",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
+          "title": "中东局势升级叠加AI交易降温 美股期指走弱 芯片股集体承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2424933",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
         },
         {
           "title": "美股知名“大空头”看好非科技板块，市场的逻辑正在发生深刻转变！",
@@ -158,6 +215,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3132925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
           "url": "https://flash.jin10.com/detail/20260713060020016800",
           "source": "金十数据",
@@ -180,13 +248,24 @@
           "time_info": "16时15分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-13）",
+          "url": "https://flash.jin10.com/detail/20260713210918009800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "A股齐跌 00后股民：半年白干",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%BD%90%E8%B7%8C+00%E5%90%8E%E8%82%A1%E6%B0%91%EF%BC%9A%E5%8D%8A%E5%B9%B4%E7%99%BD%E5%B9%B2",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -211,17 +290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
-        },
-        {
-          "title": "A股存储一哥回应跌停",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E4%B8%80%E5%93%A5%E5%9B%9E%E5%BA%94%E8%B7%8C%E5%81%9C%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
         },
         {
           "title": "【A股收盘：沪指低开低走跌超2%，全市场下跌个股超4600只】市场全天低开低走，三大指数集体下挫。氦气概念逆势走强，九丰能源、水发燃气涨停。中药股盘中活跃，陇神戎发、九芝堂、天目药业等涨停。下跌方面，半导体芯片股下挫，兆易创新、香农芯创等多股跌停；算力硬件股大幅调整，生益科技、金安国纪等跌停。个股呈现普跌态势，沪深京三市超4600股飘绿，今日成交逾2.83万亿。截止收盘沪指跌2.06%，深成指跌3.48%，创业板指跌3.1%。",
@@ -263,7 +331,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -282,7 +350,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -294,6 +362,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时27分 ~ 07时36分]"
+        },
+        {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时14分 ~ 21时42分]"
         },
         {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
@@ -318,18 +398,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时36分]"
-        },
-        {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 19时32分]"
         },
         {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
@@ -364,8 +432,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 19时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 21时42分]"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
@@ -425,6 +493,39 @@
           "time_info": "12时49分"
         },
         {
+          "title": "特朗普：我们会给格雷厄姆办一场特别的葬礼。",
+          "url": "https://wallstreetcn.com/livenews/3132916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
+          "title": "特朗普称要接管霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3132914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
+          "title": "特朗普：若冗长辩论规则不终结，9月可能出现政府停摆。 我们正在接管霍尔穆兹海峡。 伊朗一无所有。 伊朗什么都没得到。 伊朗从我这里什么都没得到。 昨晚对伊朗进行了重击。 我们将可能负责管理霍尔木兹海峡。 如果由美国负责霍尔木兹海峡，美国将获得补偿。 我们将成为海峡的守护者。 我们会因为守卫它而获得报酬。",
+          "url": "https://wallstreetcn.com/livenews/3132913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "特朗普：伊朗昨天已同意“完美协议”，但转头就开了火",
           "url": "https://flash.jin10.com/detail/20260712220334979800",
           "source": "金十数据",
@@ -469,6 +570,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "特朗普：伊朗总是撕毁协议，所以要狠狠打击他们",
+          "url": "https://flash.jin10.com/detail/20260713205510868800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "美伊博弈重启，特朗普将目光锁定油价！",
           "url": "https://flash.jin10.com/detail/20260713120241521800",
           "source": "金十数据",
@@ -494,7 +606,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
@@ -559,6 +671,18 @@
           "time_info": "09时14分"
         },
         {
+          "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
+          "url": "https://wallstreetcn.com/articles/3776758",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 21时42分]"
+        },
+        {
           "title": "基本半导体(09971.HK)公告，其部分产品价格预计上调幅度最高不超过25%，具体调整方案将根据产品类别、订单规模、合作模式、市场区域及双方商业安排等因素综合确定，并与相关客户有序实施。",
           "url": "https://flash.jin10.com/detail/20260713060353055800",
           "source": "金十数据",
@@ -571,17 +695,6 @@
           "time_info": "[06时32分 ~ 07时36分]"
         },
         {
-          "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
-          "url": "https://wallstreetcn.com/articles/3776758",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
           "title": "台积电成熟制程也要涨价？半导体成本传导恐向全产业链扩散",
           "url": "https://flash.jin10.com/detail/20260713120725411800",
           "source": "金十数据",
@@ -591,12 +704,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "【TCL科技：预计上半年净利润同比增长96%-108%】TCL科技公告，预计2026年上半年净利润为37亿元—39.2亿元，同比增长96%—108%。报告期内，公司聚焦半导体显示、新能源光伏和半导体材料业务的核心主业发展，坚持战略引领、创新驱动、先进制造、全球经营，持续提升相对竞争力，实现高质量可持续发展。",
+          "url": "https://wallstreetcn.com/livenews/3132890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国内存芯片制造商股价在盘前交易中下跌，美光科技下跌6.6%，闪迪下跌6.5%，希捷科技下跌5.4%，西部数据下跌6.6%。",
@@ -622,6 +746,17 @@
           "time_info": "[12时49分 ~ 16时15分]"
         },
         {
+          "title": "全球首颗近存计算3D芯片发布",
+          "url": "https://www.douyin.com/hot/2569670",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
           "title": "全球首颗软件定义近存计算3D芯片在上海发布",
           "url": "https://wallstreetcn.com/livenews/3132686",
           "source": "华尔街见闻-快讯",
@@ -644,6 +779,17 @@
           "time_info": "12时49分"
         },
         {
+          "title": "英特尔将斥资50亿欧元扩建爱尔兰工厂，以保持在AI芯片竞赛中的竞争力",
+          "url": "https://wallstreetcn.com/livenews/3132915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "据英国金融时报：投资者正在减少对亚洲芯片制造商的押注。",
           "url": "https://flash.jin10.com/detail/20260713120656219800",
           "source": "金十数据",
@@ -653,6 +799,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 06时32分]"
+        },
+        {
+          "title": "招商证券：海外科技波动加大 关注国产算力机会",
+          "url": "https://flash.jin10.com/detail/20260712215048587800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "AI算力需求爆发 光纤量价齐升 多家企业启动扩产计划",
+          "url": "https://wallstreetcn.com/livenews/3132473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "【生益电子：预计上半年净利润10.82亿元到11.37亿元，同比增加104%到114%】受益于AI算力及高速通信等下游领域的高景气需求，公司紧扣战略定位，深入实施“市场引领，双轮驱动”方针，持续聚焦高端市场的结构性增长机会，优化产品结构，有序推进增资扩产项目建设，尤其是智能算力中心高多层高密互连电路板项目按计划高效落地并快速释放效益。同时公司在技术演进与供应链重构中持续构建经营韧性，不断夯实质量管理根基，市场竞争优势进一步巩固。2026年半年度营业收入和净利润较上年同期实现增长。",
+          "url": "https://wallstreetcn.com/livenews/3132894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     },
@@ -717,11 +913,12 @@
           "ranks": [
             9,
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 19时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 21时42分]"
         },
         {
           "title": "“加息噩梦”萦绕？高盛：AI或引爆美国通胀 存储暴涨是核心推手",
@@ -733,45 +930,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时32分]"
-        },
-        {
-          "title": "招商证券：海外科技波动加大 关注国产算力机会",
-          "url": "https://flash.jin10.com/detail/20260712215048587800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "AI算力需求爆发 光纤量价齐升 多家企业启动扩产计划",
-          "url": "https://wallstreetcn.com/livenews/3132473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
         }
       ]
     },
@@ -809,7 +967,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         }
@@ -894,6 +1052,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "胜宏科技",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【胜宏科技：网络平台上流传关于公司产品、市场份额、项目进展等负面传闻，内容严重失实】1、网络流传相关言论不属实。公司是国内外AI头部大客户的长期战略合作伙伴，胜宏科技始终将“品质”和“安全”视为企业的生命线，公司严格按照客户标准管理。 2、当前，AI相关PCB产品需求旺盛，公司在手订单持续增长。公司生产、出货一切正常，头部客户订单持续增加。 3、公司与核心客户保持密切沟通，与客户合作开发的研发迭代产品正顺利推进当中。部分客户已释放2027–2028年长期需求，公司对后续生产经营及效益实现充满信心。",
+          "url": "https://wallstreetcn.com/livenews/3132888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     },
