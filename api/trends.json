@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T16:15:19.757163+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-07-13T19:32:25.733261+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "多股应声涨停！A股中报行情纵深推进，16家上市公司净利最高同比预增超10倍",
@@ -50,7 +50,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -89,27 +89,29 @@
           "time_info": "[06时32分 ~ 07时36分]"
         },
         {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 19时32分]"
+        },
+        {
           "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
           "url": "https://wallstreetcn.com/articles/3776747",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 16时15分]"
-        },
-        {
-          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 19时32分]"
         },
         {
           "title": "美股知名“大空头”看好非科技板块，市场的逻辑正在发生深刻转变！",
@@ -118,7 +120,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -173,9 +175,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "A股齐跌 00后股民：半年白干",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%BD%90%E8%B7%8C+00%E5%90%8E%E8%82%A1%E6%B0%91%EF%BC%9A%E5%8D%8A%E5%B9%B4%E7%99%BD%E5%B9%B2",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "A股收盘：创业板指、深成指均跌超3%",
@@ -184,7 +197,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -195,9 +208,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "A股存储一哥回应跌停",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E4%B8%80%E5%93%A5%E5%9B%9E%E5%BA%94%E8%B7%8C%E5%81%9C%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "【A股收盘：沪指低开低走跌超2%，全市场下跌个股超4600只】市场全天低开低走，三大指数集体下挫。氦气概念逆势走强，九丰能源、水发燃气涨停。中药股盘中活跃，陇神戎发、九芝堂、天目药业等涨停。下跌方面，半导体芯片股下挫，兆易创新、香农芯创等多股跌停；算力硬件股大幅调整，生益科技、金安国纪等跌停。个股呈现普跌态势，沪深京三市超4600股飘绿，今日成交逾2.83万亿。截止收盘沪指跌2.06%，深成指跌3.48%，创业板指跌3.1%。",
@@ -206,7 +230,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -231,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "沪指险守3900点 A股能否修复",
+          "url": "https://www.toutiao.com/trending/7661628763322597417/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "年内激增超过2000亿元，A股科技类ETF规模突破5400亿元",
@@ -293,8 +328,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 16时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 19时32分]"
         },
         {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
@@ -317,9 +352,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 19时32分]"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
@@ -352,18 +398,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -451,7 +486,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         }
@@ -459,7 +494,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
@@ -500,6 +535,19 @@
           "time_info": "[09时14分 ~ 16时15分]"
         },
         {
+          "title": "半导体设备龙头复牌巨震：从大跌18%到拉升大涨",
+          "url": "https://www.cls.cn/detail/2424235",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 19时32分]"
+        },
+        {
           "title": "新莱应材：半导体大厂扩产将直接带动洁净室相关设备及零部件需求",
           "url": "https://flash.jin10.com/detail/20260713091133255800",
           "source": "金十数据",
@@ -509,18 +557,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
-        },
-        {
-          "title": "半导体设备龙头复牌巨震：从大跌18%到拉升大涨",
-          "url": "https://www.cls.cn/detail/2424235",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 16时15分]"
         },
         {
           "title": "基本半导体(09971.HK)公告，其部分产品价格预计上调幅度最高不超过25%，具体调整方案将根据产品类别、订单规模、合作模式、市场区域及双方商业安排等因素综合确定，并与相关客户有序实施。",
@@ -533,6 +569,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时36分]"
+        },
+        {
+          "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
+          "url": "https://wallstreetcn.com/articles/3776758",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "台积电成熟制程也要涨价？半导体成本传导恐向全产业链扩散",
@@ -558,7 +605,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -581,7 +628,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -642,7 +689,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         }
@@ -669,11 +716,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 16时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 19时32分]"
         },
         {
           "title": "“加息噩梦”萦绕？高盛：AI或引爆美国通胀 存储暴涨是核心推手",
@@ -682,7 +730,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         }
@@ -728,6 +776,46 @@
       ]
     },
     {
+      "keyword_group": "中国卫星",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国卫星：预计上半年业绩扭亏为盈",
+          "url": "https://wallstreetcn.com/livenews/3132405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时32分]"
+        },
+        {
+          "title": "中国卫星、赛力斯、杉杉股份等半年报业绩预告发布",
+          "url": "https://www.cls.cn/detail/2423834",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "中国卫星：中国空间技术研究院减持0.71%股份，持股比例降至50.75%",
+          "url": "https://wallstreetcn.com/livenews/3132827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中际旭创",
       "match_count": 2,
       "titles": [
@@ -752,35 +840,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国卫星",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国卫星：预计上半年业绩扭亏为盈",
-          "url": "https://wallstreetcn.com/livenews/3132405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时32分]"
-        },
-        {
-          "title": "中国卫星、赛力斯、杉杉股份等半年报业绩预告发布",
-          "url": "https://www.cls.cn/detail/2423834",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
         }
       ]
     },
@@ -814,9 +873,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 19时32分]"
         }
       ]
     },
