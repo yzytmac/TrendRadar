@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T20:52:19.445617+08:00",
-  "total_titles_processed": 1702,
+  "generated_at": "2026-07-16T22:59:21.195885+08:00",
+  "total_titles_processed": 1841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -55,6 +55,21 @@
           "time_info": "[00时46分 ~ 07时41分]"
         },
         {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时40分 ~ 22时59分]"
+        },
+        {
           "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
           "source": "澎湃新闻",
@@ -70,21 +85,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时46分 ~ 17时02分]"
-        },
-        {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时40分 ~ 20时52分]"
         },
         {
           "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
@@ -194,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
+          "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "美国总统特朗普：国防生产需要再加快一些速度。",
@@ -401,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "甲骨文创始人因与特朗普的“腐败”华纳兄弟交易遭起诉",
+          "url": "https://wallstreetcn.com/livenews/3135144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "据华尔街日报：特朗普正考虑扩大对伊朗的军事行动，包括加强空袭、派地面部队控制霍尔木兹海峡附近岛屿及打击核相关设施，但尚未作出最终决定。",
@@ -846,7 +868,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
@@ -890,6 +912,19 @@
           "time_info": "[00时46分 ~ 12时26分]"
         },
         {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 22时59分]"
+        },
+        {
           "title": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
@@ -912,18 +947,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时46分 ~ 09时08分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 20时52分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
@@ -986,6 +1009,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "联合健康美股盘前涨超8%，公司二季度业绩超预期，并上调全年业绩指引。",
           "url": "https://wallstreetcn.com/livenews/3135023",
           "source": "华尔街见闻-快讯",
@@ -1041,11 +1075,12 @@
           "ranks": [
             18,
             15,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 20时52分]"
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 22时59分]"
         },
         {
           "title": "A股",
@@ -1126,7 +1161,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -1137,9 +1172,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2428765",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "台积电美股夜盘跌0.5%。",
@@ -1373,13 +1419,24 @@
           "time_info": "06时33分"
         },
         {
+          "title": "A股画风又变了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%94%BB%E9%A3%8E%E5%8F%88%E5%8F%98%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "A股调整的“锅”该不该量化“背”",
           "url": "https://www.toutiao.com/trending/7662968668338536489/",
           "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -1401,7 +1458,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -1431,7 +1488,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "【每日收评】沪指跌近2%失守3900点，医药、影视股逆势活跃，芯片产业链持续调整",
@@ -1439,11 +1496,23 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时52分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 22时59分]"
+        },
+        {
+          "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
+          "url": "https://www.cls.cn/detail/2428746",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "存储芯片股为何再度跳水",
@@ -1452,11 +1521,12 @@
           "ranks": [
             15,
             23,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 20时52分]"
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 22时59分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落跌超1%，创新药板块集体爆发，芯片产业链再遭重挫",
@@ -1468,6 +1538,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "新一代理想L6发布：搭载自研马赫M100芯片，售价24.98万元",
+          "url": "https://wallstreetcn.com/livenews/3135142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "信维通信7月16日在互动平台表示，公司已为北美大客户提供高频高速连接器、相控阵天线等地面终端核心零部件，暂不涉及芯片。",
@@ -1501,6 +1582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "日产芯片超15亿块 什么概念",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E4%BA%A7%E8%8A%AF%E7%89%87%E8%B6%8515%E4%BA%BF%E5%9D%97+%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "存储芯片股为何再度跳水",
@@ -1583,11 +1675,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时52分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 22时59分]"
+        },
+        {
+          "title": "存储为何再度跳水？",
+          "url": "https://wallstreetcn.com/articles/3777083",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 22时59分]"
         },
         {
           "title": "史上最大单日跌幅！IBM二季度营收不及预期，CEO称“没预料到客户预算转向存储等硬件”",
@@ -1599,17 +1703,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 03时14分]"
-        },
-        {
-          "title": "存储为何再度跳水？",
-          "url": "https://wallstreetcn.com/articles/3777083",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 20时52分]"
         },
         {
           "title": "韩股又跌至熔断，“存储双雄”重挫！谁是背后推手？",
@@ -1662,8 +1755,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时52分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 22时59分]"
         },
         {
           "title": "沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹",
@@ -1672,9 +1765,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 22时59分]"
         },
         {
           "title": "【DeepSeek估值超3500亿元】上市公司开润股份一纸投资进展公告，意外披露了国内头部人工智能企业“深度求索”（DeepSeek）的最新市场估值。按公告数据推算，DeepSeek本轮融资后估值已攀升至约3510亿元。记者从接近DeepSeek处人士确认，随着本轮融资完成，该公司目前已经开始启动第二轮融资了，但是年底是否冲刺科创板，目前并未确定。不过，该人士并未透露更多细节。（上证报）",
@@ -1683,7 +1776,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -1714,8 +1807,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 20时52分]"
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 22时59分]"
+        },
+        {
+          "title": "涉晶圆刻蚀、清洗等环节 两大半导体材料齐涨价",
+          "url": "https://www.cls.cn/detail/2428607",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 22时59分]"
         },
         {
           "title": "半导体行业涨价潮蔓延！光刻机巨头据悉酝酿提价 台积电反对",
@@ -1729,17 +1834,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时02分 ~ 20时52分]"
-        },
-        {
-          "title": "涉晶圆刻蚀、清洗等环节 两大半导体材料齐涨价",
-          "url": "https://www.cls.cn/detail/2428607",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
         },
         {
           "title": "欧姆龙：将扩大与英伟达在半导体晶圆检测技术领域的合作。",
@@ -1759,7 +1853,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         }
@@ -1798,7 +1892,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         }
@@ -1891,7 +1985,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         }
