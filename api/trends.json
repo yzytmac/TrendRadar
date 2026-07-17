@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-17T18:28:14.091498+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-07-17T19:52:59.566339+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
+        {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 19时52分]"
+        },
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
           "url": "https://wallstreetcn.com/articles/3776964",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 06时18分]"
-        },
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 18时28分]"
         },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -164,17 +164,6 @@
           "time_info": "16时37分"
         },
         {
-          "title": "中际旭创港股上市获中国证监会备案",
-          "url": "https://wallstreetcn.com/livenews/3135665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
           "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
           "url": "https://wallstreetcn.com/livenews/3135298",
           "source": "华尔街见闻-快讯",
@@ -221,6 +210,18 @@
           "time_info": "16时37分"
         },
         {
+          "title": "中际旭创港股上市获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3135665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时52分]"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
           "url": "https://wallstreetcn.com/livenews/3135254",
           "source": "华尔街见闻-快讯",
@@ -257,6 +258,18 @@
           "time_info": "[16时37分 ~ 18时28分]"
         },
         {
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 19时52分]"
+        },
+        {
           "title": "巴菲特怒斥美股投机狂热",
           "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E6%80%92%E6%96%A5%E7%BE%8E%E8%82%A1%E6%8A%95%E6%9C%BA%E7%8B%82%E7%83%AD",
           "source": "bilibili 热搜",
@@ -277,6 +290,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 14时32分]"
+        },
+        {
+          "title": "A股杀跌是中期调整还是牛市结束",
+          "url": "https://www.toutiao.com/trending/7663417152111644223/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 19时52分]"
         },
         {
           "title": "A股",
@@ -303,6 +327,17 @@
           "time_info": "[14时31分 ~ 16时37分]"
         },
         {
+          "title": "A股今天暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 19时52分]"
+        },
+        {
           "title": "美股芯片股深夜大跌",
           "url": "https://www.toutiao.com/trending/7663271539885739558/",
           "source": "今日头条",
@@ -324,17 +359,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时46分]"
-        },
-        {
-          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
-          "url": "https://wallstreetcn.com/articles/3777165",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
@@ -361,28 +385,6 @@
           "time_info": "[05时16分 ~ 06时18分]"
         },
         {
-          "title": "A股杀跌是中期调整还是牛市结束",
-          "url": "https://www.toutiao.com/trending/7663417152111644223/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
-        },
-        {
-          "title": "A股今天暴跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
-        },
-        {
           "title": "A股流动性指标",
           "url": "https://flash.jin10.com/detail/20260717083258859800",
           "source": "金十数据",
@@ -403,6 +405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "A股重磅信号！多只宽基ETF，显著放量！大资金再度出手？",
+          "url": "https://wallstreetcn.com/articles/3777184",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "A股新易盛盘中跌15.02%，现报461.10元。",
@@ -630,8 +643,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 18时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 19时52分]"
         },
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -641,8 +654,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 19时52分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -969,6 +982,20 @@
           "time_info": "[09时01分 ~ 14时32分]"
         },
         {
+          "title": "30家科创板公司中报预喜：22家净利润增长，6家扭亏为盈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600948",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 19时52分]"
+        },
+        {
           "title": "上证指数早盘收报3818.59点，跌1.64%。 深证成指早盘收报13953.26点，跌3.70%。 创业板指早盘收报3518.65点，跌4.71%。 沪深300早盘收报4583.23点，跌2.45%。 科创50早盘收报1763.22点，跌4.53%。 中证500早盘收报7691.88点，跌3.32%。 中证1000早盘收报7392.22点，跌3.14%。",
           "url": "https://wallstreetcn.com/livenews/3135449",
           "source": "华尔街见闻-快讯",
@@ -980,28 +1007,16 @@
           "time_info": "12时15分"
         },
         {
-          "title": "30家科创板公司中报预喜：22家净利润增长，6家扭亏为盈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600948",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 18时28分]"
-        },
-        {
           "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
           "url": "https://www.cls.cn/detail/2429589",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 19时52分]"
         },
         {
           "title": "长鑫科技打新开启：科创板史上最大IPO，中一签能赚多少？",
@@ -1054,7 +1069,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1138,7 +1153,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1149,7 +1164,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1190,7 +1205,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -1229,8 +1244,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 18时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 19时52分]"
         },
         {
           "title": "台积电法说会实录：今年资本支出加码至640亿美元 高端芯片紧缺还将延续几年",
@@ -1278,6 +1293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "告别“芯片独大”，下半年股市轮动或加速",
+          "url": "https://flash.jin10.com/detail/20260717192904043800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "管理规模达470亿美元的南非基金经理减持AI芯片股 转而加码印度股市",
@@ -1355,6 +1381,72 @@
       ]
     },
     {
+      "keyword_group": "存储",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
+          "url": "https://wallstreetcn.com/articles/3777098",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 16时37分]"
+        },
+        {
+          "title": "存储为何再度跳水？",
+          "url": "https://wallstreetcn.com/articles/3777083",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时02分]"
+        },
+        {
+          "title": "多氟多：G5级电子级氢氟酸已持续稳定批量供应长鑫存储等",
+          "url": "https://wallstreetcn.com/livenews/3135690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "SK海力士大幅回调！崔泰源喊话坚守持仓：存储需求将呈指数级增长",
+          "url": "https://www.cls.cn/detail/2429565",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "科技股抛售潮蔓延，纳指100期货跌1.5%，盘前存储股跌幅收窄，布油涨2%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力",
       "match_count": 4,
       "titles": [
@@ -1398,7 +1490,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
@@ -1446,39 +1538,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 02时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
-          "url": "https://wallstreetcn.com/articles/3777098",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 16时37分]"
-        },
-        {
-          "title": "存储为何再度跳水？",
-          "url": "https://wallstreetcn.com/articles/3777083",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时02分]"
         }
       ]
     },
@@ -1552,6 +1611,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "炬光科技",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "睿远基金旗下产品最新重仓股曝光：傅鹏博首次建仓炬光科技，赵枫买回药明生物",
+          "url": "https://wallstreetcn.com/livenews/3135667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "领益智造",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "领益智造：公司增加回购公司股份的资金总额，回购股份资金总额由“不低于2亿元（含），不超过4亿元（含）”调整为“不低于4亿元（含），不超过8亿元（含）”。",
+          "url": "https://wallstreetcn.com/livenews/3135683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
