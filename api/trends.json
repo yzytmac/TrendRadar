@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T14:32:13.314375+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-07-17T16:37:25.953577+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 39,
+      "match_count": 48,
       "titles": [
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -30,6 +30,17 @@
           "time_info": "[00时21分 ~ 05时16分]"
         },
         {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 16时37分]"
+        },
+        {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2428765",
           "source": "财联社热门",
@@ -41,17 +52,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 12时15分]"
-        },
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时32分]"
         },
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -71,11 +71,12 @@
           "ranks": [
             19,
             18,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时46分 ~ 14时32分]"
+          "appearance_count": 14,
+          "time_info": "[01时46分 ~ 16时37分]"
         },
         {
           "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
@@ -151,6 +152,17 @@
           "time_info": "09时02分"
         },
         {
+          "title": "UBS将交通银行A股评级从中性上调至买进，目标价8.10元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3135581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
           "url": "https://wallstreetcn.com/livenews/3135298",
           "source": "华尔街见闻-快讯",
@@ -162,15 +174,39 @@
           "time_info": "06时18分"
         },
         {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 16时37分]"
+        },
+        {
           "title": "A股小金属板块重挫，中钨高新、长裕集团跌停，云南锗业、华锡有色、宜安科技、厦门钨业、西部材料等跟跌。",
           "url": "https://flash.jin10.com/detail/20260717135601192800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普跌，闪迪跌约6%，纳斯达克100指数期货跌1.8%",
+          "url": "https://wallstreetcn.com/livenews/3135572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
@@ -197,18 +233,6 @@
           "time_info": "[05时16分 ~ 06时18分]"
         },
         {
-          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
-          "url": "https://www.cls.cn/detail/2429026",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时32分]"
-        },
-        {
           "title": "巴菲特怒斥美股投机狂热",
           "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E6%80%92%E6%96%A5%E7%BE%8E%E8%82%A1%E6%8A%95%E6%9C%BA%E7%8B%82%E7%83%AD",
           "source": "bilibili 热搜",
@@ -229,6 +253,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 14时32分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时37分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时37分]"
         },
         {
           "title": "美股芯片股深夜大跌",
@@ -278,26 +326,15 @@
           "time_info": "[05时16分 ~ 06时18分]"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "title": "A股正迎来年内难得的黄金买点",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%AD%A3%E8%BF%8E%E6%9D%A5%E5%B9%B4%E5%86%85%E9%9A%BE%E5%BE%97%E7%9A%84%E9%BB%84%E9%87%91%E4%B9%B0%E7%82%B9%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "A股流动性指标",
@@ -311,13 +348,24 @@
           "time_info": "09时02分"
         },
         {
+          "title": "美股期货下跌 半导体抛售加剧推动投资者转向其他板块",
+          "url": "https://flash.jin10.com/detail/20260717162337933800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "A股新易盛盘中跌15.02%，现报461.10元。",
           "url": "https://flash.jin10.com/detail/20260717134604404800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -410,15 +458,37 @@
           "time_info": "05时16分"
         },
         {
+          "title": "港股收评：恒生科技指数收跌4.37% AI、生物技术、半导体概念大挫",
+          "url": "https://flash.jin10.com/detail/20260717161426733800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "A股创新药概念跌势扩大，百奥赛图、百诚医药20cm跌停，药康生物、泓博医药、前沿生物、华纳药厂等多股跌超10%。",
           "url": "https://wallstreetcn.com/livenews/3135490",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "动量崩塌、美股随时都会绷不住？“大空头”盯上港股便宜筹码",
+          "url": "https://flash.jin10.com/detail/20260717161406074800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "港股南方两倍做多三星电子跌超20%，南方两倍做多海力士跌超18%。",
@@ -443,6 +513,28 @@
           "time_info": "05时16分"
         },
         {
+          "title": "峰哥称不再点评A股",
+          "url": "https://s.weibo.com/weibo?q=%E5%B3%B0%E5%93%A5%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%82%B9%E8%AF%84A%E8%82%A1&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "港股收盘，恒生指数收跌1.78%，恒生科技指数收跌4.37%，智谱(02513.HK)全日收跌28.49%，MINIMAX-W(00100.HK)跌15.63%。",
+          "url": "https://flash.jin10.com/detail/20260717160850053800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "A股券商股异动拉升，湘财股份直线涨停，国盛证券涨超5%，天风证券、第一创业、东方财富、华创云信跟涨。",
           "url": "https://wallstreetcn.com/livenews/3135420",
           "source": "华尔街见闻-快讯",
@@ -452,12 +544,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "A股收盘：创业板指跌超7%，全市场近200股跌停",
+          "url": "https://wallstreetcn.com/livenews/3135544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -481,8 +584,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 16时37分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -496,6 +599,17 @@
           "time_info": "[09时01分 ~ 09时02分]"
         },
         {
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "白宫：美国总统特朗普明天（当地时间周五）将前往纽约。",
           "url": "https://flash.jin10.com/detail/20260717012223455800",
           "source": "金十数据",
@@ -505,6 +619,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            17,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 16时37分]"
         },
         {
           "title": "白宫：美国总统特朗普将出席世界杯决赛。",
@@ -538,19 +666,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
-        },
-        {
-          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时32分]"
         },
         {
           "title": "美国总统特朗普准备在（今天稍早的）演讲中谈论委内瑞拉大选。（Semafor）",
@@ -607,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "白宫再曝内幕交易丑闻！特朗普御用提词员利用演讲信息牟利遭调查",
+          "url": "https://www.cls.cn/detail/2429184",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
@@ -755,7 +881,7 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【焦点复盘】科创50连续2日大跌超4%，算力硬件板块持续低迷，850亿“中药茅”现久违涨停",
@@ -807,6 +933,18 @@
           "time_info": "12时15分"
         },
         {
+          "title": "30家科创板公司中报预喜：22家净利润增长，6家扭亏为盈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600948",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时37分]"
+        },
+        {
           "title": "长鑫科技打新开启：科创板史上最大IPO，中一签能赚多少？",
           "url": "https://wallstreetcn.com/articles/3777100",
           "source": "华尔街见闻",
@@ -818,24 +956,13 @@
           "time_info": "[09时01分 ~ 09时02分]"
         },
         {
-          "title": "30家科创板公司中报预喜：22家净利润增长，6家扭亏为盈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600948",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
-        },
-        {
           "title": "【午后宽基ETF持续放量 3只ETF成交额超100亿】午后宽基ETF成交额持续放大，创业板ETF易方达（159915）、科创50ETF华夏（588000）、沪深300ETF华泰柏瑞（510300）成交额突破100亿，中证1000ETF南方（512100）、中证500ETF南方（510500）、A500ETF华泰柏瑞（563360）、A500ETF南方（159352）、创业板50ETF华安（159949）成交额均已超昨日全天。",
           "url": "https://wallstreetcn.com/livenews/3135508",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -846,7 +973,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -857,9 +984,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "上证指数收报3764.15点，跌3.05%。 深证成指收报13706.88点，跌5.40%。 创业板指收报3428.63点，跌7.15%。 沪深300收报4529.10点，跌3.60%。 科创50收报1715.40点，跌7.12%。 中证500收报7513.76点，跌5.55%。 中证1000收报7168.00点，跌6.08%。",
+          "url": "https://wallstreetcn.com/livenews/3135542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -908,7 +1046,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -960,7 +1098,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -995,11 +1133,12 @@
             17,
             16,
             6,
-            28
+            28,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 16时37分]"
         },
         {
           "title": "台积电法说会实录：今年资本支出加码至640亿美元 高端芯片紧缺还将延续几年",
@@ -1047,6 +1186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "管理规模达470亿美元的南非基金经理减持AI芯片股 转而加码印度股市",
+          "url": "https://wallstreetcn.com/livenews/3135549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -1135,11 +1285,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 16时37分]"
         },
         {
           "title": "甄子丹亮相人形机器人格斗揭幕赛",
@@ -1157,41 +1308,20 @@
       ]
     },
     {
-      "keyword_group": "存储",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
-          "url": "https://wallstreetcn.com/articles/3777098",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 14时32分]"
-        },
-        {
-          "title": "存储为何再度跳水？",
-          "url": "https://wallstreetcn.com/articles/3777083",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "人民时评：谋算力也应提效能",
+          "url": "https://www.cls.cn/detail/2429027",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
         {
           "title": "人民日报：谋算力也应提效能，既要防止一哄而上也要避免大而不当",
           "url": "https://wallstreetcn.com/livenews/3135332",
@@ -1217,37 +1347,53 @@
       ]
     },
     {
-      "keyword_group": "新易盛",
+      "keyword_group": "存储",
       "match_count": 2,
       "titles": [
         {
-          "title": "新易盛成交额超300亿元，现跌12.46%。",
-          "url": "https://flash.jin10.com/detail/20260717135158199800",
-          "source": "金十数据",
+          "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
+          "url": "https://wallstreetcn.com/articles/3777098",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3,
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 16时37分]"
         },
         {
-          "title": "创业板指跌幅扩大至8%，上证指数跌3.35%，深证成指跌6.03%。新易盛盘中跌15.02%，现报461.10元。",
-          "url": "https://wallstreetcn.com/livenews/3135504",
-          "source": "华尔街见闻-快讯",
+          "title": "存储为何再度跳水？",
+          "url": "https://wallstreetcn.com/articles/3777083",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时02分]"
         }
       ]
     },
     {
       "keyword_group": "商业航天",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "广东商业航天保险共保体成立",
+          "url": "https://wallstreetcn.com/livenews/3135565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
         {
           "title": "火箭回收破局，商业航天将聚焦卫星质量与管理",
           "url": "https://wallstreetcn.com/livenews/3135318",
@@ -1262,6 +1408,51 @@
       ]
     },
     {
+      "keyword_group": "新易盛",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新易盛成交额超300亿元，现跌12.46%。",
+          "url": "https://flash.jin10.com/detail/20260717135158199800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "创业板指跌幅扩大至8%，上证指数跌3.35%，深证成指跌6.03%。新易盛盘中跌15.02%，现报461.10元。",
+          "url": "https://wallstreetcn.com/livenews/3135504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中际旭创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据港交所文件，中际旭创股份有限公司通过港交所上市聆讯。",
+          "url": "https://wallstreetcn.com/livenews/3135550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "宁德时代",
       "match_count": 1,
       "titles": [
@@ -1272,7 +1463,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         }
