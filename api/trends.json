@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T21:22:49.848419+08:00",
-  "total_titles_processed": 1667,
+  "generated_at": "2026-07-17T22:58:45.531967+08:00",
+  "total_titles_processed": 1813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 22时58分]"
         },
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -164,6 +165,17 @@
           "time_info": "16时37分"
         },
         {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
           "url": "https://wallstreetcn.com/livenews/3135298",
           "source": "华尔街见闻-快讯",
@@ -205,7 +217,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -227,9 +239,48 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
+        },
+        {
+          "title": "A股杀跌是中期调整还是牛市结束",
+          "url": "https://www.toutiao.com/trending/7663417152111644223/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 22时58分]"
+        },
+        {
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 22时58分]"
+        },
+        {
+          "title": "A股今天暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 22时58分]"
         },
         {
           "title": "中际旭创港股上市获中国证监会备案",
@@ -242,18 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时28分 ~ 19时52分]"
-        },
-        {
-          "title": "A股杀跌是中期调整还是牛市结束",
-          "url": "https://www.toutiao.com/trending/7663417152111644223/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时22分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
@@ -278,31 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时18分]"
-        },
-        {
-          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
-          "url": "https://wallstreetcn.com/articles/3777165",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时22分]"
-        },
-        {
-          "title": "A股今天暴跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时22分]"
         },
         {
           "title": "A股正迎来年内难得的黄金买点",
@@ -421,6 +435,18 @@
           "time_info": "[05时16分 ~ 06时18分]"
         },
         {
+          "title": "A股黄金买点来了吗",
+          "url": "https://www.toutiao.com/trending/7663454627538406938/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时58分]"
+        },
+        {
           "title": "A股流动性指标",
           "url": "https://flash.jin10.com/detail/20260717083258859800",
           "source": "金十数据",
@@ -463,17 +489,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
-        },
-        {
-          "title": "A股黄金买点来了吗",
-          "url": "https://www.toutiao.com/trending/7663454627538406938/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
         },
         {
           "title": "华尔街机构：散户影响力空前提升 美股交易格局正在重塑",
@@ -597,6 +612,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "道指转涨，刷新日高、逼近52560点，美股盘初一度跌至51986.74点刷新日低。 存储板块集体拉升，纷纷收复此前4%-7%的盘初跌幅。SK海力士ADR目前涨4.63%，美光科技股价下跌0.17%，闪迪股价上涨0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3135778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美股收盘：三大股指收跌 SK海力士跌13%",
           "url": "https://flash.jin10.com/detail/20260717040125271800",
           "source": "金十数据",
@@ -606,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌2.5%，全球科技股指数ETF跌近2%，能源业ETF、日常消费品ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3135775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "峰哥称不再点评A股",
@@ -650,12 +687,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "A股年内最强无差别杀跌",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E5%BC%BA%E6%97%A0%E5%B7%AE%E5%88%AB%E6%9D%80%E8%B7%8C%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -667,8 +715,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 22时58分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -690,8 +738,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 21时22分]"
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 22时58分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -761,6 +809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "生死博弈！“特朗普美元”来了",
+          "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国总统特朗普准备在（今天稍早的）演讲中谈论委内瑞拉大选。（Semafor）",
@@ -1026,11 +1085,12 @@
             16,
             15,
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时31分 ~ 21时22分]"
+          "appearance_count": 8,
+          "time_info": "[14时31分 ~ 22时58分]"
         },
         {
           "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
@@ -1042,8 +1102,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时22分]"
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 22时58分]"
         },
         {
           "title": "上证指数早盘收报3818.59点，跌1.64%。 深证成指早盘收报13953.26点，跌3.70%。 创业板指早盘收报3518.65点，跌4.71%。 沪深300早盘收报4583.23点，跌2.45%。 科创50早盘收报1763.22点，跌4.53%。 中证500早盘收报7691.88点，跌3.32%。 中证1000早盘收报7392.22点，跌3.14%。",
@@ -1118,7 +1178,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -1137,7 +1197,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "涉晶圆刻蚀、清洗等环节 两大半导体材料齐涨价",
@@ -1183,6 +1243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "半导体抛售潮持续！苹果反超英伟达重回全球市值第一",
+          "url": "https://flash.jin10.com/detail/20260717222520348800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "金十图示：2026年07月17日（周五）富时中国A50指数成分股午盘收盘行情一览：成分股涨跌互现，银行、保险及地产板块多数走强，通信设备、半导体及消费电子板块表现趋弱。",
@@ -1407,8 +1478,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 21时22分]"
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 22时58分]"
         },
         {
           "title": "多氟多：G5级电子级氢氟酸已持续稳定批量供应长鑫存储等",
@@ -1428,7 +1499,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -1655,6 +1726,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光模块",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "目标价翻倍至2581元！高盛：英伟达推动3.2T光模块需求加速，中际旭创迎来估值重塑",
+          "url": "https://wallstreetcn.com/articles/3777219",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "沐曦股份",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "沐曦股份发布曦景S系列超节点与曦索X300 GPU",
+          "url": "https://wallstreetcn.com/livenews/3135787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     },
