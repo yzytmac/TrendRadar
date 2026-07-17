@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-18T06:46:42.892053+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-07-18T07:51:24.640126+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
           "url": "https://news.ifeng.com/c/8upog6XKRmu",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时51分]"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -70,11 +71,12 @@
           "ranks": [
             1,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 07时51分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
@@ -131,11 +133,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时51分 ~ 07时51分]"
         },
         {
           "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
@@ -227,6 +230,17 @@
           "time_info": "03时48分"
         },
         {
+          "title": "曝特朗普买股票后在社媒发有利信息",
+          "url": "https://www.toutiao.com/trending/7662654350632255514/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
           "title": "加拿大野火殃及美国空气，特朗普称将以关税追偿损失",
           "url": "https://wallstreetcn.com/livenews/3135887",
           "source": "华尔街见闻-快讯",
@@ -241,7 +255,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -271,11 +285,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时51分]"
         },
         {
           "title": "A股年内最强无差别杀跌",
@@ -285,22 +300,24 @@
             28,
             26,
             30,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时51分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
           "url": "https://www.cls.cn/detail/2430055",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时51分]"
         },
         {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
@@ -309,11 +326,12 @@
           "ranks": [
             6,
             17,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 07时51分]"
         },
         {
           "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
@@ -322,11 +340,12 @@
           "ranks": [
             7,
             18,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 07时51分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -335,11 +354,12 @@
           "ranks": [
             13,
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 07时51分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股收盘）",
@@ -348,11 +368,12 @@
           "ranks": [
             14,
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 07时51分]"
         },
         {
           "title": "A股今天暴跌原因",
@@ -403,6 +424,17 @@
           "time_info": "[04时52分 ~ 05时51分]"
         },
         {
+          "title": "A股重磅信号！多只宽基ETF，显著放量！大资金再度出手？",
+          "url": "https://wallstreetcn.com/articles/3777184",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
           "title": "A股杀跌是中期调整还是牛市结束",
           "url": "https://www.toutiao.com/trending/7663417152111644223/",
           "source": "今日头条",
@@ -412,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "大空头Burry：现在是抄底港股的绝佳时机",
+          "url": "https://wallstreetcn.com/articles/3777194",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
           "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -450,7 +493,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "据纽约时报，扎克伯格旗下Meta Platforms Inc.洽谈向Anthropic出租算力。 未来两年的潜在交易金额可能高达100亿美元。 相关磋商还处于早期阶段。 Meta跌幅收窄至3%。",
@@ -463,6 +506,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时41分]"
+        },
+        {
+          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3777230",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
           "title": "Meta Platforms(META.O)跌幅收窄至3%，此前一度跌超5%，据称Meta正洽谈向Anthropic出租算力。",
@@ -511,6 +565,71 @@
       ]
     },
     {
+      "keyword_group": "芯片",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "再向韩国芯片巨头伸手：SK海力士与三星\"超额利润\"或需与美国分享",
+          "url": "https://wallstreetcn.com/articles/3777225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时37分 ~ 07时51分]"
+        },
+        {
+          "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "丰业银行策略师Shaun Osborne：今天跨资产类别的整体走势“反映了一次典型的‘避险’交易转向。 由于对科技/芯片周期的新一轮担忧以及美伊冲突的升级，股市盘面一片惨绿（a sea of red）。",
+          "url": "https://wallstreetcn.com/livenews/3135868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时48分]"
+        },
+        {
+          "title": "蔚来芯片子公司神玑亮相WAIC并发布具身智能开发平台",
+          "url": "https://wallstreetcn.com/livenews/3135819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
       "match_count": 4,
       "titles": [
@@ -521,11 +640,12 @@
           "ranks": [
             9,
             17,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 07时51分]"
         },
         {
           "title": "费城半导体指数较6月22日创下的历史收盘高点下跌20.2%。",
@@ -562,59 +682,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "再向韩国芯片巨头伸手：SK海力士与三星\"超额利润\"或需与美国分享",
-          "url": "https://wallstreetcn.com/articles/3777225",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时37分 ~ 06时46分]"
-        },
-        {
-          "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "丰业银行策略师Shaun Osborne：今天跨资产类别的整体走势“反映了一次典型的‘避险’交易转向。 由于对科技/芯片周期的新一轮担忧以及美伊冲突的升级，股市盘面一片惨绿（a sea of red）。",
-          "url": "https://wallstreetcn.com/livenews/3135868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 03时48分]"
-        },
-        {
-          "title": "蔚来芯片子公司神玑亮相WAIC并发布具身智能开发平台",
-          "url": "https://wallstreetcn.com/livenews/3135819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
         }
       ]
     },
@@ -661,8 +728,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时51分]"
         }
       ]
     },
@@ -675,11 +742,12 @@
           "url": "https://www.cls.cn/detail/2429565",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时51分]"
         }
       ]
     },
@@ -692,11 +760,12 @@
           "url": "https://wallstreetcn.com/articles/3777219",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 06时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 07时51分]"
         }
       ]
     },
