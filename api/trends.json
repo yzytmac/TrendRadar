@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T04:52:19.123401+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-07-18T05:51:38.197032+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时51分]"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时51分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -40,17 +40,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时16分 ~ 03时48分]"
-        },
-        {
-          "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
-          "url": "https://flash.jin10.com/detail/20260718043845403800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
         },
         {
           "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
@@ -86,6 +75,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 02时41分]"
+        },
+        {
+          "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
+          "url": "https://flash.jin10.com/detail/20260718043845403800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时51分]"
         },
         {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
@@ -134,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时41分]"
+        },
+        {
+          "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
+          "url": "https://flash.jin10.com/detail/20260718045100973800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
         },
         {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
@@ -219,7 +231,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         }
@@ -237,8 +249,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时51分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -248,8 +260,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时51分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -260,8 +272,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时51分]"
         },
         {
           "title": "A股年内最强无差别杀跌",
@@ -317,22 +329,60 @@
           "url": "https://wallstreetcn.com/livenews/3135907",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时51分]"
         },
         {
           "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
           "url": "https://wallstreetcn.com/livenews/3135906",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时51分]"
+        },
+        {
+          "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260718040531274800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时51分]"
+        },
+        {
+          "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260718040519016800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时51分]"
+        },
+        {
+          "title": "美股收盘：三大股指低收，芯片股涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260718040114530800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时51分]"
         },
         {
           "title": "A股杀跌是中期调整还是牛市结束",
@@ -366,39 +416,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
-        },
-        {
-          "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260718040531274800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260718040519016800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "美股收盘：三大股指低收，芯片股涨跌不一",
-          "url": "https://flash.jin10.com/detail/20260718040114530800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
         },
         {
           "title": "A股黄金买点来了吗",
@@ -484,22 +501,36 @@
           "url": "https://flash.jin10.com/detail/20260718040718978800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时51分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.81%，报6280.72点，本周累计上涨2.61%，7月15-16日持续走高。 热门中概股里，百度初步收跌4.8%，美团、小鹏、腾讯、理想跌超3%，拼多多、日月光半导体、阿里跌超2%，网易涨0.7%，阿特斯太阳能涨1.5%，大全新能源涨2.2%，晶科能源涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.07%，本周跌9.56%； XtrackersHarvest中证50（ASHS）收跌4.65%，本周跌11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌2.66%，本周跌4.95%； 中概互联网指数ETF（KWEB）收跌2.44%，本周涨1.63%——延续此前两周先后反弹4.39%、5.56%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.08%，本周累跌6.64%。",
           "url": "https://wallstreetcn.com/livenews/3135899",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时51分]"
+        },
+        {
+          "title": "费城半导体指数较6月22日创下的历史收盘高点下跌20.2%。",
+          "url": "https://flash.jin10.com/detail/20260718040341986800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时51分]"
         },
         {
           "title": "本周，存储芯片指数跌16.7%——成分股闪迪跌27.3%、西部数据跌17.6%、美光跌11.8%。标普累跌1.5%，道指累跌0.8%，纳指累跌2.7%。费城半导体指数跌9.5%。 标普500指数初步收跌约1%，电信板块跌2.4%，可选消费板块跌1.5%，科技板块跌0.8%，能源板块涨1.1%。 纳斯达克100指数初步收跌1.5%，成分股中，ISRG初步收跌13.8%，铿腾电子跌9%，新思科技跌8%，奈飞跌6.9%，应用材料、Astera Labs跌超5%，西部数据涨2.2%，Diamondback Energy涨2.9%，Nebius集团涨3%，Lumentum涨4.1%，希捷科技涨6.2%。 可口可乐初步收跌4.1%，与IBM、家得宝、高盛、SHW、麦当劳、谷歌A领跌道指成分股，苹果涨0.1%，思科涨2.1%，Travelers Companies Inc.涨9.5%。",
@@ -508,18 +539,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "费城半导体指数较6月22日创下的历史收盘高点下跌20.2%。",
-          "url": "https://flash.jin10.com/detail/20260718040341986800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         }
@@ -538,8 +558,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时37分 ~ 04时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时37分 ~ 05时51分]"
         },
         {
           "title": "丰业银行策略师Shaun Osborne：今天跨资产类别的整体走势“反映了一次典型的‘避险’交易转向。 由于对科技/芯片周期的新一轮担忧以及美伊冲突的升级，股市盘面一片惨绿（a sea of red）。",
@@ -587,11 +607,12 @@
           "url": "https://wallstreetcn.com/livenews/3135900",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时51分]"
         }
       ]
     },
@@ -608,8 +629,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时51分]"
         }
       ]
     },
@@ -625,8 +646,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时51分]"
         }
       ]
     },
@@ -642,8 +663,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 05时51分]"
         }
       ]
     },
@@ -660,8 +681,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时37分 ~ 04时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时37分 ~ 05时51分]"
         }
       ]
     }
