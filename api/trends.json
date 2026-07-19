@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-19T11:54:01.557511+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-07-19T14:29:03.982788+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
+          "url": "https://news.ifeng.com/c/8us63AU51TY",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[04时23分 ~ 14时29分]"
+        },
         {
           "title": "白宫声称特朗普并非针对中国",
           "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时03分 ~ 07时10分]"
-        },
-        {
-          "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
-          "url": "https://news.ifeng.com/c/8us63AU51TY",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时23分 ~ 11时54分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -70,6 +70,20 @@
           "time_info": "[00时03分 ~ 11时54分]"
         },
         {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 14时29分]"
+        },
+        {
           "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
           "url": "https://www.zhihu.com/question/2061441397995954863",
           "source": "知乎",
@@ -87,19 +101,6 @@
           "time_info": "[00时03分 ~ 08时10分]"
         },
         {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 11时54分]"
-        },
-        {
           "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
           "url": "https://flash.jin10.com/detail/20260719052601155800",
           "source": "金十数据",
@@ -112,15 +113,16 @@
           "time_info": "[06时09分 ~ 08时10分]"
         },
         {
-          "title": "据纽约邮报：美国总统特朗普表示，美国的打击阻止了伊朗获得核武器。如果不制止伊朗，地区可能会陷入更广泛的冲突。",
-          "url": "https://flash.jin10.com/detail/20260719112308290800",
-          "source": "金十数据",
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
           "ranks": [
-            1
+            9,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 14时29分]"
         },
         {
           "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
@@ -171,6 +173,18 @@
           "time_info": "[02时10分 ~ 03时31分]"
         },
         {
+          "title": "据纽约邮报：美国总统特朗普表示，美国的打击阻止了伊朗获得核武器。如果不制止伊朗，地区可能会陷入更广泛的冲突。",
+          "url": "https://flash.jin10.com/detail/20260719112308290800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 14时29分]"
+        },
+        {
           "title": "特朗普政府拟向欧洲等地提供拨款 支持“MAGA”导向项目",
           "url": "https://flash.jin10.com/detail/20260719013642003800",
           "source": "金十数据",
@@ -219,17 +233,6 @@
           "time_info": "[06时09分 ~ 08时10分]"
         },
         {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
-        },
-        {
           "title": "美国参议员桑德斯：曾几何时，美国凭借其对民主与正义的坚定承诺激励着全世界。遗憾的是，在特朗普执政之下，情况已不再如此。",
           "url": "https://flash.jin10.com/detail/20260719020717428800",
           "source": "金十数据",
@@ -265,13 +268,24 @@
           "time_info": "02时10分"
         },
         {
+          "title": "特朗普决策逻辑分析：只想名垂千古，政治成本不再重要",
+          "url": "https://flash.jin10.com/detail/20260719130745873800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "加拿大安大略省省长：特朗普对加拿大扑灭山火努力的批评是“绝对不可接受”的",
           "url": "https://flash.jin10.com/detail/20260719101247637800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -290,7 +304,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -301,8 +315,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 11时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 14时29分]"
         },
         {
           "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
@@ -313,8 +327,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 11时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 14时29分]"
         },
         {
           "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
@@ -326,8 +340,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 11时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 14时29分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -342,6 +356,17 @@
           "time_info": "[00时03分 ~ 05时15分]"
         },
         {
+          "title": "Kimi K3把美股半导体干崩了",
+          "url": "https://www.baidu.com/s?wd=Kimi+K3%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B9%B2%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
           "title": "曝Kimi最快6个月内完成港股上市",
           "url": "https://www.toutiao.com/trending/7663275035981234230/",
           "source": "今日头条",
@@ -351,6 +376,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时09分 ~ 02时10分]"
+        },
+        {
+          "title": "Kimi K3把美股半导体干崩了",
+          "url": "https://s.weibo.com/weibo?q=Kimi%20K3%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B9%B2%E5%B4%A9%E4%BA%86&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
         }
       ]
     },
@@ -368,8 +404,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时23分 ~ 11时54分]"
+          "appearance_count": 11,
+          "time_info": "[04时23分 ~ 14时29分]"
         },
         {
           "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
@@ -430,22 +466,24 @@
           "ranks": [
             10,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时09分 ~ 11时54分]"
+          "appearance_count": 7,
+          "time_info": "[06时09分 ~ 14时29分]"
         },
         {
           "title": "后摩智能WAIC展出M50芯片落地的多款AI终端，10W功耗下算力达160 TOPS",
           "url": "https://wallstreetcn.com/livenews/3136130",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 14时29分]"
         }
       ]
     },
@@ -458,11 +496,12 @@
           "url": "https://www.cls.cn/detail/2430332",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 14时29分]"
         },
         {
           "title": "天孚通信：预计2026年上半年净利润同比增长25%~45%",
@@ -528,11 +567,12 @@
           "url": "https://www.cls.cn/detail/2430247",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 11时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 14时29分]"
         },
         {
           "title": "中信建投：随着市场风偏的修复 看好商业航天板块后续表现",
@@ -578,6 +618,23 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克称看中国机器人格斗赛看乐了",
+          "url": "https://www.toutiao.com/trending/7663919447194845220/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
       "match_count": 1,
       "titles": [
@@ -590,8 +647,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 11时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 14时29分]"
         }
       ]
     },
@@ -621,11 +678,29 @@
           "url": "https://wallstreetcn.com/livenews/3136123",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 14时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
         }
       ]
     }
