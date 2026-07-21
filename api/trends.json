@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T12:32:18.978441+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-07-21T15:20:39.598997+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
@@ -91,6 +91,18 @@
           "time_info": "07时41分"
         },
         {
+          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
+          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 15时20分]"
+        },
+        {
           "title": "白宫：特朗普签署公告，授权商务部长制定激励计划，鼓励企业投资铝冶炼厂。",
           "url": "https://flash.jin10.com/detail/20260721034723509800",
           "source": "金十数据",
@@ -100,18 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
-        },
-        {
-          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
-          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 12时32分]"
         },
         {
           "title": "美国总统特朗普：加拿大对从美国进口的汽车征收特定关税并实施配额限制，但未对其他国家采取此类措施。",
@@ -134,8 +134,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 15时20分]"
         },
         {
           "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
@@ -146,8 +146,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 15时20分]"
         },
         {
           "title": "美国总统特朗普：与其讨论了北海石油、贸易、军事同盟以及霍尔木兹海峡扫雷事宜。",
@@ -240,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "西班牙，你太不给特朗普面子了",
+          "url": "https://news.ifeng.com/c/8uvtuVSVeUb",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
@@ -336,7 +347,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -347,7 +358,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -394,12 +405,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "舒默称特朗普是美国史上最腐败总统",
+          "url": "https://www.toutiao.com/trending/7663682649068109887/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "今日一批A股公司披露增持回购计划，累计金额最高超百亿",
@@ -425,6 +447,17 @@
           "time_info": "[00时54分 ~ 07时41分]"
         },
         {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 15时20分]"
+        },
+        {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
@@ -435,6 +468,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时54分 ~ 05时42分]"
+        },
+        {
+          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
+          "url": "https://www.cls.cn/detail/2431956",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 15时20分]"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
@@ -463,27 +508,18 @@
           "time_info": "[00时54分 ~ 09时09分]"
         },
         {
-          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 12时32分]"
-        },
-        {
-          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
-          "url": "https://www.cls.cn/detail/2431956",
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
           "source": "财联社热门",
           "ranks": [
+            12,
+            7,
             5,
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[06时40分 ~ 15时20分]"
         },
         {
           "title": "A股多重利好密集来袭",
@@ -498,18 +534,26 @@
           "time_info": "[00时54分 ~ 07时41分]"
         },
         {
-          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
-          "url": "https://www.cls.cn/detail/2431934",
+          "title": "国家队历次进场后，A股怎么走？",
+          "url": "https://www.cls.cn/detail/2432109",
           "source": "财联社热门",
           "ranks": [
-            12,
-            7,
-            5,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时40分 ~ 12时32分]"
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时20分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2579203",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时20分]"
         },
         {
           "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -545,26 +589,15 @@
           "time_info": "[00时54分 ~ 06时40分]"
         },
         {
-          "title": "国家队历次进场后，A股怎么走？",
-          "url": "https://www.cls.cn/detail/2432109",
-          "source": "财联社热门",
+          "title": "A股收盘：科创50指数大涨10.73%，半导体芯片股全线爆发",
+          "url": "https://wallstreetcn.com/livenews/3137411",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2579203",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "time_info": "15时20分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -624,7 +657,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -657,9 +690,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "A股收评：创业板指收涨7.05%，芯片产业链集体爆发",
+          "url": "https://flash.jin10.com/detail/20260721150111586800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "险资百亿资金支持A股，伊朗称收到停火提议| Plus日报",
@@ -701,7 +745,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -712,7 +756,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -734,7 +778,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -763,8 +807,161 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "半导体指数跌入熊市，高盛悄然转向三大替代投资主题",
+          "url": "https://wallstreetcn.com/articles/3777464",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 15时20分]"
+        },
+        {
+          "title": "荷兰半导体股票上涨，ASMI、BESI、阿斯麦涨幅在2.4%至3%之间。",
+          "url": "https://flash.jin10.com/detail/20260721150433494800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "金十图示：2026年07月21日（周二）富时中国A50指数成分股今日收盘行情一览：半导体、通信设备、消费电子板块大幅收高，中际旭创大涨13%，寒武纪涨11%，煤炭、白酒板块收低",
+          "url": "https://flash.jin10.com/detail/20260721150301742800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "抛售已近尾声？瑞银喊话：逢低买入AI与半导体股时机已到",
+          "url": "https://www.cls.cn/detail/2432258",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "7月21日午间收评：科创50探底回升涨近7%，半导体芯片股大幅反弹",
+          "url": "https://wallstreetcn.com/livenews/3137295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.9%。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3137072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "【午报】科创50探底回升涨近7%，半导体芯片产业链集体爆发",
+          "url": "https://www.cls.cn/detail/2432290",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "创业板指涨超7%，半导体产业链全线走强，存储芯片、CPO、光刻机等概念涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3137394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "创业板指涨超4%，科创50涨幅扩大至6%，半导体芯片股领涨，华虹宏力、强一股份、臻宝科技、中科飞测、中微公司等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3137276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "科创50大涨超10%，刷新年内最高单日涨幅；格科微、华虹宏力、中科飞测均触达20cm涨停。中韩半导体ETF(513310)尾盘涨停，成交额超238亿元。",
+          "url": "https://wallstreetcn.com/livenews/3137389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "创业板指涨超3%，科创50涨近5%，沪指涨0.16%，深成指涨2%，半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近2000只。",
+          "url": "https://wallstreetcn.com/livenews/3137267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "创业板指涨超7%，半导体产业链全线走强，存储芯片、CPO、光刻机等概念涨幅居前；成分股中，三环集团、北京君正、中际旭创、江波龙等逾25股涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260721144456207800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "纳指科技指数收涨超0.4%，半导体指数涨0.6%，银行指数跌1%",
+          "url": "https://wallstreetcn.com/livenews/3137070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
@@ -810,8 +1007,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 15时20分]"
         },
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -822,8 +1019,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 15时20分]"
         },
         {
           "title": "微软将推出三款基于AMD芯片的Azure虚拟机服务",
@@ -836,6 +1033,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时41分]"
+        },
+        {
+          "title": "芯片概念股大面积涨停",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E9%9D%A2%E7%A7%AF%E6%B6%A8%E5%81%9C",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "芯片股回调拖累亚洲股市，澳大利亚股市逆势跑赢",
@@ -855,7 +1063,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -866,7 +1074,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -877,92 +1085,27 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "半导体指数跌入熊市，高盛悄然转向三大替代投资主题",
-          "url": "https://wallstreetcn.com/articles/3777464",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 12时32分]"
-        },
-        {
-          "title": "7月21日午间收评：科创50探底回升涨近7%，半导体芯片股大幅反弹",
-          "url": "https://wallstreetcn.com/livenews/3137295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.9%。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3137072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "创业板指涨超4%，科创50涨幅扩大至6%，半导体芯片股领涨，华虹宏力、强一股份、臻宝科技、中科飞测、中微公司等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3137276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "12时32分"
-        },
-        {
-          "title": "创业板指涨超3%，科创50涨近5%，沪指涨0.16%，深成指涨2%，半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近2000只。",
-          "url": "https://wallstreetcn.com/livenews/3137267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "纳指科技指数收涨超0.4%，半导体指数涨0.6%，银行指数跌1%",
-          "url": "https://wallstreetcn.com/livenews/3137070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
         }
       ]
     },
     {
       "keyword_group": "科创",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "中国上证综指7月21日（周二）收盘上涨68.09点，涨幅：1.79%，报3864.37点；<br/>中国深证成指7月21日（周二）收盘上涨654.06点，涨幅：4.81%，报14264.29点；<br/>中国沪深300指数7月21日（周二）收盘上涨140.91点，涨幅：3.06%，报4739.23点；<br/>中国创业板指数7月21日（周二）收盘上涨242.87点，涨幅：7.05%，报3685.97点；<br/>中国科创50指数7月21日（周二）收盘上涨184.47点，涨幅：10.73%，报1903.16点。",
+          "url": "https://flash.jin10.com/detail/20260721150305111800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
         {
           "title": "上证指数早盘收报3819.66点，涨0.62%。 深证成指早盘收报14074.22点，涨3.41%。 创业板指早盘收报3622.27点，涨5.20%。 沪深300早盘收报4679.41点，涨1.76%。 科创50早盘收报1837.94点，涨6.94%。 中证500早盘收报7680.64点，涨3.63%。 中证1000早盘收报7175.01点，涨3.01%。",
           "url": "https://wallstreetcn.com/livenews/3137296",
@@ -970,9 +1113,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "上证指数收报3864.37点，涨1.79%。 深证成指收报14264.29点，涨4.81%。 创业板指收报3685.97点，涨7.05%。 沪深300收报4739.23点，涨3.06%。 科创50收报1903.16点，涨10.73%。 中证500收报7800.61点，涨5.25%。 中证1000收报7259.86点，涨4.23%。",
+          "url": "https://wallstreetcn.com/livenews/3137409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "创业板指涨幅扩大至5%，科创50指数涨近7%。",
@@ -981,7 +1135,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -992,9 +1146,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "科创50指数涨幅扩大至10%",
+          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7%E8%87%B310%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "创业板指涨超2%，科创50指数涨超4%，成分股华虹宏力、中科飞测、中微公司均涨超10%，寒武纪、中芯国际、沐曦股份涨超5%。",
@@ -1003,9 +1168,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "科创50大涨超9%，早盘一度跌超3%，创业板指涨超6%，早盘一度跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3137375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "科创50探底回升涨超3%，华虹宏力涨超10%，沐曦股份、寒武纪、中芯国际等纷纷走强。",
@@ -1014,9 +1190,51 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "【三只热门宽基ETF连续三天成交破百亿】科创50ETF华夏（588000）、创业板ETF易方达（159915）、沪深300ETF华泰柏瑞（510300）成交额均突破100亿元（目前分别为151亿、129亿、100亿），此三只ETF连续三个交易日均突破百亿成交。此外，昨日科创50ETF华夏（588000）净申购76.29亿份（净申购资金137.01亿元）创单日净申购历史最高记录。",
+          "url": "https://wallstreetcn.com/livenews/3137367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "机器人断头反杀看乐马斯克",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 15时20分]"
+        },
+        {
+          "title": "月之暗面回应马斯克：欢迎掰手腕",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%AC%A2%E8%BF%8E%E6%8E%B0%E6%89%8B%E8%85%95",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
@@ -1043,28 +1261,37 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时20分]"
         }
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 1,
+      "keyword_group": "中际旭创",
+      "match_count": 2,
       "titles": [
         {
-          "title": "机器人断头反杀看乐马斯克",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
-          "source": "贴吧",
+          "title": "沪深两市今日成交额合计29570.93亿元，中际旭创成交额居首",
+          "url": "https://flash.jin10.com/detail/20260721150149072800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            20,
-            27
+            8
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 12时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "中际旭创成交额达500亿元，现涨13.05%。",
+          "url": "https://wallstreetcn.com/livenews/3137399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
@@ -1083,8 +1310,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时42分 ~ 12时32分]"
+          "appearance_count": 7,
+          "time_info": "[05时42分 ~ 15时20分]"
         }
       ]
     },
@@ -1099,7 +1326,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
