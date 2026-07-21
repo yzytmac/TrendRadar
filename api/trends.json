@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-21T19:54:34.543842+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2026-07-21T21:43:09.886194+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 49,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时40分 ~ 21时43分]"
+        },
         {
           "title": "今日一批A股公司披露增持回购计划，累计金额最高超百亿",
           "url": "https://www.cls.cn/detail/2431486",
@@ -29,18 +42,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 07时41分]"
-        },
-        {
-          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时40分 ~ 19时54分]"
         },
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -131,6 +132,17 @@
           "time_info": "[12时32分 ~ 18时02分]"
         },
         {
+          "title": "A股又一波增持回购来了！近20家公司今日公布最新计划",
+          "url": "https://www.cls.cn/detail/2432887",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
+        },
+        {
           "title": "A股",
           "url": "https://www.douyin.com/hot/2579203",
           "source": "抖音",
@@ -164,6 +176,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "美股光通信板块上涨，迈威尔科技(MRVL.O)涨约6%，康宁(GLW.N)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260721213311954800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "美股存储芯片反弹",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%8D%E5%BC%B9",
           "source": "百度热搜",
@@ -181,9 +204,33 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨超3%，全球科技股指数ETF涨超2%，医疗业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3137614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 21时43分]"
         },
         {
           "title": "A股收盘：科创50指数大涨10.73%，半导体芯片股全线爆发",
@@ -195,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "美股盘初：纳指涨1%，费城半导体指数涨4.5%，存储芯片股、光通信股大涨",
+          "url": "https://wallstreetcn.com/livenews/3137613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -223,18 +281,6 @@
           "time_info": "[04时19分 ~ 06时40分]"
         },
         {
-          "title": "90后清华天才 干崩了美股",
-          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时54分]"
-        },
-        {
           "title": "证监会就近期A股波动发声",
           "url": "https://www.toutiao.com/trending/7664095612945600019/",
           "source": "今日头条",
@@ -246,6 +292,52 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时51分 ~ 05时42分]"
+        },
+        {
+          "title": "A股上演史诗级深V反转",
+          "url": "https://www.toutiao.com/trending/7663853393986813962/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时43分]"
+        },
+        {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://s.weibo.com/weibo?q=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D%20%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时43分]"
+        },
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
+        },
+        {
+          "title": "全球科技股反弹！美股盘前闪迪涨超7%，布油重回90美元上方，现货白银涨超4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "张坤增聘后首份季报，调仓方向明了，加科技、减消费、砍港股",
@@ -296,6 +388,28 @@
           "time_info": "[18时02分 ~ 19时54分]"
         },
         {
+          "title": "事关A股市场 证监会最新发声",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3A%E8%82%A1%E5%B8%82%E5%9C%BA+%E8%AF%81%E7%9B%91%E4%BC%9A%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
+        },
+        {
+          "title": "A股深V反弹原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%B7%B1V%E5%8F%8D%E5%BC%B9%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
+        },
+        {
           "title": "据港交所文件，中国石化(SNP.N)于7月21日在其他交易所回购了130万A股，金额为670万人民币；同日还回购了650万股H股，交易金额为2760万港元。",
           "url": "https://flash.jin10.com/detail/20260721174013535800",
           "source": "金十数据",
@@ -305,6 +419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "美股开盘，道指涨0.29%，标普500指数涨0.6%，纳指涨1.04%。美股存储股普涨，闪迪(SNDK.O)、西部数据(WDC.O)涨约9%，SK海力士(SKHY.O)、美光科技(MU.O)、希捷科技(STX.O)涨约7%。",
+          "url": "https://flash.jin10.com/detail/20260721213025367800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "潍柴动力：控股股东拟以2亿元-4亿元增持公司A股股份。",
@@ -357,7 +482,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -401,7 +526,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -439,15 +564,15 @@
           "time_info": "07时41分"
         },
         {
-          "title": "A股上演史诗级深V反转",
-          "url": "https://www.toutiao.com/trending/7663853393986813962/",
-          "source": "今日头条",
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3137596",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时54分"
+          "time_info": "21时43分"
         },
         {
           "title": "华西证券李立峰：理性看待外部扰动带来的短期冲击，A股当前已具备修复条件",
@@ -500,7 +625,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -555,18 +680,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "90后清华天才 干崩了美股",
-          "url": "https://s.weibo.com/weibo?q=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D%20%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         }
@@ -574,7 +688,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
@@ -599,6 +713,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时54分 ~ 12时32分]"
+        },
+        {
+          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
+          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时09分 ~ 21时43分]"
         },
         {
           "title": "如何看特朗普不愿离开颁奖台",
@@ -627,16 +753,16 @@
           "time_info": "[00时54分 ~ 09时09分]"
         },
         {
-          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
-          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
+          "url": "https://news.ifeng.com/c/8uvIalkczmR",
           "source": "凤凰网",
           "ranks": [
-            8,
-            5
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时09分 ~ 19时54分]"
+          "appearance_count": 7,
+          "time_info": "[09时09分 ~ 21时43分]"
         },
         {
           "title": "消息人士：各方正展开外交努力，试图劝告特朗普政府不要切断与联合国难民署的联系。",
@@ -681,18 +807,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
-        },
-        {
-          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
-          "url": "https://news.ifeng.com/c/8uvIalkczmR",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时09分 ~ 19时54分]"
         },
         {
           "title": "美国总统特朗普：加拿大对从美国进口的汽车征收特定关税并实施配额限制，但未对其他国家采取此类措施。",
@@ -776,6 +890,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时40分]"
+        },
+        {
+          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+          "url": "https://www.zhihu.com/question/2062849285499138343",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "白宫：特朗普采取进一步措施，调整美国铝进口政策。",
@@ -954,6 +1079,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "特朗普将于7月28日林赛·格雷厄姆的葬礼上致词。",
+          "url": "https://wallstreetcn.com/livenews/3137586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "纽约市长称研究逮捕内塔尼亚胡，特朗普回应：绝不会发生",
           "url": "https://flash.jin10.com/detail/20260721040706607800",
           "source": "金十数据",
@@ -1001,7 +1137,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "半导体指数跌入熊市，高盛悄然转向三大替代投资主题",
@@ -1019,6 +1155,19 @@
           "time_info": "[00时54分 ~ 19时54分]"
         },
         {
+          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
+          "url": "https://wallstreetcn.com/articles/3777521",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 21时43分]"
+        },
+        {
           "title": "荷兰半导体股票上涨，ASMI、BESI、阿斯麦涨幅在2.4%至3%之间。",
           "url": "https://flash.jin10.com/detail/20260721150433494800",
           "source": "金十数据",
@@ -1028,6 +1177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "费城半导体指数开盘上涨4.8%。",
+          "url": "https://flash.jin10.com/detail/20260721213139822800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "金十图示：2026年07月21日（周二）富时中国A50指数成分股今日收盘行情一览：半导体、通信设备、消费电子板块大幅收高，中际旭创大涨13%，寒武纪涨11%，煤炭、白酒板块收低",
@@ -1053,16 +1213,17 @@
           "time_info": "[15时20分 ~ 18时02分]"
         },
         {
-          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
-          "url": "https://wallstreetcn.com/articles/3777521",
-          "source": "华尔街见闻",
+          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
+          "url": "https://www.cls.cn/detail/2432689",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            6
+            11,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时54分]"
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 21时43分]"
         },
         {
           "title": "【午报】科创50探底回升涨近7%，半导体芯片产业链集体爆发",
@@ -1075,18 +1236,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 18时02分]"
-        },
-        {
-          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
-          "url": "https://www.cls.cn/detail/2432689",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时54分]"
         },
         {
           "title": "7月21日午间收评：科创50探底回升涨近7%，半导体芯片股大幅反弹",
@@ -1190,9 +1339,188 @@
       ]
     },
     {
+      "keyword_group": "芯片",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
+          "url": "https://wallstreetcn.com/articles/3777389",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 09时09分]"
+        },
+        {
+          "title": "近期芯片股回调仅是暂时？小摩：Q2财报季将吹响下一轮上涨号角！",
+          "url": "https://www.cls.cn/detail/2431501",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 09时09分]"
+        },
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时09分 ~ 21时43分]"
+        },
+        {
+          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
+          "url": "https://wallstreetcn.com/articles/3777377",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 07时41分]"
+        },
+        {
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 15时20分]"
+        },
+        {
+          "title": "美国芯片股跌惨了，但华尔街意见相反：有人看到机会，有人看到主线终结",
+          "url": "https://flash.jin10.com/detail/20260721192410197800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "微软将推出三款基于AMD芯片的Azure虚拟机服务",
+          "url": "https://wallstreetcn.com/livenews/3137101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时41分]"
+        },
+        {
+          "title": "华尔街集体喊多芯片股！大摩：存储股抛售潮带来绝佳上车机会",
+          "url": "https://www.cls.cn/detail/2432678",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
+        },
+        {
+          "title": "芯片概念股大面积涨停",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E9%9D%A2%E7%A7%AF%E6%B6%A8%E5%81%9C",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "业绩炸裂！AI光芯片龙头上半年净利预增近1200% | 盘后公告精选",
+          "url": "https://flash.jin10.com/detail/20260721211323957800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "芯片股回调拖累亚洲股市，澳大利亚股市逆势跑赢",
+          "url": "https://flash.jin10.com/detail/20260721081230637800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "日本芯片股票继续上涨，铠侠股价大涨14%，软银集团上涨6.1%，Advantest上涨5.9%。",
+          "url": "https://flash.jin10.com/detail/20260721114747019800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "智谱股价一度涨19%，落地1GW级算力数据中心建设，全部采用国产AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3137250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "存储芯片的定价权之争",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%9A%84%E5%AE%9A%E4%BB%B7%E6%9D%83%E4%B9%8B%E4%BA%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科创",
       "match_count": 13,
       "titles": [
+        {
+          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
+          "url": "https://www.cls.cn/detail/2432754",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 21时43分]"
+        },
         {
           "title": "中国上证综指7月21日（周二）收盘上涨68.09点，涨幅：1.79%，报3864.37点；<br/>中国深证成指7月21日（周二）收盘上涨654.06点，涨幅：4.81%，报14264.29点；<br/>中国沪深300指数7月21日（周二）收盘上涨140.91点，涨幅：3.06%，报4739.23点；<br/>中国创业板指数7月21日（周二）收盘上涨242.87点，涨幅：7.05%，报3685.97点；<br/>中国科创50指数7月21日（周二）收盘上涨184.47点，涨幅：10.73%，报1903.16点。",
           "url": "https://flash.jin10.com/detail/20260721150305111800",
@@ -1211,21 +1539,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
         {
-          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
-          "url": "https://www.cls.cn/detail/2432754",
-          "source": "财联社热门",
+          "title": "7 月 21 日科创 50 指数大涨 10.73%，创业板指涨超 7%，如何看待当下 A 股市场行情？",
+          "url": "https://www.zhihu.com/question/2062838747457131203",
+          "source": "知乎",
           "ranks": [
-            10,
-            5
+            16,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时54分]"
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时43分]"
         },
         {
           "title": "上证指数早盘收报3819.66点，涨0.62%。 深证成指早盘收报14074.22点，涨3.41%。 创业板指早盘收报3622.27点，涨5.20%。 沪深300早盘收报4679.41点，涨1.76%。 科创50早盘收报1837.94点，涨6.94%。 中证500早盘收报7680.64点，涨3.63%。 中证1000早盘收报7175.01点，涨3.01%。",
@@ -1283,17 +1611,6 @@
           "time_info": "15时20分"
         },
         {
-          "title": "7 月 21 日科创 50 指数大涨 10.73%，创业板指涨超 7%，如何看待当下 A 股市场行情？",
-          "url": "https://www.zhihu.com/question/2062838747457131203",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "创业板指涨超2%，科创50指数涨超4%，成分股华虹宏力、中科飞测、中微公司均涨超10%，寒武纪、中芯国际、沐曦股份涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3137259",
           "source": "华尔街见闻-快讯",
@@ -1340,152 +1657,8 @@
       ]
     },
     {
-      "keyword_group": "芯片",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
-          "url": "https://wallstreetcn.com/articles/3777389",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 09时09分]"
-        },
-        {
-          "title": "近期芯片股回调仅是暂时？小摩：Q2财报季将吹响下一轮上涨号角！",
-          "url": "https://www.cls.cn/detail/2431501",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 09时09分]"
-        },
-        {
-          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
-          "url": "https://wallstreetcn.com/articles/3777377",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 07时41分]"
-        },
-        {
-          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
-          "url": "https://www.cls.cn/detail/2431896",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 15时20分]"
-        },
-        {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时09分 ~ 19时54分]"
-        },
-        {
-          "title": "美国芯片股跌惨了，但华尔街意见相反：有人看到机会，有人看到主线终结",
-          "url": "https://flash.jin10.com/detail/20260721192410197800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "微软将推出三款基于AMD芯片的Azure虚拟机服务",
-          "url": "https://wallstreetcn.com/livenews/3137101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时41分]"
-        },
-        {
-          "title": "芯片概念股大面积涨停",
-          "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E9%9D%A2%E7%A7%AF%E6%B6%A8%E5%81%9C",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "芯片股回调拖累亚洲股市，澳大利亚股市逆势跑赢",
-          "url": "https://flash.jin10.com/detail/20260721081230637800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "日本芯片股票继续上涨，铠侠股价大涨14%，软银集团上涨6.1%，Advantest上涨5.9%。",
-          "url": "https://flash.jin10.com/detail/20260721114747019800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "智谱股价一度涨19%，落地1GW级算力数据中心建设，全部采用国产AI芯片",
-          "url": "https://wallstreetcn.com/livenews/3137250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "存储芯片的定价权之争",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%9A%84%E5%AE%9A%E4%BB%B7%E6%9D%83%E4%B9%8B%E4%BA%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Kimi：算力紧缺，即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户",
@@ -1500,6 +1673,19 @@
           "time_info": "[00时54分 ~ 07时41分]"
         },
         {
+          "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
+          "url": "https://wallstreetcn.com/articles/3777542",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 21时43分]"
+        },
+        {
           "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
           "url": "https://www.cls.cn/detail/2432010",
           "source": "财联社热门",
@@ -1511,18 +1697,6 @@
           "time_info": "[12时32分 ~ 15时20分]"
         },
         {
-          "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
-          "url": "https://wallstreetcn.com/articles/3777542",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时54分]"
-        },
-        {
           "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
           "url": "https://wallstreetcn.com/articles/3777510",
           "source": "华尔街见闻",
@@ -1531,14 +1705,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时54分]"
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 21时43分]"
+        },
+        {
+          "title": "北京：下半年将布局建设Token工厂 力争新增智能算力5万P",
+          "url": "https://wallstreetcn.com/livenews/3137590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         }
       ]
     },
     {
       "keyword_group": "中际旭创",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中际旭创等CPO概念股涨超10%",
@@ -1574,11 +1759,65 @@
           "time_info": "15时20分"
         },
         {
+          "title": "公募基金十大重仓股大洗牌：中际旭创成为公募基金增持市值最多的个股",
+          "url": "https://wallstreetcn.com/livenews/3137584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "报道：贝莱德、高瓴和淡马锡将成为中际旭创香港上市交易的基石投资者",
           "url": "https://wallstreetcn.com/livenews/3137459",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "存储大跌是“假摔”？大摩：所谓利空都是旧的“明牌”，黄金坑逢低买！",
+          "url": "https://wallstreetcn.com/articles/3777451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时42分 ~ 19时54分]"
+        },
+        {
+          "title": "德明利：公司第二季度积极加强战略库存储备 现有库存规模可支撑未来半年及以上业务需求",
+          "url": "https://flash.jin10.com/detail/20260721211843632800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "小米上调手机出货目标？分析师：就没低过1亿部，存储价格拐点暂时不会出现",
+          "url": "https://wallstreetcn.com/livenews/3137466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1618,38 +1857,6 @@
       ]
     },
     {
-      "keyword_group": "存储",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "存储大跌是“假摔”？大摩：所谓利空都是旧的“明牌”，黄金坑逢低买！",
-          "url": "https://wallstreetcn.com/articles/3777451",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时42分 ~ 19时54分]"
-        },
-        {
-          "title": "小米上调手机出货目标？分析师：就没低过1亿部，存储价格拐点暂时不会出现",
-          "url": "https://wallstreetcn.com/livenews/3137466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "源杰科技",
       "match_count": 2,
       "titles": [
@@ -1662,8 +1869,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时54分]"
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 21时43分]"
         },
         {
           "title": "源杰科技：预计2026上半年净利润6亿元至6.5亿元 同比增加1,196.91%至1,304.98%",
@@ -1675,6 +1882,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "海光信息",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "奇安信与海光信息签署战略合作协议",
+          "url": "https://flash.jin10.com/detail/20260721210809636800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         }
       ]
     },
