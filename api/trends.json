@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T18:02:29.175720+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-07-21T19:54:34.543842+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 42,
+      "match_count": 49,
       "titles": [
         {
           "title": "今日一批A股公司披露增持回购计划，累计金额最高超百亿",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时40分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时40分 ~ 19时54分]"
         },
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -175,6 +175,17 @@
           "time_info": "[00时54分 ~ 06时40分]"
         },
         {
+          "title": "嘉信理财第二财季净新增资产1187亿美元，预期1111.3亿美元。 第二季度调整后每股收益为1.62美元，预期1.55美元。 嘉信理财美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3137565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "A股收盘：科创50指数大涨10.73%，半导体芯片股全线爆发",
           "url": "https://wallstreetcn.com/livenews/3137411",
           "source": "华尔街见闻-快讯",
@@ -184,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
-        },
-        {
-          "title": "90后清华天才 干崩了美股",
-          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -223,6 +223,18 @@
           "time_info": "[04时19分 ~ 06时40分]"
         },
         {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时54分]"
+        },
+        {
           "title": "证监会就近期A股波动发声",
           "url": "https://www.toutiao.com/trending/7664095612945600019/",
           "source": "今日头条",
@@ -234,6 +246,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时51分 ~ 05时42分]"
+        },
+        {
+          "title": "张坤增聘后首份季报，调仓方向明了，加科技、减消费、砍港股",
+          "url": "https://www.cls.cn/detail/2432530",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时54分]"
+        },
+        {
+          "title": "美股盘前三大股指期货齐涨",
+          "url": "https://www.douyin.com/hot/2579826",
+          "source": "抖音",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时54分]"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
@@ -248,13 +284,25 @@
           "time_info": "[05时42分 ~ 06时40分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时54分]"
+        },
+        {
           "title": "据港交所文件，中国石化(SNP.N)于7月21日在其他交易所回购了130万A股，金额为670万人民币；同日还回购了650万股H股，交易金额为2760万港元。",
           "url": "https://flash.jin10.com/detail/20260721174013535800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -265,7 +313,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -279,17 +327,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
-        },
-        {
-          "title": "美股盘前三大股指期货齐涨",
-          "url": "https://www.douyin.com/hot/2579826",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         },
         {
           "title": "A股温度计",
@@ -314,6 +351,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "全球科技股反弹！美股盘前闪迪涨约7%，韩股收涨3.6%，油价回落、金价上涨1%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "美股回调背后暗藏激烈博弈：空头押注水平创纪录",
           "url": "https://www.cls.cn/detail/2431824",
           "source": "财联社热门",
@@ -325,24 +373,13 @@
           "time_info": "12时32分"
         },
         {
-          "title": "张坤增聘后首份季报，调仓方向明了，加科技、减消费、砍港股",
-          "url": "https://www.cls.cn/detail/2432530",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "南向资金今日大幅净买入71.67亿元。港股通（沪）方面，华虹宏力、智谱分别获净买入7.25亿港元、6.8亿港元；腾讯控股净卖出额居首，金额为10.71亿港元；港股通（深）方面，中芯国际、华虹宏力分别获净买入18.37亿港元、15.26亿港元；小米集团-W净卖出额居首，金额为0.26亿港元。",
           "url": "https://flash.jin10.com/detail/20260721173621550800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -356,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "兆易创新：使用A股募集资金5亿元向全资子公司增资实施DRAM项目",
+          "url": "https://wallstreetcn.com/livenews/3137544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "险资百亿资金支持A股，伊朗称收到停火提议| Plus日报",
@@ -380,17 +428,6 @@
           "time_info": "09时09分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "多只宽基ETF成交放量，增量资金积极布局A股市场",
           "url": "https://wallstreetcn.com/livenews/3137113",
           "source": "华尔街见闻-快讯",
@@ -400,6 +437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "A股上演史诗级深V反转",
+          "url": "https://www.toutiao.com/trending/7663853393986813962/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "华西证券李立峰：理性看待外部扰动带来的短期冲击，A股当前已具备修复条件",
@@ -441,9 +489,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "通用汽车美股盘前走低，现跌超4%，此前一度涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3137535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "美股股指期货走强，纳指期货涨超1%，道指期货涨0.27%，标普500指数期货涨0.4%。",
@@ -474,7 +533,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -488,6 +547,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "通用汽车第二季度净销售额和营收480.3亿美元，预估466.1亿美元。 第二季度调整后每股收益3.57美元，预估3.19美元。 第二季度调整后息税前利润39.4亿美元，预估37亿美。 通用汽车预计全年调整后每股收益12美元至14美元，此前预计11.50美元至13.50美元，市场预估12.81美元。 通用汽车预计全年调整后息税前利润140亿美元至160亿美元，此前预计135亿美元至155亿美元，市场预估143.8亿美元。 通用汽车预计全年汽车部门调整后自由现金流95亿美元至115亿美元，此前预计90亿美元至110亿美元。 通用汽车预计全年净利润84亿美元至98亿美元，此前预计99亿美元至114亿美元。 通用汽车预计全年资本支出100亿美元至120亿美元。 通用汽车美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3137529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://s.weibo.com/weibo?q=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D%20%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         }
       ]
     },
@@ -554,8 +635,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 19时54分]"
         },
         {
           "title": "消息人士：各方正展开外交努力，试图劝告特朗普政府不要切断与联合国难民署的联系。",
@@ -610,8 +691,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 19时54分]"
         },
         {
           "title": "美国总统特朗普：加拿大对从美国进口的汽车征收特定关税并实施配额限制，但未对其他国家采取此类措施。",
@@ -636,6 +717,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时09分 ~ 15时20分]"
+        },
+        {
+          "title": "西班牙，你太不给特朗普面子了",
+          "url": "https://news.ifeng.com/c/8uvtuVSVeUb",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 19时54分]"
         },
         {
           "title": "美国总统特朗普：与其讨论了北海石油、贸易、军事同盟以及霍尔木兹海峡扫雷事宜。",
@@ -672,17 +764,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时41分]"
-        },
-        {
-          "title": "西班牙，你太不给特朗普面子了",
-          "url": "https://news.ifeng.com/c/8uvtuVSVeUb",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 18时02分]"
         },
         {
           "title": "特朗普政府出新招：到美国建厂铝关税打对折",
@@ -824,7 +905,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -934,8 +1015,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时54分 ~ 19时54分]"
         },
         {
           "title": "荷兰半导体股票上涨，ASMI、BESI、阿斯麦涨幅在2.4%至3%之间。",
@@ -947,17 +1028,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
-        },
-        {
-          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
-          "url": "https://wallstreetcn.com/articles/3777521",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         },
         {
           "title": "金十图示：2026年07月21日（周二）富时中国A50指数成分股今日收盘行情一览：半导体、通信设备、消费电子板块大幅收高，中际旭创大涨13%，寒武纪涨11%，煤炭、白酒板块收低",
@@ -983,6 +1053,18 @@
           "time_info": "[15时20分 ~ 18时02分]"
         },
         {
+          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
+          "url": "https://wallstreetcn.com/articles/3777521",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时54分]"
+        },
+        {
           "title": "【午报】科创50探底回升涨近7%，半导体芯片产业链集体爆发",
           "url": "https://www.cls.cn/detail/2432290",
           "source": "财联社热门",
@@ -993,6 +1075,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 18时02分]"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
+          "url": "https://www.cls.cn/detail/2432689",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时54分]"
         },
         {
           "title": "7月21日午间收评：科创50探底回升涨近7%，半导体芯片股大幅反弹",
@@ -1015,17 +1109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
-        },
-        {
-          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
-          "url": "https://www.cls.cn/detail/2432689",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         },
         {
           "title": "创业板指涨超7%，半导体产业链全线走强，存储芯片、CPO、光刻机等概念涨幅居前。",
@@ -1100,7 +1183,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -1108,7 +1191,7 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国上证综指7月21日（周二）收盘上涨68.09点，涨幅：1.79%，报3864.37点；<br/>中国深证成指7月21日（周二）收盘上涨654.06点，涨幅：4.81%，报14264.29点；<br/>中国沪深300指数7月21日（周二）收盘上涨140.91点，涨幅：3.06%，报4739.23点；<br/>中国创业板指数7月21日（周二）收盘上涨242.87点，涨幅：7.05%，报3685.97点；<br/>中国科创50指数7月21日（周二）收盘上涨184.47点，涨幅：10.73%，报1903.16点。",
@@ -1120,6 +1203,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "【长鑫科技：网上投资者放弃认购658.62万股】长鑫科技公告称，公司首次公开发行股票并在科创板上市发行结果已公布。本次发行价格为8.66元/股，初始发行股份数量为66.88亿股，占发行后总股本约10%。最终战略配售数量为16.67亿股，网上发行最终中签率约为0.47141739%。网上投资者缴款认购38.45亿股，放弃认购658.62万股；网下投资者缴款认购21.73亿股，放弃认购31567股。联席主承销商包销股份661.78万股，包销金额5731.01万元。超额配售选择权行使前，发行费用为2.81亿元。",
+          "url": "https://wallstreetcn.com/livenews/3137562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
+          "url": "https://www.cls.cn/detail/2432754",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时54分]"
         },
         {
           "title": "上证指数早盘收报3819.66点，涨0.62%。 深证成指早盘收报14074.22点，涨3.41%。 创业板指早盘收报3622.27点，涨5.20%。 沪深300早盘收报4679.41点，涨1.76%。 科创50早盘收报1837.94点，涨6.94%。 中证500早盘收报7680.64点，涨3.63%。 中证1000早盘收报7175.01点，涨3.01%。",
@@ -1166,17 +1272,6 @@
           "time_info": "12时32分"
         },
         {
-          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
-          "url": "https://www.cls.cn/detail/2432754",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "科创50指数涨幅扩大至10%",
           "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7%E8%87%B310%25",
           "source": "百度热搜",
@@ -1186,6 +1281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "7 月 21 日科创 50 指数大涨 10.73%，创业板指涨超 7%，如何看待当下 A 股市场行情？",
+          "url": "https://www.zhihu.com/question/2062838747457131203",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "创业板指涨超2%，科创50指数涨超4%，成分股华虹宏力、中科飞测、中微公司均涨超10%，寒武纪、中芯国际、沐曦股份涨超5%。",
@@ -1235,7 +1341,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
@@ -1294,8 +1400,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 19时54分]"
+        },
+        {
+          "title": "美国芯片股跌惨了，但华尔街意见相反：有人看到机会，有人看到主线终结",
+          "url": "https://flash.jin10.com/detail/20260721192410197800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "微软将推出三款基于AMD芯片的Azure虚拟机服务",
@@ -1398,22 +1515,24 @@
           "url": "https://wallstreetcn.com/articles/3777542",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时54分]"
         },
         {
           "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
           "url": "https://wallstreetcn.com/articles/3777510",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时54分]"
         }
       ]
     },
@@ -1421,6 +1540,17 @@
       "keyword_group": "中际旭创",
       "match_count": 4,
       "titles": [
+        {
+          "title": "中际旭创等CPO概念股涨超10%",
+          "url": "https://www.douyin.com/hot/2579596",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时54分]"
+        },
         {
           "title": "沪深两市今日成交额合计29570.93亿元，中际旭创成交额居首",
           "url": "https://flash.jin10.com/detail/20260721150149072800",
@@ -1444,24 +1574,13 @@
           "time_info": "15时20分"
         },
         {
-          "title": "中际旭创等CPO概念股涨超10%",
-          "url": "https://www.douyin.com/hot/2579596",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "报道：贝莱德、高瓴和淡马锡将成为中际旭创香港上市交易的基石投资者",
           "url": "https://wallstreetcn.com/livenews/3137459",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -1514,8 +1633,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时42分 ~ 18时02分]"
+          "appearance_count": 9,
+          "time_info": "[05时42分 ~ 19时54分]"
         },
         {
           "title": "小米上调手机出货目标？分析师：就没低过1亿部，存储价格拐点暂时不会出现",
@@ -1524,7 +1643,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -1539,11 +1658,12 @@
           "url": "https://www.cls.cn/detail/2432698",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时54分]"
         },
         {
           "title": "源杰科技：预计2026上半年净利润6亿元至6.5亿元 同比增加1,196.91%至1,304.98%",
@@ -1552,7 +1672,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -1586,7 +1706,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
