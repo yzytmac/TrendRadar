@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T17:09:16.990528+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-07-22T19:20:17.321414+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -19,6 +19,30 @@
           "time_info": "[00时55分 ~ 08时07分]"
         },
         {
+          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时08分 ~ 19时20分]"
+        },
+        {
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时45分 ~ 19时20分]"
+        },
+        {
           "title": "胡塞武装封锁红海？特朗普回应",
           "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
           "source": "凤凰网",
@@ -29,17 +53,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时45分 ~ 17时09分]"
-        },
-        {
-          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
-          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
@@ -87,18 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
-        },
-        {
-          "title": "这条40余年的禁令，被特朗普解除了",
-          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 17时09分]"
         },
         {
           "title": "特朗普有意提名国际足联主席因凡蒂诺出任联合国秘书长",
@@ -257,6 +258,17 @@
           "time_info": "[07时12分 ~ 08时07分]"
         },
         {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
           "title": "特朗普频繁现身美国体育大赛引争议",
           "url": "https://www.toutiao.com/trending/7664524485127684159/",
           "source": "今日头条",
@@ -318,7 +330,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -524,7 +536,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "A股又一波增持回购来了！近20家公司今日公布最新计划",
@@ -536,6 +548,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 08时07分]"
+        },
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时07分 ~ 19时20分]"
         },
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -573,17 +597,6 @@
           "time_info": "[00时55分 ~ 11时45分]"
         },
         {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时07分 ~ 17时09分]"
-        },
-        {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -608,6 +621,18 @@
           "time_info": "[08时07分 ~ 14时19分]"
         },
         {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时18分 ~ 19时20分]"
+        },
+        {
           "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
           "url": "https://www.cls.cn/detail/2433220",
           "source": "财联社热门",
@@ -620,6 +645,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时12分 ~ 14时19分]"
+        },
+        {
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时08分 ~ 19时20分]"
         },
         {
           "title": "事关A股市场 证监会最新发声",
@@ -657,27 +694,15 @@
           "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
+          "title": "GE Vernova美股盘前跌幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3138187",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时18分 ~ 17时09分]"
-        },
-        {
-          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时08分 ~ 17时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "东吴证券芦哲：支撑A股上行的逻辑并未发生改变 市场有望进一步企稳",
@@ -686,7 +711,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -785,6 +810,17 @@
           "time_info": "[05时06分 ~ 06时13分]"
         },
         {
+          "title": "A股主线变了吗",
+          "url": "https://www.toutiao.com/trending/7665278573988548139/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
           "title": "周二（7月21日），美股行业ETF多数上涨，半导体ETF涨4.52%，全球科技股指数ETF涨3.11%，科技行业ETF涨2.89%，能源业ETF涨0.98%，网络股指数ETF跌0.27%。",
           "url": "https://wallstreetcn.com/livenews/3137743",
           "source": "华尔街见闻-快讯",
@@ -819,6 +855,17 @@
           "time_info": "11时45分"
         },
         {
+          "title": "GE Vernova美股盘前下挫，现跌超6%，此前一度涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3138176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "兆易创新A股成交额达300亿元，现跌0.22%。",
           "url": "https://wallstreetcn.com/livenews/3137995",
           "source": "华尔街见闻-快讯",
@@ -828,6 +875,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "AT&T第二季度营收316亿美元，同比增长2.6%，预估317.7亿美元。 第二季度调整后每股收益0.65美元，上年同期0.54美元，预估0.59美元。 第二季度调整后息税折旧及摊销前利润123亿美元，同比增长5.1%，预估121亿美元。 第二季度自由现金流47亿美元。 AT&T仍然预测自由现金流至少180亿美元，市场预估181.7亿美元。 AT&T仍然预测调整后每股收益2.25美元至2.35美元，市场预估2.32美元。 AT&T美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3138170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "港股市场年内配售募资计划已超2100亿港元",
@@ -863,15 +921,37 @@
           "time_info": "11时45分"
         },
         {
+          "title": "华勤技术：收购晶合集成0.2%港股股份 耗资1.44亿港元",
+          "url": "https://flash.jin10.com/detail/20260722185519807800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "美股盘前，存储芯片股普跌，闪迪跌约2%，SK海力士跌约5%，美光科技跌约2%，西部数据跌约3%，希捷科技跌约3%。 超微电脑涨约17%，公司超预计第四财季营收接近指引区间110亿-125亿美元的底部；预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。",
           "url": "https://wallstreetcn.com/livenews/3138080",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
+        },
+        {
+          "title": "GE Vernova第二季度营收111亿美元，预期108.2亿美元。 第二季度每股收益2.47美元，去年同期为1.86美元。 第二季度调整后EBITDA为12.5亿美元，预期为12.9亿美元。 积压订单达1760亿美元。 GE Vernova预计全年调整后自由现金流为115亿至125亿美元，此前预期为65亿至75亿美元。 GE Vernova预计2026年风电业务有机营收将出现低两位数百分比下降。 GE Vernova预计第三季度风电业务营收将出现低两位数百分比下降。 GE Vernova美股盘前涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3138160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "港股恒生科技指数跌幅扩大至3%。",
@@ -902,7 +982,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -924,7 +1004,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -960,6 +1040,113 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时06分]"
+        },
+        {
+          "title": "华尔街集体喊多芯片股！大摩：存储股抛售潮带来绝佳上车机会",
+          "url": "https://www.cls.cn/detail/2432678",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时16分]"
+        },
+        {
+          "title": "AI交换芯片走到聚光灯下：英伟达发布Spectrum-6 或推动Token生成能力倍增",
+          "url": "https://www.cls.cn/detail/2433429",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "日本6月芯片出口激增53.8% 但石油进口大涨导致持续贸易逆差",
+          "url": "https://www.cls.cn/detail/2433590",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
+          "title": "据行业官员们透露，SK海力士洽谈收购英特尔位于美国俄亥俄州的芯片园区。 该公司计划五年内在美国生产芯片。（韩国中央日报JoongAng Ilbo）",
+          "url": "https://wallstreetcn.com/livenews/3137777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 08时07分]"
+        },
+        {
+          "title": "全球芯片LOF：本基金将于2026年7月23日开市起停牌，自2026年7月23日10:30起复牌，停牌期间本基金赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260722190427367800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "传SK海力士正洽购英特尔俄亥俄州园区，拟在美生产存储芯片",
+          "url": "https://flash.jin10.com/detail/20260722062701635800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "英特尔与SK海力士未就俄亥俄州芯片园区事宜展开谈判。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3137792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "海力士表示，目前没有收购英特尔俄亥俄州芯片工厂的计划。",
+          "url": "https://flash.jin10.com/detail/20260722072747577800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         }
       ]
     },
@@ -1064,93 +1251,8 @@
       ]
     },
     {
-      "keyword_group": "芯片",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时06分]"
-        },
-        {
-          "title": "华尔街集体喊多芯片股！大摩：存储股抛售潮带来绝佳上车机会",
-          "url": "https://www.cls.cn/detail/2432678",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时16分]"
-        },
-        {
-          "title": "AI交换芯片走到聚光灯下：英伟达发布Spectrum-6 或推动Token生成能力倍增",
-          "url": "https://www.cls.cn/detail/2433429",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时08分 ~ 17时09分]"
-        },
-        {
-          "title": "据行业官员们透露，SK海力士洽谈收购英特尔位于美国俄亥俄州的芯片园区。 该公司计划五年内在美国生产芯片。（韩国中央日报JoongAng Ilbo）",
-          "url": "https://wallstreetcn.com/livenews/3137777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 08时07分]"
-        },
-        {
-          "title": "传SK海力士正洽购英特尔俄亥俄州园区，拟在美生产存储芯片",
-          "url": "https://flash.jin10.com/detail/20260722062701635800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "英特尔与SK海力士未就俄亥俄州芯片园区事宜展开谈判。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3137792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "海力士表示，目前没有收购英特尔俄亥俄州芯片工厂的计划。",
-          "url": "https://flash.jin10.com/detail/20260722072747577800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
@@ -1166,6 +1268,19 @@
           "time_info": "[00时55分 ~ 14时19分]"
         },
         {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时45分 ~ 19时20分]"
+        },
+        {
           "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
           "url": "https://wallstreetcn.com/articles/3777510",
           "source": "华尔街见闻",
@@ -1179,17 +1294,38 @@
           "time_info": "[00时55分 ~ 08时07分]"
         },
         {
-          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
-          "url": "https://www.zhihu.com/question/2062943431668789795",
-          "source": "知乎",
+          "title": "【每日收评】创业板指震荡走低跌超3%，有色、电力板块逆势走强，算力硬件股再陷调整",
+          "url": "https://www.cls.cn/detail/2433946",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            3
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 17时09分]"
+          "appearance_count": 4,
+          "time_info": "[17时08分 ~ 19时20分]"
+        },
+        {
+          "title": "金刚光伏：子公司签订6.14亿元算力服务合同",
+          "url": "https://flash.jin10.com/detail/20260722190911553800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "金刚光伏：解除重大算力销售合同",
+          "url": "https://flash.jin10.com/detail/20260722190858753800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "实探月之暗面Kimi：K3之后，算力、开源与商业化怎么走？",
@@ -1203,24 +1339,13 @@
           "time_info": "[03时54分 ~ 05时06分]"
         },
         {
-          "title": "【每日收评】创业板指震荡走低跌超3%，有色、电力板块逆势走强，算力硬件股再陷调整",
-          "url": "https://www.cls.cn/detail/2433946",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时08分 ~ 17时09分]"
-        },
-        {
           "title": "智谱收购AI异构算力软件供应商中科加禾60%股权",
           "url": "https://flash.jin10.com/detail/20260722163010726800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         }
@@ -1278,50 +1403,20 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 3,
+      "keyword_group": "存储",
+      "match_count": 4,
       "titles": [
         {
-          "title": "马斯克母亲吐槽纽约脏乱差",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356390&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E4%BA%B2%E5%90%90%E6%A7%BD%E7%BA%BD%E7%BA%A6%E8%84%8F%E4%B9%B1%E5%B7%AE",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 17时09分]"
-        },
-        {
-          "title": "SpaceX做空比例飙至32% 马斯克警告空头：几无存活可能！",
-          "url": "https://www.cls.cn/detail/2433529",
+          "title": "【焦点复盘】双创指数全天缩量调整，存储产业链再度承压，避险资金逆势抱团资源股",
+          "url": "https://www.cls.cn/detail/2434004",
           "source": "财联社热门",
           "ranks": [
-            13
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时08分 ~ 17时09分]"
+          "time_info": "[19时19分 ~ 19时20分]"
         },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX收涨3.1%，结束此前连续七个交易日下跌的趋势。",
-          "url": "https://wallstreetcn.com/livenews/3137741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 06时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 3,
-      "titles": [
         {
           "title": "韩股反弹之路开启？连续第二日涨至熔断，“存储双雄”爆发",
           "url": "https://www.cls.cn/detail/2433410",
@@ -1359,6 +1454,49 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克母亲吐槽纽约脏乱差",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356390&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E4%BA%B2%E5%90%90%E6%A7%BD%E7%BA%BD%E7%BA%A6%E8%84%8F%E4%B9%B1%E5%B7%AE",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时45分 ~ 19时20分]"
+        },
+        {
+          "title": "SpaceX做空比例飙至32% 马斯克警告空头：几无存活可能！",
+          "url": "https://www.cls.cn/detail/2433529",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时08分 ~ 19时20分]"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX收涨3.1%，结束此前连续七个交易日下跌的趋势。",
+          "url": "https://wallstreetcn.com/livenews/3137741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 06时13分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "中际旭创",
       "match_count": 3,
       "titles": [
@@ -1367,11 +1505,12 @@
           "url": "https://www.cls.cn/detail/2433852",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时08分 ~ 17时09分]"
+          "appearance_count": 4,
+          "time_info": "[17时08分 ~ 19时20分]"
         },
         {
           "title": "中际旭创寻求通过香港IPO融资至多70亿美元",
@@ -1443,6 +1582,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时45分 ~ 14时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "立讯精密",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "立讯精密：已耗资约10亿元回购股份",
+          "url": "https://wallstreetcn.com/livenews/3138161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     }
