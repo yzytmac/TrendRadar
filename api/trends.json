@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T20:58:31.996316+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-07-22T23:05:18.527242+08:00",
+  "total_titles_processed": 1646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时07分 ~ 20时58分]"
+          "appearance_count": 10,
+          "time_info": "[08时07分 ~ 23时05分]"
         },
         {
           "title": "A股又一波增持回购来了！近20家公司今日公布最新计划",
@@ -67,6 +67,18 @@
           "time_info": "[00时55分 ~ 11时45分]"
         },
         {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时18分 ~ 23时05分]"
+        },
+        {
           "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
           "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
@@ -78,18 +90,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时08分 ~ 20时58分]"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时18分 ~ 20时58分]"
         },
         {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
@@ -169,11 +169,34 @@
           "url": "https://www.cls.cn/detail/2433968",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 23时05分]"
+        },
+        {
+          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "23时05分"
+        },
+        {
+          "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
+          "url": "https://www.cls.cn/detail/2434298",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "东吴证券芦哲：支撑A股上行的逻辑并未发生改变 市场有望进一步企稳",
@@ -281,6 +304,18 @@
           "time_info": "[05时06分 ~ 06时13分]"
         },
         {
+          "title": "A股全市场超3800只个股下跌",
+          "url": "https://www.toutiao.com/trending/7665272279832723482/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 23时05分]"
+        },
+        {
           "title": "超微电脑（SMCI）预计第四财季营收接近指引区间110亿-125亿美元的底部。 预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。 超微电脑美股盘后涨超20%。",
           "url": "https://wallstreetcn.com/livenews/3137744",
           "source": "华尔街见闻-快讯",
@@ -371,24 +406,13 @@
           "time_info": "19时20分"
         },
         {
-          "title": "A股全市场超3800只个股下跌",
-          "url": "https://www.toutiao.com/trending/7665272279832723482/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-07-22）",
           "url": "https://flash.jin10.com/detail/20260722203506491800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -413,6 +437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "A股收评",
+          "url": "https://www.douyin.com/hot/2581048",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "中兴通讯AH股齐涨，A股触达涨停，H股涨超9%。",
@@ -454,7 +489,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -487,7 +522,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -542,7 +577,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -583,7 +618,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -594,8 +629,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时08分 ~ 20时58分]"
+          "appearance_count": 6,
+          "time_info": "[17时08分 ~ 23时05分]"
         },
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -775,6 +810,18 @@
           "time_info": "[08时07分 ~ 14时19分]"
         },
         {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 23时05分]"
+        },
+        {
           "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
           "url": "https://wallstreetcn.com/livenews/3137704",
           "source": "华尔街见闻-快讯",
@@ -822,18 +869,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时45分 ~ 14时19分]"
-        },
-        {
-          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-          "url": "https://wallstreetcn.com/articles/3777603",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时58分]"
         },
         {
           "title": "美国总统特朗普下周（一）将前往密歇根州，初选将在那之后举行。（美联社）",
@@ -901,6 +936,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
+          "url": "https://www.cls.cn/detail/2434152",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "特朗普祭出96年未用法律对加拿大加税，专家称法律挑战难度较大",
@@ -1013,6 +1059,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "伊朗直接回应特朗普威胁：打击基建将面临报复",
+          "url": "https://flash.jin10.com/detail/20260722223531429800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "美国总统特朗普宣布与约旦达成贸易协议。",
           "url": "https://flash.jin10.com/detail/20260721235701108800",
           "source": "金十数据",
@@ -1101,6 +1158,28 @@
           "time_info": "11时45分"
         },
         {
+          "title": "美国总统特朗普警告：伊朗在霍尔木兹海峡每袭击一艘船只，美国将轰炸其一座桥梁或发电厂。",
+          "url": "https://wallstreetcn.com/livenews/3138255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "美国参议员怀登建议立法，来限制总统特朗普的关税权力",
+          "url": "https://wallstreetcn.com/livenews/3138253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "特朗普解除美国直飞黎巴嫩航班40余年禁令",
           "url": "https://wallstreetcn.com/livenews/3137870",
           "source": "华尔街见闻-快讯",
@@ -1110,6 +1189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "特朗普：伊朗将付出沉重的代价。 士兵死亡事件正在调查中，伊朗将付出代价。 美国人并不反对这场战争。 美国人不想要高油价。",
+          "url": "https://wallstreetcn.com/livenews/3138250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         }
       ]
     },
@@ -1135,7 +1225,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1203,7 +1293,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1225,7 +1315,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1258,7 +1348,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1269,7 +1359,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
@@ -1277,7 +1367,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
@@ -1327,8 +1417,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时08分 ~ 20时58分]"
+          "appearance_count": 6,
+          "time_info": "[17时08分 ~ 23时05分]"
         },
         {
           "title": "金刚光伏：子公司签订6.14亿元算力服务合同",
@@ -1359,7 +1449,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1375,13 +1465,24 @@
           "time_info": "[03时54分 ~ 05时06分]"
         },
         {
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "【中微半导：预计2026年上半年净利润同比增长90.82%】中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同比增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、智能家电、工业控制、汽车电子等领域的市场需求稳步复苏，造成公司MCU市场需求增速超过公司MCU产能增速，出现产能相对紧缺状态，产品出货量增长的同时产品价格上涨，公司营收及利润实现双增长。",
           "url": "https://wallstreetcn.com/livenews/3138201",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1507,11 +1608,12 @@
           "url": "https://www.cls.cn/detail/2434004",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时58分]"
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 23时05分]"
         },
         {
           "title": "韩股反弹之路开启？连续第二日涨至熔断，“存储双雄”爆发",
@@ -1554,7 +1656,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1565,7 +1667,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
@@ -1627,7 +1729,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
@@ -1645,11 +1747,12 @@
             7,
             16,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时45分 ~ 20时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时45分 ~ 23时05分]"
         },
         {
           "title": "SpaceX做空比例飙至32% 马斯克警告空头：几无存活可能！",
@@ -1749,6 +1852,23 @@
       ]
     },
     {
+      "keyword_group": "光模块",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "东山精密回应光模块被盗窃",
+          "url": "https://www.douyin.com/hot/2581443",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "紫金矿业",
       "match_count": 1,
       "titles": [
@@ -1780,6 +1900,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "从大渡河到雅砻江，锂电龙头宁德时代为何频频入股巨型水电站",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33631572",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         }
       ]
     }
