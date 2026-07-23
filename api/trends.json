@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-23T21:51:12.931201+08:00",
-  "total_titles_processed": 1644,
+  "generated_at": "2026-07-23T23:54:10.512950+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[06时43分 ~ 23时54分]"
+        },
         {
           "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
           "url": "https://www.cls.cn/detail/2434298",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时45分 ~ 09时14分]"
-        },
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时43分 ~ 21时51分]"
         },
         {
           "title": "又一批A股公司业绩亮相！A股股王上半年净利最高增超9倍",
@@ -154,6 +155,17 @@
           "time_info": "[04时38分 ~ 05时45分]"
         },
         {
+          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
+          "url": "https://wallstreetcn.com/articles/3777740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时53分 ~ 23时54分]"
+        },
+        {
           "title": "A股行情",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -250,7 +262,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -453,6 +465,17 @@
           "time_info": "05时45分"
         },
         {
+          "title": "纳斯达克100指数跌幅扩大至2%，纳指跌超2.3%，标普跌1.3%、恐慌指数VIX涨17%，道指维持大约1%的跌幅。 美股超大规模云服务商（Hyperscalers）指数跌幅扩大至约5%——跳空低开之后持续扩大跌幅，刷新日低至86.24点。 亚马逊股价下跌5%，创2月6日以来最大盘中跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3138960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "美股收盘：三大股指小幅收低，SpaceX跌超6%",
           "url": "https://flash.jin10.com/detail/20260723040140426800",
           "source": "金十数据",
@@ -514,7 +537,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -544,7 +567,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -566,8 +589,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 21时51分]"
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 23时54分]"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 23时54分]"
         },
         {
           "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
@@ -606,20 +643,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时44分 ~ 12时37分]"
-        },
-        {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 21时51分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
@@ -664,9 +687,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
+        },
+        {
+          "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
+          "url": "https://wallstreetcn.com/livenews/3138980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
@@ -689,6 +723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "特朗普：伊朗尚未准备好达成协议",
+          "url": "https://flash.jin10.com/detail/20260723234018735800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
@@ -738,6 +783,17 @@
           "time_info": "[17时57分 ~ 19时50分]"
         },
         {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时53分 ~ 23时54分]"
+        },
+        {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
           "url": "https://flash.jin10.com/detail/20260723050424634800",
           "source": "金十数据",
@@ -747,6 +803,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
+          "url": "https://wallstreetcn.com/livenews/3138978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
+          "url": "https://wallstreetcn.com/livenews/3138976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普尚未就核协议条件与沙特领导人进行交谈。",
+          "url": "https://flash.jin10.com/detail/20260723233557382800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于下周五在戴维营举办内阁会议。",
+          "url": "https://wallstreetcn.com/livenews/3138972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "美国总统特朗普：9月份将面临政府停摆。",
@@ -769,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "特朗普：接近就“大规模打击”伊朗作出决定",
+          "url": "https://flash.jin10.com/detail/20260723233215266800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
@@ -810,7 +921,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -840,19 +951,8 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "马斯克母亲吐槽纽约脏乱差",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356390&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E4%BA%B2%E5%90%90%E6%A7%BD%E7%BA%BD%E7%BA%A6%E8%84%8F%E4%B9%B1%E5%B7%AE",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 09时14分]"
-        },
         {
           "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
           "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
@@ -865,8 +965,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时37分 ~ 21时51分]"
+          "appearance_count": 8,
+          "time_info": "[12时37分 ~ 23时54分]"
+        },
+        {
+          "title": "马斯克母亲吐槽纽约脏乱差",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356390&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E4%BA%B2%E5%90%90%E6%A7%BD%E7%BA%BD%E7%BA%A6%E8%84%8F%E4%B9%B1%E5%B7%AE",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 09时14分]"
         },
         {
           "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
@@ -876,8 +987,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时37分 ~ 21时51分]"
+          "appearance_count": 8,
+          "time_info": "[12时37分 ~ 23时54分]"
         },
         {
           "title": "马斯克：美光向特斯拉提供了“大量”存储芯片",
@@ -959,6 +1070,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时43分]"
+        },
+        {
+          "title": "马斯克第三次喊“奇点已至”",
+          "url": "https://www.toutiao.com/trending/7665693109317013033/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时53分 ~ 23时54分]"
         },
         {
           "title": "马斯克表示身体不适，在回答有关供应商满足Optimus需求的问题时称自己“今天有点病”。",
@@ -1075,7 +1197,7 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "上海：推动科创板持续深化改革 持续扩大科创板第五套上市标准的适用范围",
@@ -1096,11 +1218,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 21时51分]"
+          "appearance_count": 6,
+          "time_info": "[17时57分 ~ 23时54分]"
         },
         {
           "title": "长鑫科技：将于7月27日在科创板上市",
@@ -1111,8 +1234,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 21时51分]"
+          "appearance_count": 5,
+          "time_info": "[19时50分 ~ 23时54分]"
+        },
+        {
+          "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
+          "url": "https://www.cls.cn/detail/2435567",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时53分 ~ 23时54分]"
         },
         {
           "title": "长鑫科技将于27日在科创板上市",
@@ -1124,6 +1258,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
+          "title": "长鑫科技7月27日科创板上市",
+          "url": "https://www.douyin.com/hot/2582708",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时53分 ~ 23时54分]"
         },
         {
           "title": "上海：推动科创板持续深化改革 持续扩大科创板第五套上市标准的适用范围",
@@ -1239,11 +1384,12 @@
           "ranks": [
             10,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 21时51分]"
+          "appearance_count": 6,
+          "time_info": "[17时57分 ~ 23时54分]"
         },
         {
           "title": "政策利好+AI算力双轮驱动！电力板块掀涨停潮",
