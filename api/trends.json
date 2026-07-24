@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-24T09:10:38.218921+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2026-07-24T12:32:12.316603+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时31分 ~ 12时32分]"
+        },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
           "url": "https://wallstreetcn.com/articles/3777614",
@@ -32,16 +44,18 @@
           "time_info": "[01时19分 ~ 07时32分]"
         },
         {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            12,
+            3,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 09时10分]"
+          "appearance_count": 6,
+          "time_info": "[06时31分 ~ 12时32分]"
         },
         {
           "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
@@ -58,17 +72,27 @@
           "time_info": "[01时19分 ~ 09时10分]"
         },
         {
-          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
-          "url": "https://www.cls.cn/detail/2435694",
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
           "source": "财联社热门",
           "ranks": [
-            12,
-            3,
-            5
+            8,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 09时10分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 12时32分]"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
         },
         {
           "title": "美股科技七巨头市值蒸发近8千亿美元",
@@ -77,7 +101,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -88,21 +112,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
-        },
-        {
-          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
-          "url": "https://www.cls.cn/detail/2435717",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 09时10分]"
         },
         {
           "title": "美股七巨头齐跌 特斯拉重挫14%",
@@ -111,7 +123,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -122,7 +134,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -187,15 +199,37 @@
           "time_info": "[05时22分 ~ 06时31分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
+        },
+        {
           "title": "A股温度计",
           "url": "https://flash.jin10.com/detail/20260724083229563800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "港股午评：恒指收跌1.27%，黄金股大跌",
+          "url": "https://flash.jin10.com/detail/20260724120234688800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "A股科技板块持续调整，机构关注资源品与红利低位股",
@@ -226,7 +260,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -275,6 +309,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "A股三大指数均跌超1%，贵金属、电力、算力租赁、医药等方向跌幅居前，沪深京三市下跌个股近4900只。",
+          "url": "https://wallstreetcn.com/livenews/3139184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "金十图示：2026年07月23日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260724025439749800",
           "source": "金十数据",
@@ -306,12 +351,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "A股午评：沪指收跌1.20%，氟化工概念活跃",
+          "url": "https://flash.jin10.com/detail/20260724113433529800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -336,8 +392,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时46分 ~ 09时10分]"
+          "appearance_count": 10,
+          "time_info": "[02时46分 ~ 12时32分]"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -346,22 +402,24 @@
           "ranks": [
             17,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 09时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时19分 ~ 12时32分]"
         },
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
           "url": "https://wallstreetcn.com/articles/3777811",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 12时32分]"
         },
         {
           "title": "美众议院通过决议限制特朗普对伊动武权力 参议院则支持总统",
@@ -399,6 +457,17 @@
           "time_info": "[06时31分 ~ 07时32分]"
         },
         {
+          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
+          "url": "https://www.cls.cn/detail/2435732",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 12时32分]"
+        },
+        {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
           "url": "https://wallstreetcn.com/articles/3777708",
           "source": "华尔街见闻",
@@ -408,6 +477,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时46分]"
+        },
+        {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
         },
         {
           "title": "特朗普重建关税墙！60个经济体被征10%-12.5%新税",
@@ -441,17 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        },
-        {
-          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
-          "url": "https://www.cls.cn/detail/2435732",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时10分"
         },
         {
           "title": "美国总统特朗普：伊朗想要做些什么，但他们还没有准备好。",
@@ -526,7 +595,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -564,13 +633,24 @@
           "time_info": "04时02分"
         },
         {
+          "title": "伊朗驻古巴大使馆针对特朗普的指控和夸张言论，在其X账号上发布了一张图片，并表示，特朗普的言论和推文毫无价值，甚至可以用来当厕纸。",
+          "url": "https://flash.jin10.com/detail/20260724113708863800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "美参议院否决限制特朗普对伊战争权力的决议案",
           "url": "https://wallstreetcn.com/livenews/3139120",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         }
@@ -578,8 +658,19 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "芯片股遭抛售叠加中东局势 韩股再度大跌",
+          "url": "https://flash.jin10.com/detail/20260724121618217800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
         {
           "title": "中国“芯片刻刀”终于出鞘",
           "url": "https://www.toutiao.com/trending/7664586420367376438/",
@@ -592,6 +683,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时21分 ~ 07时32分]"
+        },
+        {
+          "title": "英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支",
+          "url": "https://wallstreetcn.com/articles/3777822",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
         },
         {
           "title": "AMD的CEO苏姿丰：新款Venice CPU扩大（本公司产品）在行业的领先地位。 全新EPYC架构带来了史上最大幅度的代际性能飞跃。 新款服务器CPU遥遥领先那些基于Arm的芯片。 新款EPYC性能比英伟达CPU高出20%。 Venice全面投产，客户需求强劲。 那些基于Venice的系统将在四季度出现。",
@@ -645,7 +747,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -678,7 +780,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -700,7 +802,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         }
@@ -710,6 +812,22 @@
       "keyword_group": "科创",
       "match_count": 6,
       "titles": [
+        {
+          "title": "长鑫科技7月27日科创板上市",
+          "url": "https://www.douyin.com/hot/2582708",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23,
+            9,
+            8,
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 12时32分]"
+        },
         {
           "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
           "url": "https://www.cls.cn/detail/2435567",
@@ -721,23 +839,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 09时10分]"
-        },
-        {
-          "title": "长鑫科技7月27日科创板上市",
-          "url": "https://www.douyin.com/hot/2582708",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23,
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 09时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时19分 ~ 12时32分]"
         },
         {
           "title": "【焦点复盘】科创50高开低走跌3.78%，两市成交额萎缩4500亿，顺周期资源股持续爆发",
@@ -786,6 +889,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
+          "url": "https://www.cls.cn/detail/2435174",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 07时32分]"
+        },
+        {
+          "title": "算力上天，组网提速：力箭一号遥十五“一箭5星”发射成功",
+          "url": "https://www.cls.cn/detail/2435764",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 12时32分]"
+        },
+        {
+          "title": "未来五年计划投入1000亿元 “东莞算力产业岛”亮相",
+          "url": "https://flash.jin10.com/detail/20260724120116795800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "华泰证券：AI Agent加速推理算力与存力扩容 自主可控链国产化再加速",
+          "url": "https://flash.jin10.com/detail/20260724082528532800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "公募AI投资图谱：算力端“吃饱”，应用层“等风”",
+          "url": "https://wallstreetcn.com/livenews/3139099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "算力租赁概念震荡调整，证通电子逼近跌停，利通电子、美利云、亿田智能、行云科技、群兴玩具均跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3139188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     },
@@ -847,56 +1022,6 @@
       ]
     },
     {
-      "keyword_group": "算力",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
-          "url": "https://www.cls.cn/detail/2435174",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时32分]"
-        },
-        {
-          "title": "算力上天，组网提速：力箭一号遥十五“一箭5星”发射成功",
-          "url": "https://www.cls.cn/detail/2435764",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
-          "title": "华泰证券：AI Agent加速推理算力与存力扩容 自主可控链国产化再加速",
-          "url": "https://flash.jin10.com/detail/20260724082528532800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
-          "title": "公募AI投资图谱：算力端“吃饱”，应用层“等风”",
-          "url": "https://wallstreetcn.com/livenews/3139099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体",
       "match_count": 3,
       "titles": [
@@ -934,6 +1059,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长鑫科技产业链全景扫描：设备材料端率先受益 封测与存储模组产品导入验证持续进行",
+          "url": "https://www.cls.cn/detail/2435803",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
         }
       ]
     }
