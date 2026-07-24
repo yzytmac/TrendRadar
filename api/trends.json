@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T19:26:58.051669+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-07-24T20:58:52.020626+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -16,8 +16,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时31分 ~ 19时26分]"
+          "appearance_count": 10,
+          "time_info": "[06时31分 ~ 20时58分]"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 20时58分]"
         },
         {
           "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 06时31分]"
-        },
-        {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 19时26分]"
         },
         {
           "title": "美股",
@@ -123,7 +123,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -140,17 +140,6 @@
           "time_info": "[15时19分 ~ 19时26分]"
         },
         {
-          "title": "美国运通二季度营收196.4亿美元，预期196.9亿美元。 二季度每股收益4.53美元，预期4.41美元。 美国运通预计全年营收增长10%，此前预期增长9%至10%。 美国运通仍预计全年每股收益为17.30至17.90美元，市场预期为17.68美元。 美国运通美股盘前跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3139451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
           "title": "郭一鸣：A股缩量普跌静待方向选择",
           "url": "https://www.toutiao.com/trending/7665998908752924196/",
           "source": "今日头条",
@@ -160,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
+        },
+        {
+          "title": "A股这轮反弹为何又变脸了",
+          "url": "https://www.toutiao.com/trending/7666043154117692970/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美股七巨头齐跌 特斯拉重挫14%",
@@ -182,6 +182,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "美国运通二季度营收196.4亿美元，预期196.9亿美元。 二季度每股收益4.53美元，预期4.41美元。 美国运通预计全年营收增长10%，此前预期增长9%至10%。 美国运通仍预计全年每股收益为17.30至17.90美元，市场预期为17.68美元。 美国运通美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3139451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时58分]"
         },
         {
           "title": "摩根大通：接下来几周是美股命运关键",
@@ -232,6 +244,18 @@
           "time_info": "[17时45分 ~ 19时26分]"
         },
         {
+          "title": "斯伦贝谢第二季度营收89.7亿美元，预期86.9亿美元。 第二季度调整后每股收益55美分，预期51美分。 第二季度调整后EBITDA为19.0亿美元，预期17.8亿美元。 第二季度资本支出4.59亿美元，预期4.88亿美元。 斯伦贝谢美股盘前涨2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3139443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时58分]"
+        },
+        {
           "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
           "url": "https://wallstreetcn.com/livenews/3139066",
           "source": "华尔街见闻-快讯",
@@ -273,7 +297,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -344,17 +368,6 @@
           "time_info": "15时19分"
         },
         {
-          "title": "斯伦贝谢第二季度营收89.7亿美元，预期86.9亿美元。 第二季度调整后每股收益55美分，预期51美分。 第二季度调整后EBITDA为19.0亿美元，预期17.8亿美元。 第二季度资本支出4.59亿美元，预期4.88亿美元。 斯伦贝谢美股盘前涨2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3139443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
           "title": "南向资金今日净卖出15.18亿元。港股通（沪）方面，阿里巴巴-W、建滔积层板分别获净卖出18.31亿港元、3.89亿港元；智谱净买入额居首，金额为1.45亿港元；港股通（深）方面，阿里巴巴-W、腾讯控股分别获净卖出13.77亿港元、4.58亿港元；华虹宏力净买入额居首，金额为3.47亿港元。",
           "url": "https://flash.jin10.com/detail/20260724173128882800",
           "source": "金十数据",
@@ -394,9 +407,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "A股下周会二次探底吗",
+          "url": "https://www.toutiao.com/trending/7665883266716663827/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股收盘）",
@@ -427,7 +451,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -509,6 +533,17 @@
           "time_info": "12时32分"
         },
         {
+          "title": "Verizon预计全年调整后每股收益4.99美元至5.04美元，此前预计4.95美元至4.99美元，市场预估4.97美元。 Verizon仍然预测全年资本支出160亿美元至165亿美元，市场预估163.5亿美元。 Verizon第二季度调整后每股收益1.30美元，上年同期1.22美元，预估1.27美元。 Verizon第二季度调整后息税折旧及摊销前利润137亿美元，预估136.5亿美元。 Verizon第二季度营运收入343亿美元，预估351.7亿美元。 Verizon美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3139449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "金十图示：2026年07月23日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260724025439749800",
           "source": "金十数据",
@@ -573,12 +608,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "长鑫上市前一天 A股为何极致缩量",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E4%B8%8A%E5%B8%82%E5%89%8D%E4%B8%80%E5%A4%A9%20A%E8%82%A1%E4%B8%BA%E4%BD%95%E6%9E%81%E8%87%B4%E7%BC%A9%E9%87%8F&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -604,8 +650,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时46分 ~ 19时26分]"
+          "appearance_count": 14,
+          "time_info": "[02时46分 ~ 20时58分]"
         },
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -616,8 +662,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 19时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 20时58分]"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -643,8 +689,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 19时26分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 20时58分]"
+        },
+        {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 20时58分]"
         },
         {
           "title": "美众议院通过决议限制特朗普对伊动武权力 参议院则支持总统",
@@ -656,18 +714,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        },
-        {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 19时26分]"
         },
         {
           "title": "美国司法部在总统特朗普飞机调查中撤销针对纽约时报的传唤。",
@@ -737,6 +783,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美国总统特朗普寻求解冻委内瑞拉数十亿被冻结资产以应对地震影响。",
+          "url": "https://flash.jin10.com/detail/20260724202116774800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美国检方将在特朗普飞行机密泄露调查中撤回针对《纽约时报》记者的传票。",
@@ -899,6 +956,18 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支",
+          "url": "https://wallstreetcn.com/articles/3777822",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 20时58分]"
+        },
+        {
           "title": "芯片股遭抛售叠加中东局势 韩股再度大跌",
           "url": "https://flash.jin10.com/detail/20260724121618217800",
           "source": "金十数据",
@@ -908,17 +977,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
-        },
-        {
-          "title": "英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支",
-          "url": "https://wallstreetcn.com/articles/3777822",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 19时26分]"
         },
         {
           "title": "中国“芯片刻刀”终于出鞘",
@@ -1119,6 +1177,18 @@
           "time_info": "[06时31分 ~ 07时32分]"
         },
         {
+          "title": "浙江：支持科创型企业上市、并购重组 扩大科创债发行规模",
+          "url": "https://wallstreetcn.com/livenews/3139441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时58分]"
+        },
+        {
           "title": "年内科创债发行总规模超1万亿元",
           "url": "https://wallstreetcn.com/livenews/3139112",
           "source": "华尔街见闻-快讯",
@@ -1128,17 +1198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "浙江：支持科创型企业上市、并购重组 扩大科创债发行规模",
-          "url": "https://wallstreetcn.com/livenews/3139441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
         },
         {
           "title": "上证指数收报3814.20点，跌1.61%。 深证成指收报13774.68点，跌2.47%。 创业板指收报3480.87点，跌2.65%。 沪深300收报4649.19点，跌1.67%。 科创50收报1787.20点，跌0.14%。 中证500收报7532.70点，跌2.61%。 中证1000收报6995.69点，跌2.78%。",
@@ -1169,9 +1228,85 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
+          "url": "https://wallstreetcn.com/livenews/3139028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 04时02分]"
+        },
+        {
+          "title": "【每日收评】深成指、创业板指双双跌超2%，两市成交额不足2万亿，半导体设备逆势活跃",
+          "url": "https://www.cls.cn/detail/2436369",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时58分]"
+        },
+        {
+          "title": "半导体扩产遇瓶颈：设备交期大幅拉长 韩国存储巨头考虑提前下单",
+          "url": "https://www.cls.cn/detail/2435916",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 19时26分]"
+        },
+        {
+          "title": "新加坡政府投资公司GIC：对人工智能投资采取审慎态度；聚焦先进半导体制造与设计。",
+          "url": "https://flash.jin10.com/detail/20260724055905165800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时32分]"
+        },
+        {
+          "title": "分析人士：半导体产业景气度持续验证，板块调整后配置价值凸显",
+          "url": "https://wallstreetcn.com/livenews/3139108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "奥本海默：将恩智浦半导体(NXPI.O)目标价从300美元上调至325美元。",
+          "url": "https://flash.jin10.com/detail/20260724201306441800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
@@ -1300,8 +1435,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时58分]"
         },
         {
           "title": "马斯克：Grok 4.5现已在所有平台上线。",
@@ -1317,72 +1452,8 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
-          "url": "https://wallstreetcn.com/livenews/3139028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 04时02分]"
-        },
-        {
-          "title": "半导体扩产遇瓶颈：设备交期大幅拉长 韩国存储巨头考虑提前下单",
-          "url": "https://www.cls.cn/detail/2435916",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时26分]"
-        },
-        {
-          "title": "新加坡政府投资公司GIC：对人工智能投资采取审慎态度；聚焦先进半导体制造与设计。",
-          "url": "https://flash.jin10.com/detail/20260724055905165800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时32分]"
-        },
-        {
-          "title": "【每日收评】深成指、创业板指双双跌超2%，两市成交额不足2万亿，半导体设备逆势活跃",
-          "url": "https://www.cls.cn/detail/2436369",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时26分]"
-        },
-        {
-          "title": "分析人士：半导体产业景气度持续验证，板块调整后配置价值凸显",
-          "url": "https://wallstreetcn.com/livenews/3139108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "东山精密、澜起科技、江波龙、佰维存储等，多家科技龙头公司加入“增持回购潮”",
@@ -1393,8 +1464,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 19时26分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 20时58分]"
         },
         {
           "title": "长鑫科技产业链全景扫描：设备材料端率先受益 封测与存储模组产品导入验证持续进行",
@@ -1406,6 +1477,56 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时31分 ~ 15时19分]"
+        },
+        {
+          "title": "就在下周！存储三雄最新财报即将揭晓 产业再迎“压力测试”？",
+          "url": "https://www.cls.cn/detail/2436364",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "OPPO 、 Vivo 拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
+          "url": "https://www.zhihu.com/question/2063583824378848408",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "宁德时代：拟以200亿元-400亿元回购公司股份",
+          "url": "https://wallstreetcn.com/livenews/3139460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "宁德时代：2026年上半年净利润432.84亿元，同比增长41.98%",
+          "url": "https://wallstreetcn.com/livenews/3139458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
@@ -1440,6 +1561,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "天齐锂业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "天齐锂业：射洪天齐拟1.5亿元认购欣旺达动力新增股份7921.81万股",
+          "url": "https://wallstreetcn.com/livenews/3139470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     }
