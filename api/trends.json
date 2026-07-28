@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-07-29T02:25:03.334254+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-07-29T02:59:31.365740+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
-          "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
-          "url": "https://wallstreetcn.com/livenews/3141133",
+          "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
+          "url": "https://flash.jin10.com/detail/20260729023706734800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "对伊朗军事行动以来 特朗普与内塔尼亚胡首次会晤",
+          "url": "https://wallstreetcn.com/livenews/3141157",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            20
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -28,8 +38,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时59分]"
+        },
+        {
+          "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
+          "url": "https://wallstreetcn.com/livenews/3141133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 02时59分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国驻公投特朗普与以色列总理、乌克兰总统的会谈偏正面，富有成效。",
@@ -37,44 +60,59 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 02时59分]"
         },
         {
           "title": "以色列官员：内塔尼亚胡与特朗普会晤期间并未提及镐山。有关以色列提交相关情报的报道为“假消息”。",
           "url": "https://flash.jin10.com/detail/20260729015519926800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时59分]"
         },
         {
           "title": "据以色列第12频道：一名以色列高级官员称，内塔尼亚胡已向特朗普确认，对于那些已经重新修复的伊朗核设施，“追加打击是不可避免的”。",
           "url": "https://flash.jin10.com/detail/20260729014415526800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时59分]"
         },
         {
           "title": "据以色列媒体：华盛顿消息人士称，美国总统特朗普在会议期间并未要求以色列从任何区域撤军。",
           "url": "https://flash.jin10.com/detail/20260729014235848800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时59分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们的目标与特朗普一致，就是不让伊朗获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260729022109008800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "02时59分"
         },
         {
           "title": "据CNN：以色列总理内塔尼亚胡刚刚离开白宫西翼。（据悉其与特朗普的会议结束）",
@@ -94,7 +132,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -116,7 +154,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -156,8 +194,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -167,8 +205,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -179,19 +217,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2065354296774989670",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
@@ -202,8 +241,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
@@ -214,8 +253,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -225,8 +264,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时59分]"
+        },
+        {
+          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 02时59分]"
         },
         {
           "title": "长鑫科技登顶A股意味着什么",
@@ -238,17 +289,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 00时59分]"
-        },
-        {
-          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 02时25分]"
         },
         {
           "title": "金十图示：2026年07月28日（周二）热门中概股行情一览（美股盘中）",
@@ -286,8 +326,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
@@ -298,8 +338,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "三天传出多笔大交易 ：英伟达进入“左手出资、右手卖芯片”的循环局？",
@@ -309,8 +349,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时59分]"
         }
       ]
     },
@@ -327,8 +367,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "【数据看盘】超20亿元资金涌入算力硬件龙头，北一环路席位1.79亿元买入岩山科技",
@@ -338,8 +378,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时59分]"
         }
       ]
     },
@@ -355,8 +395,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时59分]"
         }
       ]
     },
@@ -369,11 +409,12 @@
           "url": "https://flash.jin10.com/detail/20260729020213476800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时59分]"
         }
       ]
     },
