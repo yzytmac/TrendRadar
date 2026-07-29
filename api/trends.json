@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T18:13:25.450794+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-07-29T20:22:12.467925+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
@@ -31,6 +31,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时58分 ~ 09时10分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时42分 ~ 20时22分]"
         },
         {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
@@ -83,18 +96,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时43分 ~ 15时32分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时42分 ~ 18时13分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -164,6 +165,18 @@
           "time_info": "04时19分"
         },
         {
+          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 20时22分]"
+        },
+        {
           "title": "A股温度计",
           "url": "https://flash.jin10.com/detail/20260729090453767800",
           "source": "金十数据",
@@ -196,6 +209,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时42分 ~ 09时10分]"
+        },
+        {
+          "title": "业内：A股蓄势磨底 反弹一触即发",
+          "url": "https://www.toutiao.com/trending/7667874474928406591/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
+          "title": "郭一鸣：A股或迎决战时刻",
+          "url": "https://www.toutiao.com/trending/7667883303755583012/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         },
         {
           "title": "美股芯片存储大跌",
@@ -242,17 +277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
-        },
-        {
-          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
-          "url": "https://wallstreetcn.com/articles/3778176",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "港股IPO市场持续升温，科技与“A+H”双轮驱动",
@@ -360,7 +384,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -385,6 +409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "澜起科技：回购50万股A股股份，使用资金总额1.03亿元",
+          "url": "https://wallstreetcn.com/livenews/3141669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "SK海力士财报不及预期 美股盘后一度大跌9%",
@@ -415,7 +450,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -442,6 +477,17 @@
           "time_info": "06时43分"
         },
         {
+          "title": "宝洁第四财季销售净额212.0亿美元，预估213.4亿美元。 第四财季内生性收入增长0％，预估增长1.85％。 第四财季核心每股收益1.43美元，预估1.41美元。 宝洁预计2027年内生性收入增长1％至3％，预估增长2.44％。 宝洁预计2027年核心每股收益6.89美元至7.11美元，市场预估7.02美元。 宝洁美股盘前跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3141659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "A股三大指数探底回升集体翻红，乳业、教育、食品饮料、零售等方向涨幅居前，沪深京三市上涨个股近4000只。",
           "url": "https://wallstreetcn.com/livenews/3141389",
           "source": "华尔街见闻-快讯",
@@ -456,7 +502,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -491,6 +537,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 20时22分]"
         },
         {
           "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
@@ -543,16 +602,26 @@
           "time_info": "[09时10分 ~ 12时32分]"
         },
         {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
           "ranks": [
-            15,
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时31分 ~ 18时13分]"
+          "time_info": "[18时13分 ~ 20时22分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 20时22分]"
         },
         {
           "title": "以色列官员：内塔尼亚胡与特朗普会晤期间并未提及镐山。有关以色列提交相关情报的报道为“假消息”。",
@@ -630,7 +699,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -646,17 +715,6 @@
           "time_info": "02时59分"
         },
         {
-          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
-          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
           "title": "伊朗突袭美军基地！特朗普的停火赌局遭遇新考验，油价反弹4%！",
           "url": "https://flash.jin10.com/detail/20260729072431211800",
           "source": "金十数据",
@@ -666,17 +724,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
-        },
-        {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
-          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普政府将终止医疗保险药物计划补贴。",
@@ -820,12 +867,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "特朗普将宣布杜勒斯机场翻新计划细节。（美国哥伦比亚广播公司）",
+          "url": "https://wallstreetcn.com/livenews/3141654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -846,11 +904,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时43分 ~ 18时13分]"
+          "appearance_count": 11,
+          "time_info": "[06时43分 ~ 20时22分]"
         },
         {
           "title": "芯片抛售蔓延全球，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -920,6 +979,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "中韩半导体ETF华泰柏瑞将于7月30日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3141665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨1.08%，报6325.46点。 热门中概股里，理想初步收涨4.9%，亚朵涨4.5%，网易涨3%，小米涨2.3%，新东方涨1.7%，拼多多、腾讯涨1%，阿里涨0.3%，百度跌0.3%，日月光半导体跌7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.15%，中国科技指数ETF（CQQQ）收跌2.41%。 德银嘉实沪深300指数ETF（ASHR）收跌2.39%，MSCI新兴市场ex中国ETF（EMXC）收跌2.46%，XtrackersHarvest中证50（ASHS）收跌2.62%。",
           "url": "https://wallstreetcn.com/livenews/3141180",
           "source": "华尔街见闻-快讯",
@@ -934,7 +1004,7 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "支持科创，加码AI，多家险企绘就下半年工作路线图",
@@ -957,6 +1027,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 12时32分]"
+        },
+        {
+          "title": "【午报】科创50半日跌超4%，芯片产业链持续调整，大消费板块逆势走强",
+          "url": "https://www.cls.cn/detail/2439890",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         },
         {
           "title": "科创50翻红 此前一度跌近5%",
@@ -1017,7 +1098,7 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "芯片抛售蔓延全球，纳指100较峰值跌10%，存储股走低，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -1059,6 +1140,17 @@
           "time_info": "[00时58分 ~ 09时10分]"
         },
         {
+          "title": "永鼎股份：控股子公司苏州鼎芯光电科技有限公司于近一个月收到A客户、B客户关于大功率激光器芯片产品的采购订单，相关订单合计金额分别为5.42亿元人民币（含税）、0.87亿美元（含税）（折合人民币约5.91亿元）。",
+          "url": "https://wallstreetcn.com/livenews/3141686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "芯片股抛售潮持续，韩股跳水触发熔断，海力士财报不及预期大跌10%，中东局势推高油价",
           "url": "https://wallstreetcn.com/articles/3778176",
           "source": "华尔街见闻",
@@ -1098,7 +1190,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         }
@@ -1134,6 +1226,18 @@
           "time_info": "[07时42分 ~ 15时32分]"
         },
         {
+          "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778163",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 20时22分]"
+        },
+        {
           "title": "长鑫科技继续涨 另一存储龙头却跌停",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%BB%A7%E7%BB%AD%E6%B6%A8+%E5%8F%A6%E4%B8%80%E5%AD%98%E5%82%A8%E9%BE%99%E5%A4%B4%E5%8D%B4%E8%B7%8C%E5%81%9C",
           "source": "百度热搜",
@@ -1143,17 +1247,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778163",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "AI热潮推动数据存储需求，希捷科技第四财季利润飙升",
@@ -1181,7 +1274,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
@@ -1206,6 +1299,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 05时38分]"
+        },
+        {
+          "title": "行云科技：VB客户与深圳行云签订了《补充协议》，约定由深圳行云提供的算力服务单元数翻倍，由原协议约定的128个单元增加到256个单元，同时也增加了单位算力服务费，对应算力服务费用总金额调整至30.53亿元，较原签约协议金额提升201.14%。",
+          "url": "https://wallstreetcn.com/livenews/3141680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "AI算力需求催热上半年业绩，行业人士称MLCC产业链高景气度下半年将延续",
@@ -1347,6 +1451,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "紫金矿业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "紫金矿业：终止收购联合黄金，拟通过认购定向增发股票方式取得其9.2%股权",
+          "url": "https://wallstreetcn.com/livenews/3141687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "紫金矿业：终止收购联合黄金 拟认购其9.2%股权",
+          "url": "https://flash.jin10.com/detail/20260729194527137800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     },
