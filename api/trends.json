@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T11:31:52.892718+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-07-30T14:09:46.472304+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -67,8 +67,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 11时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 14时09分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
@@ -87,11 +87,24 @@
           "source": "抖音",
           "ranks": [
             29,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时38分 ~ 11时31分]"
+          "appearance_count": 11,
+          "time_info": "[01时38分 ~ 14时09分]"
+        },
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时14分 ~ 14时09分]"
         },
         {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
@@ -103,18 +116,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时12分 ~ 08时14分]"
-        },
-        {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时14分 ~ 11时31分]"
         },
         {
           "title": "美国总统特朗普：我希望国会在俄罗斯制裁法案中增加对伊朗的关税。",
@@ -189,7 +190,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -226,6 +227,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时12分]"
+        },
+        {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 14时09分]"
         },
         {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”，希望逐步摆脱美方援助",
@@ -274,17 +286,6 @@
           "time_info": "04时02分"
         },
         {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
           "title": "美国总统特朗普：（被问及美国参议院共和党领袖图恩是否适合担任该职位时）我们拭目以待。",
           "url": "https://flash.jin10.com/detail/20260730033618041800",
           "source": "金十数据",
@@ -305,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
+          "url": "https://news.ifeng.com/c/8vAy9S9JapS",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "内塔尼亚胡被曝与特朗普讨论三种对伊策略",
@@ -371,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "据以色列媒体：以色列官员称，内塔尼亚胡与特朗普的会晤讨论了针对伊朗的三个方案，包括协议、经济施压或大规模军事攻击。其中，对伊朗的经济施压正在增加，但军事选项仍在考虑中。",
@@ -530,7 +553,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 32,
+      "match_count": 40,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -556,6 +579,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时12分 ~ 11时31分]"
+        },
+        {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 14时09分]"
         },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -584,19 +620,6 @@
           "time_info": "[00时12分 ~ 05时12分]"
         },
         {
-          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
-          "url": "https://www.cls.cn/detail/2440737",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 11时31分]"
-        },
-        {
           "title": "A股“0元购”：000008的魔幻之旅",
           "url": "https://www.toutiao.com/trending/7667868310784311334/",
           "source": "今日头条",
@@ -606,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "中际旭创A股成交额超500亿元，现跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3142179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美股",
@@ -619,15 +653,15 @@
           "time_info": "08时14分"
         },
         {
-          "title": "A股科技退潮",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E9%80%80%E6%BD%AE%23&t=31&band_rank=2&Refer=top",
+          "title": "A股市值前10红了9个",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%80%BC%E5%89%8D10%E7%BA%A2%E4%BA%869%E4%B8%AA%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时31分"
+          "time_info": "14时09分"
         },
         {
           "title": "美股三大股指悉数跌超1%，标普500指数跌幅扩大至1%，纳指现跌1.3%，道指现跌1.6%。",
@@ -664,6 +698,18 @@
           "time_info": "[06时14分 ~ 07时16分]"
         },
         {
+          "title": "A股科技退潮",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E9%80%80%E6%BD%AE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 14时09分]"
+        },
+        {
           "title": "微软(MSFT.O)公布一系列财务指引，美股盘后涨幅扩大至8%。",
           "url": "https://flash.jin10.com/detail/20260730060759487800",
           "source": "金十数据",
@@ -686,6 +732,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 08时14分]"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2590070",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 14时09分]"
         },
         {
           "title": "Carvana美股盘后跌15%，这家汽车零售商的2026年业绩指引逊色于华尔街预期。",
@@ -724,26 +781,37 @@
           "time_info": "[00时12分 ~ 01时39分]"
         },
         {
+          "title": "中际旭创登陆港股",
+          "url": "https://www.douyin.com/hot/2590247",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "A股银行板块逆势走强，工商银行、建设银行均创历史新高，瑞丰银行、青农商行、沪农商行、无锡银行等涨幅靠前。",
           "url": "https://wallstreetcn.com/livenews/3142102",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
         {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2590070",
-          "source": "抖音",
+          "title": "7月30日投资避雷针：美股三大指数集体下跌 光通信、存储板块继续大跌",
+          "url": "https://www.cls.cn/detail/2440809",
+          "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时31分"
+          "time_info": "14时09分"
         },
         {
           "title": "A股创业板指向下触及3200点，日内跌5.3%，已抹平今年全部涨幅，此前一度涨近35%。",
@@ -752,9 +820,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "A股存储芯片概念震荡回升",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%A6%82%E5%BF%B5%E9%9C%87%E8%8D%A1%E5%9B%9E%E5%8D%87",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股C长鑫午后翻红，此前一度跌超6.5%，成交额超300亿元。",
+          "url": "https://flash.jin10.com/detail/20260730132802453800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "Meta美股盘后跌幅扩大至10%。",
@@ -774,7 +864,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -790,13 +880,35 @@
           "time_info": "05时12分"
         },
         {
+          "title": "A股午后存储芯片板块探底回升，德明利直线封板，佰维存储、江波龙、盈方微、普冉股份等均快速拉升。",
+          "url": "https://flash.jin10.com/detail/20260730132456152800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股存储芯片概念震荡回升，德明利午后涨停，佰维存储、江波龙、盈方微、普冉股份等快速冲高。",
+          "url": "https://wallstreetcn.com/livenews/3142160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "A股银行板块盘中逆势拉升，工商银行、建设银行创历史新高，瑞丰银行涨近3%，青农商行、渝农商行、沪农商行等跟涨。",
           "url": "https://flash.jin10.com/detail/20260730105204191800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -807,7 +919,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -829,7 +941,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -840,7 +952,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -851,7 +963,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -884,7 +996,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -895,7 +1007,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         }
@@ -936,7 +1048,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -958,7 +1070,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -969,7 +1081,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -1002,7 +1114,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         }
@@ -1018,11 +1130,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[06时14分 ~ 14时09分]"
         },
         {
           "title": "三星电子预计下半年芯片需求将保持强劲，预计下半年整体盈利将实现增长，预计下半年内存业务需求强劲。",
@@ -1064,7 +1177,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -1075,7 +1188,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -1086,84 +1199,15 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "长鑫存储 vs 长江存储，一个做内存，一个做闪存，谁更厉害？",
-          "url": "https://www.zhihu.com/question/2061092161337177252",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            14,
-            11,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时42分 ~ 11时31分]"
-        },
-        {
-          "title": "金十数据整理：每日存储市场要闻速递（2026-07-30）",
-          "url": "https://flash.jin10.com/detail/20260730111200426800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "【早报】美联储按兵不动，罕见三票主张加息；美存储股继续大跌；油价飙升，黄金微涨；两大MLCC龙头宣布涨价",
-          "url": "https://www.cls.cn/detail/2440772",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时14分 ~ 11时31分]"
-        },
-        {
-          "title": "长江存储：网传“核心 3DNAND专利全部19项权利要求被裁定无效”系严重误导性描述",
-          "url": "https://wallstreetcn.com/livenews/3141793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时39分]"
-        },
-        {
-          "title": "长江存储：网传“核心 3DNAND专利全部19项权利要求被裁定无效”系严重误导性描述",
-          "url": "https://flash.jin10.com/detail/20260729234218767800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "这次，马斯克都看不下去了",
@@ -1199,11 +1243,93 @@
           "time_info": "04时02分"
         },
         {
+          "title": "曝马斯克拟斥巨资助力共和党中期选举",
+          "url": "https://www.toutiao.com/trending/7668126459894693942/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "马斯克与《经济学人》主编谈了什么",
           "url": "https://www.toutiao.com/trending/7667920426818866742/",
           "source": "今日头条",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "长鑫存储 vs 长江存储，一个做内存，一个做闪存，谁更厉害？",
+          "url": "https://www.zhihu.com/question/2061092161337177252",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            14,
+            11,
+            5,
+            4,
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时42分 ~ 14时09分]"
+        },
+        {
+          "title": "【早报】美联储按兵不动，罕见三票主张加息；美存储股继续大跌；油价飙升，黄金微涨；两大MLCC龙头宣布涨价",
+          "url": "https://www.cls.cn/detail/2440772",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时14分 ~ 14时09分]"
+        },
+        {
+          "title": "金十数据整理：每日存储市场要闻速递（2026-07-30）",
+          "url": "https://flash.jin10.com/detail/20260730111200426800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "长江存储：网传“核心 3DNAND专利全部19项权利要求被裁定无效”系严重误导性描述",
+          "url": "https://wallstreetcn.com/livenews/3141793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时39分]"
+        },
+        {
+          "title": "长江存储：网传“核心 3DNAND专利全部19项权利要求被裁定无效”系严重误导性描述",
+          "url": "https://flash.jin10.com/detail/20260729234218767800",
+          "source": "金十数据",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1262,6 +1388,51 @@
       ]
     },
     {
+      "keyword_group": "新易盛",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新易盛股价再度出现剧烈波动 公司回应：内外部经营环境未出现重大变化",
+          "url": "https://flash.jin10.com/detail/20260730133339335800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "新易盛股价再度出现剧烈波动 公司回应：内外部经营环境未出现重大变化",
+          "url": "https://wallstreetcn.com/livenews/3142169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【午后多只宽基ETF放量回升 2只双创ETF连续3日成交超100亿】创业板ETF易方达（159915）、科创50ETF华夏（588000）连续第3个交易日成交额突破100亿，A500ETF华泰柏瑞（563360）、中证500ETF南方（510500）、沪深300ETF华泰（510300）成交额超40亿。",
+          "url": "https://wallstreetcn.com/livenews/3142158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中际旭创",
       "match_count": 1,
       "titles": [
@@ -1275,6 +1446,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国 8 家整车厂赚不过 1 家电池厂，为什么宁德时代利润超过车企这么多？",
+          "url": "https://www.zhihu.com/question/2065751316211701463",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         }
       ]
     }
