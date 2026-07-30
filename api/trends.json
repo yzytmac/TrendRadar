@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T02:14:34.055292+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-07-31T03:55:16.699077+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时55分]"
         },
         {
           "title": "美国总特朗普的顾问纳瓦罗宣称：如果趋势继续，美联储应当保留降息选项。",
@@ -25,9 +25,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时55分]"
+        },
+        {
+          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
+          "url": "https://news.ifeng.com/c/8vBnavmwROe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时55分]"
         },
         {
           "title": "美国考虑对大学毕业之后留美工作的外国学生收取10万美元的费用。 此前，（美国法院）阻挠总统特朗普对H-1B签证收费10万美元的想法。（华尔街日报）",
@@ -42,26 +64,15 @@
           "time_info": "[00时50分 ~ 02时14分]"
         },
         {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
+          "title": "据美国保守派新闻Daily Wire：由于“需求极其旺盛”，美国国务院将再次发行25万本印有美国总统特朗普肖像的“爱国者护照”。",
+          "url": "https://flash.jin10.com/detail/20260731032815618800",
+          "source": "金十数据",
           "ranks": [
-            11
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 02时14分]"
-        },
-        {
-          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
-          "url": "https://news.ifeng.com/c/8vBnavmwROe",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 02时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时55分"
         }
       ]
     },
@@ -76,7 +87,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -86,11 +97,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时55分]"
         },
         {
           "title": "据华尔街日报：多家银行正洽谈为一家与Anthropic合作的数据中心开发商提供150亿美元贷款，谷歌将提供财务担保和芯片支持。",
@@ -99,7 +111,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -118,7 +130,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "A股又一波增持回购潮来了！三环集团十天内“两”回购",
@@ -128,19 +140,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时55分]"
         },
         {
           "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时55分]"
+        },
+        {
+          "title": "亚马逊、苹果将于7月30日美股盘后公布财报。",
+          "url": "https://flash.jin10.com/detail/20260731035000001800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时55分"
         }
       ]
     },
@@ -153,11 +177,12 @@
           "url": "https://wallstreetcn.com/livenews/3142591",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时14分 ~ 03时55分]"
         },
         {
           "title": "美媒：马斯克计划在中期选举期间投入至少1亿美元，为共和党提供助力",
@@ -166,7 +191,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         }
@@ -184,8 +209,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时55分]"
         },
         {
           "title": "扎克伯格：卖算力换短期利润是愚蠢的",
@@ -195,8 +220,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时55分]"
         }
       ]
     },
@@ -212,8 +237,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时55分]"
         }
       ]
     },
@@ -226,11 +251,12 @@
           "url": "https://www.cls.cn/detail/2441507",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时55分]"
         }
       ]
     }
