@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T06:20:35.914947+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-07-31T07:33:53.054800+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "A股又一波增持回购潮来了！三环集团十天内“两”回购",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时33分]"
         },
         {
           "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
@@ -43,15 +43,38 @@
           "time_info": "03时55分"
         },
         {
+          "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
+          "url": "https://www.cls.cn/detail/2441995",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "周五亚太盘初，纳指期货涨超0.5%，标普股指期货、道指期货涨超0.1%。 苹果目前（美股盘后）跌超6.5%，该公司电话会已经结束；微软跌0.7%，台积电、AMD、希捷科技、英特尔、西部数据、闪迪涨1.34%-5.07%，发布了业绩报告的亚马逊涨9.3%。",
           "url": "https://wallstreetcn.com/livenews/3142674",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时33分]"
+        },
+        {
+          "title": "美股收盘：微软创近18年最大单日涨幅",
+          "url": "https://www.toutiao.com/trending/7668063651911909418/",
+          "source": "今日头条",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "07时33分"
         },
         {
           "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
@@ -65,13 +88,24 @@
           "time_info": "05时06分"
         },
         {
+          "title": "美股存储芯片指数收涨超16.9%，闪迪涨约26%，SK海力士ADR涨超17.5%",
+          "url": "https://wallstreetcn.com/livenews/3142689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "美股存储芯片概念股盘后继续走强，西部数据(WDC.O)涨超4%，希捷科技(STX.O)、美光科技(MU.O)和SK海力士(SKHY.O)涨3%，闪迪(SNDK.O)涨6%。",
           "url": "https://flash.jin10.com/detail/20260731053830299800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -115,15 +149,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "A股又一批公司推出回购增持计划",
+          "url": "https://wallstreetcn.com/livenews/3142684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -137,22 +182,22 @@
           "time_info": "[00时50分 ~ 03时55分]"
         },
         {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时20分]"
-        },
-        {
           "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
           "url": "https://news.ifeng.com/c/8vBnavmwROe",
           "source": "凤凰网",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时33分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -194,6 +239,18 @@
           "time_info": "[00时50分 ~ 02时14分]"
         },
         {
+          "title": "亚马逊在二季度获得6亿美元与（美国总统特朗普）关税相关的退款。 公司将向某些客户自动发放关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3142667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时33分]"
+        },
+        {
           "title": "据美国保守派新闻Daily Wire：由于“需求极其旺盛”，美国国务院将再次发行25万本印有美国总统特朗普肖像的“爱国者护照”。",
           "url": "https://flash.jin10.com/detail/20260731032815618800",
           "source": "金十数据",
@@ -205,17 +262,6 @@
           "time_info": "03时55分"
         },
         {
-          "title": "亚马逊在二季度获得6亿美元与（美国总统特朗普）关税相关的退款。 公司将向某些客户自动发放关税退款。",
-          "url": "https://wallstreetcn.com/livenews/3142667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
           "title": "白宫官员：美国总统特朗普下令限制关键矿物废料的出口。",
           "url": "https://flash.jin10.com/detail/20260731042633412800",
           "source": "金十数据",
@@ -225,12 +271,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "特朗普：加沙将迎来新的巴勒斯坦政府",
+          "url": "https://wallstreetcn.com/livenews/3142682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "特朗普宣布哈马斯同意全面解除武装，以色列将撤军",
+          "url": "https://flash.jin10.com/detail/20260731063227689800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国总统特朗普：和平委员会达成历史性协议，全面解除哈马斯及加沙所有其他武装团体的武装。",
+          "url": "https://flash.jin10.com/detail/20260731062552220800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
@@ -241,11 +320,23 @@
             15,
             13,
             9,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时33分]"
+        },
+        {
+          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
@@ -254,7 +345,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -270,6 +361,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "环球时报：美多名议员阻挠苹果采购中国芯片",
+          "url": "https://wallstreetcn.com/livenews/3142695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "据华尔街日报：多家银行正洽谈为一家与Anthropic合作的数据中心开发商提供150亿美元贷款，谷歌将提供财务担保和芯片支持。",
           "url": "https://flash.jin10.com/detail/20260731014712484800",
           "source": "金十数据",
@@ -279,6 +381,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "三星Q2创史上最强盈利季：净利润暴涨1299.9%超预期，AI芯片狂揽99%利润",
+          "url": "https://wallstreetcn.com/articles/3778272",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美多名议员阻挠苹果采购中国芯片，专家：将破坏中美企业产业链合作",
+          "url": "https://flash.jin10.com/detail/20260731065737457800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "高通(QCOM.O)CEO：内存芯片价格上涨非常夸张。更高的价格正在改变消费者行为。",
@@ -303,11 +427,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时33分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.05%，报6502.80点。 热门中概股里，世纪互联涨16.7%，日月光半导体涨12.2%，万国数据涨8%，阿特斯太阳能涨7.7%，腾讯涨2.4%，百度涨2%，网易涨1.8%，阿里涨1%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨4.97%，德银嘉实沪深300指数ETF（ASHR）收涨1.15%，XtrackersHarvest中证50（ASHS）收跌0.65%。 中概互联网指数ETF（KWEB）收涨0.94%，中国科技指数ETF（CQQQ）收跌0.54%。",
@@ -330,6 +455,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "扎克伯格：卖算力换短期利润是愚蠢的",
+          "url": "https://www.cls.cn/detail/2441683",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时33分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
+          "url": "https://www.cls.cn/detail/2441445",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 06时20分]"
+        },
+        {
+          "title": "Meta电话会：扎克伯格强调“卖掉算力换短期利润是愚蠢的”，烧钱买算力不是赌博是必须",
+          "url": "https://wallstreetcn.com/articles/3778265",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     },
@@ -363,36 +530,6 @@
       ]
     },
     {
-      "keyword_group": "算力",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
-          "url": "https://www.cls.cn/detail/2441445",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时20分]"
-        },
-        {
-          "title": "扎克伯格：卖算力换短期利润是愚蠢的",
-          "url": "https://www.cls.cn/detail/2441683",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "科创",
       "match_count": 1,
       "titles": [
@@ -405,8 +542,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三星电话会：存储供不应求“明年比今年更紧张”，60-70%产能分给长期协议，HBM4收入将占六成",
+          "url": "https://wallstreetcn.com/articles/3778300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中际旭创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中际旭创股东减持公告",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B%E8%82%A1%E4%B8%9C%E5%87%8F%E6%8C%81%E5%85%AC%E5%91%8A%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     }
