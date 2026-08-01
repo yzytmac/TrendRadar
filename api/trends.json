@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T04:33:29.202564+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-08-02T05:37:58.762404+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时37分]"
         },
         {
           "title": "以媒：特朗普接近批准袭击伊朗能源设施",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 05时37分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
@@ -38,19 +38,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时37分]"
         },
         {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
           "url": "https://www.cls.cn/detail/2443172",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时37分]"
         },
         {
           "title": "特朗普：伊朗确实挺硬气",
@@ -60,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时37分]"
         },
         {
           "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
@@ -71,8 +72,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时37分]"
+        },
+        {
+          "title": "特朗普媒体公司推出了Truth API，该付费服务​​使订阅用户可以比普通用户更早实时访问“真相社交媒体”（Truth Social）上的帖子。该服务每月费用高达10万美元，主要面向交易公司和企业。",
+          "url": "https://flash.jin10.com/detail/20260802044624523800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "美国前副总统哈里斯：特朗普是个孤立主义者，口口声声“美国优先”，但由于他未能理解美国所扮演的角色——尽管这一角色并不完美——他已经造成了两方面的后果，第一，让美国看上去不再是可靠的合作伙伴；第二，他让美国如今在全球事务中发挥影响力的权威降至前所未有的低。",
@@ -81,11 +93,12 @@
           "ranks": [
             2,
             15,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 04时33分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 05时37分]"
         },
         {
           "title": "美国前副总统哈里斯：（关于伊朗战争）这场战争是现任总统特朗普主动选择卷入的冲突，他与以色列联手开战，而对美国而言，并不存在明确的国家安全问题。",
@@ -94,11 +107,12 @@
           "ranks": [
             3,
             16,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 04时33分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 05时37分]"
         },
         {
           "title": "美国总统特朗普：不同意联邦检察官皮罗关于倒影池的看法。",
@@ -112,6 +126,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 03时35分]"
+        },
+        {
+          "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
+          "url": "https://flash.jin10.com/detail/20260802022303381800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 05时37分]"
+        },
+        {
+          "title": "美国总统特朗普发表图片：第51个州（委内瑞拉）。",
+          "url": "https://flash.jin10.com/detail/20260802021825118800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 05时37分]"
+        },
+        {
+          "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
+          "url": "https://flash.jin10.com/detail/20260802021650818800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 05时37分]"
         },
         {
           "title": "美国代理国家情报总监普尔特：在与美国总统特朗普和杰伊·克莱顿讨论后，国家情报总监（DNI）的交接工作定于周一进行。",
@@ -136,42 +189,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时14分 ~ 03时35分]"
-        },
-        {
-          "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
-          "url": "https://flash.jin10.com/detail/20260802022303381800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时33分]"
-        },
-        {
-          "title": "美国总统特朗普发表图片：第51个州（委内瑞拉）。",
-          "url": "https://flash.jin10.com/detail/20260802021825118800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时33分]"
-        },
-        {
-          "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
-          "url": "https://flash.jin10.com/detail/20260802021650818800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时33分]"
         },
         {
           "title": "特朗普威胁参议员通过其司法部长人选",
@@ -209,8 +226,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时37分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -220,8 +237,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时37分]"
         },
         {
           "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
@@ -231,8 +248,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时37分]"
         }
       ]
     },
@@ -247,11 +264,12 @@
           "ranks": [
             14,
             12,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时37分]"
         },
         {
           "title": "铠侠拉开“巨额回购”大幕，存储巨头“回购牛市”即将到来？",
@@ -279,8 +297,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时37分]"
         }
       ]
     },
@@ -295,11 +313,12 @@
           "ranks": [
             15,
             19,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时37分]"
         }
       ]
     },
@@ -315,8 +334,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时37分]"
         }
       ]
     }
