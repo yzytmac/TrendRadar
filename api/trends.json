@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T09:16:00.151785+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-08-01T12:40:10.804117+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -37,11 +37,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 09时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 12时40分]"
         },
         {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
@@ -53,6 +54,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时42分]"
+        },
+        {
+          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
+          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 12时40分]"
         },
         {
           "title": "美国总统特朗普赞扬英伟达(NVDA.O)。",
@@ -183,15 +196,26 @@
           "time_info": "[06时33分 ~ 09时16分]"
         },
         {
-          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
-          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
-          "source": "凤凰网",
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
+          "time_info": "[12时39分 ~ 12时40分]"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 12时40分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新一轮袭击，最早可能周末开始行动",
@@ -204,6 +228,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时42分]"
+        },
+        {
+          "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33690982",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 12时40分]"
         },
         {
           "title": "美国总统特朗普：（关于乌克兰与导弹问题）并未同意此事。",
@@ -440,7 +475,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -452,8 +487,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 09时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 12时40分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -489,8 +524,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 09时16分]"
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 12时40分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -518,6 +553,18 @@
           "time_info": "[05时22分 ~ 06时33分]"
         },
         {
+          "title": "美股三大股指全线收涨",
+          "url": "https://www.douyin.com/hot/2592807",
+          "source": "抖音",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 12时40分]"
+        },
+        {
           "title": "A股放量上涨是反弹还是反转",
           "url": "https://www.toutiao.com/trending/7668655671906143798/",
           "source": "今日头条",
@@ -528,17 +575,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 02时18分]"
-        },
-        {
-          "title": "美股三大股指全线收涨",
-          "url": "https://www.douyin.com/hot/2592807",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
         },
         {
           "title": "A股科技板块全线反攻，机构称调整或接近尾声",
@@ -563,6 +599,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时42分]"
+        },
+        {
+          "title": "美股AI板块集体大涨是反转吗",
+          "url": "https://www.toutiao.com/trending/7668735022257409546/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 12时40分]"
         },
         {
           "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
@@ -633,11 +680,12 @@
             8,
             7,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 09时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 12时40分]"
         },
         {
           "title": "韩国7月出口延续强劲势头，芯片热潮驱动经济增长",
@@ -646,7 +694,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         }
@@ -683,6 +731,34 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "受强震影响 日本“硅岛”多家半导体工厂持续停产",
+          "url": "https://flash.jin10.com/detail/20260801115705195800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "恩智浦半导体(NXPI.O)下跌超4%，因英国金融时报报道公司正在洽谈收购驾驶辅助系统公司Ambarella。",
+          "url": "https://flash.jin10.com/detail/20260801011343050800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力",
       "match_count": 2,
       "titles": [
@@ -712,23 +788,6 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恩智浦半导体(NXPI.O)下跌超4%，因英国金融时报报道公司正在洽谈收购驾驶辅助系统公司Ambarella。",
-          "url": "https://flash.jin10.com/detail/20260801011343050800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科创",
       "match_count": 1,
       "titles": [
@@ -738,11 +797,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 09时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 12时40分]"
         }
       ]
     }
