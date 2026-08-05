@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T04:25:51.222414+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-08-06T05:48:20.990561+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时48分]"
         },
         {
           "title": "一图看懂｜多家A股公司，跨界算力签大单",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时48分]"
         },
         {
           "title": "金十图示：2026年08月05日（周三）热门中概股行情一览（美股收盘）",
@@ -37,9 +37,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。 “超大”市值科技股指数跌1.19%，报444.40点。",
+          "url": "https://wallstreetcn.com/livenews/3145619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一，SpaceX跌超13%",
@@ -48,7 +59,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -60,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时48分]"
         },
         {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
@@ -72,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时48分]"
         },
         {
           "title": "金十图示：2026年08月05日（周三）美股热门股票行情一览（美股盘中）",
@@ -96,13 +107,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "周三（8月5日），美股存储芯片与硬件供应链指数跌2.87%，报197.07点。 美股盘初冲高回落、北京时间21:50刷新日高至206.67点，随后长时间保持在平盘附近，03:00以来持续下跌。 成分股闪迪收跌5.4%，西部数据跌5.36%，泰瑞达、拉姆研究、Rambus、应用材料、希捷科技至多跌3.51%，美光科技涨0.06%。 此外，SK海力士ADR跌2.17%。",
+          "url": "https://wallstreetcn.com/livenews/3145604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "闪迪(SNDK.O)美股盘后跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260806041105813800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "美股大类资产类ETF多数下跌，纳指100 ETF跌0.9%，黄金ETF涨超4.1%",
+          "url": "https://wallstreetcn.com/livenews/3145597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "周三（8月5日），美股行业ETF多数下跌，能源业ETF收跌2.07%，半导体ETF跌1.04%，科技行业ETF跌0.53%，生物科技指数ETF涨0.87%，医疗业ETF涨1.27%。",
+          "url": "https://wallstreetcn.com/livenews/3145595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "闪迪第四财季调整后每股收益（EPS）为39.25美元，分析师预期34.37美元。 第四财季营收89.7亿美元，增幅51%。 2026财年营收202.5亿美元，较上年增长175%。 （公司董事会）批准140亿美元股票回购计划。 预计第一财季营收103亿-108亿美元，分析师预期111.6亿美元。 预计第一财季调整后EPS为44-46美元，分析师预期45.58美元。 闪迪美股盘后跌8%。",
+          "url": "https://wallstreetcn.com/livenews/3145593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。",
+          "url": "https://wallstreetcn.com/livenews/3145620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "美国总统特朗普：关税让我们变得富有。",
+          "url": "https://flash.jin10.com/detail/20260806053019525800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
         {
           "title": "特朗普直升机一度与客机距离过近",
           "url": "https://wallstreetcn.com/livenews/3145542",
@@ -113,6 +201,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "美国总统特朗普在拉斯维加斯宣称：加拿大领导层很糟糕。",
+          "url": "https://wallstreetcn.com/livenews/3145617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及关税）加拿大“很恶劣”，我们把局势扭转过来了。",
+          "url": "https://flash.jin10.com/detail/20260806052258964800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "美国国会山CBO：特朗普的战列舰舰队耗资或达2750亿美元",
@@ -132,11 +242,12 @@
           "ranks": [
             6,
             13,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时48分]"
         },
         {
           "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
@@ -146,8 +257,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时48分]"
         },
         {
           "title": "数日前伊朗威胁反击能源设施 海湾国家敦促特朗普放弃袭击计划",
@@ -156,7 +267,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -196,8 +307,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时48分]"
         },
         {
           "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
@@ -208,8 +319,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时48分]"
         },
         {
           "title": "曝三星SK海力士测试中国芯片设备",
@@ -229,7 +340,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         }
@@ -248,8 +359,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时48分]"
         },
         {
           "title": "在上海张江，孵化器如何将科创“种子”培育成“参天大树”",
@@ -260,8 +371,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时48分]"
         }
       ]
     },
@@ -277,8 +388,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时48分]"
         },
         {
           "title": "闪迪、西部数据财报今夜双双揭晓，存储巨头能否打破7月抛售阴霾？",
@@ -287,9 +398,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时48分]"
         }
       ]
     },
@@ -303,11 +414,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 04时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 05时48分]"
         }
       ]
     },
@@ -324,8 +436,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时48分]"
         }
       ]
     },
