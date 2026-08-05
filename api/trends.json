@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-06T06:46:05.260071+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-08-06T07:42:30.215028+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 19,
       "titles": [
+        {
+          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
+          "url": "https://www.cls.cn/detail/2446327",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时42分]"
+        },
         {
           "title": "特朗普所乘直升机遭遇飞行安全事件",
           "url": "https://www.toutiao.com/trending/7670517654829927979/",
@@ -32,18 +44,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
-        },
-        {
-          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
-          "url": "https://www.cls.cn/detail/2446327",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时46分]"
         },
         {
           "title": "特朗普直升机一度与客机距离过近",
@@ -73,11 +73,25 @@
           "source": "金十数据",
           "ranks": [
             4,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时42分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及关税）加拿大“很恶劣”，我们把局势扭转过来了。",
+          "url": "https://flash.jin10.com/detail/20260806052258964800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时42分]"
         },
         {
           "title": "美国总统特朗普在拉斯维加斯宣称：加拿大领导层很糟糕。",
@@ -92,16 +106,88 @@
           "time_info": "[05时48分 ~ 06时46分]"
         },
         {
-          "title": "美国总统特朗普：（谈及关税）加拿大“很恶劣”，我们把局势扭转过来了。",
-          "url": "https://flash.jin10.com/detail/20260806052258964800",
+          "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
+          "url": "https://flash.jin10.com/detail/20260806055819902800",
           "source": "金十数据",
           "ranks": [
-            5,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时42分]"
+        },
+        {
+          "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
+          "url": "https://wallstreetcn.com/livenews/3145625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时42分]"
+        },
+        {
+          "title": "美国总统特朗普：我们很欣赏马斯克。",
+          "url": "https://flash.jin10.com/detail/20260806055113870800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时42分]"
+        },
+        {
+          "title": "美国总统特朗普声称：我宁愿与伊朗达成一份协议。 美方与伊朗正在对话，让我们看看会发生什么事。",
+          "url": "https://wallstreetcn.com/livenews/3145624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时42分]"
+        },
+        {
+          "title": "美国总统特朗普：我更愿意与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260806054735118800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时42分]"
+        },
+        {
+          "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
+          "url": "https://flash.jin10.com/detail/20260806054724205800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时42分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260806054719148800",
+          "source": "金十数据",
+          "ranks": [
+            13,
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "time_info": "[06时46分 ~ 07时42分]"
         },
         {
           "title": "数日前伊朗威胁反击能源设施 海湾国家敦促特朗普放弃袭击计划",
@@ -115,90 +201,13 @@
           "time_info": "04时25分"
         },
         {
-          "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
-          "url": "https://flash.jin10.com/detail/20260806055819902800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
-          "url": "https://wallstreetcn.com/livenews/3145625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普：我们很欣赏马斯克。",
-          "url": "https://flash.jin10.com/detail/20260806055113870800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普声称：我宁愿与伊朗达成一份协议。 美方与伊朗正在对话，让我们看看会发生什么事。",
-          "url": "https://wallstreetcn.com/livenews/3145624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普：我更愿意与伊朗达成协议。",
-          "url": "https://flash.jin10.com/detail/20260806054735118800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
-          "url": "https://flash.jin10.com/detail/20260806054724205800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
           "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。 特朗普称赞股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3145620",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260806054719148800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -228,7 +237,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "一图看懂｜多家A股公司，跨界算力签大单",
@@ -238,8 +247,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时42分]"
+        },
+        {
+          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
+          "url": "https://wallstreetcn.com/articles/3778711",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时42分]"
         },
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -254,27 +275,17 @@
           "time_info": "[01时04分 ~ 05时48分]"
         },
         {
-          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
-          "url": "https://wallstreetcn.com/articles/3778711",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时46分]"
-        },
-        {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2446634",
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时42分]"
         },
         {
           "title": "金十图示：2026年08月05日（周三）热门中概股行情一览（美股收盘）",
@@ -314,11 +325,12 @@
           "url": "https://www.cls.cn/detail/2446816",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 07时42分]"
         },
         {
           "title": "周三（8月5日），美股存储芯片与硬件供应链指数跌2.87%，报197.07点。 美股盘初冲高回落、北京时间21:50刷新日高至206.67点，随后长时间保持在平盘附近，03:00以来持续下跌。 成分股闪迪收跌5.4%，西部数据跌5.36%，泰瑞达、拉姆研究、Rambus、应用材料、希捷科技至多跌3.51%，美光科技涨0.06%。 此外，SK海力士ADR跌2.17%。",
@@ -361,9 +373,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E9%81%93%E6%8C%87%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "港股公司逾330份半年度业绩预告，预喜和扭亏数量占比超五成",
+          "url": "https://wallstreetcn.com/livenews/3145637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
           "title": "闪迪(SNDK.O)美股盘后跌超3%。",
@@ -432,11 +466,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时42分]"
         },
         {
           "title": "曝三星SK海力士测试中国芯片设备",
@@ -463,6 +498,48 @@
       ]
     },
     {
+      "keyword_group": "存储",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "存储涨价“众生相”：余承东预告“所有手机或大涨价” 苹果压价长鑫遭拒",
+          "url": "https://www.cls.cn/detail/2446615",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时42分]"
+        },
+        {
+          "title": "【早报】2家存储巨头，公布业绩；SpaceX，市值蒸发1.5万亿元；黄金大涨、原油下跌；长鑫拒绝苹果压价",
+          "url": "https://www.cls.cn/detail/2446843",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "闪迪、西部数据财报今夜双双揭晓，存储巨头能否打破7月抛售阴霾？",
+          "url": "https://wallstreetcn.com/articles/3778754",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时25分 ~ 07时42分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "科创",
       "match_count": 2,
       "titles": [
@@ -475,8 +552,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时42分]"
         },
         {
           "title": "在上海张江，孵化器如何将科创“种子”培育成“参天大树”",
@@ -485,40 +562,41 @@
           "ranks": [
             15,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时42分]"
         }
       ]
     },
     {
-      "keyword_group": "存储",
+      "keyword_group": "算力",
       "match_count": 2,
       "titles": [
         {
-          "title": "存储涨价“众生相”：余承东预告“所有手机或大涨价” 苹果压价长鑫遭拒",
-          "url": "https://www.cls.cn/detail/2446615",
-          "source": "财联社热门",
+          "title": "玩具公司签67亿元算力大单",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%A9%E5%85%B7%E5%85%AC%E5%8F%B8%E7%AD%BE67%E4%BA%BF%E5%85%83%E7%AE%97%E5%8A%9B%E5%A4%A7%E5%8D%95%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
+          "appearance_count": 3,
           "time_info": "[01时04分 ~ 06时46分]"
         },
         {
-          "title": "闪迪、西部数据财报今夜双双揭晓，存储巨头能否打破7月抛售阴霾？",
-          "url": "https://wallstreetcn.com/articles/3778754",
-          "source": "华尔街见闻",
+          "title": "加量又加价，算力产业服务大单不断",
+          "url": "https://wallstreetcn.com/livenews/3145638",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            16
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时25分 ~ 06时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         }
       ]
     },
@@ -533,11 +611,12 @@
           "ranks": [
             22,
             17,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时51分 ~ 06时46分]"
+          "appearance_count": 6,
+          "time_info": "[02时51分 ~ 07时42分]"
         }
       ]
     },
@@ -554,26 +633,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时42分]"
         }
       ]
     },
     {
-      "keyword_group": "算力",
+      "keyword_group": "光模块",
       "match_count": 1,
       "titles": [
         {
-          "title": "玩具公司签67亿元算力大单",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%A9%E5%85%B7%E5%85%AC%E5%8F%B8%E7%AD%BE67%E4%BA%BF%E5%85%83%E7%AE%97%E5%8A%9B%E5%A4%A7%E5%8D%95%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "上证报：需求旺盛景气度高，光模块“噪音”影响有限",
+          "url": "https://wallstreetcn.com/livenews/3145636",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            28
+            18
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 06时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         }
       ]
     }
