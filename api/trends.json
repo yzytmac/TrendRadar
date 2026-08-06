@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T18:09:38.428596+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-08-06T20:20:41.392489+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
@@ -111,7 +111,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -180,7 +180,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -191,7 +191,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -400,7 +400,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         }
@@ -408,7 +408,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -737,12 +737,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "美退还1000亿美元关税特朗普输了吗",
+          "url": "https://www.toutiao.com/trending/7670860336727068203/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
@@ -796,11 +807,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 18时09分]"
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 20时20分]"
         },
         {
           "title": "曝三星SK海力士测试中国芯片设备",
@@ -836,6 +848,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "葛卫东加仓存储芯片龙头兆易创新",
+          "url": "https://wallstreetcn.com/livenews/3146000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "大摩：两家AI实验室的芯片融资需求或达6000亿美元",
           "url": "https://wallstreetcn.com/livenews/3145547",
           "source": "华尔街见闻-快讯",
@@ -845,6 +868,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "日股半导体链集中放榜：PCB、MLCC、玻纤布板块捷报频传",
+          "url": "https://www.cls.cn/detail/2446641",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 12时31分]"
+        },
+        {
+          "title": "金十图示：2026年08月06日（周四）富时中国A50指数成分股今日收盘行情一览：银行股和半导体股走强",
+          "url": "https://flash.jin10.com/detail/20260806150446916800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "宏昌科技：拟以现金方式收购昆吾半导体科技（江西）有限公司45%的股权及安徽尤品新材料有限公司45%的股权，交易对价预计不高于4.05亿元及不高于3.15亿元。",
+          "url": "https://wallstreetcn.com/livenews/3146028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "创业板指涨超1%，盘初一度跌超2.5%，沪指涨0.33%，深成指涨0.64%，算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股近2000只。",
+          "url": "https://wallstreetcn.com/livenews/3145778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "星展银行首席执行官：中国台湾科技、媒体、电信行业及半导体生态系统被视为推动股市的因素。关注印度可再生能源增长和人工智能基础设施增长的机会。",
+          "url": "https://flash.jin10.com/detail/20260806114306480800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "宏昌科技：就收购昆吾半导体及尤品新材料各45%股权签署意向协议",
+          "url": "https://flash.jin10.com/detail/20260806194303590800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
@@ -870,7 +968,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -987,59 +1085,6 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "日股半导体链集中放榜：PCB、MLCC、玻纤布板块捷报频传",
-          "url": "https://www.cls.cn/detail/2446641",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 12时31分]"
-        },
-        {
-          "title": "金十图示：2026年08月06日（周四）富时中国A50指数成分股今日收盘行情一览：银行股和半导体股走强",
-          "url": "https://flash.jin10.com/detail/20260806150446916800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "创业板指涨超1%，盘初一度跌超2.5%，沪指涨0.33%，深成指涨0.64%，算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股近2000只。",
-          "url": "https://wallstreetcn.com/livenews/3145778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "星展银行首席执行官：中国台湾科技、媒体、电信行业及半导体生态系统被视为推动股市的因素。关注印度可再生能源增长和人工智能基础设施增长的机会。",
-          "url": "https://flash.jin10.com/detail/20260806114306480800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储",
       "match_count": 4,
       "titles": [
@@ -1097,7 +1142,7 @@
     },
     {
       "keyword_group": "中际旭创",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "高盛、摩根大通大幅增持中际旭创，持仓比例分别升至12.19%和13.72%",
@@ -1106,9 +1151,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "高盛、摩根大通大幅加仓中际旭创H股，持仓双双翻倍",
+          "url": "https://wallstreetcn.com/articles/3778850",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "沪深两市今日成交额合计25287.82亿元，中际旭创成交额居首",
@@ -1128,7 +1184,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         }
@@ -1224,6 +1280,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "通宇通讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "通宇通讯澄清：佳贤通信与英伟达不存在研发合作关系；根据佳贤通信内部研发规划，预计于今年年底完成6G AI-RAN基站原型实验基站的开发，具体开发完成时间存在不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3146016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     }
