@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T22:21:01.940274+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-08-07T23:27:15.086229+08:00",
+  "total_titles_processed": 1666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时23分 ~ 22时21分]"
+          "appearance_count": 17,
+          "time_info": "[08时23分 ~ 23时27分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -30,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时06分 ~ 22时21分]"
+          "appearance_count": 10,
+          "time_info": "[17时06分 ~ 23时27分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -50,11 +51,35 @@
           "url": "https://www.cls.cn/detail/2448784",
           "source": "财联社热门",
           "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时20分 ~ 23时27分]"
+        },
+        {
+          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
+          "appearance_count": 4,
+          "time_info": "[22时20分 ~ 23时27分]"
+        },
+        {
+          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
+          "url": "https://www.cls.cn/detail/2448478",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时01分 ~ 23时27分]"
         },
         {
           "title": "A股生物制品板块短线冲高，义翘神州直线涨停，此前近岸蛋白、百普赛斯涨停，诺唯赞、吴帆生物、荣昌生物、长春高新跟涨。",
@@ -92,26 +117,15 @@
           "time_info": "[13时14分 ~ 14时35分]"
         },
         {
-          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
-          "url": "https://www.cls.cn/detail/2448478",
-          "source": "财联社热门",
+          "title": "美股存储板块集体大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时01分 ~ 22时21分]"
-        },
-        {
-          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
-          "url": "https://wallstreetcn.com/articles/3778924",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
+          "time_info": "[23时26分 ~ 23时27分]"
         },
         {
           "title": "非农超预期下降，美股盘前快速拉升、存储概念股走高，光通信股AAOI涨超15%，现货黄金突破4300",
@@ -176,7 +190,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -242,7 +256,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -374,7 +388,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         }
@@ -382,7 +396,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -434,8 +448,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时14分 ~ 22时21分]"
+          "appearance_count": 15,
+          "time_info": "[13时14分 ~ 23时27分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -506,15 +520,27 @@
           "time_info": "08时23分"
         },
         {
-          "title": "白宫顾问哈塞特：我确定特朗普没有向沃什提供利率建议",
-          "url": "https://wallstreetcn.com/livenews/3146787",
+          "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
+          "url": "https://wallstreetcn.com/livenews/3146814",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "23时27分"
+        },
+        {
+          "title": "白宫顾问哈塞特：我确定特朗普没有向沃什提供利率建议",
+          "url": "https://wallstreetcn.com/livenews/3146787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时27分]"
         },
         {
           "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
@@ -606,6 +632,17 @@
           "time_info": "08时23分"
         },
         {
+          "title": "乌兹别克斯坦方面称，乌兹别克斯坦总统与美国总统特朗普通电话。",
+          "url": "https://flash.jin10.com/detail/20260807222418037800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "特朗普：数据中心可能会比石油更重要",
           "url": "https://flash.jin10.com/detail/20260807175232367800",
           "source": "金十数据",
@@ -683,6 +720,17 @@
           "time_info": "19时07分"
         },
         {
+          "title": "法院裁决显示，美国上诉法院阻止了特朗普4亿美元的白宫宴会厅项目，但暂停执行相关裁决，为期14天，以便政府向最高法院提出上诉。",
+          "url": "https://flash.jin10.com/detail/20260807221921850800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "特朗普承认部分弹药供应“相对紧张”",
           "url": "https://wallstreetcn.com/livenews/3146293",
           "source": "华尔街见闻-快讯",
@@ -757,8 +805,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时10分 ~ 22时21分]"
+          "appearance_count": 9,
+          "time_info": "[18时10分 ~ 23时27分]"
         },
         {
           "title": "存储芯片缺货,手机或迎涨价潮",
@@ -976,8 +1024,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时06分 ~ 22时21分]"
+          "appearance_count": 10,
+          "time_info": "[17时06分 ~ 23时27分]"
         },
         {
           "title": "佰维存储：控股子公司拟增资不超6亿元引入投资者",
@@ -1165,8 +1213,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时06分 ~ 22时21分]"
+          "appearance_count": 10,
+          "time_info": "[17时06分 ~ 23时27分]"
         },
         {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
