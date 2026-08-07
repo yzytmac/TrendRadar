@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-08T03:15:26.209015+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-08-08T04:01:32.617178+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 27,
       "titles": [
-        {
-          "title": "美国总统特朗普主持美国矿业圆桌会议开始。",
-          "url": "https://wallstreetcn.com/livenews/3146882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
           "url": "https://wallstreetcn.com/articles/3778896",
@@ -26,8 +15,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时01分]"
+        },
+        {
+          "title": "美国总统特朗普主持美国矿业圆桌会议开始。",
+          "url": "https://wallstreetcn.com/livenews/3146882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时01分]"
         },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
@@ -54,6 +55,18 @@
           "time_info": "[01时35分 ~ 02时11分]"
         },
         {
+          "title": "美国参议院Warren：将反对总统特朗普解雇美联储理事库克的企图。",
+          "url": "https://wallstreetcn.com/livenews/3146877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时01分]"
+        },
+        {
           "title": "报道：特朗普继续推进罢免美联储理事库克",
           "url": "https://wallstreetcn.com/livenews/3146842",
           "source": "华尔街见闻-快讯",
@@ -64,6 +77,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时11分]"
+        },
+        {
+          "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
+          "url": "https://wallstreetcn.com/livenews/3146874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时01分]"
         },
         {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
@@ -89,17 +114,6 @@
           "time_info": "00时24分"
         },
         {
-          "title": "美国参议院Warren：将反对总统特朗普解雇美联储理事库克的企图。",
-          "url": "https://wallstreetcn.com/livenews/3146877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
           "title": "美国总统特朗普：最高法院必须彻底推翻法院就宴会厅案作出的裁决。 我们将立即提起上诉。",
           "url": "https://wallstreetcn.com/livenews/3146844",
           "source": "华尔街见闻-快讯",
@@ -111,15 +125,37 @@
           "time_info": "01时35分"
         },
         {
-          "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
-          "url": "https://wallstreetcn.com/livenews/3146874",
+          "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
+          "url": "https://wallstreetcn.com/livenews/3146895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "特朗普政府将向电池及材料企业拨付 20 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3146893",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时15分"
+          "time_info": "04时01分"
+        },
+        {
+          "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3146889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         },
         {
           "title": "美媒：特朗普推进罢免美联储理事库克 以“严重失职”为由正式启动罢免程序",
@@ -131,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "美国总统特朗普：宣布一系列价值30亿美元的矿业项目。",
+          "url": "https://flash.jin10.com/detail/20260808032058540800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
@@ -177,6 +224,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
+          "url": "https://flash.jin10.com/detail/20260808031924352800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
           "title": "特朗普再签行政令，禁止“生育旅游”收紧“出生公民权”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33734678",
           "source": "澎湃新闻",
@@ -186,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         },
         {
           "title": "美国总统特朗普：法院有关舞厅项目的裁决必须由最高法院全面推翻。",
@@ -199,6 +268,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "美国总统特朗普：美国政府已对美国关键矿产供应链进行了“历史性投资”，包括直接持有生产商的股权。政府对MP Materials的4亿美元投资目前价值已接近12亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808031826227800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
           "title": "据ABC新闻：特朗普在最高法院遭遇挫折后，仍继续推进解雇美联储理事丽莎·库克的尝试。",
           "url": "https://flash.jin10.com/detail/20260808004923983800",
           "source": "金十数据",
@@ -208,6 +288,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "据华尔街日报：白宫官员称，特朗普政府将向四家电池和矿产公司提供超过20亿美元资金支持。电池初创企业Sila Nanotechnologies已获得五角大楼14亿美元贷款。澳大利亚Sunrise Energy Metals已与五角大楼达成4亿美元贷款协议，用于生产钪。",
+          "url": "https://flash.jin10.com/detail/20260808031750291800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "美国总统特朗普在矿业圆桌会议上表示：我们实现了能源独立，现在正在实现经济独立。美国必须在国内开采、提炼并制造关键矿产。",
+          "url": "https://flash.jin10.com/detail/20260808031653442800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         }
       ]
     },
@@ -223,8 +325,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时01分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -234,8 +336,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时01分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -246,8 +348,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时01分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -257,8 +359,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时01分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -271,8 +373,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时01分]"
         },
         {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
@@ -282,8 +384,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时01分]"
         },
         {
           "title": "A股一周牛股出炉 最牛股近乎翻倍",
@@ -292,9 +394,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时01分]"
         }
       ]
     },
@@ -309,7 +411,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -320,9 +422,38 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
+          "url": "https://www.cls.cn/detail/2448863",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时01分]"
+        },
+        {
+          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         }
       ]
     },
@@ -338,8 +469,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时01分]"
         }
       ]
     },
@@ -355,8 +486,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时01分]"
         }
       ]
     },
@@ -372,8 +503,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时01分]"
         }
       ]
     },
@@ -389,26 +520,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时01分]"
         }
       ]
     },
     {
-      "keyword_group": "算力",
+      "keyword_group": "胜宏科技",
       "match_count": 1,
       "titles": [
         {
-          "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
-          "url": "https://www.cls.cn/detail/2448863",
-          "source": "财联社热门",
+          "title": "胜宏科技：股票交易异常波动",
+          "url": "https://www.toutiao.com/trending/7671028625453957139/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            9
+            28
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         }
       ]
     }
