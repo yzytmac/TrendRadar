@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-08-08T02:11:44.171158+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-08-08T03:15:26.209015+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美国总统特朗普主持美国矿业圆桌会议开始。",
+          "url": "https://wallstreetcn.com/livenews/3146882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
+        },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
           "url": "https://flash.jin10.com/detail/20260808011808390800",
@@ -30,17 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时11分]"
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时11分]"
         },
         {
           "title": "报道：特朗普继续推进罢免美联储理事库克",
@@ -78,6 +89,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "美国参议院Warren：将反对总统特朗普解雇美联储理事库克的企图。",
+          "url": "https://wallstreetcn.com/livenews/3146877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
           "title": "美国总统特朗普：最高法院必须彻底推翻法院就宴会厅案作出的裁决。 我们将立即提起上诉。",
           "url": "https://wallstreetcn.com/livenews/3146844",
           "source": "华尔街见闻-快讯",
@@ -87,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
+          "url": "https://wallstreetcn.com/livenews/3146874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "美媒：特朗普推进罢免美联储理事库克 以“严重失职”为由正式启动罢免程序",
@@ -106,7 +139,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
         },
@@ -180,7 +213,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -190,8 +223,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -201,8 +234,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -213,8 +246,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -224,8 +257,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
+        },
+        {
+          "title": "美股存储板块集体大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            20,
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
@@ -235,21 +282,47 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
-          "title": "美股存储板块集体大跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
+          "title": "A股一周牛股出炉 最牛股近乎翻倍",
+          "url": "https://www.toutiao.com/trending/7670202670728839195/",
+          "source": "今日头条",
           "ranks": [
-            22,
-            20,
-            23
+            26
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：我们正在努力让Grok Build对非技术用户来说也非常容易使用。",
+          "url": "https://flash.jin10.com/detail/20260808024557702800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "马斯克：遗憾的是，目前（第13次飞行任务的星舰）航天器回收情况并不乐观。不过，我们已经能够获得隔热罩和发动机关键区域的近距离照片，用于未来的升级改进。",
+          "url": "https://flash.jin10.com/detail/20260808024002340800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
@@ -265,8 +338,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         }
       ]
     },
@@ -282,8 +355,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         }
       ]
     },
@@ -299,8 +372,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         }
       ]
     },
@@ -316,8 +389,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         }
       ]
     },
@@ -334,8 +407,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         }
       ]
     }
