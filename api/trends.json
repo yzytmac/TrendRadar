@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:04:31.026772+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-08-08T16:01:34.682435+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 15时04分]"
+          "appearance_count": 9,
+          "time_info": "[09时20分 ~ 16时01分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -43,8 +43,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[04时01分 ~ 15时04分]"
+          "appearance_count": 17,
+          "time_info": "[04时01分 ~ 16时01分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -52,11 +52,26 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 15时04分]"
+          "appearance_count": 8,
+          "time_info": "[11时08分 ~ 16时01分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 16时01分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
@@ -73,19 +88,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时37分 ~ 11时08分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 15时04分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。",
@@ -310,7 +312,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -483,7 +485,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -497,6 +499,19 @@
           "time_info": "[00时24分 ~ 07时05分]"
         },
         {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时20分 ~ 16时01分]"
+        },
+        {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
           "url": "https://www.cls.cn/detail/2448784",
           "source": "财联社热门",
@@ -507,8 +522,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 15时04分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 16时01分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时05分 ~ 16时01分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -520,32 +549,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 05时37分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时05分 ~ 15时04分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 15时04分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -639,6 +642,17 @@
           "time_info": "[04时53分 ~ 07时49分]"
         },
         {
+          "title": "多家A股公司：收到美国关税退税",
+          "url": "https://www.cls.cn/detail/2449086",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
+        },
+        {
           "title": "A股一周牛股出炉 最牛股近乎翻倍",
           "url": "https://www.toutiao.com/trending/7670202670728839195/",
           "source": "今日头条",
@@ -683,11 +697,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时04分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时01分]"
         },
         {
           "title": "马斯克：我们正在努力让Grok Build对非技术用户来说也非常容易使用。",
@@ -707,11 +722,12 @@
           "ranks": [
             8,
             12,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时04分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时01分]"
         },
         {
           "title": "马斯克：遗憾的是，目前（第13次飞行任务的星舰）航天器回收情况并不乐观。不过，我们已经能够获得隔热罩和发动机关键区域的近距离照片，用于未来的升级改进。",
@@ -840,8 +856,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时49分 ~ 15时04分]"
+          "appearance_count": 10,
+          "time_info": "[07时49分 ~ 16时01分]"
         },
         {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
@@ -876,8 +892,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 15时04分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 16时01分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
@@ -891,8 +907,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[04时01分 ~ 15时04分]"
+          "appearance_count": 17,
+          "time_info": "[04时01分 ~ 16时01分]"
         }
       ]
     },
@@ -926,11 +942,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时05分 ~ 15时04分]"
+          "appearance_count": 11,
+          "time_info": "[07时05分 ~ 16时01分]"
         }
       ]
     },
@@ -943,11 +960,12 @@
           "url": "https://wallstreetcn.com/livenews/3146969",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时04分 ~ 16时01分]"
         }
       ]
     },
@@ -965,8 +983,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时49分 ~ 15时04分]"
+          "appearance_count": 10,
+          "time_info": "[07时49分 ~ 16时01分]"
         }
       ]
     },
@@ -984,6 +1002,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阳光电源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阳光电源：FCC政策主要限制新产品认证 公司目前在美销售的光伏逆变器、储能系统不受影响",
+          "url": "https://wallstreetcn.com/livenews/3146975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         }
       ]
     }
