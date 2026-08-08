@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-08T13:16:21.906141+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-08-08T14:01:26.223471+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 39,
       "titles": [
+        {
+          "title": "中期选举临近，特朗普连续21场败诉",
+          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 14时01分]"
+        },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
           "url": "https://wallstreetcn.com/articles/3778896",
@@ -27,23 +39,24 @@
             16,
             17,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时01分 ~ 13时16分]"
+          "appearance_count": 14,
+          "time_info": "[04时01分 ~ 14时01分]"
         },
         {
-          "title": "中期选举临近，特朗普连续21场败诉",
-          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
           "source": "凤凰网",
           "ranks": [
-            4,
-            3
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时08分 ~ 14时01分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
@@ -96,18 +109,6 @@
           "time_info": "09时20分"
         },
         {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 13时16分]"
-        },
-        {
           "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3146913",
           "source": "华尔街见闻-快讯",
@@ -145,6 +146,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时11分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时01分]"
         },
         {
           "title": "哈塞特称特朗普与沃什经常讨论经济问题",
@@ -197,6 +210,18 @@
           "time_info": "[04时01分 ~ 05时37分]"
         },
         {
+          "title": "特朗普关税“换壳”术还能撑多久",
+          "url": "https://www.toutiao.com/trending/7671486834458758698/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 14时01分]"
+        },
+        {
           "title": "美国参议院Warren：将反对总统特朗普解雇美联储理事库克的企图。",
           "url": "https://wallstreetcn.com/livenews/3146877",
           "source": "华尔街见闻-快讯",
@@ -207,18 +232,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 04时01分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时16分]"
         },
         {
           "title": "报道：特朗普继续推进罢免美联储理事库克",
@@ -453,17 +466,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "特朗普关税“换壳”术还能撑多久",
-          "url": "https://www.toutiao.com/trending/7671486834458758698/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
         }
       ]
     },
@@ -493,8 +495,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 13时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 14时01分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -506,6 +508,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 05时37分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时05分 ~ 14时01分]"
+        },
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 14时01分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -546,31 +573,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 04时01分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时05分 ~ 13时16分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 13时16分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -669,9 +671,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 14时01分]"
         },
         {
           "title": "马斯克：我们正在努力让Grok Build对非技术用户来说也非常容易使用。",
@@ -685,6 +687,18 @@
           "time_info": "03时15分"
         },
         {
+          "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
+          "url": "https://flash.jin10.com/detail/20260808121316604800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 14时01分]"
+        },
+        {
           "title": "马斯克：遗憾的是，目前（第13次飞行任务的星舰）航天器回收情况并不乐观。不过，我们已经能够获得隔热罩和发动机关键区域的近距离照片，用于未来的升级改进。",
           "url": "https://flash.jin10.com/detail/20260808024002340800",
           "source": "金十数据",
@@ -694,17 +708,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
-          "url": "https://flash.jin10.com/detail/20260808121316604800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
         }
       ]
     },
@@ -818,11 +821,12 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时49分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[07时49分 ~ 14时01分]"
         },
         {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
@@ -857,8 +861,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 13时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 14时01分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
@@ -868,11 +872,12 @@
             19,
             15,
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时01分 ~ 13时16分]"
+          "appearance_count": 14,
+          "time_info": "[04时01分 ~ 14时01分]"
         }
       ]
     },
@@ -909,8 +914,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时05分 ~ 13时16分]"
+          "appearance_count": 8,
+          "time_info": "[07时05分 ~ 14时01分]"
         }
       ]
     },
@@ -928,8 +933,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时49分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[07时49分 ~ 14时01分]"
         }
       ]
     },
