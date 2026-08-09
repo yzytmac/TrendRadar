@@ -1,126 +1,72 @@
 {
-  "generated_at": "2026-08-09T23:59:39.102780+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2026-08-10T00:41:30.093400+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股 a股 港股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "多家A股公司：收到美国关税退税",
+          "url": "https://www.cls.cn/detail/2449086",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2449376",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
           "url": "https://www.cls.cn/detail/2449039",
           "source": "财联社热门",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 43,
-          "time_info": "[00时03分 ~ 23时59分]"
-        },
-        {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时03分 ~ 09时25分]"
-        },
-        {
-          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时25分 ~ 16时25分]"
-        },
-        {
-          "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3147026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            4,
-            7,
-            14,
-            15,
-            18,
-            19,
-            24,
-            25,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时04分 ~ 18时32分]"
-        },
-        {
-          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
-          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时03分 ~ 09时25分]"
-        },
-        {
-          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
-          "url": "https://wallstreetcn.com/articles/3778975",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普：“很多人称我是最伟大总统之一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时56分 ~ 22时53分]"
-        },
-        {
-          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
-          "url": "https://wallstreetcn.com/livenews/3147021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            9,
-            12,
-            19,
-            20,
-            23,
-            24,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时04分 ~ 17时12分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -130,518 +76,47 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[12时40分 ~ 23时59分]"
-        },
-        {
-          "title": "白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性",
-          "url": "https://wallstreetcn.com/livenews/3147067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            9,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时32分 ~ 21时31分]"
-        },
-        {
-          "title": "舒默怒斥特朗普：你在哪个星球",
-          "url": "https://www.toutiao.com/trending/7671480510048452651/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            28,
-            27,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时59分]"
-        },
-        {
-          "title": "特朗普新飞机掉链子了吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E9%A3%9E%E6%9C%BA%E6%8E%89%E9%93%BE%E5%AD%90%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时45分 ~ 20时17分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
           "url": "https://flash.jin10.com/detail/20260809224743402800",
           "source": "金十数据",
           "ranks": [
-            5
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时59分"
+          "time_info": "00时41分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
           "url": "https://flash.jin10.com/detail/20260809212948063800",
           "source": "金十数据",
           "ranks": [
-            1,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时10分 ~ 23时59分]"
-        },
-        {
-          "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
-          "url": "https://flash.jin10.com/detail/20260809110518488800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 15时36分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-09）",
-          "url": "https://flash.jin10.com/detail/20260809185901644800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时45分 ~ 22时10分]"
-        },
-        {
-          "title": "泰勒·斯威夫特下架特朗普团队音频",
-          "url": "https://flash.jin10.com/detail/20260809135228907800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时36分 ~ 17时12分]"
-        },
-        {
-          "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
-          "url": "https://flash.jin10.com/detail/20260809002354192800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 02时40分]"
-        },
-        {
-          "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
-          "url": "https://flash.jin10.com/detail/20260808205550359800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 a股 港股",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "多家A股公司：收到美国关税退税",
-          "url": "https://www.cls.cn/detail/2449086",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 43,
-          "time_info": "[00时03分 ~ 23时59分]"
-        },
-        {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[12时40分 ~ 23时59分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时03分 ~ 20时17分]"
-        },
-        {
-          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时03分 ~ 07时56分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时03分 ~ 20时17分]"
-        },
-        {
-          "title": "A股多家上市公司收到美政府退税",
-          "url": "https://www.douyin.com/hot/2602233",
-          "source": "抖音",
-          "ranks": [
-            15,
-            12,
-            16,
-            17,
-            11,
-            10,
-            21,
-            25,
-            30,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时03分 ~ 16时25分]"
-        },
-        {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[11时16分 ~ 23时59分]"
-        },
-        {
-          "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2449376",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时31分 ~ 23时59分]"
-        },
-        {
-          "title": "银河证券：A股市场正从“预期博弈”转向“现实验证”",
-          "url": "https://flash.jin10.com/detail/20260809172523933800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时45分]"
-        },
-        {
-          "title": "中信证券：利空出尽或支撑港股行情延续",
-          "url": "https://flash.jin10.com/detail/20260809195949389800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时17分 ~ 22时53分]"
-        },
-        {
-          "title": "一边买黄金，一边买美股",
-          "url": "https://wallstreetcn.com/articles/3779012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时16分 ~ 21时31分]"
-        },
-        {
-          "title": "周一A股真正要看什么",
-          "url": "https://www.toutiao.com/trending/7671849065465777683/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 13时36分]"
-        },
-        {
-          "title": "A股存储巨头定增大幅溢价",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E5%B7%A8%E5%A4%B4%E5%AE%9A%E5%A2%9E%E5%A4%A7%E5%B9%85%E6%BA%A2%E4%BB%B7%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "A股下周怎么走",
-          "url": "https://www.toutiao.com/trending/7671194499733012489/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 18时32分]"
-        },
-        {
-          "title": "伊拉克石油出口骤降75%将如何影响A股",
-          "url": "https://www.toutiao.com/trending/7671617827106721322/",
-          "source": "今日头条",
-          "ranks": [
-            26
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
-          "url": "https://wallstreetcn.com/livenews/3147037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            11,
-            12,
-            17,
-            18,
-            19,
-            21,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时16分 ~ 19时45分]"
-        },
-        {
-          "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
-          "url": "https://flash.jin10.com/detail/20260809045524710800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7,
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时36分 ~ 09时25分]"
-        },
         {
           "title": "马斯克，要颠覆EUV光刻机？",
           "url": "https://wallstreetcn.com/articles/3779015",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时09分 ~ 23时59分]"
-        },
-        {
-          "title": "马斯克突然“唱多”自家公司",
-          "url": "https://www.toutiao.com/trending/7670931315927498771/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时12分 ~ 18时32分]"
-        },
-        {
-          "title": "马斯克：第三代星链卫星（V3）综合性能比V2高出一个数量级",
-          "url": "https://flash.jin10.com/detail/20260809085801985800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 11时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "摩尔线程",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "摩尔线程：筹划发行H股股票并在香港联合交易所有限公司主板上市。",
-          "url": "https://wallstreetcn.com/livenews/3147055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            5,
-            7,
-            14,
-            15,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时31分]"
-        },
-        {
-          "title": "摩尔线程：上半年净亏损1156.3万元，较上年同期收窄2.59亿元",
-          "url": "https://wallstreetcn.com/livenews/3147054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            6,
-            8,
-            15,
-            16,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时31分]"
-        },
-        {
-          "title": "摩尔线程：筹划发行H股股票并在港交所主板上市",
-          "url": "https://flash.jin10.com/detail/20260809155351803800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时32分]"
-        },
-        {
-          "title": "摩尔线程上半年营收大幅增长147.42%，S5000智算集群实现规模化销售",
-          "url": "https://flash.jin10.com/detail/20260809154347647800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
-          "url": "https://www.cls.cn/detail/2448863",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时03分 ~ 09时25分]"
-        },
-        {
-          "title": "机构：SpaceX明年新增算力或超10GW",
-          "url": "https://www.toutiao.com/trending/7671977513962180139/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时16分 ~ 20时17分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     },
@@ -654,13 +129,11 @@
           "url": "https://wallstreetcn.com/livenews/3147106",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            12,
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时10分 ~ 23时59分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     },
@@ -673,14 +146,11 @@
           "url": "https://wallstreetcn.com/articles/3778999",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[14时29分 ~ 23时59分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     },
@@ -693,55 +163,11 @@
           "url": "https://wallstreetcn.com/articles/3778910",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时09分 ~ 23时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国卫星",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国卫星拍到猎鹰9号火箭残骸撞月",
-          "url": "https://www.toutiao.com/trending/7671595112442367551/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            29,
-            16,
-            17,
-            8,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时58分 ~ 06时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "宁德时代",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宁德时代枧下窝锂矿环评报告公示已于8月7日完成，待提交后将进行评审",
-          "url": "https://wallstreetcn.com/livenews/3147073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时07分 ~ 21时31分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     }
