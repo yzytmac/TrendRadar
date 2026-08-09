@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T02:36:36.208164+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-08-10T03:21:19.348058+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时21分]"
         },
         {
           "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
@@ -27,20 +27,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 03时21分]"
         },
         {
-          "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
-          "url": "https://flash.jin10.com/detail/20260810010023977800",
+          "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
+          "url": "https://flash.jin10.com/detail/20260810030225732800",
           "source": "金十数据",
           "ranks": [
-            3,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 02时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "据英国金融时报：前美国安全官员警告，美国总统特朗普正在拆除美国的防护屏障。",
+          "url": "https://flash.jin10.com/detail/20260810025259260800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -50,8 +60,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时21分]"
+        },
+        {
+          "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260810010023977800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 03时21分]"
         },
         {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
@@ -81,7 +104,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -91,8 +114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时21分]"
         },
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -102,8 +125,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时21分]"
         },
         {
           "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
@@ -114,8 +137,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时21分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -125,8 +148,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时21分]"
+        },
+        {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     },
@@ -142,8 +176,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时21分]"
         }
       ]
     },
@@ -159,8 +193,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时21分]"
         }
       ]
     },
@@ -176,8 +210,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时21分]"
         }
       ]
     },
@@ -194,8 +228,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时21分]"
         }
       ]
     }
