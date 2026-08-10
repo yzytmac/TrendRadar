@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T12:19:25.108239+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-08-10T13:55:40.524914+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 31,
+      "match_count": 41,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时41分 ~ 12时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时41分 ~ 13时55分]"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -51,11 +51,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时21分 ~ 12时19分]"
+          "appearance_count": 16,
+          "time_info": "[03时21分 ~ 13时55分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -95,6 +96,28 @@
           "time_info": "[06时28分 ~ 07时40分]"
         },
         {
+          "title": "A股午后MLCC概念震荡反弹，昀冢科技、龙鑫智能涨超10%，风华高科逼近涨停，国瓷材料、博迁新材、洁美科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "专家：A股二次探底是大概率事件",
+          "url": "https://www.toutiao.com/trending/7672233159576014346/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "A股",
           "url": "https://www.douyin.com/hot/2603879",
           "source": "抖音",
@@ -105,6 +128,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时34分 ~ 12时19分]"
+        },
+        {
+          "title": "港股AI应用板块持续回落，MINIMAX-W(00100.HK)跌超5%，智谱(02513.HK)跌近3%，金山云(03896.HK)、中国软件国际(00354.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260810133222062800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "A股旅游板块震荡走强，华天酒店触及涨停，西安饮食、三峡旅游、同庆楼、曲江文旅、金马游乐跟涨。",
@@ -152,6 +186,17 @@
           "time_info": "10时35分"
         },
         {
+          "title": "A股影视股午后再度拉升，儒意电影快速涨停，北京文化此前封板，华智数媒涨超15%，幸福蓝海、中国电影、金逸影视涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "华泰证券：A股超跌反弹仍有演绎空间 重点关注创业板指",
           "url": "https://wallstreetcn.com/livenews/3147148",
           "source": "华尔街见闻-快讯",
@@ -172,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "A股存储芯片概念午后持续下挫，普冉股份跌超10%，北京君正、兆易创新、长信科技、恒烁股份、大普微等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3147290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "A股黄金概念持续走强，潮宏基、宝鼎科技涨停，山金国际、招金黄金、菜百股份、西部黄金等跟涨。",
@@ -229,6 +285,17 @@
           "time_info": "10时35分"
         },
         {
+          "title": "A股白酒概念股午后继续走强，迎驾贡酒涨超8%，古井贡酒涨超5%，贵州茅台涨超3%，山西汾酒、皇台酒业等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810131625637800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "A股有色板块震荡拉升，鹏欣资源涨停，寒锐钴业、腾远钴业涨超10%，华友钴业、东方锆业、金钼股份涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3147203",
           "source": "华尔街见闻-快讯",
@@ -257,9 +324,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "A股影视院线板块午后再度冲高，儒意电影涨停，幸福蓝海涨超8%，北京文化此前涨停，华智数媒涨超15%，金逸影视、中国电影涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260810131426379800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "A股房地产板块早盘活跃，京投发展涨停，城建发展、我爱我家、金融街、三湘印象、大悦城跟涨。",
@@ -317,6 +395,28 @@
           "time_info": "10时35分"
         },
         {
+          "title": "A股煤化工板块走高，金牛化工涨停，江苏索普、华昌化工、诚志股份、宝丰能源、鲁西化工等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260810130945639800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "港股健世科技(09877.HK)午后拉升涨超4%，公司午间公告，预计中期收入同比增加385%至400%。",
+          "url": "https://flash.jin10.com/detail/20260810130716794800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "A股影视股早盘高开，北京文化竞价涨停，华智数媒接近涨停，儒意电影、幸福蓝海、博纳影业、中国电影等纷纷高开。",
           "url": "https://wallstreetcn.com/livenews/3147188",
           "source": "华尔街见闻-快讯",
@@ -350,13 +450,24 @@
           "time_info": "10时35分"
         },
         {
+          "title": "A股存储芯片概念午后持续下挫，普冉股份跌超10%，北京君正、兆易创新、长信科技、恒烁股份、大普微等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260810130539699800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         }
@@ -388,8 +499,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时15分 ~ 12时19分]"
+          "appearance_count": 19,
+          "time_info": "[01时15分 ~ 13时55分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -416,6 +527,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时05分 ~ 08时06分]"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时05分 ~ 13时55分]"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -449,19 +573,6 @@
           "time_info": "[01时50分 ~ 05时05分]"
         },
         {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时05分 ~ 12时19分]"
-        },
-        {
           "title": "据英国金融时报：前美国安全官员警告，美国总统特朗普正在拆除美国的防护屏障。",
           "url": "https://flash.jin10.com/detail/20260810025259260800",
           "source": "金十数据",
@@ -486,6 +597,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时55分]"
         },
         {
           "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
@@ -527,18 +651,6 @@
           "time_info": "[04时32分 ~ 05时48分]"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 12时19分]"
-        },
-        {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
           "url": "https://flash.jin10.com/detail/20260809224743402800",
           "source": "金十数据",
@@ -552,6 +664,17 @@
           "time_info": "[00时41分 ~ 01时50分]"
         },
         {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时55分]"
+        },
+        {
           "title": "特朗普加沙和平计划遭遇重大阻击：内塔尼亚胡拒绝下一阶段安排",
           "url": "https://flash.jin10.com/detail/20260810075735271800",
           "source": "金十数据",
@@ -563,24 +686,13 @@
           "time_info": "08时06分"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
           "title": "特朗普会对内塔尼亚胡拒绝加沙和平计划作何反应？",
           "url": "https://flash.jin10.com/detail/20260810113842057800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -610,7 +722,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克，要颠覆EUV光刻机？",
@@ -619,11 +731,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时41分 ~ 12时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时41分 ~ 13时55分]"
         },
         {
           "title": "马斯克凭什么建全球最大的芯片厂",
@@ -658,9 +771,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "如何看待马斯克评价SpaceX和特斯拉",
+          "url": "https://www.toutiao.com/trending/7672238666911059510/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     },
@@ -673,11 +797,12 @@
           "url": "https://wallstreetcn.com/livenews/3147268",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时55分]"
         },
         {
           "title": "科创50指数跌幅扩大至1%。",
@@ -704,36 +829,8 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月10日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股、炼化及贸易、煤炭开采全线走高，半导体走势分化，通信设备大幅下挫",
-          "url": "https://flash.jin10.com/detail/20260810113325713800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "韩国智库：半导体出口强劲拉动增长 韩国经济改善扩大",
-          "url": "https://flash.jin10.com/detail/20260810112154523800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
@@ -750,15 +847,84 @@
           "time_info": "[00时41分 ~ 07时01分]"
         },
         {
+          "title": "苹果被曝正测试长鑫存储芯片 用于在中国市场销售的设备",
+          "url": "https://www.cls.cn/detail/2449544",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "退市新规征求意见，全球芯片LOF跌停，白银LOF重挫",
           "url": "https://flash.jin10.com/detail/20260810113847154800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年08月10日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股、炼化及贸易、煤炭开采全线走高，半导体走势分化，通信设备大幅下挫",
+          "url": "https://flash.jin10.com/detail/20260810113325713800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "韩国智库：半导体出口强劲拉动增长 韩国经济改善扩大",
+          "url": "https://flash.jin10.com/detail/20260810112154523800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周末热议：“空存储、多光”？",
+          "url": "https://wallstreetcn.com/articles/3778999",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 12时19分]"
+        },
+        {
+          "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
+          "url": "https://wallstreetcn.com/articles/3779037",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     },
@@ -805,8 +971,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时05分 ~ 12时19分]"
+          "appearance_count": 6,
+          "time_info": "[08时05分 ~ 13时55分]"
         },
         {
           "title": "寒武纪跌超5%，此前发布财报。",
@@ -818,25 +984,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周末热议：“空存储、多光”？",
-          "url": "https://wallstreetcn.com/articles/3778999",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时41分 ~ 12时19分]"
         }
       ]
     },
@@ -885,11 +1032,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 12时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时55分]"
         }
       ]
     },
@@ -904,7 +1052,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         }
