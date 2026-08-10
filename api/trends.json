@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T10:35:12.608872+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-08-10T12:19:25.108239+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 10时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 12时19分]"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -50,11 +50,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时21分 ~ 10时35分]"
+          "appearance_count": 15,
+          "time_info": "[03时21分 ~ 12时19分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -76,7 +77,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -94,26 +95,28 @@
           "time_info": "[06时28分 ~ 07时40分]"
         },
         {
-          "title": "A股旅游板块震荡走强，华天酒店触及涨停，西安饮食、三峡旅游、同庆楼、曲江文旅、金马游乐跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3147235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
           "title": "A股",
           "url": "https://www.douyin.com/hot/2603879",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 12时19分]"
+        },
+        {
+          "title": "A股旅游板块震荡走强，华天酒店触及涨停，西安饮食、三峡旅游、同庆楼、曲江文旅、金马游乐跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "time_info": "[10时35分 ~ 12时19分]"
         },
         {
           "title": "A股三大指数集体高开",
@@ -133,7 +136,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -144,7 +147,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -166,7 +169,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -177,7 +180,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -188,7 +191,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -199,7 +202,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -210,7 +213,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -221,7 +224,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -232,7 +235,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -243,9 +246,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "A股午评：创业板指半日跌超2% 养殖、创新药等板块逆势造好",
+          "url": "https://flash.jin10.com/detail/20260810113545290800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "A股房地产板块早盘活跃，京投发展涨停，城建发展、我爱我家、金融街、三湘印象、大悦城跟涨。",
@@ -254,7 +268,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -265,7 +279,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -276,7 +290,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -287,7 +301,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -298,7 +312,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -309,7 +323,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -320,7 +334,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -331,15 +345,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -359,11 +384,12 @@
           "ranks": [
             5,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时15分 ~ 10时35分]"
+          "appearance_count": 18,
+          "time_info": "[01时15分 ~ 12时19分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -428,11 +454,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 10时35分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 12时19分]"
         },
         {
           "title": "据英国金融时报：前美国安全官员警告，美国总统特朗普正在拆除美国的防护屏障。",
@@ -475,6 +502,18 @@
           "time_info": "[05时48分 ~ 07时40分]"
         },
         {
+          "title": "特朗普公布新任总统助理人选",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 12时19分]"
+        },
+        {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
           "url": "https://flash.jin10.com/detail/20260810033626643800",
           "source": "金十数据",
@@ -486,6 +525,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时32分 ~ 05时48分]"
+        },
+        {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 12时19分]"
         },
         {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
@@ -501,28 +552,6 @@
           "time_info": "[00时41分 ~ 01时50分]"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
-          "title": "特朗普公布新任总统助理人选",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
           "title": "特朗普加沙和平计划遭遇重大阻击：内塔尼亚胡拒绝下一阶段安排",
           "url": "https://flash.jin10.com/detail/20260810075735271800",
           "source": "金十数据",
@@ -532,6 +561,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "特朗普会对内塔尼亚胡拒绝加沙和平计划作何反应？",
+          "url": "https://flash.jin10.com/detail/20260810113842057800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -551,7 +602,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         }
@@ -559,7 +610,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克，要颠覆EUV光刻机？",
@@ -567,11 +618,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 10时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 12时19分]"
         },
         {
           "title": "马斯克凭什么建全球最大的芯片厂",
@@ -598,13 +650,35 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时05分 ~ 07时01分]"
+        },
+        {
+          "title": "马斯克的8000亿芯片梦会是灾难吗",
+          "url": "https://www.toutiao.com/trending/7672219771949026870/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
     {
       "keyword_group": "科创",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "上证指数早盘收报3947.91点，涨0.20%。 深证成指早盘收报14148.86点，跌1.13%。 创业板指早盘收报3485.44点，跌2.18%。 沪深300早盘收报4670.05点，跌0.52%。 科创50早盘收报1716.69点，跌1.57%。 中证500早盘收报7942.84点，跌0.47%。 中证1000早盘收报7647.01点，跌0.42%。",
+          "url": "https://wallstreetcn.com/livenews/3147268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
         {
           "title": "科创50指数跌幅扩大至1%。",
           "url": "https://flash.jin10.com/detail/20260810094544854800",
@@ -612,7 +686,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -623,9 +697,68 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年08月10日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股、炼化及贸易、煤炭开采全线走高，半导体走势分化，通信设备大幅下挫",
+          "url": "https://flash.jin10.com/detail/20260810113325713800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "韩国智库：半导体出口强劲拉动增长 韩国经济改善扩大",
+          "url": "https://flash.jin10.com/detail/20260810112154523800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
+          "url": "https://wallstreetcn.com/livenews/3147106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            14,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时01分]"
+        },
+        {
+          "title": "退市新规征求意见，全球芯片LOF跌停，白银LOF重挫",
+          "url": "https://flash.jin10.com/detail/20260810113847154800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
@@ -672,8 +805,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 10时35分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 12时19分]"
         },
         {
           "title": "寒武纪跌超5%，此前发布财报。",
@@ -682,29 +815,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
-          "url": "https://wallstreetcn.com/livenews/3147106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            14,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时01分]"
         }
       ]
     },
@@ -718,11 +831,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 10时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 12时19分]"
         }
       ]
     },
@@ -770,11 +884,29 @@
           "url": "https://wallstreetcn.com/articles/3779010",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 12时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国卫通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国卫通加入工信部6G推进组星地融合工作组",
+          "url": "https://flash.jin10.com/detail/20260810113445333800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
