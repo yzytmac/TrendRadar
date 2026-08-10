@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T18:18:01.674269+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-08-10T19:31:44.411548+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -77,11 +77,12 @@
           "url": "https://www.toutiao.com/trending/7672155767805526067/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时31分]"
         },
         {
           "title": "A股造纸板短线拉升，宜宾纸业触及涨停，齐峰新材、恒丰纸业、森林包装、民丰特纸、恒达新材跟涨。",
@@ -142,6 +143,19 @@
           "time_info": "13时55分"
         },
         {
+          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
+          "url": "https://wallstreetcn.com/articles/3779046",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 19时31分]"
+        },
+        {
           "title": "专家：A股二次探底是大概率事件",
           "url": "https://www.toutiao.com/trending/7672233159576014346/",
           "source": "今日头条",
@@ -166,16 +180,16 @@
           "time_info": "[10时35分 ~ 12时19分]"
         },
         {
-          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
-          "url": "https://wallstreetcn.com/articles/3779046",
-          "source": "华尔街见闻",
+          "title": "A股“股王”大跌",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E8%82%A1%E7%8E%8B%E2%80%9D%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
           "ranks": [
             10,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时58分 ~ 18时18分]"
+          "time_info": "[18时17分 ~ 19时31分]"
         },
         {
           "title": "A股超4000股收涨",
@@ -200,17 +214,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 16时58分]"
-        },
-        {
-          "title": "A股“股王”大跌",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E8%82%A1%E7%8E%8B%E2%80%9D%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "A股三大指数集体高开",
@@ -322,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "苹果美股盘前下跌约1.2%，Jefferies下调其评级至低配。",
+          "url": "https://wallstreetcn.com/livenews/3147454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "A股黄金概念持续走强，潮宏基、宝鼎科技涨停，山金国际、招金黄金、菜百股份、西部黄金等跟涨。",
@@ -443,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "67只A股筹码大换手",
+          "url": "https://www.toutiao.com/trending/7672173380447879187/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "A股半导体设备板块再度拉升，盛美上海涨超10%，托伦斯、微导纳米、恒运昌、富创精密、至纯科技等跟涨。",
@@ -583,7 +608,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -613,7 +638,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -650,8 +675,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时05分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[08时05分 ~ 19时31分]"
+        },
+        {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时34分 ~ 19时31分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -665,17 +703,15 @@
           "time_info": "[00时41分 ~ 08时06分]"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
+          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
           "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时34分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时31分]"
         },
         {
           "title": "特朗普称正在“低调处理”伊朗问题",
@@ -693,15 +729,15 @@
           "time_info": "[05时05分 ~ 08时06分]"
         },
         {
-          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
-          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
           "source": "凤凰网",
           "ranks": [
-            1
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 19时31分]"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -750,17 +786,6 @@
           "time_info": "[03时21分 ~ 05时48分]"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 18时18分]"
-        },
-        {
           "title": "霍尔木兹协议临门一脚却卡死：伊朗抬高条件，特朗普突然降调改打“耐心牌”",
           "url": "https://flash.jin10.com/detail/20260810071953536800",
           "source": "金十数据",
@@ -770,6 +795,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 19时31分]"
         },
         {
           "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
@@ -798,17 +837,16 @@
           "time_info": "[10时34分 ~ 12时19分]"
         },
         {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            10,
-            7
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时31分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -835,17 +873,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时41分 ~ 01时50分]"
-        },
-        {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "前美国官员：特朗普使美国安全恶化",
@@ -879,6 +906,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "特朗普不得已对伊朗降低调门",
+          "url": "https://wallstreetcn.com/livenews/3147448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -942,11 +980,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 19时31分]"
         },
         {
           "title": "芯片股“撞墙”，但市场没有",
@@ -1053,6 +1092,68 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "中韩半导体ETF华泰柏瑞：将于2026年8月11日开市起至当日10:30停牌。",
+          "url": "https://flash.jin10.com/detail/20260810190343455800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "全球最大半导体ETF管理人：长鑫科技最早或于9月底纳入公司旗下ETF",
+          "url": "https://wallstreetcn.com/articles/3779017",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时18分]"
+        },
+        {
+          "title": "韩国总统办公室：将设立规模达5万亿韩元的新基金，重点投资于有前景的半导体材料、零部件和设备领域。",
+          "url": "https://wallstreetcn.com/livenews/3147397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股、炼化及贸易、煤炭开采全线走高，半导体走势分化，通信设备大幅下挫",
+          "url": "https://flash.jin10.com/detail/20260810113325713800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "韩国智库：半导体出口强劲拉动增长 韩国经济改善扩大",
+          "url": "https://flash.jin10.com/detail/20260810112154523800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科创",
       "match_count": 5,
       "titles": [
@@ -1086,7 +1187,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1115,57 +1216,6 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "全球最大半导体ETF管理人：长鑫科技最早或于9月底纳入公司旗下ETF",
-          "url": "https://wallstreetcn.com/articles/3779017",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 18时18分]"
-        },
-        {
-          "title": "韩国总统办公室：将设立规模达5万亿韩元的新基金，重点投资于有前景的半导体材料、零部件和设备领域。",
-          "url": "https://wallstreetcn.com/livenews/3147397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股、炼化及贸易、煤炭开采全线走高，半导体走势分化，通信设备大幅下挫",
-          "url": "https://flash.jin10.com/detail/20260810113325713800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "韩国智库：半导体出口强劲拉动增长 韩国经济改善扩大",
-          "url": "https://flash.jin10.com/detail/20260810112154523800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中际旭创",
       "match_count": 3,
       "titles": [
@@ -1176,11 +1226,12 @@
           "ranks": [
             9,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 19时31分]"
         },
         {
           "title": "据香港交易所披露，摩根士丹利对中际旭创股份有限公司 - H股的多头持仓比例于2026年8月4日从5.92%增至6.23%； 摩根大通（JPMorgan）对中际旭创股份有限公司 - H股的多头持仓比例于2026年8月5日从15.02%降至14.93%。",
@@ -1189,7 +1240,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1200,7 +1251,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
@@ -1234,8 +1285,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 18时18分]"
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 19时31分]"
         }
       ]
     },
@@ -1250,11 +1301,12 @@
           "ranks": [
             13,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 19时31分]"
         },
         {
           "title": "人形机器人第一股",
@@ -1292,7 +1344,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
@@ -1371,6 +1423,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯联集成",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芯联集成：2026年上半年净利润2.78亿元，实现扭亏为盈",
+          "url": "https://wallstreetcn.com/livenews/3147440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         }
       ]
     },
