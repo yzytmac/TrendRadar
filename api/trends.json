@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T22:46:14.258307+08:00",
-  "total_titles_processed": 1867,
+  "generated_at": "2026-08-10T23:42:49.396157+08:00",
+  "total_titles_processed": 1933,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -80,11 +80,12 @@
             5,
             2,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时17分 ~ 22时46分]"
+          "appearance_count": 8,
+          "time_info": "[18时17分 ~ 23时42分]"
         },
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
@@ -93,22 +94,24 @@
           "ranks": [
             10,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时58分 ~ 22时46分]"
+          "appearance_count": 9,
+          "time_info": "[16时58分 ~ 23时42分]"
         },
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时42分]"
         },
         {
           "title": "A股造纸板短线拉升，宜宾纸业触及涨停，齐峰新材、恒丰纸业、森林包装、民丰特纸、恒达新材跟涨。",
@@ -298,6 +301,17 @@
           "time_info": "10时35分"
         },
         {
+          "title": "美股CAPE升至42倍，未来十年会变成“失去的十年”吗？",
+          "url": "https://flash.jin10.com/detail/20260810230305789800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "A股算力硬件股震荡下挫，泰金新能跌超10%，炬光科技、光迅科技、东威科技、迅捷兴、东山精密、天承科技跌超7%。",
           "url": "https://wallstreetcn.com/livenews/3147230",
           "source": "华尔街见闻-快讯",
@@ -461,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
+        },
+        {
+          "title": "十大券商看后市｜A股仍处于上行周期，超跌反弹还有演绎空间",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750320",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "A股白酒概念股午后继续走强，迎驾贡酒涨超8%，古井贡酒涨超5%，贵州茅台涨超3%，山西汾酒、皇台酒业等跟涨。",
@@ -763,7 +788,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -798,8 +823,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时17分 ~ 22时46分]"
+          "appearance_count": 8,
+          "time_info": "[18时17分 ~ 23时42分]"
         },
         {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
@@ -811,8 +836,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时05分 ~ 22时46分]"
+          "appearance_count": 16,
+          "time_info": "[08时05分 ~ 23时42分]"
         },
         {
           "title": "特朗普这是此地无银三百两吗？",
@@ -824,8 +849,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时34分 ~ 22时46分]"
+          "appearance_count": 14,
+          "time_info": "[10时34分 ~ 23时42分]"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -839,8 +864,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时26分 ~ 22时46分]"
+          "appearance_count": 10,
+          "time_info": "[15时26分 ~ 23时42分]"
         },
         {
           "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
@@ -850,8 +875,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时19分 ~ 22时46分]"
+          "appearance_count": 12,
+          "time_info": "[12时19分 ~ 23时42分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -863,6 +888,20 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时41分 ~ 08时06分]"
+        },
+        {
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时17分 ~ 23时42分]"
         },
         {
           "title": "特朗普称正在“低调处理”伊朗问题",
@@ -878,20 +917,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时05分 ~ 08时06分]"
-        },
-        {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时17分 ~ 22时46分]"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -1047,6 +1072,17 @@
           "time_info": "20时11分"
         },
         {
+          "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33561179",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "特朗普不得已对伊朗降低调门",
           "url": "https://wallstreetcn.com/livenews/3147448",
           "source": "华尔街见闻-快讯",
@@ -1094,8 +1130,23 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
+          "url": "https://www.zhihu.com/question/2068943667189002947",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时58分 ~ 23时42分]"
+        },
         {
           "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
           "url": "https://wallstreetcn.com/livenews/3147106",
@@ -1109,21 +1160,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时41分 ~ 07时01分]"
-        },
-        {
-          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
-          "url": "https://www.zhihu.com/question/2068943667189002947",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11,
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时58分 ~ 22时46分]"
         },
         {
           "title": "苹果被曝正测试长鑫存储芯片 用于在中国市场销售的设备",
@@ -1140,15 +1176,27 @@
           "time_info": "[13时55分 ~ 18时18分]"
         },
         {
+          "title": "市场消息：英伟达支持的AI云计算服务商Lambda正在出售一笔杠杆贷款，用于为芯片交易提供资金。该公司正在发行一笔规模为9.17亿美元的GPU采购杠杆贷款。",
+          "url": "https://flash.jin10.com/detail/20260810231415887800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "报道：智谱API用户数近700万，新启用超5万块国产算力芯片",
           "url": "https://wallstreetcn.com/livenews/3147571",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时42分]"
         },
         {
           "title": "芯片股“撞墙”，但市场没有",
@@ -1168,7 +1216,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -1274,7 +1322,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -1285,7 +1333,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -1337,8 +1385,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时44分 ~ 22时46分]"
+          "appearance_count": 4,
+          "time_info": "[21时44分 ~ 23时42分]"
         },
         {
           "title": "上证指数早盘收报3947.91点，涨0.20%。 深证成指早盘收报14148.86点，跌1.13%。 创业板指早盘收报3485.44点，跌2.18%。 沪深300早盘收报4670.05点，跌0.52%。 科创50早盘收报1716.69点，跌1.57%。 中证500早盘收报7942.84点，跌0.47%。 中证1000早盘收报7647.01点，跌0.42%。",
@@ -1449,8 +1497,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时11分 ~ 22时46分]"
+          "appearance_count": 5,
+          "time_info": "[20时11分 ~ 23时42分]"
         },
         {
           "title": "马斯克或采用FEL技术挑战EUV光刻机",
@@ -1641,11 +1689,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时44分 ~ 22时46分]"
+          "appearance_count": 4,
+          "time_info": "[21时44分 ~ 23时42分]"
         },
         {
           "title": "人形机器人第一股",
@@ -1700,8 +1749,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时55分 ~ 22时46分]"
+          "appearance_count": 11,
+          "time_info": "[13时55分 ~ 23时42分]"
         }
       ]
     },
