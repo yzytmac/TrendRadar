@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T03:20:15.703599+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-08-12T04:10:50.850529+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 04时10分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 04时10分]"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -123,7 +124,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -133,8 +134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 04时10分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -144,8 +145,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 04时10分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -156,8 +157,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 04时10分]"
         },
         {
           "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
@@ -168,8 +169,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 04时10分]"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 金龙指数跌近3%",
+          "url": "https://flash.jin10.com/detail/20260812040113623800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
         },
         {
           "title": "散户观望，机构掉队！惨淡情绪下，美股即将出现新机会？",
@@ -218,11 +230,12 @@
             25,
             23,
             21,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 04时10分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
@@ -261,47 +274,8 @@
       ]
     },
     {
-      "keyword_group": "存储",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "蓄力下一代DRAM 存储龙头拟提升EUV光刻性能 相移掩模版成关键",
-          "url": "https://www.cls.cn/detail/2451127",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 03时20分]"
-        },
-        {
-          "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
-          "url": "https://www.cls.cn/detail/2451331",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 03时20分]"
-        },
-        {
-          "title": "存储见顶担忧升温，韩国多家券商下调三星、SK海力士目标价，最深下调超30%",
-          "url": "https://wallstreetcn.com/articles/3779183",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
@@ -311,8 +285,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 04时10分]"
         },
         {
           "title": "市场消息：芝商所集团与Silicon Data将于10月5日推出算力期货。",
@@ -326,6 +300,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "芝商所联合Silicon Data在10月推出算力期货",
+          "url": "https://flash.jin10.com/detail/20260812033239045800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
           "title": "美国芝商所与Silicon Data确定10月5日推出算力期货",
           "url": "https://wallstreetcn.com/livenews/3148148",
           "source": "华尔街见闻-快讯",
@@ -335,6 +320,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "蓄力下一代DRAM 存储龙头拟提升EUV光刻性能 相移掩模版成关键",
+          "url": "https://www.cls.cn/detail/2451127",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 04时10分]"
+        },
+        {
+          "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
+          "url": "https://www.cls.cn/detail/2451331",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 04时10分]"
+        },
+        {
+          "title": "存储见顶担忧升温，韩国多家券商下调三星、SK海力士目标价，最深下调超30%",
+          "url": "https://wallstreetcn.com/articles/3779183",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时10分]"
         }
       ]
     },
@@ -364,11 +388,12 @@
           "url": "https://www.toutiao.com/trending/7672386510922973190/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 04时10分]"
         }
       ]
     }
