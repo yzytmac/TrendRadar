@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T06:05:14.135517+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-08-12T07:03:53.083567+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 06时05分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时03分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 06时05分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时03分]"
         },
         {
           "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 06时05分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时03分]"
         },
         {
           "title": "美股收盘：三大股指收跌 金龙指数跌近3%",
@@ -71,11 +71,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时05分]"
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时03分]"
         },
         {
           "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
@@ -83,11 +84,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时05分]"
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时03分]"
         },
         {
           "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
@@ -161,6 +163,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
+          "url": "https://www.cls.cn/detail/2451784",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
           "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260812011055965800",
           "source": "金十数据",
@@ -186,7 +199,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -197,8 +210,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 06时05分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时03分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -208,19 +221,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 06时05分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时03分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://wallstreetcn.com/livenews/3148261",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 07时03分]"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -251,22 +265,36 @@
           "url": "https://flash.jin10.com/detail/20260812053053264800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 07时03分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
           "url": "https://flash.jin10.com/detail/20260812052220258800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 07时03分]"
+        },
+        {
+          "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
+          "url": "https://flash.jin10.com/detail/20260812050519717800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 07时03分]"
         },
         {
           "title": "市场消息：美国公民自由联盟（ACLU）及其他法律团体请求美国法官阻止特朗普最新限制“出生公民权”的行动。",
@@ -280,15 +308,15 @@
           "time_info": "00时01分"
         },
         {
-          "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
-          "url": "https://flash.jin10.com/detail/20260812050519717800",
-          "source": "金十数据",
+          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
+          "source": "澎湃新闻",
           "ranks": [
-            16
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时05分"
+          "time_info": "07时03分"
         },
         {
           "title": "美国总统特朗普：罗伯特在俄罗斯被监禁。他今晚将抵达华盛顿特区。",
@@ -348,6 +376,79 @@
       ]
     },
     {
+      "keyword_group": "算力",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
+          "url": "https://www.cls.cn/detail/2451345",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时03分]"
+        },
+        {
+          "title": "Coreweave(CRWV.O)CFO：预计今年年底公司活跃算力规模将超过1.85吉瓦，高于此前指引的超过1.7吉瓦。",
+          "url": "https://flash.jin10.com/detail/20260812054236336800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 07时03分]"
+        },
+        {
+          "title": "市场消息：芝商所集团与Silicon Data将于10月5日推出算力期货。",
+          "url": "https://flash.jin10.com/detail/20260811230133669800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "芝商所联合Silicon Data在10月推出算力期货",
+          "url": "https://flash.jin10.com/detail/20260812033239045800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "险资二季度持仓净增1.83亿股，近期积极调研AI算力、医药与硬科技",
+          "url": "https://wallstreetcn.com/livenews/3148270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "美国芝商所与Silicon Data确定10月5日推出算力期货",
+          "url": "https://wallstreetcn.com/livenews/3148148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 5,
       "titles": [
@@ -365,8 +466,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 06时05分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时03分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
@@ -416,67 +517,6 @@
       ]
     },
     {
-      "keyword_group": "算力",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
-          "url": "https://www.cls.cn/detail/2451345",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 06时05分]"
-        },
-        {
-          "title": "Coreweave(CRWV.O)CFO：预计今年年底公司活跃算力规模将超过1.85吉瓦，高于此前指引的超过1.7吉瓦。",
-          "url": "https://flash.jin10.com/detail/20260812054236336800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "市场消息：芝商所集团与Silicon Data将于10月5日推出算力期货。",
-          "url": "https://flash.jin10.com/detail/20260811230133669800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "芝商所联合Silicon Data在10月推出算力期货",
-          "url": "https://flash.jin10.com/detail/20260812033239045800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "美国芝商所与Silicon Data确定10月5日推出算力期货",
-          "url": "https://wallstreetcn.com/livenews/3148148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储",
       "match_count": 4,
       "titles": [
@@ -488,19 +528,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 06时05分]"
-        },
-        {
-          "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
-          "url": "https://www.cls.cn/detail/2451331",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 06时05分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时03分]"
         },
         {
           "title": "存储见顶担忧升温，韩国多家券商下调三星、SK海力士目标价，最深下调超30%",
@@ -512,19 +541,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时05分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 07时03分]"
+        },
+        {
+          "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
+          "url": "https://www.cls.cn/detail/2451331",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时03分]"
         },
         {
           "title": "超微电脑(SMCI.O)CFO：第四季度企业和渠道客户升级计算、存储和网络基础设施的需求有所增长。",
           "url": "https://flash.jin10.com/detail/20260812052938272800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 07时03分]"
         }
       ]
     },
@@ -573,11 +614,12 @@
           "ranks": [
             30,
             29,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 05时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 07时03分]"
         }
       ]
     }
