@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T20:25:57.655591+08:00",
-  "total_titles_processed": 1811,
+  "generated_at": "2026-08-11T21:53:55.236228+08:00",
+  "total_titles_processed": 1917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -42,6 +42,17 @@
           "time_info": "[00时33分 ~ 08时01分]"
         },
         {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时06分 ~ 21时53分]"
+        },
+        {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
           "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
           "source": "澎湃新闻",
@@ -67,19 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时20分 ~ 20时25分]"
-        },
-        {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时06分 ~ 20时25分]"
+          "appearance_count": 12,
+          "time_info": "[10时20分 ~ 21时53分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -179,6 +179,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时59分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
+          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
@@ -679,7 +690,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -689,8 +700,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时01分 ~ 20时25分]"
+          "appearance_count": 13,
+          "time_info": "[08时01分 ~ 21时53分]"
         },
         {
           "title": "A股又现“超级大肉签”，中一签最高赚超22万元",
@@ -802,15 +813,15 @@
           "time_info": "16时38分"
         },
         {
-          "title": "Beyond Meat美股盘前一度跌近21%，公司董事会批准按1:30比例进行反向股票分割",
-          "url": "https://wallstreetcn.com/livenews/3148059",
+          "title": "瑞士央行的美股持仓创新高 前三大持股为英伟达、苹果和微软",
+          "url": "https://wallstreetcn.com/livenews/3148091",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "21时53分"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
@@ -867,6 +878,31 @@
           "time_info": "[10时20分 ~ 12时01分]"
         },
         {
+          "title": "兜兜转转一圈以后，港股又回到了起点",
+          "url": "https://wallstreetcn.com/articles/3779127",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 21时53分]"
+        },
+        {
+          "title": "Beyond Meat美股盘前一度跌近21%，公司董事会批准按1:30比例进行反向股票分割",
+          "url": "https://wallstreetcn.com/livenews/3148059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 21时53分]"
+        },
+        {
           "title": "周一（8月10日），美股存储芯片与硬件供应链指数跌1.22%，报184.13点，美股盘初冲高回落，结束交易前30分钟内（再次）开启一波显著下跌的行情。 成分股Rambus收跌5.55%，泰瑞达跌3.75%，应用材料跌3.16%，美光科技、拉姆研究、希捷科技至少跌1.45%，西部数据收涨0.93%，闪迪涨2.12%。 此外，铠侠ADR跌4.01%，SK海力士ADR跌1.9%。",
           "url": "https://wallstreetcn.com/livenews/3147690",
           "source": "华尔街见闻-快讯",
@@ -880,17 +916,16 @@
           "time_info": "[05时14分 ~ 06时40分]"
         },
         {
-          "title": "兜兜转转一圈以后，港股又回到了起点",
-          "url": "https://wallstreetcn.com/articles/3779127",
-          "source": "华尔街见闻",
+          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
+          "url": "https://www.cls.cn/detail/2451293",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            8
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时34分 ~ 20时25分]"
+          "time_info": "[19时31分 ~ 21时53分]"
         },
         {
           "title": "A股创新药、CRO概念延续涨势，百花医药6连板，甘李药业涨停，长春高新、万邦医药、博瑞医药、亚太药业涨幅居前。",
@@ -941,17 +976,6 @@
           "time_info": "[04时23分 ~ 05时14分]"
         },
         {
-          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
-          "url": "https://www.cls.cn/detail/2451293",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时25分]"
-        },
-        {
           "title": "美股收盘：芯片股、光通信概念重挫",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E6%A6%82%E5%BF%B5%E9%87%8D%E6%8C%AB",
           "source": "百度热搜",
@@ -974,6 +998,28 @@
           "time_info": "[14时06分 ~ 14时07分]"
         },
         {
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "英伟达美股盘前涨近2%，报道称英伟达正在开发开源AI模型Nemotron 4",
+          "url": "https://wallstreetcn.com/livenews/3148090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "A股午评：三大股指低开高走 MLCC概念强势领涨",
           "url": "https://flash.jin10.com/detail/20260811113657320800",
           "source": "金十数据",
@@ -983,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "美股开盘，道指涨0.11%、标普500指数涨0.14%、纳指涨0.25%。英伟达(NVDA.O)涨1.8%，报道称公司正在推出开源AI模型Nemotron 4。存储概念股走强，SK海力士(SKHY.O)涨2.4%、闪迪(SNDK.O)涨1.7%。",
+          "url": "https://flash.jin10.com/detail/20260811213034939800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%。",
@@ -1016,6 +1073,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3148081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "A股人形机器人概念股午后拉升，巨轮智能、北特科技直线涨停，斯菱智驱涨超17%，瑞迪智驱、禾川科技、安培龙、丰光精密等跟涨。",
@@ -1219,11 +1287,12 @@
             10,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时06分 ~ 20时25分]"
+          "appearance_count": 9,
+          "time_info": "[14时06分 ~ 21时53分]"
         },
         {
           "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
@@ -1238,6 +1307,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时23分 ~ 06时40分]"
+        },
+        {
+          "title": "沪指缩量调整跌0.8%，医药、机器人逆势大涨，半导体新股IPO首日暴涨740%，恒科指跌近2%",
+          "url": "https://wallstreetcn.com/articles/3779141",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时53分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
@@ -1277,18 +1359,6 @@
           "time_info": "[19时31分 ~ 20时25分]"
         },
         {
-          "title": "沪指缩量调整跌0.8%，医药、机器人逆势大涨，半导体新股IPO首日暴涨740%，恒科指跌近2%",
-          "url": "https://wallstreetcn.com/articles/3779141",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时25分]"
-        },
-        {
           "title": "英伟达跌幅扩大至3%，刷新日低，标普500指数跌0.1%，道指跌0.16%，纳指跌0.4%，半导体指数跌超1.8%。",
           "url": "https://wallstreetcn.com/livenews/3147620",
           "source": "华尔街见闻-快讯",
@@ -1318,7 +1388,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1421,7 +1491,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         }
@@ -1488,11 +1558,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时25分]"
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时53分]"
         },
         {
           "title": "上海：创新算力要素市场化改革 持续探索算力作价入股等新型投资方式以及“算力资源+应用场景”新招商模式",
@@ -1764,7 +1835,7 @@
     },
     {
       "keyword_group": "存储",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
@@ -1787,11 +1858,23 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时38分 ~ 20时25分]"
+          "appearance_count": 6,
+          "time_info": "[16时38分 ~ 21时53分]"
+        },
+        {
+          "title": "佰维存储：拟以2亿元-2.5亿元回购公司股份",
+          "url": "https://wallstreetcn.com/livenews/3148078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "HBM只占DRAM 12%，为何能决定整个存储周期？",
@@ -1912,6 +1995,23 @@
       ]
     },
     {
+      "keyword_group": "商业航天",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "潍柴动力：暂无开展商业卫星及商业航天用电源电池产品的研发规划",
+          "url": "https://wallstreetcn.com/livenews/3148096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "有色金属",
       "match_count": 1,
       "titles": [
@@ -1939,7 +2039,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         }
