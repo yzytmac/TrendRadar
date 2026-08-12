@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T10:29:06.462097+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-08-12T12:23:21.259161+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 35,
+      "match_count": 42,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -52,8 +52,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 10时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 12时23分]"
         },
         {
           "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时03分 ~ 10时29分]"
+          "appearance_count": 6,
+          "time_info": "[07时03分 ~ 12时23分]"
         },
         {
           "title": "美股收盘：三大股指收跌 金龙指数跌近3%",
@@ -80,24 +80,24 @@
           "time_info": "04时10分"
         },
         {
+          "title": "港股午评：恒指低开低走半日收跌1.17% 科网股集体调整",
+          "url": "https://flash.jin10.com/detail/20260812121442790800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
           "title": "A股电力板块回调走软，立新能源跌超5%，绿发电力、聆达股份、京能电力等股跟跌。",
           "url": "https://flash.jin10.com/detail/20260812095930625800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "A股AI应用方向早盘走高，省广集团、风语筑双双涨停，天龙集团涨超10%，引力传媒、福石控股、佳云科技等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3148357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -108,7 +108,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -137,6 +137,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时03分]"
+        },
+        {
+          "title": "A股AI应用方向早盘走高，省广集团、风语筑双双涨停，天龙集团涨超10%，引力传媒、福石控股、佳云科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 12时23分]"
         },
         {
           "title": "欧股悄悄跑赢美股！高盛：当市场开始质疑AI投入，“不追AI”的欧洲反而占优",
@@ -227,7 +239,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -249,9 +261,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "A股“股王”，股价重回2200元",
+          "url": "https://www.cls.cn/detail/2451978",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股盘中）",
@@ -293,7 +316,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -309,13 +332,24 @@
           "time_info": "02时02分"
         },
         {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2606599",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
           "title": "A股影视股继续走强，北京文化3连板，儒意电影、金逸影视、中国电影、横店影视、博纳影业等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3148336",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -326,7 +360,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -337,9 +371,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "A股脑机接口概念异动拉升，创新医疗快速涨停，菲沃泰涨超10%，爱朋医疗、声迅股份、倍益康、三博脑科、南京熊猫跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "A股光刻机板块持续走强，炬光科技涨超14%，富创精密涨超5%，茂莱光学、江丰电子等跟涨。",
@@ -348,7 +393,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -359,7 +404,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -370,9 +415,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "A股午评：创业板指震荡走强收涨1.73% 算力硬件方向领涨大盘",
+          "url": "https://flash.jin10.com/detail/20260812113331881800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "A股白酒板块短线拉升，今世缘涨超8%，迎驾贡酒、古井贡酒、舍得酒业、口子窖纷纷上扬。",
@@ -381,7 +437,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -392,9 +448,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "港股南方两倍做多三星电子(07747.HK)涨超17%，南方东英SK海力士(07709.HK)涨超15%。",
+          "url": "https://flash.jin10.com/detail/20260812113053487800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "A股创新药板块短线拉升，百花医药拉升涨停走出七连板，万邦医药、泓博医药、陇神戎发、誉衡药业、哈药股份、博济医药跟涨。",
@@ -403,15 +470,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -447,8 +525,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时03分 ~ 10时29分]"
+          "appearance_count": 4,
+          "time_info": "[07时03分 ~ 12时23分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -477,6 +555,17 @@
           "time_info": "[06时05分 ~ 08时01分]"
         },
         {
+          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
+          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 12时23分]"
+        },
+        {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
           "url": "https://wallstreetcn.com/livenews/3148157",
           "source": "华尔街见闻-快讯",
@@ -499,17 +588,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 01时01分]"
-        },
-        {
-          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
-          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -553,9 +631,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "特朗普承认：悄悄换乘飞机了",
+          "url": "https://wallstreetcn.com/livenews/3148388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "市场消息：美国公民自由联盟（ACLU）及其他法律团体请求美国法官阻止特朗普最新限制“出生公民权”的行动。",
@@ -586,7 +675,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -608,7 +697,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -652,9 +741,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "特朗普回应“空军一号”调包计：特勤局和军方让我换机，我没多问",
+          "url": "https://flash.jin10.com/detail/20260812111839439800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "特朗普：伊朗局势良好，美国控制着霍尔木兹海峡。",
@@ -663,7 +763,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         }
@@ -696,11 +796,34 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357190&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%89%E5%88%A9%E4%B8%AD%E5%9B%BD%2C%E5%A4%96%E7%BD%91%E9%97%B9%E9%BA%BB",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 12时23分]"
+        },
+        {
+          "title": "马斯克推荐“去中国看看”打了谁的脸",
+          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 12时23分]"
+        },
+        {
+          "title": "马斯克押注智能体再出招：“数字同事”Grok Bot上线",
+          "url": "https://www.cls.cn/detail/2451756",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 12时23分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
@@ -713,28 +836,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时02分]"
-        },
-        {
-          "title": "马斯克推荐“去中国看看”打了谁的脸",
-          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
-        },
-        {
-          "title": "马斯克押注智能体再出招：“数字同事”Grok Bot上线",
-          "url": "https://www.cls.cn/detail/2451756",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
         },
         {
           "title": "马斯克母子强推中国游",
@@ -773,7 +874,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
@@ -835,6 +936,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "8月12日午间收评：创业板指半日涨1.73%，算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3148395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
           "title": "美国芝商所与Silicon Data确定10月5日推出算力期货",
           "url": "https://wallstreetcn.com/livenews/3148148",
           "source": "华尔街见闻-快讯",
@@ -874,8 +986,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 10时29分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 12时23分]"
+        },
+        {
+          "title": "【早报】美存储板块，逆势走高；油价上涨、黄金回落；上海印发重磅规划，事关GPU、CPO等",
+          "url": "https://www.cls.cn/detail/2451806",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时00分 ~ 12时23分]"
         },
         {
           "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
@@ -890,18 +1014,6 @@
           "time_info": "[00时01分 ~ 08时01分]"
         },
         {
-          "title": "【早报】美存储板块，逆势走高；油价上涨、黄金回落；上海印发重磅规划，事关GPU、CPO等",
-          "url": "https://www.cls.cn/detail/2451806",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时00分 ~ 10时29分]"
-        },
-        {
           "title": "超微电脑(SMCI.O)CFO：第四季度企业和渠道客户升级计算、存储和网络基础设施的需求有所增长。",
           "url": "https://flash.jin10.com/detail/20260812052938272800",
           "source": "金十数据",
@@ -912,6 +1024,84 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 07时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "创业板指、科创50均涨超1%，沪指涨0.06%，深成指涨0.72%，半导体芯片、算力硬件、创新药、工业母机等方向领涨，沪深京三市上涨个股超3000只。",
+          "url": "https://wallstreetcn.com/livenews/3148350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "沪指缩量调整跌0.8%，医药、机器人逆势大涨，半导体新股IPO首日暴涨740%，恒科指跌近2%",
+          "url": "https://wallstreetcn.com/articles/3779141",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）富时中国A50指数成分股午盘收盘行情一览：银行、保险、证券多数下跌，半导体、通信设备大幅上涨",
+          "url": "https://flash.jin10.com/detail/20260812113604593800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3946.51点，涨0.32%。 深证成指早盘收报14438.07点，涨1.25%。 创业板指早盘收报3610.65点，涨1.73%。 沪深300早盘收报4693.88点，涨0.65%。 科创50早盘收报1745.15点，涨2.09%。 中证500早盘收报8061.69点，涨1.18%。 中证1000早盘收报7803.32点，涨1.37%。",
+          "url": "https://wallstreetcn.com/livenews/3148396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "上证指数开盘报3933.55点，跌0.01%。 深证成指开盘报14253.12点，跌0.04%。 创业板指开盘报3542.13点，跌0.20%。 沪深300开盘报4660.47点，跌0.07%。 科创50开盘报1720.36点，涨0.64%。 中证500开盘报7978.04点，涨0.13%。 中证1000开盘报7704.96点，涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3148330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "国仪量子科创板上市",
+          "url": "https://www.douyin.com/hot/2605496",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         }
       ]
     },
@@ -949,67 +1139,40 @@
           "url": "https://www.cls.cn/detail/2451807",
           "source": "财联社热门",
           "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 12时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中际旭创",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "网传英伟达欲投资中际旭创、新易盛？公司紧急回应",
+          "url": "https://wallstreetcn.com/livenews/3148399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 2,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
         {
-          "title": "创业板指、科创50均涨超1%，沪指涨0.06%，深成指涨0.72%，半导体芯片、算力硬件、创新药、工业母机等方向领涨，沪深京三市上涨个股超3000只。",
-          "url": "https://wallstreetcn.com/livenews/3148350",
-          "source": "华尔街见闻-快讯",
+          "title": "网传英伟达欲投资中际旭创、新易盛？公司紧急回应",
+          "url": "https://flash.jin10.com/detail/20260812113621866800",
+          "source": "金十数据",
           "ranks": [
-            5
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "沪指缩量调整跌0.8%，医药、机器人逆势大涨，半导体新股IPO首日暴涨740%，恒科指跌近2%",
-          "url": "https://wallstreetcn.com/articles/3779141",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上证指数开盘报3933.55点，跌0.01%。 深证成指开盘报14253.12点，跌0.04%。 创业板指开盘报3542.13点，跌0.20%。 沪深300开盘报4660.47点，跌0.07%。 科创50开盘报1720.36点，涨0.64%。 中证500开盘报7978.04点，涨0.13%。 中证1000开盘报7704.96点，涨0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3148330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "国仪量子科创板上市",
-          "url": "https://www.douyin.com/hot/2605496",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "12时23分"
         }
       ]
     }
