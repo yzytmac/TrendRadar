@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T19:04:49.867554+08:00",
-  "total_titles_processed": 1560,
+  "generated_at": "2026-08-12T19:59:05.988130+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -69,6 +69,18 @@
           "time_info": "[00时01分 ~ 12时23分]"
         },
         {
+          "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
+          "url": "https://www.cls.cn/detail/2452324",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 19时59分]"
+        },
+        {
           "title": "A股“股王”，股价重回2200元",
           "url": "https://www.cls.cn/detail/2451978",
           "source": "财联社热门",
@@ -80,18 +92,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时23分 ~ 16时47分]"
-        },
-        {
-          "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
-          "url": "https://www.cls.cn/detail/2452324",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 19时04分]"
         },
         {
           "title": "美股收盘：三大股指收跌 金龙指数跌近3%",
@@ -158,6 +158,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
+          "url": "https://www.cls.cn/detail/2452477",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时04分 ~ 19时59分]"
         },
         {
           "title": "A股食品加工制造板块大幅拉升，安记食品涨停，百合股份此前涨停，好想你、盖世食品、莲花控股、金达威、海欣食品跟涨。",
@@ -359,6 +371,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "文远知行第二季度营收2.317亿元人民币，同比+82%，预估1.707亿元人民币 第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。 第二季度毛利率37.5％，上年同期28.1％。 第二季度研发支出4.343亿元人民币，同比增长36%。 文远知行美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "A股收盘：全市场超4100只个股上涨",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854100%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
           "source": "百度热搜",
@@ -379,17 +402,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
-        },
-        {
-          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
-          "url": "https://www.cls.cn/detail/2452477",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
         },
         {
           "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股盘中）",
@@ -585,7 +597,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -684,7 +696,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -714,7 +726,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -752,8 +764,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时03分 ~ 19时04分]"
+          "appearance_count": 11,
+          "time_info": "[07时03分 ~ 19时59分]"
+        },
+        {
+          "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
+          "url": "https://news.ifeng.com/c/8vX5eliYwTC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 19时59分]"
         },
         {
           "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
@@ -804,6 +827,17 @@
           "time_info": "[06时05分 ~ 08时01分]"
         },
         {
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 19时59分]"
+        },
+        {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
           "url": "https://wallstreetcn.com/livenews/3148157",
           "source": "华尔街见闻-快讯",
@@ -840,6 +874,18 @@
           "time_info": "[06时05分 ~ 07时03分]"
         },
         {
+          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3148574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时59分]"
+        },
+        {
           "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
           "url": "https://flash.jin10.com/detail/20260812050519717800",
           "source": "金十数据",
@@ -858,7 +904,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -907,17 +953,6 @@
           "time_info": "12时23分"
         },
         {
-          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3148574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
           "title": "市场消息：美国公民自由联盟（ACLU）及其他法律团体请求美国法官阻止特朗普最新限制“出生公民权”的行动。",
           "url": "https://flash.jin10.com/detail/20260811224133543800",
           "source": "金十数据",
@@ -935,7 +970,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -971,6 +1006,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "据大西洋月刊：美国财长贝森特曾告诉特朗普，加强制裁可能会迫使伊朗屈服，并声称随着70%的能源运输转移到地下管道，霍尔木兹海峡将在两年内变得无关紧要。",
+          "url": "https://flash.jin10.com/detail/20260812191933612800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "特朗普以安全理由为其在土耳其更换座机一事辩护。",
@@ -1045,7 +1091,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -1064,7 +1110,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
@@ -1079,26 +1125,15 @@
           "time_info": "[00时01分 ~ 08时01分]"
         },
         {
-          "title": "【腾讯控股：第二季度录得负自由现金流人民币138亿元，若剔除算力采购的预付款项，自由现金流为人民币376亿元】第二季，本集团录得负自由现金流人民币138亿元，此乃由于经营活动所产生的现金净额人民币527亿元，被资本开支付款人民币593亿元、媒体内容付款人民币50亿元及租赁负债付款人民币22亿元超额抵销。我们的经营现金流包括大额AI相关预付款项，用于提供基础设施以支持Hy模型升级、WorkBuddy及CodeBuddy推理的需求、微信AI举措，以及我们各项产品与服务的AI能力建设，同时满足外部客户对我们的云服务持续增长的需求。若剔除算力采购的预付款项，我们的自由现金流为人民币376亿元。",
-          "url": "https://wallstreetcn.com/livenews/3148530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
           "title": "腾讯Q2营收同比增长11%超预期，算力采购大幅推高资本开支至527.8亿元，自由现金流转负 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3779275",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时04分 ~ 19时59分]"
         },
         {
           "title": "国产算力基建加速落地！阿里云超节点实例上线 后续拟扩至多地域",
@@ -1109,8 +1144,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 19时04分]"
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 19时59分]"
+        },
+        {
+          "title": "【腾讯控股：第二季度录得负自由现金流人民币138亿元，若剔除算力采购的预付款项，自由现金流为人民币376亿元】第二季，本集团录得负自由现金流人民币138亿元，此乃由于经营活动所产生的现金净额人民币527亿元，被资本开支付款人民币593亿元、媒体内容付款人民币50亿元及租赁负债付款人民币22亿元超额抵销。我们的经营现金流包括大额AI相关预付款项，用于提供基础设施以支持Hy模型升级、WorkBuddy及CodeBuddy推理的需求、微信AI举措，以及我们各项产品与服务的AI能力建设，同时满足外部客户对我们的云服务持续增长的需求。若剔除算力采购的预付款项，我们的自由现金流为人民币376亿元。",
+          "url": "https://wallstreetcn.com/livenews/3148530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "Coreweave(CRWV.O)CFO：预计今年年底公司活跃算力规模将超过1.85吉瓦，高于此前指引的超过1.7吉瓦。",
@@ -1131,11 +1177,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 19时04分]"
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 19时59分]"
+        },
+        {
+          "title": "【每日收评】双创指数均涨超1%，算力硬件股全线反弹，房地产板块异军突起",
+          "url": "https://www.cls.cn/detail/2452399",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时04分 ~ 19时59分]"
         },
         {
           "title": "险资二季度持仓净增1.83亿股，近期积极调研AI算力、医药与硬科技",
@@ -1184,17 +1243,6 @@
           "time_info": "04时10分"
         },
         {
-          "title": "【每日收评】双创指数均涨超1%，算力硬件股全线反弹，房地产板块异军突起",
-          "url": "https://www.cls.cn/detail/2452399",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
           "title": "美国芝商所与Silicon Data确定10月5日推出算力期货",
           "url": "https://wallstreetcn.com/livenews/3148148",
           "source": "华尔街见闻-快讯",
@@ -1204,6 +1252,130 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "AI算力正被包装成一种可融资资产",
+          "url": "https://flash.jin10.com/detail/20260812190728409800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "世界芯片巨头为何突然“抱紧”河南",
+          "url": "https://www.toutiao.com/trending/7672386510922973190/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            29,
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时19分 ~ 08时01分]"
+        },
+        {
+          "title": "量化推波助澜？芯片股的“完美对冲”浮现了！",
+          "url": "https://www.cls.cn/detail/2452001",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时54分 ~ 19时04分]"
+        },
+        {
+          "title": "【数读IPO】今日1申购1上市，涉及蓝牙音频芯片龙头等",
+          "url": "https://www.cls.cn/detail/2451807",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时28分 ~ 15时20分]"
+        },
+        {
+          "title": "芯片热潮推动，日本制造业信心升至3月以来最高",
+          "url": "https://flash.jin10.com/detail/20260812072456202800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "三星电子引入Anthropic Claude，芯片验证从一个月压缩至两天",
+          "url": "https://wallstreetcn.com/livenews/3148608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "韩国政府：将启动7个“种子”项目，涉及核能、量子、航天和生物领域，以确保未来增长引擎。 目标在2035年前实现国产小型模块化核反应堆（SMR）的商业化。 目标在2029年前开发出国产100量子比特量子计算机，并力争在2035年前成为量子芯片制造领域世界第一。 目标在2030年前实现登月。 目标在2035年前实现脑机接口（BCI）产品的商业化。",
+          "url": "https://wallstreetcn.com/livenews/3148420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "韩国政府：计划到2029年自主研发100量子比特的量子计算机，力争到2035年成为量子芯片制造领域的领军者。",
+          "url": "https://flash.jin10.com/detail/20260812133113636800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "创业板指午后涨幅扩大至2%，光纤、光刻机、存储芯片等板块涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3148414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "新思科技宣布实现首个HBM4 IP测试芯片验证",
+          "url": "https://wallstreetcn.com/livenews/3148560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         }
       ]
     },
@@ -1224,8 +1396,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时28分 ~ 19时04分]"
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 19时59分]"
+        },
+        {
+          "title": "马斯克推荐“去中国看看”打了谁的脸",
+          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 19时59分]"
         },
         {
           "title": "马斯克：强烈推荐大家去中国看看",
@@ -1244,17 +1428,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时01分 ~ 10时29分]"
-        },
-        {
-          "title": "马斯克推荐“去中国看看”打了谁的脸",
-          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时28分 ~ 19时04分]"
         },
         {
           "title": "马斯克押注智能体再出招：“数字同事”Grok Bot上线",
@@ -1315,110 +1488,8 @@
       ]
     },
     {
-      "keyword_group": "芯片",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "世界芯片巨头为何突然“抱紧”河南",
-          "url": "https://www.toutiao.com/trending/7672386510922973190/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            29,
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时19分 ~ 08时01分]"
-        },
-        {
-          "title": "量化推波助澜？芯片股的“完美对冲”浮现了！",
-          "url": "https://www.cls.cn/detail/2452001",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 19时04分]"
-        },
-        {
-          "title": "【数读IPO】今日1申购1上市，涉及蓝牙音频芯片龙头等",
-          "url": "https://www.cls.cn/detail/2451807",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时28分 ~ 15时20分]"
-        },
-        {
-          "title": "芯片热潮推动，日本制造业信心升至3月以来最高",
-          "url": "https://flash.jin10.com/detail/20260812072456202800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "韩国政府：将启动7个“种子”项目，涉及核能、量子、航天和生物领域，以确保未来增长引擎。 目标在2035年前实现国产小型模块化核反应堆（SMR）的商业化。 目标在2029年前开发出国产100量子比特量子计算机，并力争在2035年前成为量子芯片制造领域世界第一。 目标在2030年前实现登月。 目标在2035年前实现脑机接口（BCI）产品的商业化。",
-          "url": "https://wallstreetcn.com/livenews/3148420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "韩国政府：计划到2029年自主研发100量子比特的量子计算机，力争到2035年成为量子芯片制造领域的领军者。",
-          "url": "https://flash.jin10.com/detail/20260812133113636800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "创业板指午后涨幅扩大至2%，光纤、光刻机、存储芯片等板块涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3148414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "新思科技宣布实现首个HBM4 IP测试芯片验证",
-          "url": "https://wallstreetcn.com/livenews/3148560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科创",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "上证指数收报3946.68点，涨0.32%。 深证成指收报14414.43点，涨1.09%。 创业板指收报3602.08点，涨1.49%。 沪深300收报4690.92点，涨0.58%。 科创50收报1736.99点，涨1.61%。 中证500收报8045.31点，涨0.98%。 中证1000收报7793.72点，涨1.24%。",
@@ -1439,8 +1510,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 19时04分]"
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 19时59分]"
         },
         {
           "title": "AI科创润童心 网络安全伴成长",
@@ -1450,8 +1521,20 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 19时59分]"
+        },
+        {
+          "title": "宇树科技科创板 IPO 中签率 0.0181%，对比长鑫科技 0.4714%，差距为什么这么大？",
+          "url": "https://www.zhihu.com/question/2070230480356634919",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时20分 ~ 19时04分]"
+          "time_info": "[15时20分 ~ 19时59分]"
         },
         {
           "title": "上证指数早盘收报3946.51点，涨0.32%。 深证成指早盘收报14438.07点，涨1.25%。 创业板指早盘收报3610.65点，涨1.73%。 沪深300早盘收报4693.88点，涨0.65%。 科创50早盘收报1745.15点，涨2.09%。 中证500早盘收报8061.69点，涨1.18%。 中证1000早盘收报7803.32点，涨1.37%。",
@@ -1466,6 +1549,17 @@
           "time_info": "[12时23分 ~ 13时55分]"
         },
         {
+          "title": "年内最贵新股频准激光：科创板IPO发行价格186.88元/股",
+          "url": "https://wallstreetcn.com/livenews/3148601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "上证指数开盘报3933.55点，跌0.01%。 深证成指开盘报14253.12点，跌0.04%。 创业板指开盘报3542.13点，跌0.20%。 沪深300开盘报4660.47点，跌0.07%。 科创50开盘报1720.36点，涨0.64%。 中证500开盘报7978.04点，涨0.13%。 中证1000开盘报7704.96点，涨0.09%。",
           "url": "https://wallstreetcn.com/livenews/3148330",
           "source": "华尔街见闻-快讯",
@@ -1475,17 +1569,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
-        },
-        {
-          "title": "宇树科技科创板 IPO 中签率 0.0181%，对比长鑫科技 0.4714%，差距为什么这么大？",
-          "url": "https://www.zhihu.com/question/2070230480356634919",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
         },
         {
           "title": "国仪量子科创板上市",
@@ -1502,7 +1585,7 @@
     },
     {
       "keyword_group": "存储",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "蓄力下一代DRAM 存储龙头拟提升EUV光刻性能 相移掩模版成关键",
@@ -1576,6 +1659,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 07时03分]"
+        },
+        {
+          "title": "三星、SK海力士股价大涨！淡马锡据悉拟投资 认为存储仍被低估",
+          "url": "https://www.cls.cn/detail/2452409",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 19时59分]"
         }
       ]
     },
@@ -1649,11 +1743,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E9%AA%91%E7%BB%9D%E5%B0%98",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时04分 ~ 19时59分]"
         },
         {
           "title": "上半年中国人形机器人出货量全球占比超97%",
@@ -1673,7 +1768,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         }
@@ -1716,6 +1811,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "宁德时代：拟参与投资海南时代绿色产业投资基金，认缴24.75亿元持有49.50%份额",
+          "url": "https://wallstreetcn.com/livenews/3148606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "宁德时代：拟参与投资海南时代绿色产业投资基金，认缴24.75亿元持有49.50%份额",
+          "url": "https://flash.jin10.com/detail/20260812192413442800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         }
       ]
     },
