@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T15:23:04.309236+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-08-13T16:51:26.127557+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
@@ -21,6 +21,19 @@
           "time_info": "[00时37分 ~ 07时58分]"
         },
         {
+          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
+          "url": "https://www.cls.cn/detail/2452897",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时02分 ~ 16时51分]"
+        },
+        {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
           "url": "https://wallstreetcn.com/articles/3779257",
           "source": "华尔街见闻",
@@ -31,21 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时12分 ~ 15时23分]"
-        },
-        {
-          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
-          "url": "https://www.cls.cn/detail/2452897",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时02分 ~ 15时23分]"
+          "appearance_count": 11,
+          "time_info": "[06时12分 ~ 16时51分]"
         },
         {
           "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
@@ -53,11 +53,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时02分 ~ 15时23分]"
+          "appearance_count": 10,
+          "time_info": "[07时02分 ~ 16时51分]"
         },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
@@ -110,7 +111,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -132,7 +133,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -154,7 +155,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -305,7 +306,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -376,6 +377,17 @@
           "time_info": "13时56分"
         },
         {
+          "title": "李大霄提醒警惕美股泡沫爆破",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E8%AD%A6%E6%83%95%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "A股早盘算力租赁概念继续活跃，城地香江3连板，群兴玩具一字涨停，中鼎股份、行云科技、宏景科技、鸿博股份涨幅靠前。",
           "url": "https://flash.jin10.com/detail/20260813092907710800",
           "source": "金十数据",
@@ -407,6 +419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "港股收评：恒生科技指数午后冲高回落收涨0.33% 腾讯控股绩后承压走弱",
+          "url": "https://flash.jin10.com/detail/20260813162028054800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "A股午评：创业板指高开震荡收涨1.61% 创新药板块探底回升延续强势",
@@ -475,6 +498,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "美股盘前，Coherent跌约4%，Cerebras跌约17%，思科跌约4%",
+          "url": "https://wallstreetcn.com/livenews/3149023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260813003436500800",
           "source": "金十数据",
@@ -525,7 +559,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -544,7 +578,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -619,6 +653,18 @@
           "time_info": "[01时42分 ~ 07时58分]"
         },
         {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时21分 ~ 16时51分]"
+        },
+        {
           "title": "美国白宫：特朗普签署备忘录，授权美国执法部门利用网络工具，打击境外网络犯罪网络。",
           "url": "https://wallstreetcn.com/livenews/3148771",
           "source": "华尔街见闻-快讯",
@@ -630,18 +676,6 @@
           "time_info": "06时12分"
         },
         {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 15时23分]"
-        },
-        {
           "title": "中期选举临近，特朗普资本利得税构想将让最富有人群获益最多",
           "url": "https://wallstreetcn.com/livenews/3148737",
           "source": "华尔街见闻-快讯",
@@ -651,6 +685,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
+          "url": "https://www.cls.cn/detail/2452937",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 16时51分]"
         },
         {
           "title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。",
@@ -675,18 +721,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 07时58分]"
-        },
-        {
-          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
-          "url": "https://www.cls.cn/detail/2452937",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 15时23分]"
         },
         {
           "title": "特朗普“历史性协议”告吹",
@@ -714,6 +748,18 @@
           "time_info": "[05时31分 ~ 07时02分]"
         },
         {
+          "title": "特朗普：我想谋求第三任期，但美国法律太严",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 16时51分]"
+        },
+        {
           "title": "特朗普签署备忘录，针对跨国网络犯罪",
           "url": "https://wallstreetcn.com/livenews/3148771",
           "source": "华尔街见闻-快讯",
@@ -724,17 +770,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 07时58分]"
-        },
-        {
-          "title": "特朗普：我想谋求第三任期，但美国法律太严",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "据Axios：特朗普政府批评以色列国防部长卡茨有关继续占领黎巴嫩南部的言论，并表示相关表态违背了以色列政府与美国及黎巴嫩签署协议中的承诺。",
@@ -797,6 +832,39 @@
           "time_info": "[05时31分 ~ 06时12分]"
         },
         {
+          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "特朗普净支持率跌至历史低点 中期选举压力上升",
+          "url": "https://flash.jin10.com/detail/20260813161727173800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "伊朗：美国国会应调查特朗普资产的增加情况",
           "url": "https://flash.jin10.com/detail/20260812233824579800",
           "source": "金十数据",
@@ -855,7 +923,7 @@
     },
     {
       "keyword_group": "算力",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "腾讯Q2营收同比增长11%超预期，算力采购大幅推高资本开支至527.8亿元，自由现金流转负 | 财报见闻",
@@ -867,8 +935,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 15时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 16时51分]"
         },
         {
           "title": "算力租赁、光通信利好不断 美国7月CPI平稳落地 | 今夜看点",
@@ -894,8 +962,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时42分 ~ 15时23分]"
+          "appearance_count": 17,
+          "time_info": "[01时42分 ~ 16时51分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -1003,6 +1071,17 @@
           "time_info": "13时56分"
         },
         {
+          "title": "贵州：加快5G网络、千兆光网、算力网络建设布局",
+          "url": "https://wallstreetcn.com/livenews/3149018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "上海：依法依规开展算力补贴 支持民营企业租用智算资源进行大模型研发训练和应用",
           "url": "https://wallstreetcn.com/livenews/3148860",
           "source": "华尔街见闻-快讯",
@@ -1012,6 +1091,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？",
+          "url": "https://www.zhihu.com/question/2070073820929419121",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时21分 ~ 16时51分]"
+        },
+        {
+          "title": "英伟达开创芯片融资新纪元！华尔街巨头豪赌金融界铁律失效",
+          "url": "https://flash.jin10.com/detail/20260813162344473800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "摩根士丹利：将人工智能芯片制造商Cerebras Systems的目标价从273美元上调至279美元。",
+          "url": "https://flash.jin10.com/detail/20260813162329873800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "存储芯片巨头长鑫科技成为中国上市公司市值冠军",
+          "url": "https://wallstreetcn.com/livenews/3149034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "CoreWeave新增风险提示：若需从英伟达芯片转向其他芯片将面临困难",
+          "url": "https://wallstreetcn.com/livenews/3148787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "CoreWeave向投资者发出警告，若需从英伟达芯片转向其他芯片将面临困难，可能需要投入大量时间和资金。",
+          "url": "https://flash.jin10.com/detail/20260813071055836800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "联想首席执行官：我们准确预见了内存芯片的供应短缺和成本上涨，并成功应对了这些挑战。<font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260813145244928800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     },
@@ -1026,11 +1190,12 @@
           "ranks": [
             10,
             14,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 15时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 16时51分]"
         },
         {
           "title": "马斯克：Grok4.6在智能程度、运行速度和使用成本方面综合排名第一。",
@@ -1149,6 +1314,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "MSCI公布8月季度审议结果：中国指数新纳入33只标的 华峰测控、富创精密等科创板公司入选",
+          "url": "https://www.cls.cn/detail/2453202",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 16时51分]"
+        },
+        {
           "title": "上证指数早盘收报3963.15点，涨0.42%。 深证成指早盘收报14519.97点，涨0.73%。 创业板指早盘收报3660.25点，涨1.61%。 沪深300早盘收报4714.06点，涨0.49%。 科创50早盘收报1770.03点，涨1.90%。 中证500早盘收报8113.14点，涨0.84%。 中证1000早盘收报7852.15点，涨0.75%。",
           "url": "https://wallstreetcn.com/livenews/3148892",
           "source": "华尔街见闻-快讯",
@@ -1159,17 +1336,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 13时56分]"
-        },
-        {
-          "title": "MSCI公布8月季度审议结果：中国指数新纳入33只标的 华峰测控、富创精密等科创板公司入选",
-          "url": "https://www.cls.cn/detail/2453202",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "中国上证综指8月13日（周四）开盘上涨10.49点，涨幅：0.27%，报3957.16点；<br/>中国深证成指8月13日（周四）开盘上涨122.05点，涨幅：0.85%，报14536.48点；<br/>中国沪深300指数8月13日（周四）开盘上涨26.06点，涨幅：0.56%，报4716.97点；<br/>中国创业板指数8月13日（周四）开盘上涨54.79点，涨幅：1.52%，报3656.88点；<br/>中国科创50指数8月13日（周四）开盘上涨26.47点，涨幅：1.52%，报1763.46点。",
@@ -1192,57 +1358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？",
-          "url": "https://www.zhihu.com/question/2070073820929419121",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 15时23分]"
-        },
-        {
-          "title": "CoreWeave新增风险提示：若需从英伟达芯片转向其他芯片将面临困难",
-          "url": "https://wallstreetcn.com/livenews/3148787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "CoreWeave向投资者发出警告，若需从英伟达芯片转向其他芯片将面临困难，可能需要投入大量时间和资金。",
-          "url": "https://flash.jin10.com/detail/20260813071055836800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "联想首席执行官：我们准确预见了内存芯片的供应短缺和成本上涨，并成功应对了这些挑战。<font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260813145244928800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
         }
       ]
     },
@@ -1286,6 +1401,34 @@
       ]
     },
     {
+      "keyword_group": "中芯国际",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中芯国际：预计第三季度季度收入环比增长2%至4%，毛利率介于26%至28%的范围内。",
+          "url": "https://wallstreetcn.com/livenews/3149050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "中芯国际：第二季的销售收入为30.06亿美元，上年同期为22.09亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3149048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储",
       "match_count": 1,
       "titles": [
@@ -1301,6 +1444,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时37分 ~ 07时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中际旭创",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网传英伟达欲投资中际旭创新易盛",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%AC%B2%E6%8A%95%E8%B5%84%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B%E6%96%B0%E6%98%93%E7%9B%9B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         }
       ]
     }
