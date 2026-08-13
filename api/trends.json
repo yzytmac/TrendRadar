@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T07:03:06.180072+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-08-14T07:59:08.867560+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时59分]"
         },
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时59分]"
         },
         {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时59分]"
         },
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -54,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时59分]"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -229,6 +229,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "最高100%关税！特朗普突然对无人机下狠手，俄乌冲突让美国警醒",
+          "url": "https://flash.jin10.com/detail/20260814071926003800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
           "title": "白宫：美国总统特朗普将对英国输美无人机加征10%从价关税。",
           "url": "https://flash.jin10.com/detail/20260814052728079800",
           "source": "金十数据",
@@ -279,7 +290,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -301,9 +312,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "美媒：肯尼迪中心决定将特朗普名字印在大楼外墙上",
+          "url": "https://flash.jin10.com/detail/20260814065155550800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -342,7 +364,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -373,11 +395,24 @@
           "url": "https://wallstreetcn.com/articles/3779335",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时59分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 07时59分]"
         },
         {
           "title": "金十图示：2026年08月13日（周四）热门中概股行情一览（美股收盘）",
@@ -439,17 +474,6 @@
           "time_info": "[04时26分 ~ 05时14分]"
         },
         {
-          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
-          "url": "https://www.cls.cn/detail/2453979",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 07时03分]"
-        },
-        {
           "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
           "url": "https://wallstreetcn.com/livenews/3149311",
           "source": "华尔街见闻-快讯",
@@ -471,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "“科技成长+周期修复”驱动，A股龙头公司半年报亮眼",
+          "url": "https://wallstreetcn.com/livenews/3149347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "A股直线跳水原因",
@@ -519,6 +554,67 @@
       ]
     },
     {
+      "keyword_group": "芯片",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "中国两大芯片巨头业绩超预期",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%A4%E5%A4%A7%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E4%B8%9A%E7%BB%A9%E8%B6%85%E9%A2%84%E6%9C%9F%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "人工智能芯片制造商Cerebras：对AMD联合产品的需求巨大。",
+          "url": "https://flash.jin10.com/detail/20260813235516723800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "人工智能芯片制造商Cerebras：业务将以卓越的速度增长。",
+          "url": "https://flash.jin10.com/detail/20260813235012843800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "人工智能芯片制造商Cerebras：数据中心对所有人都是挑战。",
+          "url": "https://flash.jin10.com/detail/20260813235006266800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "市场消息：闪迪高管称公司预计明年向客户交付首批用于推理设备的HBF样品，公司已完成首款高带宽闪存芯片的流片。",
+          "url": "https://flash.jin10.com/detail/20260813234300494800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 4,
       "titles": [
@@ -527,11 +623,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%80%E5%8F%A5%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%A4%AA%E6%A3%92%E4%BA%86%E2%80%9D%E5%88%B7%E5%B1%8F%E6%B5%B7%E5%A4%96",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时59分]"
         },
         {
           "title": "马斯克安利中国,外网闹麻",
@@ -542,8 +639,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时59分]"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，截至6月30日马斯克持有48.4%的SpaceX(SPCX.O)被动股份。",
@@ -596,19 +693,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时59分]"
         },
         {
           "title": "AI驱动半导体景气度高涨，两大晶圆厂第二季度收入均创新高",
           "url": "https://wallstreetcn.com/livenews/3149345",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 07时59分]"
         },
         {
           "title": "截至8月13日，已有30余家北交所上市公司披露2026年半年报，企业成长成色初现。总体来看，已披露半年报的公司业绩表现抢眼，约三分之一企业上半年归母净利润同比增长超80%。算力服务、新能源、半导体等高景气赛道成为拉动业绩增长的核心引擎，凸显北交所“专精特新”企业的成长活力。（经济参考报）",
@@ -625,56 +723,6 @@
       ]
     },
     {
-      "keyword_group": "芯片",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "人工智能芯片制造商Cerebras：对AMD联合产品的需求巨大。",
-          "url": "https://flash.jin10.com/detail/20260813235516723800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "人工智能芯片制造商Cerebras：业务将以卓越的速度增长。",
-          "url": "https://flash.jin10.com/detail/20260813235012843800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "人工智能芯片制造商Cerebras：数据中心对所有人都是挑战。",
-          "url": "https://flash.jin10.com/detail/20260813235006266800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "市场消息：闪迪高管称公司预计明年向客户交付首批用于推理设备的HBF样品，公司已完成首款高带宽闪存芯片的流片。",
-          "url": "https://flash.jin10.com/detail/20260813234300494800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科创",
       "match_count": 2,
       "titles": [
@@ -687,8 +735,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时59分]"
         },
         {
           "title": "MSCI公布8月季度审议结果：中国指数新纳入33只标的 华峰测控、富创精密等科创板公司入选",
@@ -704,6 +752,34 @@
       ]
     },
     {
+      "keyword_group": "存储",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美PPI数据再缓加息压力，标普新高，美存储股大涨，闪迪飙涨近14%，原油结束连涨",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行",
+          "url": "https://www.cls.cn/detail/2454005",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "中芯国际",
       "match_count": 2,
       "titles": [
@@ -715,8 +791,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时59分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -724,11 +800,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时59分]"
         }
       ]
     }
