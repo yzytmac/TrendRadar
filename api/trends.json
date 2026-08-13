@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T13:56:05.280747+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-08-13T15:23:04.309236+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 40,
+      "match_count": 47,
       "titles": [
         {
           "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时12分 ~ 13时56分]"
+          "appearance_count": 10,
+          "time_info": "[06时12分 ~ 15时23分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时02分 ~ 13时56分]"
+          "appearance_count": 9,
+          "time_info": "[07时02分 ~ 15时23分]"
         },
         {
           "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
@@ -56,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时02分 ~ 13时56分]"
+          "appearance_count": 9,
+          "time_info": "[07时02分 ~ 15时23分]"
         },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
@@ -82,17 +82,6 @@
           "time_info": "10时02分"
         },
         {
-          "title": "A股电力股再度拉升，大唐发电、梅雁吉祥双双涨停。",
-          "url": "https://wallstreetcn.com/livenews/3148943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
           "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
           "url": "https://www.cls.cn/detail/2452324",
           "source": "财联社热门",
@@ -115,6 +104,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "A股三大指数尾盘集体翻绿，贵金属、教育、光伏设备、房地产等板块跌幅居前，沪深京三市下跌个股超4300只。",
+          "url": "https://wallstreetcn.com/livenews/3148987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "A股石油天然气板块延续弱势，广聚能源跌超3%，ST洲际、蓝焰控股、泰山石油等跟跌。",
           "url": "https://flash.jin10.com/detail/20260813094033580800",
           "source": "金十数据",
@@ -124,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "A股教育板块持续走低，传智教育触及跌停，学大教育、昂立教育、华图山鼎、凯文教育、中公教育跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3148984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "A股绿电概念盘初震荡走强，金开新能、同力天启双双涨停，晶科科技、华电能源、豫能控股、粤电力A跟涨。",
@@ -137,6 +148,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "A股三大股指集体回落，沪指、深证成指转跌，创业板指涨幅收窄至0.58%。",
+          "url": "https://wallstreetcn.com/livenews/3148982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "A股电子化学品板块短线拉升，海星股份涨停，方邦股份、天通股份、瑞联新材、三孚新科、中船特气等纷纷走高。",
           "url": "https://flash.jin10.com/detail/20260813093706075800",
           "source": "金十数据",
@@ -146,6 +168,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "A股电力股再度拉升，大唐发电、梅雁吉祥双双涨停。",
+          "url": "https://wallstreetcn.com/livenews/3148943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 15时23分]"
         },
         {
           "title": "分红、回购、增持常态化推进，A股公司以实际行动稳市场强信心",
@@ -184,6 +218,17 @@
           "time_info": "[05时31分 ~ 07时02分]"
         },
         {
+          "title": "A股三大指数冲高回落集体收绿",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%86%B2%E9%AB%98%E5%9B%9E%E8%90%BD%E9%9B%86%E4%BD%93%E6%94%B6%E7%BB%BF",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
           "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
           "url": "https://wallstreetcn.com/livenews/3148701",
           "source": "华尔街见闻-快讯",
@@ -194,6 +239,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时43分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "美股AI算力和存储芯片爆发",
@@ -243,6 +299,17 @@
           "time_info": "[05时31分 ~ 06时12分]"
         },
         {
+          "title": "A股贵金属板块震荡走低，晓程科技跌近9%，招金黄金跌超7%，湖南白银、兴业银锡、山东黄金、赤峰黄金跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3148978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "A股创新药板块盘初走弱，百花医药跌近5%，甘李药业跌超4%，浙江医药、博瑞医药等跟跌。",
           "url": "https://flash.jin10.com/detail/20260813093311913800",
           "source": "金十数据",
@@ -260,7 +327,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -282,7 +349,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -293,7 +360,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -304,7 +371,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -436,7 +503,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -450,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "联想集团港股涨21%，报35.32港元。",
+          "url": "https://wallstreetcn.com/livenews/3148948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-08-13）",
@@ -466,7 +544,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -552,6 +630,18 @@
           "time_info": "06时12分"
         },
         {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 15时23分]"
+        },
+        {
           "title": "中期选举临近，特朗普资本利得税构想将让最富有人群获益最多",
           "url": "https://wallstreetcn.com/livenews/3148737",
           "source": "华尔街见闻-快讯",
@@ -587,6 +677,18 @@
           "time_info": "[07时02分 ~ 07时58分]"
         },
         {
+          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
+          "url": "https://www.cls.cn/detail/2452937",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 15时23分]"
+        },
+        {
           "title": "特朗普“历史性协议”告吹",
           "url": "https://www.toutiao.com/trending/7673096246801747492/",
           "source": "今日头条",
@@ -597,17 +699,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时30分 ~ 07时58分]"
-        },
-        {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 13时56分]"
         },
         {
           "title": "“特朗普消息付费抢先看”服务引发交易机构抵制",
@@ -623,17 +714,6 @@
           "time_info": "[05时31分 ~ 07时02分]"
         },
         {
-          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
-          "url": "https://www.cls.cn/detail/2452937",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
           "title": "特朗普签署备忘录，针对跨国网络犯罪",
           "url": "https://wallstreetcn.com/livenews/3148771",
           "source": "华尔街见闻-快讯",
@@ -644,6 +724,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 07时58分]"
+        },
+        {
+          "title": "特朗普：我想谋求第三任期，但美国法律太严",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "据Axios：特朗普政府批评以色列国防部长卡茨有关继续占领黎巴嫩南部的言论，并表示相关表态违背了以色列政府与美国及黎巴嫩签署协议中的承诺。",
@@ -745,7 +836,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -776,8 +867,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 13时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 15时23分]"
         },
         {
           "title": "算力租赁、光通信利好不断 美国7月CPI平稳落地 | 今夜看点",
@@ -803,8 +894,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时42分 ~ 13时56分]"
+          "appearance_count": 16,
+          "time_info": "[01时42分 ~ 15时23分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -851,7 +942,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -862,7 +953,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -873,7 +964,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -884,7 +975,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -907,7 +998,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -934,11 +1025,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 13时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 15时23分]"
         },
         {
           "title": "马斯克：Grok4.6在智能程度、运行速度和使用成本方面综合排名第一。",
@@ -1054,7 +1146,7 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "上证指数早盘收报3963.15点，涨0.42%。 深证成指早盘收报14519.97点，涨0.73%。 创业板指早盘收报3660.25点，涨1.61%。 沪深300早盘收报4714.06点，涨0.49%。 科创50早盘收报1770.03点，涨1.90%。 中证500早盘收报8113.14点，涨0.84%。 中证1000早盘收报7852.15点，涨0.75%。",
@@ -1067,6 +1159,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 13时56分]"
+        },
+        {
+          "title": "MSCI公布8月季度审议结果：中国指数新纳入33只标的 华峰测控、富创精密等科创板公司入选",
+          "url": "https://www.cls.cn/detail/2453202",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "中国上证综指8月13日（周四）开盘上涨10.49点，涨幅：0.27%，报3957.16点；<br/>中国深证成指8月13日（周四）开盘上涨122.05点，涨幅：0.85%，报14536.48点；<br/>中国沪深300指数8月13日（周四）开盘上涨26.06点，涨幅：0.56%，报4716.97点；<br/>中国创业板指数8月13日（周四）开盘上涨54.79点，涨幅：1.52%，报3656.88点；<br/>中国科创50指数8月13日（周四）开盘上涨26.47点，涨幅：1.52%，报1763.46点。",
@@ -1094,18 +1197,19 @@
     },
     {
       "keyword_group": "芯片",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？",
           "url": "https://www.zhihu.com/question/2070073820929419121",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 15时23分]"
         },
         {
           "title": "CoreWeave新增风险提示：若需从英伟达芯片转向其他芯片将面临困难",
@@ -1128,6 +1232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "联想首席执行官：我们准确预见了内存芯片的供应短缺和成本上涨，并成功应对了这些挑战。<font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260813145244928800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     },
