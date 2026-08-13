@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-13T19:11:28.023621+08:00",
-  "total_titles_processed": 1492,
-  "failed_sources": [],
+  "generated_at": "2026-08-13T20:01:46.466002+08:00",
+  "total_titles_processed": 1577,
+  "failed_sources": [
+    "thepaper"
+  ],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 57,
+      "match_count": 64,
       "titles": [
         {
           "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
@@ -45,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时12分 ~ 19时11分]"
+          "appearance_count": 14,
+          "time_info": "[06时12分 ~ 20时01分]"
         },
         {
           "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
@@ -84,6 +86,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "英国央行料AI泡沫破裂恐使资金同时撤出美股美债 对英国产生连带冲击",
+          "url": "https://wallstreetcn.com/livenews/3149151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时01分"
+        },
+        {
           "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
           "url": "https://www.cls.cn/detail/2452324",
           "source": "财联社热门",
@@ -104,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "英国央行：AI泡沫破裂或使资金同时撤出美股美债 并对英国产生冲击",
+          "url": "https://flash.jin10.com/detail/20260813195222740800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时01分"
         },
         {
           "title": "A股三大指数尾盘集体翻绿，贵金属、教育、光伏设备、房地产等板块跌幅居前，沪深京三市下跌个股超4300只。",
@@ -145,7 +169,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -172,6 +196,18 @@
           "time_info": "15时23分"
         },
         {
+          "title": "郭一鸣：A股尾盘为何突然跳水杀跌",
+          "url": "https://www.toutiao.com/trending/7673428562422009386/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时01分]"
+        },
+        {
           "title": "A股电子化学品板块短线拉升，海星股份涨停，方邦股份、天通股份、瑞联新材、三孚新科、中船特气等纷纷走高。",
           "url": "https://flash.jin10.com/detail/20260813093706075800",
           "source": "金十数据",
@@ -181,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "市场消息：英国央行估计，AI泡沫破裂将可能使资金同时撤出美股美债，对英国产生连带冲击。",
+          "url": "https://flash.jin10.com/detail/20260813195006068800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时01分"
         },
         {
           "title": "A股电力股再度拉升，大唐发电、梅雁吉祥双双涨停。",
@@ -218,6 +265,17 @@
           "time_info": "[00时37分 ~ 02时37分]"
         },
         {
+          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
+          "url": "https://wallstreetcn.com/articles/3779335",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时01分]"
+        },
+        {
           "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
           "url": "https://wallstreetcn.com/livenews/3148756",
           "source": "华尔街见闻-快讯",
@@ -231,6 +289,41 @@
           "time_info": "[05时31分 ~ 07时02分]"
         },
         {
+          "title": "A股尾盘突发跳水 发生了什么",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E5%B0%BE%E7%9B%98%E7%AA%81%E5%8F%91%E8%B7%B3%E6%B0%B4%20%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时01分]"
+        },
+        {
+          "title": "保险科技公司Accelerant美股盘前涨超45%，报道称该公司将被软件投资机构Thoma Bravo以每股20.25美元的价格私有化。",
+          "url": "https://wallstreetcn.com/livenews/3149117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时01分]"
+        },
+        {
+          "title": "专家：A股为何早盘冲高午后跳水翻绿",
+          "url": "https://www.toutiao.com/trending/7673455893605780998/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时00分 ~ 20时01分]"
+        },
+        {
           "title": "A股三大指数冲高回落集体收绿",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%86%B2%E9%AB%98%E5%9B%9E%E8%90%BD%E9%9B%86%E4%BD%93%E6%94%B6%E7%BB%BF",
           "source": "百度热搜",
@@ -240,6 +333,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
+          "title": "美温和通胀缓解加息压力，美股期指涨跌互现，光通信、存储芯片股盘前下跌，金油齐跌",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时00分 ~ 20时01分]"
+        },
+        {
+          "title": "京东美股盘前跌幅扩大至逾3%。",
+          "url": "https://wallstreetcn.com/livenews/3149113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时01分]"
         },
         {
           "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
@@ -334,39 +450,6 @@
           "time_info": "10时02分"
         },
         {
-          "title": "保险科技公司Accelerant美股盘前涨超45%，报道称该公司将被软件投资机构Thoma Bravo以每股20.25美元的价格私有化。",
-          "url": "https://wallstreetcn.com/livenews/3149117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "郭一鸣：A股尾盘为何突然跳水杀跌",
-          "url": "https://www.toutiao.com/trending/7673428562422009386/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
-          "url": "https://wallstreetcn.com/articles/3779335",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
           "title": "A股电网设备板块短线拉升，望变电气涨停，良信股份此前涨停，煜邦电力、华盛昌、金盘科技、长城科技、明阳电气跟涨。",
           "url": "https://flash.jin10.com/detail/20260813133651759800",
           "source": "金十数据",
@@ -420,17 +503,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
-        },
-        {
-          "title": "京东美股盘前跌幅扩大至逾3%。",
-          "url": "https://wallstreetcn.com/livenews/3149113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
         },
         {
           "title": "李大霄提醒警惕美股泡沫爆破",
@@ -521,6 +593,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "Tapestry美股盘前跌超10%，公司此前公布了第四财季财报。",
+          "url": "https://wallstreetcn.com/livenews/3149131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时01分"
+        },
+        {
           "title": "A股通信设备板块高开，移远通信涨停，通鼎互联逼近涨停，广和通、星网锐捷、永鼎股份纷纷高开。",
           "url": "https://flash.jin10.com/detail/20260813092739729800",
           "source": "金十数据",
@@ -571,7 +654,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -585,17 +668,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        },
-        {
-          "title": "A股尾盘突发跳水 发生了什么",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E5%B0%BE%E7%9B%98%E7%AA%81%E5%8F%91%E8%B7%B3%E6%B0%B4%20%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
         },
         {
           "title": "港股开盘，恒指开跌0.6%，科指开跌0.29%，腾讯控股(00700.HK)绩后开跌3.29%。",
@@ -618,6 +690,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "Tapestry第四财季净销售额18.8亿美元，预期18.7亿美元。 第四财季调整后每股收益1.32美元，预期1.27美元。 第四财季调整后营业利润3.62亿美元，同比增长25%。 Tapestry预计2027财年调整后每股收益为7.80至7.90美元，市场预期7.87美元。 Tapestry美股盘前跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3149125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时01分"
         },
         {
           "title": "A股CPO概念股持续拉升，天孚通信、德科立涨超10%，共进股份此前涨停，炬光科技、华懋科技、东山精密、锐捷网络涨超5%。",
@@ -737,11 +820,23 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 19时11分]"
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 20时00分]"
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时01分]"
         },
         {
           "title": "美国白宫：特朗普签署备忘录，授权美国执法部门利用网络工具，打击境外网络犯罪网络。",
@@ -755,15 +850,17 @@
           "time_info": "06时12分"
         },
         {
-          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
-          "url": "https://news.ifeng.com/c/8vYj1925EKl",
-          "source": "凤凰网",
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
           "ranks": [
-            5
+            10,
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 20时01分]"
         },
         {
           "title": "中期选举临近，特朗普资本利得税构想将让最富有人群获益最多",
@@ -787,6 +884,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时55分 ~ 16时51分]"
+        },
+        {
+          "title": "特朗普：我想谋求第三任期，但美国法律太严",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 20时00分]"
+        },
+        {
+          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 20时01分]"
         },
         {
           "title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。",
@@ -813,31 +935,6 @@
           "time_info": "[07时02分 ~ 07时58分]"
         },
         {
-          "title": "美新闻机构起诉特朗普",
-          "url": "https://www.douyin.com/hot/2607917",
-          "source": "抖音",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 19时11分]"
-        },
-        {
-          "title": "特朗普：我想谋求第三任期，但美国法律太严",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 19时11分]"
-        },
-        {
           "title": "特朗普“历史性协议”告吹",
           "url": "https://www.toutiao.com/trending/7673096246801747492/",
           "source": "今日头条",
@@ -861,17 +958,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 19时11分]"
         },
         {
           "title": "特朗普签署备忘录，针对跨国网络犯罪",
@@ -974,7 +1060,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -1066,8 +1152,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时42分 ~ 19时11分]"
+          "appearance_count": 20,
+          "time_info": "[01时42分 ~ 20时01分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -1152,6 +1238,17 @@
           "time_info": "13时56分"
         },
         {
+          "title": "股价飙升34%！算力租赁商Nebius Q2云收入暴增514% 点燃AI基建板块",
+          "url": "https://www.cls.cn/detail/2453081",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时01分]"
+        },
+        {
           "title": "8月13日午间收评：创业板指半日涨1.61%，医药、算力概念股集体走强",
           "url": "https://wallstreetcn.com/livenews/3148891",
           "source": "华尔街见闻-快讯",
@@ -1162,17 +1259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 13时56分]"
-        },
-        {
-          "title": "股价飙升34%！算力租赁商Nebius Q2云收入暴增514% 点燃AI基建板块",
-          "url": "https://www.cls.cn/detail/2453081",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
         },
         {
           "title": "2026绿色算力（人工智能）大会将于8月22日举行",
@@ -1222,11 +1308,12 @@
             14,
             16,
             20,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时37分 ~ 19时11分]"
+          "appearance_count": 21,
+          "time_info": "[00时37分 ~ 20时01分]"
         },
         {
           "title": "马斯克：Grok4.6在智能程度、运行速度和使用成本方面综合排名第一。",
@@ -1252,6 +1339,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时37分]"
+        },
+        {
+          "title": "梁文锋、马斯克同日上新",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E3%80%81%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%8C%E6%97%A5%E4%B8%8A%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时01分]"
         },
         {
           "title": "马斯克最新讲话：五年后AI占SpaceX价值99%，我们必须取得AI的胜利！",
@@ -1285,17 +1384,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
-        {
-          "title": "梁文锋、马斯克同日上新",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E3%80%81%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%8C%E6%97%A5%E4%B8%8A%E6%96%B0",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
         }
       ]
     },
@@ -1315,6 +1403,29 @@
           "time_info": "10时02分"
         },
         {
+          "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
+          "url": "https://www.cls.cn/detail/2453364",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时01分]"
+        },
+        {
+          "title": "AI重构半导体产业？韩国双雄积极导入AI 研发、设备甚至KPI都要改",
+          "url": "https://www.cls.cn/detail/2453126",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时01分]"
+        },
+        {
           "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3148753",
           "source": "华尔街见闻-快讯",
@@ -1326,28 +1437,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时02分]"
-        },
-        {
-          "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
-          "url": "https://www.cls.cn/detail/2453364",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "AI重构半导体产业？韩国双雄积极导入AI 研发、设备甚至KPI都要改",
-          "url": "https://www.cls.cn/detail/2453126",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
         },
         {
           "title": "金十图示：2026年08月13日（周四）富时中国A50指数成分股午盘收盘行情一览：银行股涨跌互现，证券、半导体、通信设备悉数走高",
@@ -1378,7 +1467,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         }
@@ -1395,11 +1484,12 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 19时11分]"
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 20时01分]"
         },
         {
           "title": "英伟达开创芯片融资新纪元！华尔街巨头豪赌金融界铁律失效",
@@ -1471,7 +1561,7 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "MSCI公布8月季度审议结果：中国指数新纳入33只标的 华峰测控、富创精密等科创板公司入选",
@@ -1483,8 +1573,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 19时11分]"
+          "appearance_count": 6,
+          "time_info": "[15时22分 ~ 20时01分]"
+        },
+        {
+          "title": "【焦点复盘】科创50高开低走跌超1%，两市成交额放大近4000亿，电力板块午后逆势拉升",
+          "url": "https://www.cls.cn/detail/2453548",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时01分]"
         },
         {
           "title": "上证指数早盘收报3963.15点，涨0.42%。 深证成指早盘收报14519.97点，涨0.73%。 创业板指早盘收报3660.25点，涨1.61%。 沪深300早盘收报4714.06点，涨0.49%。 科创50早盘收报1770.03点，涨1.90%。 中证500早盘收报8113.14点，涨0.84%。 中证1000早盘收报7852.15点，涨0.75%。",
@@ -1499,15 +1601,15 @@
           "time_info": "[12时21分 ~ 13时56分]"
         },
         {
-          "title": "【焦点复盘】科创50高开低走跌超1%，两市成交额放大近4000亿，电力板块午后逆势拉升",
-          "url": "https://www.cls.cn/detail/2453548",
-          "source": "财联社热门",
+          "title": "据上交所官网显示，加特兰微电子科技（上海）股份有限公司科创板IPO审核状态变更为“已受理”。",
+          "url": "https://flash.jin10.com/detail/20260813194856142800",
+          "source": "金十数据",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时01分"
         },
         {
           "title": "中国上证综指8月13日（周四）开盘上涨10.49点，涨幅：0.27%，报3957.16点；<br/>中国深证成指8月13日（周四）开盘上涨122.05点，涨幅：0.85%，报14536.48点；<br/>中国沪深300指数8月13日（周四）开盘上涨26.06点，涨幅：0.56%，报4716.97点；<br/>中国创业板指数8月13日（周四）开盘上涨54.79点，涨幅：1.52%，报3656.88点；<br/>中国科创50指数8月13日（周四）开盘上涨26.47点，涨幅：1.52%，报1763.46点。",
@@ -1573,6 +1675,36 @@
       ]
     },
     {
+      "keyword_group": "存储",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "三星、SK海力士股价大涨！淡马锡据悉拟投资 认为存储仍被低估",
+          "url": "https://www.cls.cn/detail/2452409",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时58分]"
+        },
+        {
+          "title": "高毅资产大举加仓存储龙头",
+          "url": "https://wallstreetcn.com/livenews/3149134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中芯国际",
       "match_count": 2,
       "titles": [
@@ -1609,11 +1741,12 @@
           "url": "https://wallstreetcn.com/livenews/3149124",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时01分]"
         },
         {
           "title": "海光信息：2026年上半年净利润17.98亿元 同比增49.69%",
@@ -1622,28 +1755,37 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         }
       ]
     },
     {
-      "keyword_group": "存储",
-      "match_count": 1,
+      "keyword_group": "中科曙光",
+      "match_count": 2,
       "titles": [
         {
-          "title": "三星、SK海力士股价大涨！淡马锡据悉拟投资 认为存储仍被低估",
-          "url": "https://www.cls.cn/detail/2452409",
-          "source": "财联社热门",
+          "title": "中科曙光：2026年上半年净利润9.78亿元，同比增长34.19%",
+          "url": "https://flash.jin10.com/detail/20260813190338331800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            10,
-            13
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时58分]"
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "中科曙光：2026年上半年净利润9.78亿元，同比增长34.19%",
+          "url": "https://wallstreetcn.com/livenews/3149136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时01分"
         }
       ]
     },
@@ -1661,23 +1803,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中科曙光",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中科曙光：2026年上半年净利润9.78亿元，同比增长34.19%",
-          "url": "https://flash.jin10.com/detail/20260813190338331800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
         }
       ]
     }
