@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T21:23:21.533183+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2026-08-13T23:41:22.890787+08:00",
+  "total_titles_processed": 1851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 66,
+      "match_count": 70,
       "titles": [
         {
           "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
@@ -33,8 +33,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时12分 ~ 21时23分]"
+          "appearance_count": 16,
+          "time_info": "[06时12分 ~ 23时41分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -197,6 +197,29 @@
           "time_info": "15时23分"
         },
         {
+          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
+          "url": "https://wallstreetcn.com/articles/3779335",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 23时41分]"
+        },
+        {
+          "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "A股电子化学品板块短线拉升，海星股份涨停，方邦股份、天通股份、瑞联新材、三孚新科、中船特气等纷纷走高。",
           "url": "https://flash.jin10.com/detail/20260813093706075800",
           "source": "金十数据",
@@ -217,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
+        },
+        {
+          "title": "美股存储芯片股大涨，闪迪涨逾15%",
+          "url": "https://wallstreetcn.com/livenews/3149233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "A股电力股再度拉升，大唐发电、梅雁吉祥双双涨停。",
@@ -243,18 +277,6 @@
           "time_info": "[20时01分 ~ 21时23分]"
         },
         {
-          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
-          "url": "https://wallstreetcn.com/articles/3779335",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 21时23分]"
-        },
-        {
           "title": "分红、回购、增持常态化推进，A股公司以实际行动稳市场强信心",
           "url": "https://wallstreetcn.com/livenews/3148781",
           "source": "华尔街见闻-快讯",
@@ -267,6 +289,19 @@
           "time_info": "[07时02分 ~ 07时58分]"
         },
         {
+          "title": "专家：A股为何早盘冲高午后跳水翻绿",
+          "url": "https://www.toutiao.com/trending/7673455893605780998/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时00分 ~ 23时41分]"
+        },
+        {
           "title": "美股三大指数集体高开",
           "url": "https://www.douyin.com/hot/2607617",
           "source": "抖音",
@@ -276,18 +311,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时37分 ~ 02时37分]"
-        },
-        {
-          "title": "专家：A股为何早盘冲高午后跳水翻绿",
-          "url": "https://www.toutiao.com/trending/7673455893605780998/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时00分 ~ 21时23分]"
         },
         {
           "title": "美温和通胀缓解加息压力，美股期指涨跌互现，光通信、存储芯片股盘前下跌，金油齐跌",
@@ -454,6 +477,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "美股三大指数开盘上涨",
+          "url": "https://www.douyin.com/hot/2608893",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "A股电网设备板块短线拉升，望变电气涨停，良信股份此前涨停，煜邦电力、华盛昌、金盘科技、长城科技、明阳电气跟涨。",
           "url": "https://flash.jin10.com/detail/20260813133651759800",
           "source": "金十数据",
@@ -493,7 +527,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -570,7 +604,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -696,6 +730,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "A股直线跳水原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "港股开盘，恒指开跌0.6%，科指开跌0.29%，腾讯控股(00700.HK)绩后开跌3.29%。",
           "url": "https://flash.jin10.com/detail/20260813092059386800",
           "source": "金十数据",
@@ -765,7 +810,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -790,8 +835,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时21分 ~ 21时23分]"
+          "appearance_count": 10,
+          "time_info": "[12时21分 ~ 23时41分]"
         },
         {
           "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
@@ -863,8 +908,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时51分 ~ 23时41分]"
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时51分 ~ 21时23分]"
+          "time_info": "[19时11分 ~ 23时41分]"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -880,27 +937,26 @@
           "time_info": "[16时51分 ~ 21时23分]"
         },
         {
-          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
-          "url": "https://news.ifeng.com/c/8vYj1925EKl",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 21时23分]"
-        },
-        {
           "title": "伊学者：特朗普正酝酿大规模打击，欲为“不败”找台阶",
           "url": "https://flash.jin10.com/detail/20260813211235613800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
+        },
+        {
+          "title": "美国法官驳回特朗普政府指控哈佛大学未能保护犹太学生的诉讼。",
+          "url": "https://flash.jin10.com/detail/20260813233504432800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "美国白宫：特朗普签署备忘录，授权美国执法部门利用网络工具，打击境外网络犯罪网络。",
@@ -912,6 +968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
+          "url": "https://news.ifeng.com/c/8vYQf5wseR7",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "中期选举临近，特朗普资本利得税构想将让最富有人群获益最多",
@@ -1070,6 +1137,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时12分]"
+        },
+        {
+          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
+          "url": "https://www.cls.cn/detail/2453615",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "特朗普净支持率跌至历史低点 中期选举压力上升",
@@ -1320,7 +1398,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -1350,7 +1428,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
@@ -1358,11 +1436,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 21时23分]"
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 23时41分]"
         },
         {
           "title": "创业板指、科创50均涨超2%，沪指涨0.45%，深成指涨1.08%，算力租赁、CPO、半导体、PCB等方向涨幅居前，沪深京三市上涨个股超2200只。",
@@ -1382,7 +1461,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -1415,11 +1494,12 @@
           "url": "https://www.cls.cn/detail/2453791",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 23时41分]"
         },
         {
           "title": "金十图示：2026年08月13日（周四）富时中国A50指数成分股午盘收盘行情一览：银行股涨跌互现，证券、半导体、通信设备悉数走高",
@@ -1431,6 +1511,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "费城半导体指数涨超2%，超微电脑涨超10%，英特尔涨近5%，美光科技涨超4%，闪迪涨近6%。",
+          "url": "https://wallstreetcn.com/livenews/3149221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "臻宝科技落子光谷 拟5.2亿元投建半导体零部件研发生产基地项目",
@@ -1453,6 +1544,122 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "马斯克安利中国,外网闹麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357190&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%89%E5%88%A9%E4%B8%AD%E5%9B%BD%2C%E5%A4%96%E7%BD%91%E9%97%B9%E9%BA%BB",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            14,
+            16,
+            20,
+            25,
+            26,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时37分 ~ 23时41分]"
+        },
+        {
+          "title": "马斯克：Grok4.6在智能程度、运行速度和使用成本方面综合排名第一。",
+          "url": "https://wallstreetcn.com/livenews/3148724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 03时48分]"
+        },
+        {
+          "title": "马斯克：Grok4.6在智能程度、运行速度和使用成本方面综合排名第一。",
+          "url": "https://flash.jin10.com/detail/20260813011204869800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时37分]"
+        },
+        {
+          "title": "梁文锋、马斯克同日上新",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E3%80%81%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%8C%E6%97%A5%E4%B8%8A%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时01分]"
+        },
+        {
+          "title": "马斯克最新讲话：五年后AI占SpaceX价值99%，我们必须取得AI的胜利！",
+          "url": "https://wallstreetcn.com/articles/3779250",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 07时58分]"
+        },
+        {
+          "title": "马斯克豪言未来特斯拉全系标配星链",
+          "url": "https://www.toutiao.com/trending/7672984249550028806/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 13时56分]"
+        },
+        {
+          "title": "马斯克：Grok 4.6的Elo评分达到1753分。",
+          "url": "https://flash.jin10.com/detail/20260812234523228800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "马斯克一句“中国太棒了”刷屏海外",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%80%E5%8F%A5%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%A4%AA%E6%A3%92%E4%BA%86%E2%80%9D%E5%88%B7%E5%B1%8F%E6%B5%B7%E5%A4%96",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "市场消息：马斯克转向天然气为人工智能提供动力。",
+          "url": "https://flash.jin10.com/detail/20260813231816946800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         }
       ]
     },
@@ -1547,102 +1754,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "马斯克安利中国,外网闹麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357190&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%89%E5%88%A9%E4%B8%AD%E5%9B%BD%2C%E5%A4%96%E7%BD%91%E9%97%B9%E9%BA%BB",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            14,
-            16,
-            20,
-            25,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时37分 ~ 21时23分]"
-        },
-        {
-          "title": "马斯克：Grok4.6在智能程度、运行速度和使用成本方面综合排名第一。",
-          "url": "https://wallstreetcn.com/livenews/3148724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 03时48分]"
-        },
-        {
-          "title": "马斯克：Grok4.6在智能程度、运行速度和使用成本方面综合排名第一。",
-          "url": "https://flash.jin10.com/detail/20260813011204869800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 02时37分]"
-        },
-        {
-          "title": "梁文锋、马斯克同日上新",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E3%80%81%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%8C%E6%97%A5%E4%B8%8A%E6%96%B0",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 20时01分]"
-        },
-        {
-          "title": "马斯克最新讲话：五年后AI占SpaceX价值99%，我们必须取得AI的胜利！",
-          "url": "https://wallstreetcn.com/articles/3779250",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "马斯克豪言未来特斯拉全系标配星链",
-          "url": "https://www.toutiao.com/trending/7672984249550028806/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "马斯克：Grok 4.6的Elo评分达到1753分。",
-          "url": "https://flash.jin10.com/detail/20260812234523228800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
         }
       ]
     },
@@ -1661,8 +1775,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 21时23分]"
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 23时41分]"
         },
         {
           "title": "【焦点复盘】科创50高开低走跌超1%，两市成交额放大近4000亿，电力板块午后逆势拉升",
@@ -1670,11 +1784,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 21时23分]"
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 23时41分]"
         },
         {
           "title": "上证指数早盘收报3963.15点，涨0.42%。 深证成指早盘收报14519.97点，涨0.73%。 创业板指早盘收报3660.25点，涨1.61%。 沪深300早盘收报4714.06点，涨0.49%。 科创50早盘收报1770.03点，涨1.90%。 中证500早盘收报8113.14点，涨0.84%。 中证1000早盘收报7852.15点，涨0.75%。",
@@ -1793,11 +1908,12 @@
           "url": "https://www.cls.cn/detail/2453693",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 23时41分]"
         }
       ]
     },
@@ -1871,7 +1987,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
