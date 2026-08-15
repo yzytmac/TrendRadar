@@ -1,590 +1,11 @@
 {
-  "generated_at": "2026-08-15T15:17:37.156169+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-08-16T02:01:49.995375+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 46,
-      "titles": [
-        {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 10时20分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时38分 ~ 06时49分]"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时03分 ~ 15时17分]"
-        },
-        {
-          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
-          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时20分 ~ 15时17分]"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时20分 ~ 15时17分]"
-        },
-        {
-          "title": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。 特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
-          "url": "https://wallstreetcn.com/livenews/3149869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            14,
-            23,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时16分 ~ 07时48分]"
-        },
-        {
-          "title": "特朗普称将宣布霍尔木兹为“美国领土”",
-          "url": "https://www.toutiao.com/trending/7673394710149267497/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
-        },
-        {
-          "title": "特朗普表示，每周从委内瑞拉获取数百万桶石油。 伊朗仍拥有导弹和无人机，但数量并不多。伊朗已无防御力量。伊朗货币毫无价值。 我们在伊朗问题上取得了重大胜利。",
-          "url": "https://wallstreetcn.com/livenews/3149874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            18,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时49分 ~ 07时48分]"
-        },
-        {
-          "title": "特朗普称将宣布霍尔木兹海峡为美领土",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E4%B8%BA%E7%BE%8E%E9%A2%86%E5%9C%9F%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
-          "url": "https://wallstreetcn.com/livenews/3149935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时55分 ~ 15时17分]"
-        },
-        {
-          "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
-          "url": "https://flash.jin10.com/detail/20260815050235011800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时23分 ~ 07时48分]"
-        },
-        {
-          "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
-          "url": "https://wallstreetcn.com/livenews/3149842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 04时16分]"
-        },
-        {
-          "title": "美国总统特朗普：我不在乎在中期选举前打击伊朗经济。",
-          "url": "https://wallstreetcn.com/livenews/3149861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时51分 ~ 05时23分]"
-        },
-        {
-          "title": "美媒：特朗普的要求令美国海军承压",
-          "url": "https://flash.jin10.com/detail/20260815114720287800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 15时17分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗仍有导弹和无人机，但已经不多了。",
-          "url": "https://flash.jin10.com/detail/20260815042631790800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 05时50分]"
-        },
-        {
-          "title": "美国总统特朗普：没人知道我们在伊朗有多成功。你知道谁最清楚我们做得有多好吗？伊朗。",
-          "url": "https://flash.jin10.com/detail/20260815042546976800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 05时50分]"
-        },
-        {
-          "title": "美国总统特朗普：经济表现好得令人难以置信。",
-          "url": "https://flash.jin10.com/detail/20260815012708562800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时33分]"
-        },
-        {
-          "title": "美国总统特朗普：不在乎在中期选举前打击伊朗经济。",
-          "url": "https://flash.jin10.com/detail/20260815032729753800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 04时16分]"
-        },
-        {
-          "title": "美国总统特朗普：每周从委内瑞拉提取数百万桶石油。",
-          "url": "https://flash.jin10.com/detail/20260815042454997800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 05时50分]"
-        },
-        {
-          "title": "市场消息：美国总统特朗普已离开安德鲁斯联合基地，正前往纽约加登城。",
-          "url": "https://flash.jin10.com/detail/20260815012635868800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时33分]"
-        },
-        {
-          "title": "特朗普：将对伊朗实施严厉经济打击",
-          "url": "https://flash.jin10.com/detail/20260815031855314800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 04时16分]"
-        },
-        {
-          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
-          "url": "https://wallstreetcn.com/livenews/3149885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            9,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时50分 ~ 09时04分]"
-        },
-        {
-          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
-          "url": "https://flash.jin10.com/detail/20260815092948437800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时20分 ~ 12时27分]"
-        },
-        {
-          "title": "美国总统特朗普周六日程一览",
-          "url": "https://flash.jin10.com/detail/20260815081700535800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            19,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 11时55分]"
-        },
-        {
-          "title": "特朗普料将出席白宫预测市场会议",
-          "url": "https://wallstreetcn.com/livenews/3149855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时51分 ~ 05时23分]"
-        },
-        {
-          "title": "特朗普敦促美国人接受更高油价",
-          "url": "https://flash.jin10.com/detail/20260815091119294800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            14,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时20分 ~ 12时27分]"
-        },
-        {
-          "title": "美国总统特朗普：美国有能力摧毁伊朗，但我们不想这样做。",
-          "url": "https://flash.jin10.com/detail/20260815042110296800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 05时50分]"
-        },
-        {
-          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
-          "url": "https://flash.jin10.com/detail/20260815081235064800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 11时13分]"
-        },
-        {
-          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
-          "url": "https://wallstreetcn.com/livenews/3149900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 11时13分]"
-        },
-        {
-          "title": "特朗普如何将马斯克重新拉回身边",
-          "url": "https://www.toutiao.com/trending/7674001293995675190/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时20分 ~ 11时13分]"
-        },
-        {
-          "title": "美国总统特朗普：对伊朗的封锁势不可挡，封锁是一道钢铁之墙。",
-          "url": "https://flash.jin10.com/detail/20260815035842401800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 04时49分]"
-        },
-        {
-          "title": "美国总统特朗普：美国汽油价格会因此小幅上涨。",
-          "url": "https://flash.jin10.com/detail/20260815035801456800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 04时49分]"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）美国已做好充分准备。",
-          "url": "https://flash.jin10.com/detail/20260815035743383800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 04时49分]"
-        },
-        {
-          "title": "特朗普：很快将宣布霍尔木兹海峡为“美国领土”",
-          "url": "https://flash.jin10.com/detail/20260815041128597800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时23分]"
-        },
-        {
-          "title": "美国总统特朗普：我们不会允许伊朗拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260815035609089800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 04时49分]"
-        },
-        {
-          "title": "据相关信函：美国银行监管机构有条件地批准与特朗普家族关联的世界自由信托公司的银行牌照。",
-          "url": "https://flash.jin10.com/detail/20260815040403133800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时23分]"
-        },
-        {
-          "title": "选举压力加剧，伊朗正在“拿捏”特朗普",
-          "url": "https://flash.jin10.com/detail/20260815122132543800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时17分]"
-        },
-        {
-          "title": "特朗普证实部署中东的林肯号航母将被替换，部署近 9 个月，船员心理崩溃、跳海事件引发质疑，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2071884847304401003",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时17分]"
-        },
-        {
-          "title": "市场消息：美国总统特朗普抵达马里兰州安德鲁斯联合基地。",
-          "url": "https://flash.jin10.com/detail/20260815011448541800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "美国总统特朗普：我们不会允许伊朗继续所作所为 。",
-          "url": "https://flash.jin10.com/detail/20260815035651937800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普预计将参加与预测市场有关的会议。",
-          "url": "https://flash.jin10.com/detail/20260815025844466800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我很快将宣布霍尔木兹海峡为美国领土。",
-          "url": "https://flash.jin10.com/detail/20260815035358450800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "美国总统特朗普：我们通过关税赚了很多钱。",
-          "url": "https://flash.jin10.com/detail/20260815035105302800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "特朗普请求美国最高法院允许其继续推进白宫宴会厅项目",
-          "url": "https://wallstreetcn.com/livenews/3149807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "美国总统特朗普：我们不会允许伊朗继续胡作所为 。",
-          "url": "https://flash.jin10.com/detail/20260815035651937800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "特朗普：很快将宣布霍尔木兹海峡为美国领土",
-          "url": "https://flash.jin10.com/detail/20260815035358450800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 a股 港股",
-      "match_count": 19,
+      "match_count": 4,
       "titles": [
         {
           "title": "4家A股公司公告：终止资产重组事项",
@@ -594,446 +15,153 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时33分 ~ 15时17分]"
+          "appearance_count": 1,
+          "time_info": "02时01分"
         },
         {
           "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
           "url": "https://wallstreetcn.com/articles/3779437",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时47分 ~ 15时17分]"
+          "appearance_count": 1,
+          "time_info": "02时01分"
         },
         {
-          "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
-          "url": "https://www.cls.cn/detail/2454642",
-          "source": "财联社热门",
+          "title": "A股牛市第三阶段的新叙事",
+          "url": "https://wallstreetcn.com/articles/3779505",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            5,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 12时27分]"
+          "appearance_count": 1,
+          "time_info": "02时01分"
         },
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
           "url": "https://www.cls.cn/detail/2455043",
           "source": "财联社热门",
           "ranks": [
-            11,
-            7,
-            3,
-            4,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时47分 ~ 15时17分]"
-        },
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
         {
-          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
+          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
+          "url": "https://wallstreetcn.com/articles/3779487",
           "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时49分]"
-        },
-        {
-          "title": "今年以来港股IPO基石投资额同比增长158.3%",
-          "url": "https://wallstreetcn.com/livenews/3149902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            3,
-            7,
-            19,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 15时17分]"
-        },
-        {
-          "title": "美股三大股指低跌，博通跌近6%，闪迪涨超7%",
-          "url": "https://wallstreetcn.com/livenews/3149871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            12,
-            21,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时16分 ~ 07时48分]"
-        },
-        {
-          "title": "本周机构扎堆调研，A股六家公司接待超百家机构",
-          "url": "https://wallstreetcn.com/livenews/3149915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            21,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时20分 ~ 15时17分]"
-        },
-        {
-          "title": "上百家A股公司计划半年度现金分红，总额超900亿元",
-          "url": "https://wallstreetcn.com/livenews/3149912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            22,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时20分 ~ 15时17分]"
-        },
-        {
-          "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260815011957438800",
-          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "02时01分"
         },
         {
-          "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260815011719410800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "美股收盘：三大股指低收 博通跌近6%",
-          "url": "https://flash.jin10.com/detail/20260815040246091800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 05时23分]"
-        },
-        {
-          "title": "A股半年报盘点",
-          "url": "https://wallstreetcn.com/livenews/3149904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 11时55分]"
-        },
-        {
-          "title": "Wind数据显示，8月15日，A股共12家公司发布定增相关公告。其中，2家公司披露股票定增预案，5家定增预案获股东大会通过，2家定增预案获交易所通过，2家定增方案停止实施。新雷能、智洋创新定增募资预案金额最高，分别拟定增不超17.87亿元、9.04亿元。",
-          "url": "https://wallstreetcn.com/livenews/3149901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 11时13分]"
-        },
-        {
-          "title": "沙特主权基金PIF披露美股持仓，SpaceX、艺电等为主要投资标的",
-          "url": "https://wallstreetcn.com/livenews/3149816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时39分]"
-        },
-        {
-          "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260815040705233800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时23分]"
-        },
-        {
-          "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260815040702357800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时23分]"
-        },
-        {
-          "title": "美股三大指数集体走低，标普500指数跌0.23%，纳斯达克指数跌0.45%，道琼斯指数跌0.26%。",
-          "url": "https://flash.jin10.com/detail/20260815005734260800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "美股三大指数全线收跌",
-          "url": "https://www.toutiao.com/trending/7674037560066441266/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美PPI数据再缓加息压力，标普新高，美存储股大涨，闪迪飙涨近14%，原油结束连涨",
-          "url": "https://wallstreetcn.com/articles/3779338",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时49分]"
-        },
-        {
-          "title": "美联储加息前景愈发渺茫 存储妖股继续走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2454866",
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
           "source": "财联社热门",
           "ranks": [
-            9,
-            10,
-            12,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时33分 ~ 15时17分]"
+          "appearance_count": 1,
+          "time_info": "02时01分"
         },
         {
-          "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
-          "url": "https://www.cls.cn/detail/2455045",
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            4,
-            3
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时20分 ~ 15时17分]"
+          "appearance_count": 1,
+          "time_info": "02时01分"
         },
         {
-          "title": "海力士董事长：存储涨成这样很抱歉",
-          "url": "https://www.toutiao.com/trending/7673729529625447986/",
-          "source": "今日头条",
+          "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33787320",
+          "source": "澎湃新闻",
           "ranks": [
-            17,
-            20
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时49分]"
+          "appearance_count": 1,
+          "time_info": "02时01分"
         }
       ]
     },
     {
       "keyword_group": "算力",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
+          "url": "https://www.cls.cn/detail/2455214",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
         {
           "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
           "url": "https://www.cls.cn/detail/2454822",
           "source": "财联社热门",
           "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时33分 ~ 15时17分]"
-        },
-        {
-          "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
-          "url": "https://www.zhihu.com/question/2068917345393940011",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时49分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
-          "url": "https://www.cls.cn/detail/2454650",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时33分 ~ 15时17分]"
-        },
-        {
-          "title": "创业板缩量涨超1%，算力硬件集体拉升，恒科指跌近2%，京东大跌10%、华虹宏力跌12%",
-          "url": "https://wallstreetcn.com/articles/3779421",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时03分 ~ 15时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "600亿美元科技收购落地 马斯克正式杀入“Vibe Coding”战场",
-          "url": "https://www.cls.cn/detail/2455019",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时55分 ~ 15时17分]"
-        },
-        {
-          "title": "马斯克：由于电力供应不足以及地面设施审批困难，到2029年左右，轨道计算（即太空计算平台）可能是大规模扩展AI的唯一出路。",
-          "url": "https://flash.jin10.com/detail/20260815005338193800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "02时01分"
         }
       ]
     },
     {
       "keyword_group": "芯片",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "印度总理莫迪：决心在2047年前将印度建设成为发达国家。 未来7-8年内印度将新建多达8座芯片工厂。 预计到2047年印度核能发电量达到100吉瓦，印度计划启动5座核反应堆。 印度必须寻求替代能源。",
-          "url": "https://wallstreetcn.com/livenews/3149921",
-          "source": "华尔街见闻-快讯",
+          "title": "SK 集团崔泰源警告 2027 年大概率会是存储芯片供应缺口最大的一年，内存、硬盘还要持续涨价吗？",
+          "url": "https://www.zhihu.com/question/2071746265390506374",
+          "source": "知乎",
           "ranks": [
-            3,
-            15,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 15时17分]"
-        },
-        {
-          "title": "报道：理想再自研芯片，仍采用数据流架构",
-          "url": "https://wallstreetcn.com/livenews/3149806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "02时01分"
         }
       ]
     },
     {
-      "keyword_group": "宁德时代",
-      "match_count": 2,
+      "keyword_group": "存储",
+      "match_count": 1,
       "titles": [
         {
-          "title": "宁德时代：维修电池我们是三甲医院",
-          "url": "https://www.toutiao.com/trending/7673834555819769898/",
-          "source": "今日头条",
+          "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
+          "url": "https://www.cls.cn/detail/2455045",
+          "source": "财联社热门",
           "ranks": [
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 05时23分]"
-        },
-        {
-          "title": "宁德时代独供澳大利亚国家电力市场规模最大的在运电池储能项目，三期采用天恒储能系统",
-          "url": "https://wallstreetcn.com/livenews/3149797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "02时01分"
         }
       ]
     }
