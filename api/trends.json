@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T04:19:38.722230+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-08-17T04:48:13.651611+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 04时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 04时48分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 04时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 04时48分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -37,8 +37,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 04时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 04时48分]"
+        },
+        {
+          "title": "美国总统特朗普表示，他度过了一个“很棒”的周末，进行了“许多会议”。",
+          "url": "https://flash.jin10.com/detail/20260817043331858800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳向哈马斯方面强调，只有各方履行承诺，和平才能实现。",
@@ -71,6 +82,48 @@
           "time_info": "[00时36分 ~ 02时34分]"
         },
         {
+          "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
+          "url": "https://flash.jin10.com/detail/20260817031430338800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时33分 ~ 04时48分]"
+        },
+        {
+          "title": "哈马斯方面表示，他们是否同意特朗普计划的第二阶段，取决于是否能实现永久停火和以色列撤军。",
+          "url": "https://flash.jin10.com/detail/20260817031406099800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时33分 ~ 04时48分]"
+        },
+        {
+          "title": "哈马斯方面表示，由哈立德·哈亚率领的组织领导层代表团今日在埃及会见了加沙协议的调解方和担保方，组织已向担保方通报，同意特朗普计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20260817030717074800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时33分 ~ 04时48分]"
+        },
+        {
           "title": "埃及、约旦、阿联酋、卡塔尔、印度尼西亚、沙特阿拉伯、土耳其和巴基斯坦的联合声明称，以色列的拒绝态度威胁到特朗普为结束加沙战争所作的加大力度的努力。",
           "url": "https://flash.jin10.com/detail/20260816235052320800",
           "source": "金十数据",
@@ -84,45 +137,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时36分 ~ 02时34分]"
-        },
-        {
-          "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
-          "url": "https://flash.jin10.com/detail/20260817031430338800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 04时19分]"
-        },
-        {
-          "title": "哈马斯方面表示，他们是否同意特朗普计划的第二阶段，取决于是否能实现永久停火和以色列撤军。",
-          "url": "https://flash.jin10.com/detail/20260817031406099800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 04时19分]"
-        },
-        {
-          "title": "哈马斯方面表示，由哈立德·哈亚率领的组织领导层代表团今日在埃及会见了加沙协议的调解方和担保方，组织已向担保方通报，同意特朗普计划的第二阶段。",
-          "url": "https://flash.jin10.com/detail/20260817030717074800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 04时19分]"
         },
         {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳向哈马斯领导人确认，哈马斯的武器将会从加沙地带撤出，不会在加沙存放。",
@@ -255,8 +269,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 04时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 04时48分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -267,8 +281,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 04时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 04时48分]"
         },
         {
           "title": "多家银行竞推“算力贷”",
@@ -278,8 +292,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 04时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 04时48分]"
         }
       ]
     },
@@ -296,8 +310,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 04时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 04时48分]"
         },
         {
           "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
@@ -307,8 +321,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 04时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 04时48分]"
         }
       ]
     },
@@ -324,8 +338,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 04时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 04时48分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -335,8 +349,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 04时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 04时48分]"
         }
       ]
     },
@@ -352,8 +366,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 04时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 04时48分]"
         }
       ]
     }
