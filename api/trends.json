@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T22:02:16.652706+08:00",
-  "total_titles_processed": 1926,
+  "generated_at": "2026-08-17T22:44:37.004786+08:00",
+  "total_titles_processed": 1998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时58分 ~ 22时02分]"
+          "appearance_count": 23,
+          "time_info": "[07时58分 ~ 22时44分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -258,6 +258,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "特朗普要求伊朗举白旗投降",
+          "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "特朗普要求大幅缩减美韩联合军演，似在为打不赢伊朗战争找人背锅",
           "url": "https://flash.jin10.com/detail/20260817134353708800",
           "source": "金十数据",
@@ -312,9 +323,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "以色列总统：今天在耶路撒冷总统府会见了美国特使库什纳、“和平委员会”加沙高级代表姆拉德诺夫以及他们的团队。他们正根据特朗普总统提出的20点计划推动加沙下一阶段的落实工作。我强调，下一阶段必须确保以色列国及其公民的安全，并为该地区所有民族带来稳定以及更加美好的未来。",
+          "url": "https://flash.jin10.com/detail/20260817223608155800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
@@ -735,7 +757,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -746,9 +768,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "特朗普称与伊朗革命卫队秘密沟通 伊朗回应：幻觉",
+          "url": "https://flash.jin10.com/detail/20260817223059172800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "特朗普扬言要将霍尔木兹“美国化”，专家：没那么简单",
+          "url": "https://flash.jin10.com/detail/20260817222753676800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "特朗普的委内瑞拉事务特使正在推动“美国优先”石油交易。（彭博）",
@@ -768,9 +812,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
+          "url": "https://www.cls.cn/detail/2456389",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-17）",
@@ -834,7 +889,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -856,7 +911,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -875,7 +930,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "A股将逐步迎来“金秋行情”？投资主线有哪些？十大券商策略来了",
@@ -942,37 +997,16 @@
           "time_info": "12时26分"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨超1%，全球科技股指数ETF涨近1%，日常消费品ETF跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3150547",
-          "source": "华尔街见闻-快讯",
+          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2456385",
+          "source": "财联社热门",
           "ranks": [
-            1
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "北美科技软件股指数ETF美股盘初跌超0.6%，报103.24美元，脱离6月1日以来（盘中）最高位106.75美元。",
-          "url": "https://wallstreetcn.com/livenews/3150546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
-          "url": "https://wallstreetcn.com/livenews/3150545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时26分 ~ 22时44分]"
         },
         {
           "title": "A股科技修复行情延续，机构：结构性轮动或成主旋律",
@@ -1001,18 +1035,6 @@
           "time_info": "[12时26分 ~ 13时50分]"
         },
         {
-          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2456385",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时26分 ~ 22时02分]"
-        },
-        {
           "title": "药明康德A股涨超5%，H股涨超4%，齐创历史新高，A+H股总市值突破5000亿。",
           "url": "https://wallstreetcn.com/livenews/3150191",
           "source": "华尔街见闻-快讯",
@@ -1026,6 +1048,30 @@
           "time_info": "[11时34分 ~ 13时08分]"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨超1%，全球科技股指数ETF涨近1%，日常消费品ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3150547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时44分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF美股盘初跌超0.6%，报103.24美元，脱离6月1日以来（盘中）最高位106.75美元。",
+          "url": "https://wallstreetcn.com/livenews/3150546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时44分]"
+        },
+        {
           "title": "A股机器人概念股异动拉升，龙洲股份、道恩股份直线涨停，正裕工业、今飞凯达此前封板，中原内配、江苏北人涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3150163",
           "source": "华尔街见闻-快讯",
@@ -1036,6 +1082,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 11时34分]"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3150545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时44分]"
         },
         {
           "title": "A股MLCC概念午后走高，贵研铂业涨停，东材科技、博迁新材、中电港纷纷拉升。",
@@ -1072,6 +1130,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 11时34分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3150529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 22时44分]"
         },
         {
           "title": "Snap美股盘前跌幅扩大至逾15%。",
@@ -1136,18 +1207,6 @@
           "time_info": "[07时58分 ~ 09时22分]"
         },
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3150529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时02分]"
-        },
-        {
           "title": "A股年内最贵新股要来了",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E8%B4%B5%E6%96%B0%E8%82%A1%E8%A6%81%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -1191,6 +1250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "美股光通信板块盘初走高，迈威尔科技涨超6%，Coherent涨近5%，Lumentum涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3150550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-08-17）",
@@ -1259,6 +1329,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "外资看好A股“慢牛”行情",
+          "url": "https://www.toutiao.com/trending/7674984880593178163/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "A股存储芯片板块持续拉升，德邦科技20CM涨停，通富微电涨停，天准科技、概伦电子、中微半导、普冉股份等多股涨超10%。",
           "url": "https://flash.jin10.com/detail/20260817110310437800",
           "source": "金十数据",
@@ -1287,7 +1368,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1375,8 +1456,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[17时24分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[17时24分 ~ 22时44分]"
         },
         {
           "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾百股涨停，半导体、算力硬件等科技赛道爆发",
@@ -1389,8 +1470,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[18时05分 ~ 22时02分]"
+          "appearance_count": 13,
+          "time_info": "[18时05分 ~ 22时44分]"
         },
         {
           "title": "【VIP日报】半导体概念震荡反弹 栏目解读材料细分领域 提及2家公司双双连板",
@@ -1516,17 +1597,6 @@
           "time_info": "[06时46分 ~ 12时26分]"
         },
         {
-          "title": "钶锐锶科创板IPO获上市委会议通过。",
-          "url": "https://wallstreetcn.com/livenews/3150400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "宇树科技：将于8月19日科创板上市",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E8%E6%9C%8819%E6%97%A5%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
           "source": "百度热搜",
@@ -1536,8 +1606,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时38分 ~ 22时02分]"
+          "appearance_count": 6,
+          "time_info": "[20时38分 ~ 22时44分]"
+        },
+        {
+          "title": "钶锐锶科创板IPO获上市委会议通过。",
+          "url": "https://wallstreetcn.com/livenews/3150400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "上证指数开盘报3930.10点，涨0.07%。 深证成指开盘报14399.20点，涨0.31%。 创业板指开盘报3632.78点，涨0.18%。 沪深300开盘报4672.28点，涨0.14%。 科创50开盘报1721.55点，涨0.23%。 中证500开盘报8007.87点，涨0.22%。 中证1000开盘报7797.18点，涨0.35%。",
@@ -1817,8 +1898,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[17时24分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[17时24分 ~ 22时44分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -1923,6 +2004,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "芯原股份：2026年上半年净利润亏损6.12亿元，上年同期亏损3.2亿元",
+          "url": "https://wallstreetcn.com/livenews/3150532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时44分]"
+        },
+        {
           "title": "芯原股份：2026年上半年营收18.64亿元 同比增长91.37%",
           "url": "https://flash.jin10.com/detail/20260817205345460800",
           "source": "金十数据",
@@ -1943,17 +2036,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "芯原股份：2026年上半年净利润亏损6.12亿元，上年同期亏损3.2亿元",
-          "url": "https://wallstreetcn.com/livenews/3150532",
-          "source": "华尔街见闻-快讯",
+          "title": "理想汽车被曝或自研云端推理芯片",
+          "url": "https://flash.jin10.com/detail/20260817224130748800",
+          "source": "金十数据",
           "ranks": [
-            12
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时02分"
+          "time_info": "22时44分"
+        },
+        {
+          "title": "大恒科技：拟以1.1亿元受让中石光芯5%股权，推动公司切入光芯片领域",
+          "url": "https://wallstreetcn.com/livenews/3150431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时23分]"
         }
       ]
     },
@@ -2029,24 +2140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时48分 ~ 18时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大恒科技：拟以1.1亿元受让中石光芯5%股权，推动公司切入光芯片领域",
-          "url": "https://wallstreetcn.com/livenews/3150431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 19时23分]"
         }
       ]
     },
