@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-17T13:50:56.695115+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-08-17T17:25:13.994583+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 41,
       "titles": [
+        {
+          "title": "特朗普向朝韩发出强烈信号，信息量很大",
+          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时58分 ~ 17时25分]"
+        },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
           "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
@@ -17,6 +29,17 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时01分 ~ 07时44分]"
+        },
+        {
+          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
+          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时58分 ~ 17时25分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -30,28 +53,6 @@
           "time_info": "[00时01分 ~ 09时22分]"
         },
         {
-          "title": "特朗普向朝韩发出强烈信号，信息量很大",
-          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时58分 ~ 13时50分]"
-        },
-        {
-          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
-          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时58分 ~ 13时50分]"
-        },
-        {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
           "url": "https://news.ifeng.com/c/8veP1BeKo8D",
           "source": "凤凰网",
@@ -61,17 +62,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时22分 ~ 13时50分]"
-        },
-        {
-          "title": "特朗普再促参议院通过全年采用夏令时法案",
-          "url": "https://wallstreetcn.com/livenews/3150053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 05时58分]"
         },
         {
           "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
@@ -85,8 +75,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 13时50分]"
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 17时25分]"
+        },
+        {
+          "title": "特朗普再促参议院通过全年采用夏令时法案",
+          "url": "https://wallstreetcn.com/livenews/3150053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 05时58分]"
         },
         {
           "title": "特朗普：已要求大幅削减与韩国的联合军演规模",
@@ -225,7 +226,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -322,6 +323,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时36分 ~ 02时34分]"
+        },
+        {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 17时25分]"
         },
         {
           "title": "特朗普要求“大幅缩减”美韩军演规模",
@@ -454,19 +469,6 @@
           "time_info": "[06时46分 ~ 07时44分]"
         },
         {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 13时50分]"
-        },
-        {
           "title": "特朗普发文欢迎中东各国自保",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%AC%A2%E8%BF%8E%E4%B8%AD%E4%B8%9C%E5%90%84%E5%9B%BD%E8%87%AA%E4%BF%9D%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -540,7 +542,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "A股将逐步迎来“金秋行情”？投资主线有哪些？十大券商策略来了",
@@ -668,6 +670,17 @@
           "time_info": "[12时26分 ~ 13时50分]"
         },
         {
+          "title": "A股牛终于来了吗",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%89%9B%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
           "title": "A股农业股开盘走强，金健米业直线涨停，秋乐种业、神农种业、康农种业、敦煌种业、深粮控股跟涨。",
           "url": "https://wallstreetcn.com/livenews/3150155",
           "source": "华尔街见闻-快讯",
@@ -713,6 +726,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 10时40分]"
+        },
+        {
+          "title": "A股放量反弹 做多情绪全面回暖",
+          "url": "https://www.toutiao.com/trending/7674606352588816390/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "A股三大指数集体高开",
@@ -776,7 +800,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -902,6 +926,20 @@
           "time_info": "[00时02分 ~ 07时17分]"
         },
         {
+          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
+          "url": "https://www.cls.cn/detail/2455546",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时33分 ~ 17时25分]"
+        },
+        {
           "title": "日本电力公司J-Power：将在北海道上之国町建设数据中心，将于2027年夏季开始对外出售其GPU数据中心算力。",
           "url": "https://flash.jin10.com/detail/20260817120740357800",
           "source": "金十数据",
@@ -913,29 +951,17 @@
           "time_info": "12时26分"
         },
         {
-          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
-          "url": "https://www.cls.cn/detail/2455546",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时33分 ~ 13时50分]"
-        },
-        {
           "title": "上海硅巷13小时激辩：当算力重返增长快车道 产业下一站锚定何方？",
           "url": "https://www.cls.cn/detail/2455700",
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 17时25分]"
         },
         {
           "title": "广州：探索建立算力资源市场化交易机制",
@@ -944,7 +970,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -955,7 +981,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -974,7 +1000,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "半导体产业链震荡上扬，有研新材涨停，芯朋微涨超10%，普冉股份、中科飞测、长鑫科技、中微半导涨超7%。",
@@ -987,6 +1013,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 11时34分]"
+        },
+        {
+          "title": "创业板涨超3%，芯片半导体爆发、长鑫爆拉超12%，贵州茅台逆势跌超3%，恒指、恒科指均涨超1%",
+          "url": "https://wallstreetcn.com/articles/3779568",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "深成指、创业板指均涨超1%，科创50涨超3%，沪指涨0.61%，农业、半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近3100只。",
@@ -1007,7 +1044,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1059,7 +1096,7 @@
     },
     {
       "keyword_group": "科创",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "频准激光：将于8月18日科创板上市",
@@ -1074,6 +1111,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[06时46分 ~ 12时26分]"
+        },
+        {
+          "title": "钶锐锶科创板IPO获上市委会议通过。",
+          "url": "https://wallstreetcn.com/livenews/3150400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "上证指数开盘报3930.10点，涨0.07%。 深证成指开盘报14399.20点，涨0.31%。 创业板指开盘报3632.78点，涨0.18%。 沪深300开盘报4672.28点，涨0.14%。 科创50开盘报1721.55点，涨0.23%。 中证500开盘报8007.87点，涨0.22%。 中证1000开盘报7797.18点，涨0.35%。",
@@ -1112,6 +1160,17 @@
           "time_info": "[12时26分 ~ 13时08分]"
         },
         {
+          "title": "据上交所官网，广东钶锐锶数控技术股份有限公司首次公开发行股票并在科创板上市科创板IPO审核状态变更为“上市委会议通过”。",
+          "url": "https://flash.jin10.com/detail/20260817170708752800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "科创加银LOF涨超5%，重仓股芯原股份、精测电子双双涨超6%。",
           "url": "https://flash.jin10.com/detail/20260817105754157800",
           "source": "金十数据",
@@ -1126,7 +1185,7 @@
     },
     {
       "keyword_group": "存储",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "存储超级周期下半场：长协封顶消费承压 2027或现分水岭",
@@ -1153,6 +1212,28 @@
           "time_info": "[00时01分 ~ 09时22分]"
         },
         {
+          "title": "海力士称存储荒或明年最严重",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%A7%B0%E5%AD%98%E5%82%A8%E8%8D%92%E6%88%96%E6%98%8E%E5%B9%B4%E6%9C%80%E4%B8%A5%E9%87%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "【焦点复盘】存储、光通信产业链合力做多，沪指放量中阳收复年线，全市场超150股涨超10%",
+          "url": "https://www.cls.cn/detail/2456074",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
           "title": "韩国“存储双雄”散户股东激增 每五名成年人中有一人持有三星股票",
           "url": "https://www.cls.cn/detail/2455307",
           "source": "财联社热门",
@@ -1173,6 +1254,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中际旭创",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据香港交易所披露，摩根大通（JPMorgan）对中际旭创股份有限公司 - H股的多头持仓比例于2026年8月12日从15.91%增至16.14%。",
+          "url": "https://wallstreetcn.com/livenews/3150403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "摩根大通在中际旭创H股的持股比例于08月12日从15.91%升至16.14%",
+          "url": "https://flash.jin10.com/detail/20260817170835889800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "中际旭创午后持续拉升，涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3150239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "小作文发酵，中际旭创、新易盛盘中直线拉升",
+          "url": "https://wallstreetcn.com/livenews/3150366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
@@ -1229,23 +1360,6 @@
       ]
     },
     {
-      "keyword_group": "中际旭创",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中际旭创午后持续拉升，涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3150239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "天孚通信",
       "match_count": 1,
       "titles": [
@@ -1257,8 +1371,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时01分 ~ 13时50分]"
+          "appearance_count": 31,
+          "time_info": "[00时01分 ~ 17时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "立讯精密",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根大通在立讯精密H股的持股比例于08月12日从7.99%增至8.36%",
+          "url": "https://flash.jin10.com/detail/20260817171120679800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
