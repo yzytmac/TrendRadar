@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T00:34:40.682285+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-08-18T02:06:57.532828+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时06分]"
         },
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时06分]"
         },
         {
           "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时06分]"
         },
         {
           "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
@@ -47,7 +47,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
         },
@@ -62,6 +62,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 00时34分]"
+        },
+        {
+          "title": "加拿大总理卡尼：预计自己会在8月19日关税截止日期前与特朗普通话。 与美国的关税磋商是密集的、微妙的。",
+          "url": "https://wallstreetcn.com/livenews/3150631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "加拿大总理卡尼：预计将在当地时间8月19日关税截止日期之前与美国总统特朗普进行交谈。",
+          "url": "https://flash.jin10.com/detail/20260818011013156800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时06分"
         }
       ]
     },
@@ -75,11 +97,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时06分]"
         },
         {
           "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
@@ -89,8 +112,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时06分]"
         },
         {
           "title": "外资看好A股“慢牛”行情",
@@ -118,7 +141,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "创业板涨超3%，芯片半导体爆发、长鑫爆拉超12%，贵州茅台逆势跌超3%，恒指、恒科指均涨超1%",
@@ -128,8 +151,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时06分]"
+        },
+        {
+          "title": "美国三大股指下跌，半导体指数目前仍然涨2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3150634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时06分"
         },
         {
           "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾百股涨停，半导体、算力硬件等科技赛道爆发",
@@ -173,8 +207,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "搬运50公斤重物，香港科企发布“生产力工具型”人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3150620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时06分"
         }
       ]
     },
