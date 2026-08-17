@@ -1,11 +1,14 @@
 {
-  "generated_at": "2026-08-17T17:25:13.994583+08:00",
-  "total_titles_processed": 1376,
-  "failed_sources": [],
+  "generated_at": "2026-08-17T18:06:38.137810+08:00",
+  "total_titles_processed": 1444,
+  "failed_sources": [
+    "wallstreetcn-quick",
+    "tieba"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -16,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时58分 ~ 17时25分]"
+          "appearance_count": 12,
+          "time_info": "[07时58分 ~ 18时06分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -75,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时22分 ~ 18时06分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -130,6 +133,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时44分 ~ 07时44分]"
+        },
+        {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 18时06分]"
         },
         {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
@@ -325,20 +342,6 @@
           "time_info": "[00时36分 ~ 02时34分]"
         },
         {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 17时25分]"
-        },
-        {
           "title": "特朗普要求“大幅缩减”美韩军演规模",
           "url": "https://wallstreetcn.com/livenews/3150092",
           "source": "华尔街见闻-快讯",
@@ -528,6 +531,17 @@
           "time_info": "[05时44分 ~ 05时58分]"
         },
         {
+          "title": "据CNN：美国特使库什纳正在与以色列总理内塔尼亚胡会面，试图推动特朗普政府陷入停滞的加沙和平计划。此前一天，库什纳曾与哈马斯方面会谈。",
+          "url": "https://flash.jin10.com/detail/20260817173012578800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "特朗普称要大幅缩减美韩联合军演",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A6%81%E5%A4%A7%E5%B9%85%E7%BC%A9%E5%87%8F%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -542,7 +556,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "A股将逐步迎来“金秋行情”？投资主线有哪些？十大券商策略来了",
@@ -621,6 +635,18 @@
           "time_info": "[11时34分 ~ 13时08分]"
         },
         {
+          "title": "A股牛终于来了吗",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%89%9B%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 18时06分]"
+        },
+        {
           "title": "A股机器人概念股异动拉升，龙洲股份、道恩股份直线涨停，正裕工业、今飞凯达此前封板，中原内配、江苏北人涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3150163",
           "source": "华尔街见闻-快讯",
@@ -657,6 +683,18 @@
           "time_info": "[10时40分 ~ 11时34分]"
         },
         {
+          "title": "A股放量反弹 做多情绪全面回暖",
+          "url": "https://www.toutiao.com/trending/7674606352588816390/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 18时06分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -668,17 +706,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时26分 ~ 13时50分]"
-        },
-        {
-          "title": "A股牛终于来了吗",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%89%9B%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "A股农业股开盘走强，金健米业直线涨停，秋乐种业、神农种业、康农种业、敦煌种业、深粮控股跟涨。",
@@ -726,17 +753,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 10时40分]"
-        },
-        {
-          "title": "A股放量反弹 做多情绪全面回暖",
-          "url": "https://www.toutiao.com/trending/7674606352588816390/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "A股三大指数集体高开",
@@ -827,6 +843,17 @@
           "time_info": "11时34分"
         },
         {
+          "title": "南向资金今日净买入30.77亿元。港股通（沪）方面，智谱、中芯国际分别获净买入17.83亿港元、5.84亿港元；华虹宏力净卖出额居首，金额为8.19亿港元；港股通（深）方面，中芯国际、腾讯控股分别获净买入11.9亿港元、2.8亿港元；长飞光纤光缆净卖出额居首，金额为1.43亿港元。",
+          "url": "https://flash.jin10.com/detail/20260817173118851800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "A股股王长鑫科技市值重回4万亿",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%82%A1%E7%8E%8B%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E4%E4%B8%87%E4%BA%BF",
           "source": "百度热搜",
@@ -884,124 +911,20 @@
       ]
     },
     {
-      "keyword_group": "算力",
+      "keyword_group": "半导体",
       "match_count": 9,
       "titles": [
         {
-          "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
-          "url": "https://www.cls.cn/detail/2455214",
-          "source": "财联社热门",
+          "title": "创业板涨超3%，芯片半导体爆发、长鑫爆拉超12%，贵州茅台逆势跌超3%，恒指、恒科指均涨超1%",
+          "url": "https://wallstreetcn.com/articles/3779568",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时01分 ~ 09时22分]"
-        },
-        {
-          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
-          "url": "https://www.cls.cn/detail/2455353",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时01分 ~ 13时50分]"
-        },
-        {
-          "title": "多家银行竞推“算力贷”",
-          "url": "https://wallstreetcn.com/livenews/3150065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 07时17分]"
-        },
-        {
-          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
-          "url": "https://www.cls.cn/detail/2455546",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 17时25分]"
-        },
-        {
-          "title": "日本电力公司J-Power：将在北海道上之国町建设数据中心，将于2027年夏季开始对外出售其GPU数据中心算力。",
-          "url": "https://flash.jin10.com/detail/20260817120740357800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "上海硅巷13小时激辩：当算力重返增长快车道 产业下一站锚定何方？",
-          "url": "https://www.cls.cn/detail/2455700",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            2
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时08分 ~ 17时25分]"
+          "time_info": "[17时24分 ~ 18时06分]"
         },
-        {
-          "title": "广州：探索建立算力资源市场化交易机制",
-          "url": "https://wallstreetcn.com/livenews/3150240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "绿色算力（人工智能）大会即将于呼和浩特举办 一批百亿级项目将集中签约",
-          "url": "https://flash.jin10.com/detail/20260817132436744800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "中信证券：国产算力未来将兼具工业品与公用事业属性，或将成为新一轮产业升级和资本形成的重要抓手",
-          "url": "https://flash.jin10.com/detail/20260817081552395800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 8,
-      "titles": [
         {
           "title": "半导体产业链震荡上扬，有研新材涨停，芯朋微涨超10%，普冉股份、中科飞测、长鑫科技、中微半导涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3150165",
@@ -1015,17 +938,6 @@
           "time_info": "[10时40分 ~ 11时34分]"
         },
         {
-          "title": "创业板涨超3%，芯片半导体爆发、长鑫爆拉超12%，贵州茅台逆势跌超3%，恒指、恒科指均涨超1%",
-          "url": "https://wallstreetcn.com/articles/3779568",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
-        },
-        {
           "title": "深成指、创业板指均涨超1%，科创50涨超3%，沪指涨0.61%，农业、半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近3100只。",
           "url": "https://wallstreetcn.com/livenews/3150182",
           "source": "华尔街见闻-快讯",
@@ -1036,6 +948,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时34分 ~ 12时26分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾百股涨停，半导体、算力硬件等科技赛道爆发",
+          "url": "https://www.cls.cn/detail/2456053",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 18时06分]"
         },
         {
           "title": "创业板指涨超2%，深证成指涨1.57%，沪指涨0.82%，半导体芯片、农业、养殖业、算力硬件等方向涨幅居前，沪深京三市上涨个股近3700只。",
@@ -1095,6 +1018,122 @@
       ]
     },
     {
+      "keyword_group": "算力",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
+          "url": "https://www.cls.cn/detail/2455214",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时01分 ~ 09时22分]"
+        },
+        {
+          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
+          "url": "https://www.cls.cn/detail/2455353",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 29,
+          "time_info": "[00时01分 ~ 13时50分]"
+        },
+        {
+          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
+          "url": "https://www.cls.cn/detail/2455546",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时33分 ~ 18时06分]"
+        },
+        {
+          "title": "多家银行竞推“算力贷”",
+          "url": "https://wallstreetcn.com/livenews/3150065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 07时17分]"
+        },
+        {
+          "title": "上海硅巷13小时激辩：当算力重返增长快车道 产业下一站锚定何方？",
+          "url": "https://www.cls.cn/detail/2455700",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时08分 ~ 18时06分]"
+        },
+        {
+          "title": "日本电力公司J-Power：将在北海道上之国町建设数据中心，将于2027年夏季开始对外出售其GPU数据中心算力。",
+          "url": "https://flash.jin10.com/detail/20260817120740357800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "广州：探索建立算力资源市场化交易机制",
+          "url": "https://wallstreetcn.com/livenews/3150240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "绿色算力（人工智能）大会即将于呼和浩特举办 一批百亿级项目将集中签约",
+          "url": "https://flash.jin10.com/detail/20260817132436744800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "中信证券：国产算力未来将兼具工业品与公用事业属性，或将成为新一轮产业升级和资本形成的重要抓手",
+          "url": "https://flash.jin10.com/detail/20260817081552395800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科创",
       "match_count": 7,
       "titles": [
@@ -1119,7 +1158,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1166,7 +1205,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1216,22 +1255,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%A7%B0%E5%AD%98%E5%82%A8%E8%8D%92%E6%88%96%E6%98%8E%E5%B9%B4%E6%9C%80%E4%B8%A5%E9%87%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 18时06分]"
         },
         {
           "title": "【焦点复盘】存储、光通信产业链合力做多，沪指放量中阳收复年线，全市场超150股涨超10%",
           "url": "https://www.cls.cn/detail/2456074",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 18时06分]"
         },
         {
           "title": "韩国“存储双雄”散户股东激增 每五名成年人中有一人持有三星股票",
@@ -1268,7 +1309,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1279,7 +1320,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1301,7 +1342,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
@@ -1309,8 +1350,19 @@
     },
     {
       "keyword_group": "光模块",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "达利凯普：截至目前 公司产能充足 公司产品未应用于光模块领域",
+          "url": "https://flash.jin10.com/detail/20260817174413915800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
         {
           "title": "五洋自控：公司光模块液冷业务已形成试样产品",
           "url": "https://flash.jin10.com/detail/20260817113629845800",
@@ -1371,8 +1423,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时01分 ~ 17时25分]"
+          "appearance_count": 33,
+          "time_info": "[00时01分 ~ 18时06分]"
         }
       ]
     },
@@ -1387,7 +1439,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
