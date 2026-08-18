@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T11:24:21.282073+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-08-18T12:52:17.175132+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -48,9 +48,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时52分]"
+        },
+        {
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时52分]"
         },
         {
           "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
@@ -95,17 +106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
-        },
-        {
-          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
-          "url": "https://wallstreetcn.com/articles/3779635",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         },
         {
           "title": "土耳其总统埃尔多安对美国总统特朗普表示，继续与伊朗对话以充分利用外交途径十分重要，土耳其已准备好为此作出贡献。",
@@ -174,6 +174,18 @@
           "time_info": "05时50分"
         },
         {
+          "title": "特朗普：金正恩已回应其对话请求",
+          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时52分]"
+        },
+        {
           "title": "特朗普将宣布霍尔木兹为美国领土",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%9C%9F%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -196,6 +208,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时52分 ~ 04时54分]"
+        },
+        {
+          "title": "美国议员：特朗普把欺骗到底当美德",
+          "url": "https://www.toutiao.com/trending/7674814398469947401/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 12时52分]"
         },
         {
           "title": "美国特使库什纳：与某些伊朗人的沟通比以往任何时候都更深入。 对话积极且富有成效。 我们尚未达成共识。 总统特朗普会在伊朗相关协议问题上保持耐心。（福克斯新闻）",
@@ -244,6 +267,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 05时50分]"
+        },
+        {
+          "title": "特朗普被曝自己也通过邮寄选票投票",
+          "url": "https://www.toutiao.com/trending/7675157131825905718/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 12时52分]"
         },
         {
           "title": "特朗普女婿库什纳：目前对话积极、主动。",
@@ -318,18 +352,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "特朗普：金正恩已回应其对话请求",
-          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -428,7 +451,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -439,7 +462,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
@@ -447,7 +470,7 @@
     },
     {
       "keyword_group": "美股 a股 港股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
@@ -482,9 +505,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时52分]"
         },
         {
           "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
@@ -493,31 +516,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时52分]"
         },
         {
           "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
           "url": "https://www.cls.cn/detail/2456558",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时52分]"
         },
         {
           "title": "一签赚55万，A股诞生新纪录",
           "url": "https://www.cls.cn/detail/2456739",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时52分]"
         },
         {
           "title": "地产ETF、长端美债ETF收跌超0.8%，领跌美股大类资产类ETF",
@@ -544,6 +569,18 @@
           "time_info": "[04时54分 ~ 05时50分]"
         },
         {
+          "title": "A股年内最贵新股上市 大涨超500%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E8%B4%B5%E6%96%B0%E8%82%A1%E4%B8%8A%E5%B8%82+%E5%A4%A7%E6%B6%A8%E8%B6%85500%25",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时52分]"
+        },
+        {
           "title": "金十图示：2026年08月17日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260818041647203800",
           "source": "金十数据",
@@ -568,6 +605,17 @@
           "time_info": "[04时54分 ~ 05时50分]"
         },
         {
+          "title": "A股午盘：全市场3935只股票下跌",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8D%88%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA3935%E5%8F%AA%E8%82%A1%E7%A5%A8%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 12时52分]"
+        },
+        {
           "title": "美股收盘：三大股指收跌 存储概念再走强",
           "url": "https://flash.jin10.com/detail/20260818040234156800",
           "source": "金十数据",
@@ -578,6 +626,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 05时50分]"
+        },
+        {
+          "title": "港股AI大模型双雄重挫逾13%",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%8C%E9%9B%84%E9%87%8D%E6%8C%AB%E9%80%BE13%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 12时52分]"
         },
         {
           "title": "外资看好A股“慢牛”行情",
@@ -591,24 +650,13 @@
           "time_info": "[00时00分 ~ 00时01分]"
         },
         {
-          "title": "A股年内最贵新股上市 大涨超500%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E8%B4%B5%E6%96%B0%E8%82%A1%E4%B8%8A%E5%B8%82+%E5%A4%A7%E6%B6%A8%E8%B6%85500%25",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
           "title": "瑞银看多美股，8月下旬关注英伟达与杰克逊霍尔",
           "url": "https://flash.jin10.com/detail/20260818110650896800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -635,6 +683,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "港股午评：科指跌近2% 智谱跌超16%",
+          "url": "https://flash.jin10.com/detail/20260818120546300800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "美股存储板块进一步扩大涨幅，SK海力士ADR涨6.5%，美光科技涨5.7%，闪迪股价涨10.5%。",
           "url": "https://wallstreetcn.com/livenews/3150574",
           "source": "华尔街见闻-快讯",
@@ -652,7 +711,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -674,7 +733,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -685,7 +744,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -696,7 +755,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
@@ -713,11 +772,12 @@
           "ranks": [
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 11时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 12时52分]"
         },
         {
           "title": "美国三大股指下跌，半导体指数目前仍然涨2.3%。",
@@ -778,58 +838,20 @@
       ]
     },
     {
-      "keyword_group": "算力",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "创业板指跌超2%，深证成指跌1.62%，沪指跌0.64%，算力、IPv6、游戏、CRO等板块跌幅居前，全市场超4000只个股下跌。",
-          "url": "https://flash.jin10.com/detail/20260818110951272800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "创业板指跌超2%，沪指跌0.64%，深成指跌1.62%，AI应用、算力租赁、医药医疗、软件开发等方向跌幅居前，沪深京三市下跌个股近4200只。",
-          "url": "https://wallstreetcn.com/livenews/3150811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "AI高算力新型基材技术路线专题研讨会在京召开",
-          "url": "https://flash.jin10.com/detail/20260818104103595800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
           "url": "https://wallstreetcn.com/articles/3779645",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时52分]"
         },
         {
           "title": "或自研云端推理芯片？理想汽车：暂时还没有听到这方面的消息",
@@ -841,12 +863,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "“新债王”发出见顶警告：华尔街押注AI芯片资产化，风险正在累积",
+          "url": "https://flash.jin10.com/detail/20260818115859416800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     },
     {
       "keyword_group": "存储",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【焦点复盘】存储、光通信产业链合力做多，沪指放量中阳收复年线，全市场超150股涨超10%",
@@ -860,13 +893,92 @@
           "time_info": "[00时00分 ~ 03时53分]"
         },
         {
+          "title": "费半重返牛市及存储股强势反弹 谁是背后推手？一文读懂",
+          "url": "https://www.cls.cn/detail/2456773",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 12时52分]"
+        },
+        {
           "title": "金十数据整理：每日存储市场要闻速递（2026-08-18）",
           "url": "https://flash.jin10.com/detail/20260818105835741800",
           "source": "金十数据",
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "创业板指跌超2%，深证成指跌1.62%，沪指跌0.64%，算力、IPv6、游戏、CRO等板块跌幅居前，全市场超4000只个股下跌。",
+          "url": "https://flash.jin10.com/detail/20260818110951272800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.64%，深成指跌1.62%，AI应用、算力租赁、医药医疗、软件开发等方向跌幅居前，沪深京三市下跌个股近4200只。",
+          "url": "https://wallstreetcn.com/livenews/3150811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时52分]"
+        },
+        {
+          "title": "AI高算力新型基材技术路线专题研讨会在京召开",
+          "url": "https://flash.jin10.com/detail/20260818104103595800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3966.99点，跌0.39%。 深证成指早盘收报14543.45点，跌1.09%。 创业板指早盘收报3691.69点，跌1.30%。 沪深300早盘收报4703.55点，跌0.79%。 科创50早盘收报1776.10点，跌0.71%。 中证500早盘收报8117.46点，跌0.82%。 中证1000早盘收报7891.65点，跌0.96%。",
+          "url": "https://wallstreetcn.com/livenews/3150824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "创业板指、科创50均跌超1%，沪指跌0.16%，深成指跌0.78%，AI应用、算力租赁、影视、软件开发等方向跌幅居前，沪深京三市下跌个股超3600只。",
+          "url": "https://wallstreetcn.com/livenews/3150792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
@@ -881,11 +993,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%91%98%E5%B7%A5%E5%A4%A7%E7%BA%A2%E5%8C%85%E5%B0%86%E5%88%B0%E8%B4%A6+%E4%BA%BA%E5%9D%87557%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时52分]"
         },
         {
           "title": "寒武纪56.1万股股权激励股份将于8月20日上市流通",
@@ -897,23 +1010,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "创业板指、科创50均跌超1%，沪指跌0.16%，深成指跌0.78%，AI应用、算力租赁、影视、软件开发等方向跌幅居前，沪深京三市下跌个股超3600只。",
-          "url": "https://wallstreetcn.com/livenews/3150792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         }
       ]
     },
